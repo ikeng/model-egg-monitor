@@ -236,7 +236,7 @@ _SITE_HINTS = (
 # 带空格的连接符几乎总是“内容 - 站点名”，左段 ≥3 字即可切
 _TITLE_SEPS_SPACED = (" | ", " - ", " – ", " — ", " :: ", " · ", " _ ")
 # 不带空格的连接符也可能是模型名的一部分（GLM-4 / K2-0905），左段要够长才切
-_TITLE_SEPS_TIGHT = ("｜", " |", "-")
+_TITLE_SEPS_TIGHT = ("｜", " |", "_", "-")
 
 
 def collapse_ws(s: str) -> str:
