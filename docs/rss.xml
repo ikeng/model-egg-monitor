@@ -5,7 +5,7 @@
     <link>https://ikeng.github.io/model-egg-monitor/</link>
     <description>每日两次监控大模型厂商活动，提供 Atom / JSON Feed 订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 08 Oct 2026 18:33:11 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 01:13:13 +0800</lastBuildDate>
     <generator>ai-egg-monitor</generator>
     <item>
       <title>大模型 API 价格方案</title>
@@ -136,6 +136,14 @@
       <category>Perplexity</category>
     </item>
     <item>
+      <title>Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Global Industrial AIoT Platforms</title>
+      <link>https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-global-industrial-aiot-platforms/</link>
+      <description>…share that Microsoft has been named a Leader in the 2026 Gartner® Magic Quadrant™ for Global Industrial AIoT Platforms. The post Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Global I…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:471b7b657ecfc70e</guid>
+      <pubDate>Thu, 08 Oct 2026 18:12:53 +0800</pubDate>
+      <category>Azure AI</category>
+    </item>
+    <item>
       <title>PPIO - 中国领先的分布式云计算服务商</title>
       <link>https://ppio.com/</link>
       <description>模型服务 Agent 云服务 GPU 云服务 即将下线 新闻资讯 关于我们 文档 控制台 登录 立即注册 登录/注册 免费注册 登录 模型服务 Agent 云服务 GPU 云服务 即将下线 新闻资讯 关于我们 文档 控制台 安装 Skills › npx skills add PPIO/ppio-skills --ski…</description>
@@ -214,14 +222,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:6cec0a5b4127f767</guid>
       <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
       <category>Baseten</category>
-    </item>
-    <item>
-      <title>GPT-6全球上线、Claude Haiku 5.5降价，这个假期AI圈也没停</title>
-      <link>https://www.tmtpost.com/8160689.html</link>
-      <description>成本压下来之后，下一个阶段比什么？</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:6de87211ccd6481d</guid>
-      <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
-      <category>资讯·钛媒体</category>
     </item>
     <item>
       <title>Claude Sonnet 5.5</title>
@@ -336,14 +336,6 @@
       <category>通义千问</category>
     </item>
     <item>
-      <title>中国一汽、丰田汽车、广汽集团在广州签署全新战略合作框架协议</title>
-      <link>https://www.ithome.com/1/010/585.htm</link>
-      <description>…资产资本联动，以科技创新为驱动力，逐步深化拓展合作边界，推动产业资源跨区域高效协同，携手实现经营提质增效，共促中国汽车产业发展升级。 相关阅读： 《 一汽丰田：“一汽丰田或将彻底退出历史舞台”“丰田大降价”等均为不实言论 》 《 广汽集团：拟通过发行股份购买一汽丰田 50% 股权，股票明起复牌 》</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:d05e995d317609f1</guid>
-      <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
-      <category>资讯·IT之家</category>
-    </item>
-    <item>
       <title>OpenRouter Models</title>
       <link>https://openrouter.ai/docs/overview/models</link>
       <description>…and returns its data. Variant suffixes are also supported. A catalog variant such as :free returns that variant’s own entry. A routing variant such as :nitro returns the base model’s entry,…</description>
@@ -416,20 +408,44 @@
       <category>Google Gemini</category>
     </item>
     <item>
+      <title>微软拿出最高 1000 美元置换补贴，吸引苹果 MacBook Pro 用户跳槽 Surface Laptop Ultra</title>
+      <link>https://www.ithome.com/1/010/739.htm</link>
+      <description>…1,000 美元”宣传语，吸引消费者换机。如果用户真的选择以旧换新， 那么除了正常的折抵金额外 ， 还会额外获得最高 1,000 美元补贴 。 微软表示，这笔优惠可与原本的以旧换新折扣相叠加，相关服务由合作伙伴 Teladvance 负责。因此回收 MacBook Pro 能够获得多少补贴，用户需要查询 Teladvance。</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:2f0a169d68136ab3</guid>
+      <pubDate>Fri, 09 Oct 2026 01:12:53 +0800</pubDate>
+      <category>资讯·IT之家</category>
+    </item>
+    <item>
+      <title>Epic 喜加二：《熊视眈眈》《愿景之城》游戏免费领取</title>
+      <link>https://www.ithome.com/1/010/735.htm</link>
+      <description>IT之家 10 月 8 日消息， Epic 本周送出的游戏是《熊视眈眈》和《愿景之城》 ，下周送出的游戏是《Bad Cheese》以及《Agent A - 伪装游戏》。 领取链接： 《熊视眈眈 (Out of Sight)》 ， 《愿景之城》 IT之家附《熊视眈眈》游戏简介： 这是一款将第一人称和第二人称视角相融合的氛围恐怖游戏，拥有引人入胜的配音，给你带来沉浸式的惊悚情感之旅。 作为参考，本作在…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:a167ce37195d376f</guid>
+      <pubDate>Fri, 09 Oct 2026 01:12:53 +0800</pubDate>
+      <category>资讯·IT之家</category>
+    </item>
+    <item>
+      <title>GPT-6全球上线、Claude Haiku 5.5降价，这个假期AI圈也没停</title>
+      <link>https://www.tmtpost.com/8160689.html</link>
+      <description>成本压下来之后，下一个阶段比什么？</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:6de87211ccd6481d</guid>
+      <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
+      <category>资讯·钛媒体</category>
+    </item>
+    <item>
+      <title>中国一汽、丰田汽车、广汽集团在广州签署全新战略合作框架协议</title>
+      <link>https://www.ithome.com/1/010/585.htm</link>
+      <description>…资产资本联动，以科技创新为驱动力，逐步深化拓展合作边界，推动产业资源跨区域高效协同，携手实现经营提质增效，共促中国汽车产业发展升级。 相关阅读： 《 一汽丰田：“一汽丰田或将彻底退出历史舞台”“丰田大降价”等均为不实言论 》 《 广汽集团：拟通过发行股份购买一汽丰田 50% 股权，股票明起复牌 》</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:d05e995d317609f1</guid>
+      <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
+      <category>资讯·IT之家</category>
+    </item>
+    <item>
       <title>火山方舟 模型计费说明</title>
       <link>https://www.volcengine.com/docs/82379/1099320</link>
       <description>…的单价 × 视频时长（秒）） ​ 图片生成模型 ​ 模型名称 ​ 输入图单价（元/张） ​ 输出图单价（元/张） ​ doubao-seedream-5-0-pro ​ 按生图场景区分定价 ​ 首张免费 ​ 第 2 张起：0.02 ​ 单图生成场景： ​ ≤ 261 万像素（分辨率 1.5K 及以下）：0.30 ​ &gt; 261 万像素（分辨率 1.5K 以上）：0.60 ​ 图层拆分场景： ​ ≤…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:3f9515c4e7efd405</guid>
       <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
       <category>火山方舟·豆包</category>
-    </item>
-    <item>
-      <title>Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Global Industrial AIoT Platforms</title>
-      <link>https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-global-industrial-aiot-platforms/</link>
-      <description>…share that Microsoft has been named a Leader in the 2026 Gartner® Magic Quadrant™ for Global Industrial AIoT Platforms. The post Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Global I…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:471b7b657ecfc70e</guid>
-      <pubDate>Thu, 08 Oct 2026 18:12:53 +0800</pubDate>
-      <category>Azure AI</category>
     </item>
     <item>
       <title>Deploying an HSTU Generative Recommender with NVIDIA Dynamo-Triton</title>
