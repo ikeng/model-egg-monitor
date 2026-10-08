@@ -360,7 +360,7 @@ ATOM_TEMPLATE = """<?xml version="1.0" encoding="utf-8"?>
   <subtitle>{{ subtitle | e }}</subtitle>
   <link rel="self" href="{{ self_url | e }}"/>
   <link rel="alternate" href="{{ base_url | e }}/"/>
-  <generator uri="https://github.com/ai-egg-monitor/ai-egg-monitor" version="0.1">ai-egg-monitor</generator>
+  <generator uri="https://github.com/ikeng/model-egg-monitor" version="0.1">ai-egg-monitor</generator>
   <rights>MIT License</rights>
   <author>
     <name>{{ author | e }}</name>
