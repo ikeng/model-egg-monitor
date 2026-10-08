@@ -570,6 +570,10 @@ def main() -> int:
             log.info(f"厂商 {vendor['name']} 已禁用，跳过")
             continue
         for source in vendor.get("sources", []):
+            # 支持单条 source 级 enabled: false，用于临时关掉在 CI 网络下不可达的页面
+            if not source.get("enabled", True):
+                log.info(f"源已禁用，跳过 {vendor['name']} {source.get('url')}")
+                continue
             jobs.append((vendor["name"], source))
 
     workers = int(site.get("fetch_workers", DEFAULT_FETCH_WORKERS)) or 1

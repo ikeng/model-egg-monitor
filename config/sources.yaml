@@ -96,12 +96,18 @@ vendors:
   - name: 月之暗面 Kimi
     enabled: true
     sources:
+      # 注：platform.moonshot.cn 会 302 到 platform.kimi.com，
+      # 从 GitHub Actions（美国 IP）访问会 read timeout，本地可访问。
+      # 先关掉避免每次运行都报 3 个失败源；网络可通时把 enabled 改回 true 即可。
       - type: html
         url: https://platform.moonshot.cn/docs/pricing/chat
+        enabled: false
       - type: html
         url: https://platform.moonshot.cn/docs/pricing/limit
+        enabled: false
       - type: html
         url: https://platform.moonshot.cn/docs/
+        enabled: false
 
   - name: 智谱 GLM
     enabled: true
