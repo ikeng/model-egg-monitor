@@ -59,6 +59,8 @@ USER_AGENT = (
     "(+https://github.com/ikeng/model-egg-monitor)"
 )
 TIMEOUT = 15
+FETCH_RETRIES = 2       # 首次失败后再试 2 次
+RETRY_BACKOFF = 1.5     # 秒，逐次递增
 DEFAULT_FETCH_WORKERS = 8  # 并发抓取线程数，可用 site.fetch_workers 覆盖
 
 # 登录墙检测：仅当页面正文较短且含登录字眼时才标记
@@ -162,11 +164,24 @@ def save_state(state: dict) -> None:
 # 抓取
 # ---------------------------------------------------------------------------
 def fetch(url: str) -> str:
-    resp = requests.get(url, timeout=TIMEOUT, headers={"User-Agent": USER_AGENT})
-    resp.raise_for_status()
-    if not resp.encoding or resp.encoding.lower() == "iso-8859-1":
-        resp.encoding = resp.apparent_encoding or "utf-8"
-    return resp.text
+    """抓 HTTP 页面。超时 / 连接类错误重试，4xx 直接失败（重试无意义）。"""
+    last_exc: Exception | None = None
+    for attempt in range(FETCH_RETRIES + 1):
+        try:
+            resp = requests.get(url, timeout=TIMEOUT, headers={"User-Agent": USER_AGENT})
+            resp.raise_for_status()
+            if not resp.encoding or resp.encoding.lower() == "iso-8859-1":
+                resp.encoding = resp.apparent_encoding or "utf-8"
+            return resp.text
+        except Exception as e:
+            last_exc = e
+            status_code = getattr(getattr(e, "response", None), "status_code", None)
+            if status_code is not None and 400 <= status_code < 500:
+                raise
+            if attempt < FETCH_RETRIES:
+                time.sleep(RETRY_BACKOFF * (attempt + 1))
+    assert last_exc is not None
+    raise last_exc
 
 
 def parse_html_page(html: str) -> dict:
