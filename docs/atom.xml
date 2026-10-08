@@ -2,13 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://ikeng.github.io/model-egg-monitor/atom.xml</id>
   <title>赛博鸡蛋</title>
-<<<<<<< HEAD
-  <updated>2026-10-08T18:02:49+08:00</updated>
-||||||| parent of 8ad2efb (feat(sources): 扩充到 56 厂商 / 95 源；feat(fetch): 并发抓取（22s，原串行会超时）)
-  <updated>2026-10-08T17:59:36+08:00</updated>
-=======
-  <updated>2026-10-08T18:11:39+08:00</updated>
->>>>>>> 8ad2efb (feat(sources): 扩充到 56 厂商 / 95 源；feat(fetch): 并发抓取（22s，原串行会超时）)
+  <updated>2026-10-08T18:13:18+08:00</updated>
   <subtitle>大模型厂商活动监控</subtitle>
   <link rel="self" href="https://ikeng.github.io/model-egg-monitor/atom.xml"/>
   <link rel="alternate" href="https://ikeng.github.io/model-egg-monitor/"/>
@@ -18,460 +12,9 @@
     <name>ai-egg-monitor</name>
   </author>
   <entry>
-    <id>tag:ai-egg-monitor,2026:activity:a2d522c721ea08c9</id>
-    <title>新人免费额度获取及用完即停开关规则-大模型服务平台百炼(Model Studio)-阿里云帮助中心</title>
-<<<<<<< HEAD
-    <updated>2026-10-08T18:02:45+08:00</updated>
-||||||| parent of 8ad2efb (feat(sources): 扩充到 56 厂商 / 95 源；feat(fetch): 并发抓取（22s，原串行会超时）)
-    <updated>2026-10-08T17:59:32+08:00</updated>
-=======
-    <updated>2026-10-08T18:11:17+08:00</updated>
->>>>>>> 8ad2efb (feat(sources): 扩充到 56 厂商 / 95 源；feat(fetch): 并发抓取（22s，原串行会超时）)
-    <published>2026-10-08T17:58:35+08:00</published>
-    <link rel="alternate" href="https://help.aliyun.com/zh/model-studio/new-free-quota"/>
-    <author><name>通义千问</name></author>
-    <category term="通义千问"/>
-    <summary type="text">首页 大模型服务平台百炼 用户指南（模型） 产品计费 新人免费额度 新人免费额度 更新时间： 复制 MD 格式 产品详情 我的收藏 当您首次开通阿里云百炼时，平台会自动为您发放各模型的新人专属免费额度。 说明 仅华北 2（北京）地域模型享有免费额度，其他地域无免费额度。 未认证用户免费额度用完后无法继续调用，需完成 认证 并 充值 后方能继续按量付费。 已认证用户免费额度用完后自动转为按量付费。如需避免意外扣费，可提前开启 免费额度用完即停 ，额度耗尽时服务自动停止。 规则说明 有效期 免费额度的有效期为 90 天，从开通阿里云百炼、模型发布或模型申请通过之日起计算（以较晚者为准）。额度到期或</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：通义千问&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：新人免费额度获取及用完即停开关规则-大模型服务平台百炼(Model Studio)-阿里云帮助中心&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：首页 大模型服务平台百炼 用户指南（模型） 产品计费 新人免费额度 新人免费额度 更新时间： 复制 MD 格式 产品详情 我的收藏 当您首次开通阿里云百炼时，平台会自动为您发放各模型的新人专属免费额度。 说明 仅华北 2（北京）地域模型享有免费额度，其他地域无免费额度。 未认证用户免费额度用完后无法继续调用，需完成 认证 并 充值 后方能继续按量付费。 已认证用户免费额度用完后自动转为按量付费。如需避免意外扣费，可提前开启 免费额度用完即停 ，额度耗尽时服务自动停止。 规则说明 有效期 免费额度的有效期为 90 天，从开通阿里云百炼、模型发布或模型申请通过之日起计算（以较晚者为准）。额度到期或&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：免费&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T17:58:35+08:00&lt;/p&gt;
-<<<<<<< HEAD
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:02:45+08:00&lt;/p&gt;
-||||||| parent of 8ad2efb (feat(sources): 扩充到 56 厂商 / 95 源；feat(fetch): 并发抓取（22s，原串行会超时）)
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T17:59:32+08:00&lt;/p&gt;
-=======
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
->>>>>>> 8ad2efb (feat(sources): 扩充到 56 厂商 / 95 源；feat(fetch): 并发抓取（22s，原串行会超时）)
-&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://help.aliyun.com/zh/model-studio/new-free-quota&#34;&gt;https://help.aliyun.com/zh/model-studio/new-free-quota&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:ai-egg-monitor,2026:activity:cb7b29bd71a9e5c3</id>
-    <title>阿里云百炼模型价格-大模型服务平台百炼(Model Studio)-阿里云帮助中心</title>
-    <updated>2026-10-08T18:11:17+08:00</updated>
-    <published>2026-10-08T18:11:17+08:00</published>
-    <link rel="alternate" href="https://help.aliyun.com/zh/model-studio/billing-for-model-studio"/>
-    <author><name>通义千问</name></author>
-    <category term="通义千问"/>
-    <summary type="text">首页 大模型服务平台百炼 用户指南（模型） 产品计费 模型调用计费 模型调用价格 更新时间： 复制 MD 格式 产品详情 我的收藏 模型调用默认 按量计费 ，涵盖各类模型的计费规则与价格。 说明 本文仅展示模型调用 原价 ，请前往 百炼控制台 查看活动优惠。 说明 部分模型支持 上下文缓存 （显式缓存、隐式缓存）。缓存命中的输入 Token 及创建显式缓存的 Token 采用与标准输入不同的计费单价（例如显式缓存创建按标准输入单价的 125% 计费、命中按 10% 计费），本文价格表中的输入单价 不含 缓存单价。缓存的计费规则、单价折扣及支持的模型请参见 上下文缓存 。 阶梯计费规则 百炼部分</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：通义千问&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：阿里云百炼模型价格-大模型服务平台百炼(Model Studio)-阿里云帮助中心&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：首页 大模型服务平台百炼 用户指南（模型） 产品计费 模型调用计费 模型调用价格 更新时间： 复制 MD 格式 产品详情 我的收藏 模型调用默认 按量计费 ，涵盖各类模型的计费规则与价格。 说明 本文仅展示模型调用 原价 ，请前往 百炼控制台 查看活动优惠。 说明 部分模型支持 上下文缓存 （显式缓存、隐式缓存）。缓存命中的输入 Token 及创建显式缓存的 Token 采用与标准输入不同的计费单价（例如显式缓存创建按标准输入单价的 125% 计费、命中按 10% 计费），本文价格表中的输入单价 不含 缓存单价。缓存的计费规则、单价折扣及支持的模型请参见 上下文缓存 。 阶梯计费规则 百炼部分&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：优惠&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://help.aliyun.com/zh/model-studio/billing-for-model-studio&#34;&gt;https://help.aliyun.com/zh/model-studio/billing-for-model-studio&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:ai-egg-monitor,2026:activity:f8c0f63e701da0df</id>
-    <title>模型推理价格说明 - Kimi API 开放平台</title>
-    <updated>2026-10-08T18:11:17+08:00</updated>
-    <published>2026-10-08T18:11:17+08:00</published>
-    <link rel="alternate" href="https://platform.moonshot.cn/docs/pricing/chat"/>
-    <author><name>月之暗面 Kimi</name></author>
-    <category term="月之暗面 Kimi"/>
-    <summary type="text">模型推理定价 模型推理价格说明 复制页面 复制页面 了解 Kimi 模型推理的 token 计费单位、输入输出计费方式、缓存优惠和各模型价格入口。 复制页面 复制页面 ​ 模型定价 ​ K3 系列模型 注： 缓存写入 是指将请求前缀写入 上下文缓存 所产生的费用。Kimi API 对重复的请求前缀自动启用上下文缓存，缓存条目按有效期（TTL）分为 5min 和 1h 两档，不指定 TTL 时默认按 5min 档。在有效期内命中缓存的输入仅按”输入价格（缓存命中）“计费，命中后缓存有效期自动续期，不再收取缓存写入费用。 ​ K2 系列模型 此处 1M = 1,000,000，表格中的价格代表每消</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：月之暗面 Kimi&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：模型推理价格说明 - Kimi API 开放平台&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：模型推理定价 模型推理价格说明 复制页面 复制页面 了解 Kimi 模型推理的 token 计费单位、输入输出计费方式、缓存优惠和各模型价格入口。 复制页面 复制页面 ​ 模型定价 ​ K3 系列模型 注： 缓存写入 是指将请求前缀写入 上下文缓存 所产生的费用。Kimi API 对重复的请求前缀自动启用上下文缓存，缓存条目按有效期（TTL）分为 5min 和 1h 两档，不指定 TTL 时默认按 5min 档。在有效期内命中缓存的输入仅按”输入价格（缓存命中）“计费，命中后缓存有效期自动续期，不再收取缓存写入费用。 ​ K2 系列模型 此处 1M = 1,000,000，表格中的价格代表每消&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：优惠&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://platform.moonshot.cn/docs/pricing/chat&#34;&gt;https://platform.moonshot.cn/docs/pricing/chat&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:ai-egg-monitor,2026:activity:1918e08679b03d3d</id>
-    <title>腾讯混元大模型 混元生文计费概述_腾讯云</title>
-    <updated>2026-10-08T18:11:17+08:00</updated>
-    <published>2026-10-08T18:11:17+08:00</published>
-    <link rel="alternate" href="https://cloud.tencent.com/document/product/1729/97731"/>
-    <author><name>腾讯混元</name></author>
-    <category term="腾讯混元"/>
-    <summary type="text">腾讯云 最新活动 大模型 产品 解决方案 定价 企业中心 云市场 开发者 客户支持 合作与生态 了解腾讯云 搜索 腾讯混元大模型 文档中心 入门中心 API 中心 SDK 中心 文档活动 我的反馈 帮你快速理解、总结文档 立即下载 文档中心 &gt; 腾讯混元大模型 &gt; 购买指南 &gt; 混元生文计费概述 混元生文计费概述 最近更新时间： 2026-06-26 10:56:00 微信扫一扫 QQ 新浪微博 复制链接 链接复制成功 我的收藏 本页目录： 计费方式 开通方式 免费额度 混元生文价格说明 token 后付费 计费与结算方式 费用计算示例 后付费 注意： 为进一步提升大模型服务体验，腾讯混元大模</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：腾讯混元&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：腾讯混元大模型 混元生文计费概述_腾讯云&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：腾讯云 最新活动 大模型 产品 解决方案 定价 企业中心 云市场 开发者 客户支持 合作与生态 了解腾讯云 搜索 腾讯混元大模型 文档中心 入门中心 API 中心 SDK 中心 文档活动 我的反馈 帮你快速理解、总结文档 立即下载 文档中心 &gt; 腾讯混元大模型 &gt; 购买指南 &gt; 混元生文计费概述 混元生文计费概述 最近更新时间： 2026-06-26 10:56:00 微信扫一扫 QQ 新浪微博 复制链接 链接复制成功 我的收藏 本页目录： 计费方式 开通方式 免费额度 混元生文价格说明 token 后付费 计费与结算方式 费用计算示例 后付费 注意： 为进一步提升大模型服务体验，腾讯混元大模&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：免费&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://cloud.tencent.com/document/product/1729/97731&#34;&gt;https://cloud.tencent.com/document/product/1729/97731&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:ai-egg-monitor,2026:activity:4935578386852c47</id>
-    <title>语音资源包 - MiniMax 开放平台文档中心</title>
-    <updated>2026-10-08T18:11:17+08:00</updated>
-    <published>2026-10-08T18:11:17+08:00</published>
-    <link rel="alternate" href="https://platform.minimaxi.com/document/price"/>
-    <author><name>MiniMax</name></author>
-    <category term="MiniMax"/>
-    <summary type="text">在此页面 HD 系列 Turbo 系列 API 价格 语音资源包 复制页面 复制页面 MiniMax语音资源包定价 复制页面 复制页面 ​ HD 系列 立即购买 分类 语音套餐一 （节省 10%） 语音套餐二 （节省 15%） 语音套餐三 （节省 20%） 商务定制 折扣价 ¥630 ¥5,950 ¥56,000 基于量级的额外折扣 原价 ¥700 ¥7,000 ¥70,000 —— 有效期 1 个月 3 个月 1 年 —— 总字符数量 2,000,000 字符 20,000,000 字符 200,000,000 字符 —— 功能 支持 T2A v2 / T2A async v2 接口 RPM</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：MiniMax&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：语音资源包 - MiniMax 开放平台文档中心&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：在此页面 HD 系列 Turbo 系列 API 价格 语音资源包 复制页面 复制页面 MiniMax语音资源包定价 复制页面 复制页面 ​ HD 系列 立即购买 分类 语音套餐一 （节省 10%） 语音套餐二 （节省 15%） 语音套餐三 （节省 20%） 商务定制 折扣价 ¥630 ¥5,950 ¥56,000 基于量级的额外折扣 原价 ¥700 ¥7,000 ¥70,000 —— 有效期 1 个月 3 个月 1 年 —— 总字符数量 2,000,000 字符 20,000,000 字符 200,000,000 字符 —— 功能 支持 T2A v2 / T2A async v2 接口 RPM&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：折扣&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://platform.minimaxi.com/document/price&#34;&gt;https://platform.minimaxi.com/document/price&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:ai-egg-monitor,2026:activity:48e3941064854c6c</id>
-    <title>PPIO - 中国领先的分布式云计算服务商</title>
-    <updated>2026-10-08T18:11:17+08:00</updated>
-    <published>2026-10-08T18:11:17+08:00</published>
-    <link rel="alternate" href="https://ppio.com/"/>
-    <author><name>PPIO 派欧云</name></author>
-    <category term="PPIO 派欧云"/>
-    <summary type="text">模型服务 Agent 云服务 GPU 云服务 即将下线 新闻资讯 关于我们 文档 控制台 登录 立即注册 登录/注册 免费注册 登录 模型服务 Agent 云服务 GPU 云服务 即将下线 新闻资讯 关于我们 文档 控制台 安装 Skills › npx skills add PPIO/ppio-skills --skill {skill} For Agents 高性价比、超弹性、低延迟的产品与服务 模型服务 模态丰富、便捷接入、高性价比的模型 API 服务 大语言模型 API 稳定可靠 最新大模型 推理加速 兼容 OpenAI API 与 Anthropic API 标准，可接入 Claud</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：PPIO 派欧云&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：PPIO - 中国领先的分布式云计算服务商&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：模型服务 Agent 云服务 GPU 云服务 即将下线 新闻资讯 关于我们 文档 控制台 登录 立即注册 登录/注册 免费注册 登录 模型服务 Agent 云服务 GPU 云服务 即将下线 新闻资讯 关于我们 文档 控制台 安装 Skills › npx skills add PPIO/ppio-skills --skill {skill} For Agents 高性价比、超弹性、低延迟的产品与服务 模型服务 模态丰富、便捷接入、高性价比的模型 API 服务 大语言模型 API 稳定可靠 最新大模型 推理加速 兼容 OpenAI API 与 Anthropic API 标准，可接入 Claud&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：免费&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://ppio.com/&#34;&gt;https://ppio.com/&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:ai-egg-monitor,2026:activity:b3064618fbca75d9</id>
-    <title>The Den frees up 10-15 hours a week to grow with ChatGPT Work</title>
-    <updated>2026-10-08T18:11:17+08:00</updated>
-    <published>2026-10-08T18:11:17+08:00</published>
-    <link rel="alternate" href="https://openai.com/index/the-den-family-social"/>
-    <author><name>OpenAI</name></author>
-    <category term="OpenAI"/>
-    <summary type="text">As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：OpenAI&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：The Den frees up 10-15 hours a week to grow with ChatGPT Work&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：free&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://openai.com/index/the-den-family-social&#34;&gt;https://openai.com/index/the-den-family-social&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:ai-egg-monitor,2026:activity:5737732c967f40f2</id>
-    <title>The Lenfest Institute grows landmark program with expanded OpenAI support</title>
-    <updated>2026-10-08T18:11:17+08:00</updated>
-    <published>2026-10-08T18:11:17+08:00</published>
-    <link rel="alternate" href="https://openai.com/index/lenfest-ai-collaborative-expansion"/>
-    <author><name>OpenAI</name></author>
-    <category term="OpenAI"/>
-    <summary type="text">OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：OpenAI&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：The Lenfest Institute grows landmark program with expanded OpenAI support&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：credit&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://openai.com/index/lenfest-ai-collaborative-expansion&#34;&gt;https://openai.com/index/lenfest-ai-collaborative-expansion&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:ai-egg-monitor,2026:activity:5f616e62c2cce744</id>
-    <title>Plans &amp; pricing | Claude by Anthropic</title>
-    <updated>2026-10-08T18:11:17+08:00</updated>
-    <published>2026-10-08T18:11:17+08:00</published>
-    <link rel="alternate" href="https://www.anthropic.com/pricing"/>
-    <author><name>Anthropic</name></author>
-    <category term="Anthropic"/>
-    <summary type="text">Latest news Claude Cowork is now just Claude. Rolling out to Pro and Max, with more plans to follow. Read what changed (opens in new tab) Pricing Individual Team &amp; Enterprise API Free Try Claude $0 Free for everyone Try Claude Chat on web, desktop, and mobile Search the web, create files, and run co</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：Anthropic&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：Plans &amp; pricing | Claude by Anthropic&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：Latest news Claude Cowork is now just Claude. Rolling out to Pro and Max, with more plans to follow. Read what changed (opens in new tab) Pricing Individual Team &amp; Enterprise API Free Try Claude $0 Free for everyone Try Claude Chat on web, desktop, and mobile Search the web, create files, and run co&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：free&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.anthropic.com/pricing&#34;&gt;https://www.anthropic.com/pricing&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:ai-egg-monitor,2026:activity:5f5c4c0ae520c10f</id>
-    <title>Gemini Developer API pricing  |  Gemini API  |  Google AI for Developers</title>
-    <updated>2026-10-08T18:11:17+08:00</updated>
-    <published>2026-10-08T18:11:17+08:00</published>
-    <link rel="alternate" href="https://ai.google.dev/gemini-api/docs/pricing"/>
-    <author><name>Google Gemini</name></author>
-    <category term="Google Gemini"/>
-    <summary type="text">Gemini 3.8 Flash is now available. Try it out . Home Gemini API Docs Gemini Developer API pricing Start building free of charge with generous limits, then scale up with
-prepaid then pay-as-you-go pricing for your production ready applications. Free For developers and small projects getting started w</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：Google Gemini&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：Gemini Developer API pricing  |  Gemini API  |  Google AI for Developers&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：Gemini 3.8 Flash is now available. Try it out . Home Gemini API Docs Gemini Developer API pricing Start building free of charge with generous limits, then scale up with
-prepaid then pay-as-you-go pricing for your production ready applications. Free For developers and small projects getting started w&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：free&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://ai.google.dev/gemini-api/docs/pricing&#34;&gt;https://ai.google.dev/gemini-api/docs/pricing&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:ai-egg-monitor,2026:activity:3f41d9118eb4ec42</id>
-    <title>Google Beam expands with new regions, partners, and customers</title>
-    <updated>2026-10-08T18:11:17+08:00</updated>
-    <published>2026-10-08T18:11:17+08:00</published>
-    <link rel="alternate" href="https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/"/>
-    <author><name>Google Gemini</name></author>
-    <category term="Google Gemini"/>
-    <summary type="text">Google Beam promotional animation</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：Google Gemini&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：Google Beam expands with new regions, partners, and customers&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：Google Beam promotional animation&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：promo&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/&#34;&gt;https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:ai-egg-monitor,2026:activity:ff49e507d89b30cd</id>
-    <title>Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission</title>
-    <updated>2026-10-08T18:11:17+08:00</updated>
-    <published>2026-10-08T18:11:17+08:00</published>
-    <link rel="alternate" href="https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/"/>
-    <author><name>Google Gemini</name></author>
-    <category term="Google Gemini"/>
-    <summary type="text">Google commits $40M in AI tokens and credits for the Genesis Mission</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：Google Gemini&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：Google commits $40M in AI tokens and credits for the Genesis Mission&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：credit&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/&#34;&gt;https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:ai-egg-monitor,2026:activity:232ffcd8a4c48761</id>
-    <title>Pricing | Mistral</title>
-    <updated>2026-10-08T18:11:17+08:00</updated>
-    <published>2026-10-08T18:11:17+08:00</published>
-    <link rel="alternate" href="https://mistral.ai/pricing"/>
-    <author><name>Mistral</name></author>
-    <category term="Mistral"/>
-    <summary type="text">Pricing Pricing Pricing Pricing USD ($) EUR (€) France Austria Belgium Bulgaria Croatia Cyprus Czech Republic Denmark Estonia Finland France Germany Greece Hungary Ireland Italy Latvia Lithuania Luxembourg Malta Netherlands Poland Portugal Romania Slovakia Slovenia Spain Sweden United Kingdom Free Y</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：Mistral&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：Pricing | Mistral&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：Pricing Pricing Pricing Pricing USD ($) EUR (€) France Austria Belgium Bulgaria Croatia Cyprus Czech Republic Denmark Estonia Finland France Germany Greece Hungary Ireland Italy Latvia Lithuania Luxembourg Malta Netherlands Poland Portugal Romania Slovakia Slovenia Spain Sweden United Kingdom Free Y&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：free&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://mistral.ai/pricing&#34;&gt;https://mistral.ai/pricing&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:ai-egg-monitor,2026:activity:b6de95598207771a</id>
-    <title>Hallo, Deutschland!</title>
-    <updated>2026-10-08T18:11:17+08:00</updated>
-    <published>2026-10-08T18:11:17+08:00</published>
-    <link rel="alternate" href="https://mistral.ai/news/hallo-deutschland/"/>
-    <author><name>Mistral</name></author>
-    <category term="Mistral"/>
-    <summary type="text">Mistral opens a Munich hub for Physics AI and Industrial AI research, partnering with German industry.</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：Mistral&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：Hallo, Deutschland!&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：Mistral opens a Munich hub for Physics AI and Industrial AI research, partnering with German industry.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：trial&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://mistral.ai/news/hallo-deutschland/&#34;&gt;https://mistral.ai/news/hallo-deutschland/&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:ai-egg-monitor,2026:activity:fa59899fb80cc144</id>
-    <title>Pricing – Replicate</title>
-    <updated>2026-10-08T18:11:17+08:00</updated>
-    <published>2026-10-08T18:11:17+08:00</published>
-    <link rel="alternate" href="https://replicate.com/pricing"/>
-    <author><name>Replicate</name></author>
-    <category term="Replicate"/>
-    <summary type="text">Alibaba logo Wan 3.0 is 30% off this week Replicate glyph Explore Pricing Enterprise Docs Blog Sign in Try for free Menu Explore Pricing Enterprise Docs Blog Sign in Try for free Compare models in the Playground Pricing You only pay for what you use on Replicate. Some models are billed by hardware a</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：Replicate&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：Pricing – Replicate&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：Alibaba logo Wan 3.0 is 30% off this week Replicate glyph Explore Pricing Enterprise Docs Blog Sign in Try for free Menu Explore Pricing Enterprise Docs Blog Sign in Try for free Compare models in the Playground Pricing You only pay for what you use on Replicate. Some models are billed by hardware a&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：free&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://replicate.com/pricing&#34;&gt;https://replicate.com/pricing&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:ai-egg-monitor,2026:activity:95b83aca5ff8baff</id>
-    <title>Fastest AI Inference Cloud and API | Cerebras</title>
-    <updated>2026-10-08T18:11:17+08:00</updated>
-    <published>2026-10-08T18:11:17+08:00</published>
-    <link rel="alternate" href="https://www.cerebras.ai/inference"/>
-    <author><name>Cerebras</name></author>
-    <category term="Cerebras"/>
-    <summary type="text">The Fastest AI Inference Cloud Get instant access to inference that’s up to 30x faster than GPU systems — build more interactive, intelligent products across coding, research, voice, automation, and more agentic use cases.​ demo free trial Unmatched Speed in Action Watch Cerebras deliver top quality</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：Cerebras&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：Fastest AI Inference Cloud and API | Cerebras&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：The Fastest AI Inference Cloud Get instant access to inference that’s up to 30x faster than GPU systems — build more interactive, intelligent products across coding, research, voice, automation, and more agentic use cases.​ demo free trial Unmatched Speed in Action Watch Cerebras deliver top quality&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：free&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.cerebras.ai/inference&#34;&gt;https://www.cerebras.ai/inference&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:ai-egg-monitor,2026:activity:1d3f6027b51f1841</id>
-    <title>OpenRouter FAQ</title>
-    <updated>2026-10-08T18:11:17+08:00</updated>
-    <published>2026-10-08T18:11:17+08:00</published>
-    <link rel="alternate" href="https://openrouter.ai/docs/faq"/>
-    <author><name>OpenRouter</name></author>
-    <category term="OpenRouter"/>
-    <summary type="text">On this page Getting started Pricing and fees Models and providers API technical specifications Privacy and data logging Credit and billing systems Account management Overview Frequently Asked Questions Copy page Copy page Common questions about OpenRouter Copy page Copy page ​ Getting started Why s</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：OpenRouter&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：OpenRouter FAQ&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：On this page Getting started Pricing and fees Models and providers API technical specifications Privacy and data logging Credit and billing systems Account management Overview Frequently Asked Questions Copy page Copy page Common questions about OpenRouter Copy page Copy page ​ Getting started Why s&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：credit&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://openrouter.ai/docs/faq&#34;&gt;https://openrouter.ai/docs/faq&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:ai-egg-monitor,2026:activity:c90cd6038f5c59f9</id>
-    <title>Cursor · Pricing</title>
-    <updated>2026-10-08T18:11:17+08:00</updated>
-    <published>2026-10-08T18:11:17+08:00</published>
-    <link rel="alternate" href="https://cursor.com/pricing"/>
-    <author><name>Cursor</name></author>
-    <category term="Cursor"/>
-    <summary type="text">Pricing Monthly Yearly Hobby For the tinkerer Free Includes: ✓ No credit card required ✓ Limited Agent requests ✓ Access to Composer Try Cursor Individual For the agent-curious $20 / mo. Pro Pro+ Ultra Everything in Hobby, plus: ✓ Extended limits on Agent ✓ Generous limits for Grok ✓ Access to front</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：Cursor&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：Cursor · Pricing&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：Pricing Monthly Yearly Hobby For the tinkerer Free Includes: ✓ No credit card required ✓ Limited Agent requests ✓ Access to Composer Try Cursor Individual For the agent-curious $20 / mo. Pro Pro+ Ultra Everything in Hobby, plus: ✓ Extended limits on Agent ✓ Generous limits for Grok ✓ Access to front&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：free&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://cursor.com/pricing&#34;&gt;https://cursor.com/pricing&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:ai-egg-monitor,2026:activity:747206776c9a56c4</id>
-    <title>Plans and Pricing | Devin</title>
-    <updated>2026-10-08T18:11:17+08:00</updated>
-    <published>2026-10-08T18:11:17+08:00</published>
-    <link rel="alternate" href="https://windsurf.com/pricing"/>
-    <author><name>Windsurf</name></author>
-    <category term="Windsurf"/>
-    <summary type="text">Product Solutions Resources Customers Pricing Blog Get a demo Login Get started Devin Plans and Pricing Choose the perfect plan for your journey SWE-2, our latest model, is now available → INDIVIDUAL PLANS Free $0 Download Light quota to code with agents Limited model availability Unlimited inline e</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：Windsurf&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：Plans and Pricing | Devin&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：Product Solutions Resources Customers Pricing Blog Get a demo Login Get started Devin Plans and Pricing Choose the perfect plan for your journey SWE-2, our latest model, is now available → INDIVIDUAL PLANS Free $0 Download Light quota to code with agents Limited model availability Unlimited inline e&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：free&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://windsurf.com/pricing&#34;&gt;https://windsurf.com/pricing&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:ai-egg-monitor,2026:activity:e1bd0c80e491b141</id>
-    <title>Deploying an HSTU Generative Recommender with NVIDIA Dynamo-Triton</title>
-    <updated>2026-10-08T18:11:17+08:00</updated>
-    <published>2026-10-08T18:11:17+08:00</published>
-    <link rel="alternate" href="https://developer.nvidia.com/blog/deploying-an-hstu-generative-recommender-with-nvidia-dynamo-triton/"/>
-    <author><name>NVIDIA NIM</name></author>
-    <category term="NVIDIA NIM"/>
-    <summary type="text">&lt;img alt=&#34;&#34; class=&#34;webfeedsFeaturedVisual wp-post-image&#34; height=&#34;432&#34; src=&#34;https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/recsys-768x432.jpg&#34; style=&#34;display: block; margin-bottom: 5px; clear: both;&#34; title=&#34;RecSys - Promo - Recsys Summit 2023 - 2912182&#34; width=&#34;768&#34; /&gt;Generative recommender (GR) systems are emerging as a powerful new approach for large-scale personalization. Instead of treating recommendation as a set of...</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：NVIDIA NIM&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：Deploying an HSTU Generative Recommender with NVIDIA Dynamo-Triton&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：&lt;img alt=&#34;&#34; class=&#34;webfeedsFeaturedVisual wp-post-image&#34; height=&#34;432&#34; src=&#34;https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/recsys-768x432.jpg&#34; style=&#34;display: block; margin-bottom: 5px; clear: both;&#34; title=&#34;RecSys - Promo - Recsys Summit 2023 - 2912182&#34; width=&#34;768&#34; /&gt;Generative recommender (GR) systems are emerging as a powerful new approach for large-scale personalization. Instead of treating recommendation as a set of...&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：promo&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://developer.nvidia.com/blog/deploying-an-hstu-generative-recommender-with-nvidia-dynamo-triton/&#34;&gt;https://developer.nvidia.com/blog/deploying-an-hstu-generative-recommender-with-nvidia-dynamo-triton/&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:ai-egg-monitor,2026:activity:8a143abe5f3a9d8b</id>
-    <title>Try NVIDIA NIM APIs</title>
-    <updated>2026-10-08T18:11:17+08:00</updated>
-    <published>2026-10-08T18:11:17+08:00</published>
-    <link rel="alternate" href="https://build.nvidia.com/explore/discover"/>
-    <author><name>NVIDIA NIM</name></author>
-    <category term="NVIDIA NIM"/>
-    <summary type="text">Discover Discover Discover Explore Discover Workstations Run on RTX Run on Spark Run on Station Models Reasoning Vision Visual Design Retrieval Speech Predictive AI Biology Simulation Climate &amp; Weather Safety &amp; Moderation Industries Automotive Financial Services Healthcare Industrial Robotics Start </summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：NVIDIA NIM&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：Try NVIDIA NIM APIs&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：Discover Discover Discover Explore Discover Workstations Run on RTX Run on Spark Run on Station Models Reasoning Vision Visual Design Retrieval Speech Predictive AI Biology Simulation Climate &amp; Weather Safety &amp; Moderation Industries Automotive Financial Services Healthcare Industrial Robotics Start &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：trial&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://build.nvidia.com/explore/discover&#34;&gt;https://build.nvidia.com/explore/discover&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:ai-egg-monitor,2026:activity:5b2e89aa12e03d93</id>
-    <title>Making Amazon Quick enterprise-ready: Automated, auditable cross-account resource promotion</title>
-    <updated>2026-10-08T18:11:17+08:00</updated>
-    <published>2026-10-08T18:11:17+08:00</published>
-    <link rel="alternate" href="https://aws.amazon.com/blogs/machine-learning/making-amazon-quick-enterprise-ready-automated-auditable-cross-account-resource-promotion/"/>
-    <author><name>AWS Bedrock</name></author>
-    <category term="AWS Bedrock"/>
-    <summary type="text">Promoting Amazon Quick resources (agents, action connectors, knowledge bases, flows, and spaces) from a development to a production AWS account has been a manual, error-prone chore. This post shows how to automate cross-account promotion with an idempotent, auditable MCP server on Amazon Bedrock AgentCore.</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：AWS Bedrock&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：Making Amazon Quick enterprise-ready: Automated, auditable cross-account resource promotion&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：Promoting Amazon Quick resources (agents, action connectors, knowledge bases, flows, and spaces) from a development to a production AWS account has been a manual, error-prone chore. This post shows how to automate cross-account promotion with an idempotent, auditable MCP server on Amazon Bedrock AgentCore.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：promo&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://aws.amazon.com/blogs/machine-learning/making-amazon-quick-enterprise-ready-automated-auditable-cross-account-resource-promotion/&#34;&gt;https://aws.amazon.com/blogs/machine-learning/making-amazon-quick-enterprise-ready-automated-auditable-cross-account-resource-promotion/&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:ai-egg-monitor,2026:activity:d05e995d317609f1</id>
-    <title>中国一汽、丰田汽车、广汽集团在广州签署全新战略合作框架协议</title>
-    <updated>2026-10-08T18:11:17+08:00</updated>
-    <published>2026-10-08T18:11:17+08:00</published>
-    <link rel="alternate" href="https://www.ithome.com/1/010/585.htm"/>
-    <author><name>资讯·IT之家</name></author>
-    <category term="资讯·IT之家"/>
-    <summary type="text">&lt;p&gt;IT之家 10 月 8 日消息，据广州日报报道，&lt;strong&gt;中国一汽、丰田汽车、广汽集团&lt;/strong&gt;于今日（10 月 8 日）在广东广州签署全新战略合作框架协议。广州市委书记冯忠华，市委副书记、市长孙志洋与丰田汽车社长近健太、中国一汽总经理刘亦功座谈交流并共同见证签约。&lt;/p&gt;&lt;p&gt;根据协议，中国一汽、丰田汽车与广汽集团秉持互惠互利、合作共赢基本原则，在资源整合与优化、常态化沟通协作机制、汽车电动化智能化转型、本土化经营等领域开展深入务实合作。&lt;/p&gt;&lt;p&gt;刘亦功表示，中国一汽、丰田汽车、广汽集团签署全新战略合作框架协议，是顺应国家汽车产业整合升级和高质量发展要求作出的重要探索。三方各有积淀、各有所长，特别是中国一汽与广汽集团区位互补、资源互补、能力互补，成为此次三方达成合作的坚实基础。&lt;strong&gt;未来，三方将以资本为纽带，围绕新能源转型、合资合作、技术攻关、产业链协同等领域，积极开展全方位、深层次的战略合作，携手开创“央企＋地方国企＋国际车企”的全新合作范式&lt;/strong&gt;。中国一汽将全力支持广汽集团改革发展和丰田汽车在华合资事业行稳致远，并以此次合作为契机，进一步加强与广州市委、市政府沟通协作，积极对接广州汽车产业发展需求，推动更多优质资源和合作成果落地广州，为广州经济高质量发展作出更大贡献。&lt;/p&gt;&lt;p&gt;另据界面新闻报道，广汽将通过发行股票方式收购一汽持有的一汽丰田 50% 股权。交易完成后，&lt;strong&gt;一汽丰田将继续作为独立实体运营，一汽则成为广汽的重要战略股东&lt;/strong&gt;。后续阶段，一汽丰田与广汽丰田将就研发、采购、生产及销售等职能形成联盟协作。&lt;/p&gt;&lt;p&gt;据IT之家此前报道，&lt;a href=&#34;https://www.ithome.com/1/008/135.htm&#34; target=&#34;_blank&#34;&gt;中国一汽、广汽工业于 9 月 29 日宣布签署战略合作框架协议&lt;/a&gt;，双方将依托资产资本联动，以科技创新为驱动力，逐步深化拓展合作边界，推动产业资源跨区域高效协同，携手实现经营提质增效，共促中国汽车产业发展升级。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;相关阅读：&lt;/strong&gt;&lt;/p&gt;&lt;ul class=&#34;small-size list-paddingleft-2&#34;&gt;&lt;li&gt;&lt;p&gt;《&lt;a href=&#34;https://www.ithome.com/1/009/776.htm&#34; target=&#34;_blank&#34;&gt;一汽丰田：“一汽丰田或将彻底退出历史舞台”“丰田大降价”等均为不实言论&lt;/a&gt;》&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;《&lt;a href=&#34;https://www.ithome.com/1/008/021.htm&#34; target=&#34;_blank&#34;&gt;广汽集团：拟通过发行股份购买一汽丰田 50% 股权，股票明起复牌&lt;/a&gt;》&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·IT之家&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：中国一汽、丰田汽车、广汽集团在广州签署全新战略合作框架协议&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：&lt;p&gt;IT之家 10 月 8 日消息，据广州日报报道，&lt;strong&gt;中国一汽、丰田汽车、广汽集团&lt;/strong&gt;于今日（10 月 8 日）在广东广州签署全新战略合作框架协议。广州市委书记冯忠华，市委副书记、市长孙志洋与丰田汽车社长近健太、中国一汽总经理刘亦功座谈交流并共同见证签约。&lt;/p&gt;&lt;p&gt;根据协议，中国一汽、丰田汽车与广汽集团秉持互惠互利、合作共赢基本原则，在资源整合与优化、常态化沟通协作机制、汽车电动化智能化转型、本土化经营等领域开展深入务实合作。&lt;/p&gt;&lt;p&gt;刘亦功表示，中国一汽、丰田汽车、广汽集团签署全新战略合作框架协议，是顺应国家汽车产业整合升级和高质量发展要求作出的重要探索。三方各有积淀、各有所长，特别是中国一汽与广汽集团区位互补、资源互补、能力互补，成为此次三方达成合作的坚实基础。&lt;strong&gt;未来，三方将以资本为纽带，围绕新能源转型、合资合作、技术攻关、产业链协同等领域，积极开展全方位、深层次的战略合作，携手开创“央企＋地方国企＋国际车企”的全新合作范式&lt;/strong&gt;。中国一汽将全力支持广汽集团改革发展和丰田汽车在华合资事业行稳致远，并以此次合作为契机，进一步加强与广州市委、市政府沟通协作，积极对接广州汽车产业发展需求，推动更多优质资源和合作成果落地广州，为广州经济高质量发展作出更大贡献。&lt;/p&gt;&lt;p&gt;另据界面新闻报道，广汽将通过发行股票方式收购一汽持有的一汽丰田 50% 股权。交易完成后，&lt;strong&gt;一汽丰田将继续作为独立实体运营，一汽则成为广汽的重要战略股东&lt;/strong&gt;。后续阶段，一汽丰田与广汽丰田将就研发、采购、生产及销售等职能形成联盟协作。&lt;/p&gt;&lt;p&gt;据IT之家此前报道，&lt;a href=&#34;https://www.ithome.com/1/008/135.htm&#34; target=&#34;_blank&#34;&gt;中国一汽、广汽工业于 9 月 29 日宣布签署战略合作框架协议&lt;/a&gt;，双方将依托资产资本联动，以科技创新为驱动力，逐步深化拓展合作边界，推动产业资源跨区域高效协同，携手实现经营提质增效，共促中国汽车产业发展升级。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;相关阅读：&lt;/strong&gt;&lt;/p&gt;&lt;ul class=&#34;small-size list-paddingleft-2&#34;&gt;&lt;li&gt;&lt;p&gt;《&lt;a href=&#34;https://www.ithome.com/1/009/776.htm&#34; target=&#34;_blank&#34;&gt;一汽丰田：“一汽丰田或将彻底退出历史舞台”“丰田大降价”等均为不实言论&lt;/a&gt;》&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;《&lt;a href=&#34;https://www.ithome.com/1/008/021.htm&#34; target=&#34;_blank&#34;&gt;广汽集团：拟通过发行股份购买一汽丰田 50% 股权，股票明起复牌&lt;/a&gt;》&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：降价&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.ithome.com/1/010/585.htm&#34;&gt;https://www.ithome.com/1/010/585.htm&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
     <id>tag:ai-egg-monitor,2026:activity:0a02cf04f0132a7a</id>
     <title>英伟达股价创新高，逼近 6 万亿美元；限制 AI 助手，苹果收紧 MacOS 磁盘访问权限；arXiv 每人每月仅允许投递 2 篇论文</title>
-    <updated>2026-10-08T18:11:17+08:00</updated>
+    <updated>2026-10-08T18:12:53+08:00</updated>
     <published>2026-10-08T18:11:17+08:00</published>
     <link rel="alternate" href="http://www.geekpark.net/news/372070"/>
     <author><name>资讯·极客公园</name></author>
@@ -608,13 +151,32 @@ prepaid then pay-as-you-go pricing for your production ready applications. Free 
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：折扣&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:12:53+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;http://www.geekpark.net/news/372070&#34;&gt;http://www.geekpark.net/news/372070&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:1918e08679b03d3d</id>
+    <title>腾讯混元大模型 混元生文计费概述_腾讯云</title>
+    <updated>2026-10-08T18:12:53+08:00</updated>
+    <published>2026-10-08T18:11:17+08:00</published>
+    <link rel="alternate" href="https://cloud.tencent.com/document/product/1729/97731"/>
+    <author><name>腾讯混元</name></author>
+    <category term="腾讯混元"/>
+    <summary type="text">腾讯云 最新活动 大模型 产品 解决方案 定价 企业中心 云市场 开发者 客户支持 合作与生态 了解腾讯云 搜索 腾讯混元大模型 文档中心 入门中心 API 中心 SDK 中心 文档活动 我的反馈 帮你快速理解、总结文档 立即下载 文档中心 &gt; 腾讯混元大模型 &gt; 购买指南 &gt; 混元生文计费概述 混元生文计费概述 最近更新时间： 2026-06-26 10:56:00 微信扫一扫 QQ 新浪微博 复制链接 链接复制成功 我的收藏 本页目录： 计费方式 开通方式 免费额度 混元生文价格说明 token 后付费 计费与结算方式 费用计算示例 后付费 注意： 为进一步提升大模型服务体验，腾讯混元大模</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：腾讯混元&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：腾讯混元大模型 混元生文计费概述_腾讯云&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：腾讯云 最新活动 大模型 产品 解决方案 定价 企业中心 云市场 开发者 客户支持 合作与生态 了解腾讯云 搜索 腾讯混元大模型 文档中心 入门中心 API 中心 SDK 中心 文档活动 我的反馈 帮你快速理解、总结文档 立即下载 文档中心 &gt; 腾讯混元大模型 &gt; 购买指南 &gt; 混元生文计费概述 混元生文计费概述 最近更新时间： 2026-06-26 10:56:00 微信扫一扫 QQ 新浪微博 复制链接 链接复制成功 我的收藏 本页目录： 计费方式 开通方式 免费额度 混元生文价格说明 token 后付费 计费与结算方式 费用计算示例 后付费 注意： 为进一步提升大模型服务体验，腾讯混元大模&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：免费&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://cloud.tencent.com/document/product/1729/97731&#34;&gt;https://cloud.tencent.com/document/product/1729/97731&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:1a487eae5d13e635</id>
     <title>苹果首款触屏 Macbook 或 10 月发布；AI 能力成本三年下降数千倍创纪录；美人形机器人跳入熔炉，致敬《终结者 2》</title>
-    <updated>2026-10-08T18:11:17+08:00</updated>
+    <updated>2026-10-08T18:12:53+08:00</updated>
     <published>2026-10-08T18:11:17+08:00</published>
     <link rel="alternate" href="http://www.geekpark.net/news/372069"/>
     <author><name>资讯·极客公园</name></author>
@@ -753,13 +315,51 @@ prepaid then pay-as-you-go pricing for your production ready applications. Free 
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：降价&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:12:53+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;http://www.geekpark.net/news/372069&#34;&gt;http://www.geekpark.net/news/372069&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:1d3f6027b51f1841</id>
+    <title>OpenRouter FAQ</title>
+    <updated>2026-10-08T18:12:53+08:00</updated>
+    <published>2026-10-08T18:11:17+08:00</published>
+    <link rel="alternate" href="https://openrouter.ai/docs/faq"/>
+    <author><name>OpenRouter</name></author>
+    <category term="OpenRouter"/>
+    <summary type="text">On this page Getting started Pricing and fees Models and providers API technical specifications Privacy and data logging Credit and billing systems Account management Overview Frequently Asked Questions Copy page Copy page Common questions about OpenRouter Copy page Copy page ​ Getting started Why s</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：OpenRouter&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：OpenRouter FAQ&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：On this page Getting started Pricing and fees Models and providers API technical specifications Privacy and data logging Credit and billing systems Account management Overview Frequently Asked Questions Copy page Copy page Common questions about OpenRouter Copy page Copy page ​ Getting started Why s&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：credit&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://openrouter.ai/docs/faq&#34;&gt;https://openrouter.ai/docs/faq&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:232ffcd8a4c48761</id>
+    <title>Pricing | Mistral</title>
+    <updated>2026-10-08T18:12:53+08:00</updated>
+    <published>2026-10-08T18:11:17+08:00</published>
+    <link rel="alternate" href="https://mistral.ai/pricing"/>
+    <author><name>Mistral</name></author>
+    <category term="Mistral"/>
+    <summary type="text">Pricing Pricing Pricing Pricing USD ($) EUR (€) France Austria Belgium Bulgaria Croatia Cyprus Czech Republic Denmark Estonia Finland France Germany Greece Hungary Ireland Italy Latvia Lithuania Luxembourg Malta Netherlands Poland Portugal Romania Slovakia Slovenia Spain Sweden United Kingdom Free Y</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：Mistral&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：Pricing | Mistral&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：Pricing Pricing Pricing Pricing USD ($) EUR (€) France Austria Belgium Bulgaria Croatia Cyprus Czech Republic Denmark Estonia Finland France Germany Greece Hungary Ireland Italy Latvia Lithuania Luxembourg Malta Netherlands Poland Portugal Romania Slovakia Slovenia Spain Sweden United Kingdom Free Y&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：free&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://mistral.ai/pricing&#34;&gt;https://mistral.ai/pricing&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:305ee28d03780da2</id>
     <title>Manus 正式发布 2.0！个人 AI 助手、云电脑、远程控制，Manus 想做 AI 时代全家桶</title>
-    <updated>2026-10-08T18:11:17+08:00</updated>
+    <updated>2026-10-08T18:12:53+08:00</updated>
     <published>2026-10-08T18:11:17+08:00</published>
     <link rel="alternate" href="http://www.geekpark.net/news/371493"/>
     <author><name>资讯·极客公园</name></author>
@@ -952,13 +552,292 @@ prepaid then pay-as-you-go pricing for your production ready applications. Free 
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：邀请码&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:12:53+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;http://www.geekpark.net/news/371493&#34;&gt;http://www.geekpark.net/news/371493&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:3f41d9118eb4ec42</id>
+    <title>Google Beam expands with new regions, partners, and customers</title>
+    <updated>2026-10-08T18:12:53+08:00</updated>
+    <published>2026-10-08T18:11:17+08:00</published>
+    <link rel="alternate" href="https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/"/>
+    <author><name>Google Gemini</name></author>
+    <category term="Google Gemini"/>
+    <summary type="text">Google Beam promotional animation</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：Google Gemini&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：Google Beam expands with new regions, partners, and customers&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：Google Beam promotional animation&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：promo&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/&#34;&gt;https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:48e3941064854c6c</id>
+    <title>PPIO - 中国领先的分布式云计算服务商</title>
+    <updated>2026-10-08T18:12:53+08:00</updated>
+    <published>2026-10-08T18:11:17+08:00</published>
+    <link rel="alternate" href="https://ppio.com/"/>
+    <author><name>PPIO 派欧云</name></author>
+    <category term="PPIO 派欧云"/>
+    <summary type="text">模型服务 Agent 云服务 GPU 云服务 即将下线 新闻资讯 关于我们 文档 控制台 登录 立即注册 登录/注册 免费注册 登录 模型服务 Agent 云服务 GPU 云服务 即将下线 新闻资讯 关于我们 文档 控制台 安装 Skills › npx skills add PPIO/ppio-skills --skill {skill} For Agents 高性价比、超弹性、低延迟的产品与服务 模型服务 模态丰富、便捷接入、高性价比的模型 API 服务 大语言模型 API 稳定可靠 最新大模型 推理加速 兼容 OpenAI API 与 Anthropic API 标准，可接入 Claud</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：PPIO 派欧云&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：PPIO - 中国领先的分布式云计算服务商&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：模型服务 Agent 云服务 GPU 云服务 即将下线 新闻资讯 关于我们 文档 控制台 登录 立即注册 登录/注册 免费注册 登录 模型服务 Agent 云服务 GPU 云服务 即将下线 新闻资讯 关于我们 文档 控制台 安装 Skills › npx skills add PPIO/ppio-skills --skill {skill} For Agents 高性价比、超弹性、低延迟的产品与服务 模型服务 模态丰富、便捷接入、高性价比的模型 API 服务 大语言模型 API 稳定可靠 最新大模型 推理加速 兼容 OpenAI API 与 Anthropic API 标准，可接入 Claud&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：免费&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://ppio.com/&#34;&gt;https://ppio.com/&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:4935578386852c47</id>
+    <title>语音资源包 - MiniMax 开放平台文档中心</title>
+    <updated>2026-10-08T18:12:53+08:00</updated>
+    <published>2026-10-08T18:11:17+08:00</published>
+    <link rel="alternate" href="https://platform.minimaxi.com/document/price"/>
+    <author><name>MiniMax</name></author>
+    <category term="MiniMax"/>
+    <summary type="text">在此页面 HD 系列 Turbo 系列 API 价格 语音资源包 复制页面 复制页面 MiniMax语音资源包定价 复制页面 复制页面 ​ HD 系列 立即购买 分类 语音套餐一 （节省 10%） 语音套餐二 （节省 15%） 语音套餐三 （节省 20%） 商务定制 折扣价 ¥630 ¥5,950 ¥56,000 基于量级的额外折扣 原价 ¥700 ¥7,000 ¥70,000 —— 有效期 1 个月 3 个月 1 年 —— 总字符数量 2,000,000 字符 20,000,000 字符 200,000,000 字符 —— 功能 支持 T2A v2 / T2A async v2 接口 RPM</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：MiniMax&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：语音资源包 - MiniMax 开放平台文档中心&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：在此页面 HD 系列 Turbo 系列 API 价格 语音资源包 复制页面 复制页面 MiniMax语音资源包定价 复制页面 复制页面 ​ HD 系列 立即购买 分类 语音套餐一 （节省 10%） 语音套餐二 （节省 15%） 语音套餐三 （节省 20%） 商务定制 折扣价 ¥630 ¥5,950 ¥56,000 基于量级的额外折扣 原价 ¥700 ¥7,000 ¥70,000 —— 有效期 1 个月 3 个月 1 年 —— 总字符数量 2,000,000 字符 20,000,000 字符 200,000,000 字符 —— 功能 支持 T2A v2 / T2A async v2 接口 RPM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：折扣&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://platform.minimaxi.com/document/price&#34;&gt;https://platform.minimaxi.com/document/price&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:5737732c967f40f2</id>
+    <title>The Lenfest Institute grows landmark program with expanded OpenAI support</title>
+    <updated>2026-10-08T18:12:53+08:00</updated>
+    <published>2026-10-08T18:11:17+08:00</published>
+    <link rel="alternate" href="https://openai.com/index/lenfest-ai-collaborative-expansion"/>
+    <author><name>OpenAI</name></author>
+    <category term="OpenAI"/>
+    <summary type="text">OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：OpenAI&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：The Lenfest Institute grows landmark program with expanded OpenAI support&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：credit&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://openai.com/index/lenfest-ai-collaborative-expansion&#34;&gt;https://openai.com/index/lenfest-ai-collaborative-expansion&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:5b2e89aa12e03d93</id>
+    <title>Making Amazon Quick enterprise-ready: Automated, auditable cross-account resource promotion</title>
+    <updated>2026-10-08T18:12:53+08:00</updated>
+    <published>2026-10-08T18:11:17+08:00</published>
+    <link rel="alternate" href="https://aws.amazon.com/blogs/machine-learning/making-amazon-quick-enterprise-ready-automated-auditable-cross-account-resource-promotion/"/>
+    <author><name>AWS Bedrock</name></author>
+    <category term="AWS Bedrock"/>
+    <summary type="text">Promoting Amazon Quick resources (agents, action connectors, knowledge bases, flows, and spaces) from a development to a production AWS account has been a manual, error-prone chore. This post shows how to automate cross-account promotion with an idempotent, auditable MCP server on Amazon Bedrock AgentCore.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：AWS Bedrock&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：Making Amazon Quick enterprise-ready: Automated, auditable cross-account resource promotion&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：Promoting Amazon Quick resources (agents, action connectors, knowledge bases, flows, and spaces) from a development to a production AWS account has been a manual, error-prone chore. This post shows how to automate cross-account promotion with an idempotent, auditable MCP server on Amazon Bedrock AgentCore.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：promo&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://aws.amazon.com/blogs/machine-learning/making-amazon-quick-enterprise-ready-automated-auditable-cross-account-resource-promotion/&#34;&gt;https://aws.amazon.com/blogs/machine-learning/making-amazon-quick-enterprise-ready-automated-auditable-cross-account-resource-promotion/&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:5f5c4c0ae520c10f</id>
+    <title>Gemini Developer API pricing  |  Gemini API  |  Google AI for Developers</title>
+    <updated>2026-10-08T18:12:53+08:00</updated>
+    <published>2026-10-08T18:11:17+08:00</published>
+    <link rel="alternate" href="https://ai.google.dev/gemini-api/docs/pricing"/>
+    <author><name>Google Gemini</name></author>
+    <category term="Google Gemini"/>
+    <summary type="text">Gemini 3.8 Flash is now available. Try it out . Home Gemini API Docs Gemini Developer API pricing Start building free of charge with generous limits, then scale up with
+prepaid then pay-as-you-go pricing for your production ready applications. Free For developers and small projects getting started w</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：Google Gemini&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：Gemini Developer API pricing  |  Gemini API  |  Google AI for Developers&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：Gemini 3.8 Flash is now available. Try it out . Home Gemini API Docs Gemini Developer API pricing Start building free of charge with generous limits, then scale up with
+prepaid then pay-as-you-go pricing for your production ready applications. Free For developers and small projects getting started w&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：free&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://ai.google.dev/gemini-api/docs/pricing&#34;&gt;https://ai.google.dev/gemini-api/docs/pricing&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:5f616e62c2cce744</id>
+    <title>Plans &amp; pricing | Claude by Anthropic</title>
+    <updated>2026-10-08T18:12:53+08:00</updated>
+    <published>2026-10-08T18:11:17+08:00</published>
+    <link rel="alternate" href="https://www.anthropic.com/pricing"/>
+    <author><name>Anthropic</name></author>
+    <category term="Anthropic"/>
+    <summary type="text">Latest news Claude Cowork is now just Claude. Rolling out to Pro and Max, with more plans to follow. Read what changed (opens in new tab) Pricing Individual Team &amp; Enterprise API Free Try Claude $0 Free for everyone Try Claude Chat on web, desktop, and mobile Search the web, create files, and run co</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：Anthropic&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：Plans &amp; pricing | Claude by Anthropic&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：Latest news Claude Cowork is now just Claude. Rolling out to Pro and Max, with more plans to follow. Read what changed (opens in new tab) Pricing Individual Team &amp; Enterprise API Free Try Claude $0 Free for everyone Try Claude Chat on web, desktop, and mobile Search the web, create files, and run co&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：free&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.anthropic.com/pricing&#34;&gt;https://www.anthropic.com/pricing&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:6de87211ccd6481d</id>
+    <title>GPT-6全球上线、Claude Haiku 5.5降价，这个假期AI圈也没停</title>
+    <updated>2026-10-08T18:12:53+08:00</updated>
+    <published>2026-10-08T18:11:17+08:00</published>
+    <link rel="alternate" href="https://www.tmtpost.com/8160689.html"/>
+    <author><name>资讯·钛媒体</name></author>
+    <category term="资讯·钛媒体"/>
+    <summary type="text">成本压下来之后，下一个阶段比什么？</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·钛媒体&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：GPT-6全球上线、Claude Haiku 5.5降价，这个假期AI圈也没停&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：成本压下来之后，下一个阶段比什么？&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：降价&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.tmtpost.com/8160689.html&#34;&gt;https://www.tmtpost.com/8160689.html&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:6e463bcffe717723</id>
+    <title>Claude Sonnet 5.5</title>
+    <updated>2026-10-08T18:12:53+08:00</updated>
+    <published>2026-10-08T18:11:17+08:00</published>
+    <link rel="alternate" href="https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/"/>
+    <author><name>资讯·Simon Willison</name></author>
+    <category term="资讯·Simon Willison"/>
+    <summary type="text">&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.anthropic.com/claude-sonnet-5-5&#34;&gt;Claude Sonnet 5.5&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+New Sonnet model from Anthropic today. They say it &#34;runs 30%+ faster, and costs up to 30% less for most work&#34; - it&#39;s priced the same as Sonnet 5 but appears to beat it on every benchmark, and should be cheaper to run as well.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://tools.simonwillison.net/markdown-svg-renderer?url=https%3A%2F%2Fgist.github.com%2Fsimonw%2F1d85a9be7f3ecce26e7f1569161a0d01&#34;&gt;Here are some pelicans riding bicycles&lt;/a&gt;. Sonnet 5.5 suffered from &lt;a href=&#34;https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/#claude-opus-5-5-max-over-thinks-to-the-point-of-breaking&#34;&gt;the same bug as Opus 5.5&lt;/a&gt;: the &#34;max&#34; thinking effort pelican thought for 128,000 tokens (at a cost of $1.28) before running out of tokens and failing to produce an SVG.&lt;/p&gt;
+&lt;p&gt;Here&#39;s the pelican it gave me for thinking effort &#34;xhigh&#34;, at a cost of 5.74 cents and taking 41 seconds:&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;It&#39;s good- correct bicycle frame, legs either side of the frame, feet touching the pedals, chain in the right place, it is wearing a misshapen blue bicycle helmet though.&#34; src=&#34;https://static.simonwillison.net/static/2026/claude-sonnet-5.5-pelican-xhigh.webp&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Sonnet 5.5 appears to be almost as good as Opus 5.5 on some coding tasks, including various &lt;a href=&#34;https://x.com/claudeai/status/2104674987164782598&#34;&gt;viral 3D animation tricks&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The most interesting thing about Sonnet 5.5 is that it&#39;s now the model used for the free tier on &lt;a href=&#34;https://claude.ai/&#34;&gt;claude.ai&lt;/a&gt;. OpenAI&#39;s ChatGPT free tier uses Luna 5.6, which means Anthropic currently have a much more capable free offering.&lt;/p&gt;
+&lt;p&gt;I ran this prompt against that free tier:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;code&gt;build me an HTML page that renders a three-dimensional pelican riding a bicycle using WebGL&lt;/code&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;And got back &lt;a href=&#34;https://static.simonwillison.net/static/2026/claude-sonnet-5.5-free-3d-pelican.html&#34;&gt;this page&lt;/a&gt;, which is a solid effort.&lt;/p&gt;
+&lt;p&gt;Anthropic&#39;s announcement reiterates that Haiku 5.5 will be available &#34;in the coming weeks&#34;. I really hope that one is price-competitive with GPT-6 Luna!
+
+
+    &lt;p&gt;Tags: &lt;a href=&#34;https://simonwillison.net/tags/ai&#34;&gt;ai&lt;/a&gt;, &lt;a href=&#34;https://simonwillison.net/tags/generative-ai&#34;&gt;generative-ai&lt;/a&gt;, &lt;a href=&#34;https://simonwillison.net/tags/llms&#34;&gt;llms&lt;/a&gt;, &lt;a href=&#34;https://simonwillison.net/tags/anthropic&#34;&gt;anthropic&lt;/a&gt;, &lt;a href=&#34;https://simonwillison.net/tags/claude&#34;&gt;claude&lt;/a&gt;, &lt;a href=&#34;https://simonwillison.net/tags/pelican-riding-a-bicycle&#34;&gt;pelican-riding-a-bicycle&lt;/a&gt;, &lt;a href=&#34;https://simonwillison.net/tags/llm-release&#34;&gt;llm-release&lt;/a&gt;&lt;/p&gt;</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·Simon Willison&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：Claude Sonnet 5.5&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.anthropic.com/claude-sonnet-5-5&#34;&gt;Claude Sonnet 5.5&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+New Sonnet model from Anthropic today. They say it &#34;runs 30%+ faster, and costs up to 30% less for most work&#34; - it&#39;s priced the same as Sonnet 5 but appears to beat it on every benchmark, and should be cheaper to run as well.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://tools.simonwillison.net/markdown-svg-renderer?url=https%3A%2F%2Fgist.github.com%2Fsimonw%2F1d85a9be7f3ecce26e7f1569161a0d01&#34;&gt;Here are some pelicans riding bicycles&lt;/a&gt;. Sonnet 5.5 suffered from &lt;a href=&#34;https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/#claude-opus-5-5-max-over-thinks-to-the-point-of-breaking&#34;&gt;the same bug as Opus 5.5&lt;/a&gt;: the &#34;max&#34; thinking effort pelican thought for 128,000 tokens (at a cost of $1.28) before running out of tokens and failing to produce an SVG.&lt;/p&gt;
+&lt;p&gt;Here&#39;s the pelican it gave me for thinking effort &#34;xhigh&#34;, at a cost of 5.74 cents and taking 41 seconds:&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;It&#39;s good- correct bicycle frame, legs either side of the frame, feet touching the pedals, chain in the right place, it is wearing a misshapen blue bicycle helmet though.&#34; src=&#34;https://static.simonwillison.net/static/2026/claude-sonnet-5.5-pelican-xhigh.webp&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Sonnet 5.5 appears to be almost as good as Opus 5.5 on some coding tasks, including various &lt;a href=&#34;https://x.com/claudeai/status/2104674987164782598&#34;&gt;viral 3D animation tricks&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The most interesting thing about Sonnet 5.5 is that it&#39;s now the model used for the free tier on &lt;a href=&#34;https://claude.ai/&#34;&gt;claude.ai&lt;/a&gt;. OpenAI&#39;s ChatGPT free tier uses Luna 5.6, which means Anthropic currently have a much more capable free offering.&lt;/p&gt;
+&lt;p&gt;I ran this prompt against that free tier:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;code&gt;build me an HTML page that renders a three-dimensional pelican riding a bicycle using WebGL&lt;/code&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;And got back &lt;a href=&#34;https://static.simonwillison.net/static/2026/claude-sonnet-5.5-free-3d-pelican.html&#34;&gt;this page&lt;/a&gt;, which is a solid effort.&lt;/p&gt;
+&lt;p&gt;Anthropic&#39;s announcement reiterates that Haiku 5.5 will be available &#34;in the coming weeks&#34;. I really hope that one is price-competitive with GPT-6 Luna!
+
+
+    &lt;p&gt;Tags: &lt;a href=&#34;https://simonwillison.net/tags/ai&#34;&gt;ai&lt;/a&gt;, &lt;a href=&#34;https://simonwillison.net/tags/generative-ai&#34;&gt;generative-ai&lt;/a&gt;, &lt;a href=&#34;https://simonwillison.net/tags/llms&#34;&gt;llms&lt;/a&gt;, &lt;a href=&#34;https://simonwillison.net/tags/anthropic&#34;&gt;anthropic&lt;/a&gt;, &lt;a href=&#34;https://simonwillison.net/tags/claude&#34;&gt;claude&lt;/a&gt;, &lt;a href=&#34;https://simonwillison.net/tags/pelican-riding-a-bicycle&#34;&gt;pelican-riding-a-bicycle&lt;/a&gt;, &lt;a href=&#34;https://simonwillison.net/tags/llm-release&#34;&gt;llm-release&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：free tier&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/&#34;&gt;https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:747206776c9a56c4</id>
+    <title>Plans and Pricing | Devin</title>
+    <updated>2026-10-08T18:12:53+08:00</updated>
+    <published>2026-10-08T18:11:17+08:00</published>
+    <link rel="alternate" href="https://windsurf.com/pricing"/>
+    <author><name>Windsurf</name></author>
+    <category term="Windsurf"/>
+    <summary type="text">Product Solutions Resources Customers Pricing Blog Get a demo Login Get started Devin Plans and Pricing Choose the perfect plan for your journey SWE-2, our latest model, is now available → INDIVIDUAL PLANS Free $0 Download Light quota to code with agents Limited model availability Unlimited inline e</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：Windsurf&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：Plans and Pricing | Devin&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：Product Solutions Resources Customers Pricing Blog Get a demo Login Get started Devin Plans and Pricing Choose the perfect plan for your journey SWE-2, our latest model, is now available → INDIVIDUAL PLANS Free $0 Download Light quota to code with agents Limited model availability Unlimited inline e&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：free&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://windsurf.com/pricing&#34;&gt;https://windsurf.com/pricing&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:8a143abe5f3a9d8b</id>
+    <title>Try NVIDIA NIM APIs</title>
+    <updated>2026-10-08T18:12:53+08:00</updated>
+    <published>2026-10-08T18:11:17+08:00</published>
+    <link rel="alternate" href="https://build.nvidia.com/explore/discover"/>
+    <author><name>NVIDIA NIM</name></author>
+    <category term="NVIDIA NIM"/>
+    <summary type="text">Discover Discover Discover Explore Discover Workstations Run on RTX Run on Spark Run on Station Models Reasoning Vision Visual Design Retrieval Speech Predictive AI Biology Simulation Climate &amp; Weather Safety &amp; Moderation Industries Automotive Financial Services Healthcare Industrial Robotics Start </summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：NVIDIA NIM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：Try NVIDIA NIM APIs&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：Discover Discover Discover Explore Discover Workstations Run on RTX Run on Spark Run on Station Models Reasoning Vision Visual Design Retrieval Speech Predictive AI Biology Simulation Climate &amp; Weather Safety &amp; Moderation Industries Automotive Financial Services Healthcare Industrial Robotics Start &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：trial&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://build.nvidia.com/explore/discover&#34;&gt;https://build.nvidia.com/explore/discover&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:95b83aca5ff8baff</id>
+    <title>Fastest AI Inference Cloud and API | Cerebras</title>
+    <updated>2026-10-08T18:12:53+08:00</updated>
+    <published>2026-10-08T18:11:17+08:00</published>
+    <link rel="alternate" href="https://www.cerebras.ai/inference"/>
+    <author><name>Cerebras</name></author>
+    <category term="Cerebras"/>
+    <summary type="text">The Fastest AI Inference Cloud Get instant access to inference that’s up to 30x faster than GPU systems — build more interactive, intelligent products across coding, research, voice, automation, and more agentic use cases.​ demo free trial Unmatched Speed in Action Watch Cerebras deliver top quality</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：Cerebras&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：Fastest AI Inference Cloud and API | Cerebras&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：The Fastest AI Inference Cloud Get instant access to inference that’s up to 30x faster than GPU systems — build more interactive, intelligent products across coding, research, voice, automation, and more agentic use cases.​ demo free trial Unmatched Speed in Action Watch Cerebras deliver top quality&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：free&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.cerebras.ai/inference&#34;&gt;https://www.cerebras.ai/inference&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:a2d522c721ea08c9</id>
+    <title>新人免费额度获取及用完即停开关规则-大模型服务平台百炼(Model Studio)-阿里云帮助中心</title>
+    <updated>2026-10-08T18:12:53+08:00</updated>
+    <published>2026-10-08T17:58:35+08:00</published>
+    <link rel="alternate" href="https://help.aliyun.com/zh/model-studio/new-free-quota"/>
+    <author><name>通义千问</name></author>
+    <category term="通义千问"/>
+    <summary type="text">首页 大模型服务平台百炼 用户指南（模型） 产品计费 新人免费额度 新人免费额度 更新时间： 复制 MD 格式 产品详情 我的收藏 当您首次开通阿里云百炼时，平台会自动为您发放各模型的新人专属免费额度。 说明 仅华北 2（北京）地域模型享有免费额度，其他地域无免费额度。 未认证用户免费额度用完后无法继续调用，需完成 认证 并 充值 后方能继续按量付费。 已认证用户免费额度用完后自动转为按量付费。如需避免意外扣费，可提前开启 免费额度用完即停 ，额度耗尽时服务自动停止。 规则说明 有效期 免费额度的有效期为 90 天，从开通阿里云百炼、模型发布或模型申请通过之日起计算（以较晚者为准）。额度到期或</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：通义千问&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：新人免费额度获取及用完即停开关规则-大模型服务平台百炼(Model Studio)-阿里云帮助中心&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：首页 大模型服务平台百炼 用户指南（模型） 产品计费 新人免费额度 新人免费额度 更新时间： 复制 MD 格式 产品详情 我的收藏 当您首次开通阿里云百炼时，平台会自动为您发放各模型的新人专属免费额度。 说明 仅华北 2（北京）地域模型享有免费额度，其他地域无免费额度。 未认证用户免费额度用完后无法继续调用，需完成 认证 并 充值 后方能继续按量付费。 已认证用户免费额度用完后自动转为按量付费。如需避免意外扣费，可提前开启 免费额度用完即停 ，额度耗尽时服务自动停止。 规则说明 有效期 免费额度的有效期为 90 天，从开通阿里云百炼、模型发布或模型申请通过之日起计算（以较晚者为准）。额度到期或&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：免费&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T17:58:35+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://help.aliyun.com/zh/model-studio/new-free-quota&#34;&gt;https://help.aliyun.com/zh/model-studio/new-free-quota&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:b2b7ef18aa541fbe</id>
     <title>AMD 82 亿美元收购李飞飞 AI 创业公司；Manus 推出个人 AI 助手 CUE；今年低价手机将减少 2.3 亿部｜极客早知道</title>
-    <updated>2026-10-08T18:11:17+08:00</updated>
+    <updated>2026-10-08T18:12:53+08:00</updated>
     <published>2026-10-08T18:11:17+08:00</published>
     <link rel="alternate" href="http://www.geekpark.net/news/371359"/>
     <author><name>资讯·极客公园</name></author>
@@ -1169,13 +1048,51 @@ prepaid then pay-as-you-go pricing for your production ready applications. Free 
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：邀请码&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:12:53+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;http://www.geekpark.net/news/371359&#34;&gt;http://www.geekpark.net/news/371359&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:b3064618fbca75d9</id>
+    <title>The Den frees up 10-15 hours a week to grow with ChatGPT Work</title>
+    <updated>2026-10-08T18:12:53+08:00</updated>
+    <published>2026-10-08T18:11:17+08:00</published>
+    <link rel="alternate" href="https://openai.com/index/the-den-family-social"/>
+    <author><name>OpenAI</name></author>
+    <category term="OpenAI"/>
+    <summary type="text">As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：OpenAI&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：The Den frees up 10-15 hours a week to grow with ChatGPT Work&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：free&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://openai.com/index/the-den-family-social&#34;&gt;https://openai.com/index/the-den-family-social&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:b6de95598207771a</id>
+    <title>Hallo, Deutschland!</title>
+    <updated>2026-10-08T18:12:53+08:00</updated>
+    <published>2026-10-08T18:11:17+08:00</published>
+    <link rel="alternate" href="https://mistral.ai/news/hallo-deutschland/"/>
+    <author><name>Mistral</name></author>
+    <category term="Mistral"/>
+    <summary type="text">Mistral opens a Munich hub for Physics AI and Industrial AI research, partnering with German industry.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：Mistral&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：Hallo, Deutschland!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：Mistral opens a Munich hub for Physics AI and Industrial AI research, partnering with German industry.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：trial&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://mistral.ai/news/hallo-deutschland/&#34;&gt;https://mistral.ai/news/hallo-deutschland/&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:c79bc99fe93fb14b</id>
     <title>传 OpenAI 29 日推个人 AI 助手；AI 专家偏远地区买地，担心「AI 失控」；挖掘机能自动「挖沟」，网友：蓝翔还能开几年？</title>
-    <updated>2026-10-08T18:11:17+08:00</updated>
+    <updated>2026-10-08T18:12:53+08:00</updated>
     <published>2026-10-08T18:11:17+08:00</published>
     <link rel="alternate" href="http://www.geekpark.net/news/371044"/>
     <author><name>资讯·极客公园</name></author>
@@ -1188,75 +1105,161 @@ prepaid then pay-as-you-go pricing for your production ready applications. Free 
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：折扣&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:12:53+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;http://www.geekpark.net/news/371044&#34;&gt;http://www.geekpark.net/news/371044&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
-    <id>tag:ai-egg-monitor,2026:activity:6de87211ccd6481d</id>
-    <title>GPT-6全球上线、Claude Haiku 5.5降价，这个假期AI圈也没停</title>
-    <updated>2026-10-08T18:11:17+08:00</updated>
+    <id>tag:ai-egg-monitor,2026:activity:c90cd6038f5c59f9</id>
+    <title>Cursor · Pricing</title>
+    <updated>2026-10-08T18:12:53+08:00</updated>
     <published>2026-10-08T18:11:17+08:00</published>
-    <link rel="alternate" href="https://www.tmtpost.com/8160689.html"/>
-    <author><name>资讯·钛媒体</name></author>
-    <category term="资讯·钛媒体"/>
-    <summary type="text">成本压下来之后，下一个阶段比什么？</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·钛媒体&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：GPT-6全球上线、Claude Haiku 5.5降价，这个假期AI圈也没停&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：成本压下来之后，下一个阶段比什么？&lt;/p&gt;
+    <link rel="alternate" href="https://cursor.com/pricing"/>
+    <author><name>Cursor</name></author>
+    <category term="Cursor"/>
+    <summary type="text">Pricing Monthly Yearly Hobby For the tinkerer Free Includes: ✓ No credit card required ✓ Limited Agent requests ✓ Access to Composer Try Cursor Individual For the agent-curious $20 / mo. Pro Pro+ Ultra Everything in Hobby, plus: ✓ Extended limits on Agent ✓ Generous limits for Grok ✓ Access to front</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：Cursor&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：Cursor · Pricing&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：Pricing Monthly Yearly Hobby For the tinkerer Free Includes: ✓ No credit card required ✓ Limited Agent requests ✓ Access to Composer Try Cursor Individual For the agent-curious $20 / mo. Pro Pro+ Ultra Everything in Hobby, plus: ✓ Extended limits on Agent ✓ Generous limits for Grok ✓ Access to front&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：free&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://cursor.com/pricing&#34;&gt;https://cursor.com/pricing&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:cb7b29bd71a9e5c3</id>
+    <title>阿里云百炼模型价格-大模型服务平台百炼(Model Studio)-阿里云帮助中心</title>
+    <updated>2026-10-08T18:12:53+08:00</updated>
+    <published>2026-10-08T18:11:17+08:00</published>
+    <link rel="alternate" href="https://help.aliyun.com/zh/model-studio/billing-for-model-studio"/>
+    <author><name>通义千问</name></author>
+    <category term="通义千问"/>
+    <summary type="text">首页 大模型服务平台百炼 用户指南（模型） 产品计费 模型调用计费 模型调用价格 更新时间： 复制 MD 格式 产品详情 我的收藏 模型调用默认 按量计费 ，涵盖各类模型的计费规则与价格。 说明 本文仅展示模型调用 原价 ，请前往 百炼控制台 查看活动优惠。 说明 部分模型支持 上下文缓存 （显式缓存、隐式缓存）。缓存命中的输入 Token 及创建显式缓存的 Token 采用与标准输入不同的计费单价（例如显式缓存创建按标准输入单价的 125% 计费、命中按 10% 计费），本文价格表中的输入单价 不含 缓存单价。缓存的计费规则、单价折扣及支持的模型请参见 上下文缓存 。 阶梯计费规则 百炼部分</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：通义千问&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：阿里云百炼模型价格-大模型服务平台百炼(Model Studio)-阿里云帮助中心&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：首页 大模型服务平台百炼 用户指南（模型） 产品计费 模型调用计费 模型调用价格 更新时间： 复制 MD 格式 产品详情 我的收藏 模型调用默认 按量计费 ，涵盖各类模型的计费规则与价格。 说明 本文仅展示模型调用 原价 ，请前往 百炼控制台 查看活动优惠。 说明 部分模型支持 上下文缓存 （显式缓存、隐式缓存）。缓存命中的输入 Token 及创建显式缓存的 Token 采用与标准输入不同的计费单价（例如显式缓存创建按标准输入单价的 125% 计费、命中按 10% 计费），本文价格表中的输入单价 不含 缓存单价。缓存的计费规则、单价折扣及支持的模型请参见 上下文缓存 。 阶梯计费规则 百炼部分&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：优惠&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://help.aliyun.com/zh/model-studio/billing-for-model-studio&#34;&gt;https://help.aliyun.com/zh/model-studio/billing-for-model-studio&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:d05e995d317609f1</id>
+    <title>中国一汽、丰田汽车、广汽集团在广州签署全新战略合作框架协议</title>
+    <updated>2026-10-08T18:12:53+08:00</updated>
+    <published>2026-10-08T18:11:17+08:00</published>
+    <link rel="alternate" href="https://www.ithome.com/1/010/585.htm"/>
+    <author><name>资讯·IT之家</name></author>
+    <category term="资讯·IT之家"/>
+    <summary type="text">&lt;p&gt;IT之家 10 月 8 日消息，据广州日报报道，&lt;strong&gt;中国一汽、丰田汽车、广汽集团&lt;/strong&gt;于今日（10 月 8 日）在广东广州签署全新战略合作框架协议。广州市委书记冯忠华，市委副书记、市长孙志洋与丰田汽车社长近健太、中国一汽总经理刘亦功座谈交流并共同见证签约。&lt;/p&gt;&lt;p&gt;根据协议，中国一汽、丰田汽车与广汽集团秉持互惠互利、合作共赢基本原则，在资源整合与优化、常态化沟通协作机制、汽车电动化智能化转型、本土化经营等领域开展深入务实合作。&lt;/p&gt;&lt;p&gt;刘亦功表示，中国一汽、丰田汽车、广汽集团签署全新战略合作框架协议，是顺应国家汽车产业整合升级和高质量发展要求作出的重要探索。三方各有积淀、各有所长，特别是中国一汽与广汽集团区位互补、资源互补、能力互补，成为此次三方达成合作的坚实基础。&lt;strong&gt;未来，三方将以资本为纽带，围绕新能源转型、合资合作、技术攻关、产业链协同等领域，积极开展全方位、深层次的战略合作，携手开创“央企＋地方国企＋国际车企”的全新合作范式&lt;/strong&gt;。中国一汽将全力支持广汽集团改革发展和丰田汽车在华合资事业行稳致远，并以此次合作为契机，进一步加强与广州市委、市政府沟通协作，积极对接广州汽车产业发展需求，推动更多优质资源和合作成果落地广州，为广州经济高质量发展作出更大贡献。&lt;/p&gt;&lt;p&gt;另据界面新闻报道，广汽将通过发行股票方式收购一汽持有的一汽丰田 50% 股权。交易完成后，&lt;strong&gt;一汽丰田将继续作为独立实体运营，一汽则成为广汽的重要战略股东&lt;/strong&gt;。后续阶段，一汽丰田与广汽丰田将就研发、采购、生产及销售等职能形成联盟协作。&lt;/p&gt;&lt;p&gt;据IT之家此前报道，&lt;a href=&#34;https://www.ithome.com/1/008/135.htm&#34; target=&#34;_blank&#34;&gt;中国一汽、广汽工业于 9 月 29 日宣布签署战略合作框架协议&lt;/a&gt;，双方将依托资产资本联动，以科技创新为驱动力，逐步深化拓展合作边界，推动产业资源跨区域高效协同，携手实现经营提质增效，共促中国汽车产业发展升级。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;相关阅读：&lt;/strong&gt;&lt;/p&gt;&lt;ul class=&#34;small-size list-paddingleft-2&#34;&gt;&lt;li&gt;&lt;p&gt;《&lt;a href=&#34;https://www.ithome.com/1/009/776.htm&#34; target=&#34;_blank&#34;&gt;一汽丰田：“一汽丰田或将彻底退出历史舞台”“丰田大降价”等均为不实言论&lt;/a&gt;》&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;《&lt;a href=&#34;https://www.ithome.com/1/008/021.htm&#34; target=&#34;_blank&#34;&gt;广汽集团：拟通过发行股份购买一汽丰田 50% 股权，股票明起复牌&lt;/a&gt;》&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·IT之家&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：中国一汽、丰田汽车、广汽集团在广州签署全新战略合作框架协议&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：&lt;p&gt;IT之家 10 月 8 日消息，据广州日报报道，&lt;strong&gt;中国一汽、丰田汽车、广汽集团&lt;/strong&gt;于今日（10 月 8 日）在广东广州签署全新战略合作框架协议。广州市委书记冯忠华，市委副书记、市长孙志洋与丰田汽车社长近健太、中国一汽总经理刘亦功座谈交流并共同见证签约。&lt;/p&gt;&lt;p&gt;根据协议，中国一汽、丰田汽车与广汽集团秉持互惠互利、合作共赢基本原则，在资源整合与优化、常态化沟通协作机制、汽车电动化智能化转型、本土化经营等领域开展深入务实合作。&lt;/p&gt;&lt;p&gt;刘亦功表示，中国一汽、丰田汽车、广汽集团签署全新战略合作框架协议，是顺应国家汽车产业整合升级和高质量发展要求作出的重要探索。三方各有积淀、各有所长，特别是中国一汽与广汽集团区位互补、资源互补、能力互补，成为此次三方达成合作的坚实基础。&lt;strong&gt;未来，三方将以资本为纽带，围绕新能源转型、合资合作、技术攻关、产业链协同等领域，积极开展全方位、深层次的战略合作，携手开创“央企＋地方国企＋国际车企”的全新合作范式&lt;/strong&gt;。中国一汽将全力支持广汽集团改革发展和丰田汽车在华合资事业行稳致远，并以此次合作为契机，进一步加强与广州市委、市政府沟通协作，积极对接广州汽车产业发展需求，推动更多优质资源和合作成果落地广州，为广州经济高质量发展作出更大贡献。&lt;/p&gt;&lt;p&gt;另据界面新闻报道，广汽将通过发行股票方式收购一汽持有的一汽丰田 50% 股权。交易完成后，&lt;strong&gt;一汽丰田将继续作为独立实体运营，一汽则成为广汽的重要战略股东&lt;/strong&gt;。后续阶段，一汽丰田与广汽丰田将就研发、采购、生产及销售等职能形成联盟协作。&lt;/p&gt;&lt;p&gt;据IT之家此前报道，&lt;a href=&#34;https://www.ithome.com/1/008/135.htm&#34; target=&#34;_blank&#34;&gt;中国一汽、广汽工业于 9 月 29 日宣布签署战略合作框架协议&lt;/a&gt;，双方将依托资产资本联动，以科技创新为驱动力，逐步深化拓展合作边界，推动产业资源跨区域高效协同，携手实现经营提质增效，共促中国汽车产业发展升级。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;相关阅读：&lt;/strong&gt;&lt;/p&gt;&lt;ul class=&#34;small-size list-paddingleft-2&#34;&gt;&lt;li&gt;&lt;p&gt;《&lt;a href=&#34;https://www.ithome.com/1/009/776.htm&#34; target=&#34;_blank&#34;&gt;一汽丰田：“一汽丰田或将彻底退出历史舞台”“丰田大降价”等均为不实言论&lt;/a&gt;》&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;《&lt;a href=&#34;https://www.ithome.com/1/008/021.htm&#34; target=&#34;_blank&#34;&gt;广汽集团：拟通过发行股份购买一汽丰田 50% 股权，股票明起复牌&lt;/a&gt;》&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：降价&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.tmtpost.com/8160689.html&#34;&gt;https://www.tmtpost.com/8160689.html&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.ithome.com/1/010/585.htm&#34;&gt;https://www.ithome.com/1/010/585.htm&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
-    <id>tag:ai-egg-monitor,2026:activity:6e463bcffe717723</id>
-    <title>Claude Sonnet 5.5</title>
-    <updated>2026-10-08T18:11:17+08:00</updated>
+    <id>tag:ai-egg-monitor,2026:activity:e1bd0c80e491b141</id>
+    <title>Deploying an HSTU Generative Recommender with NVIDIA Dynamo-Triton</title>
+    <updated>2026-10-08T18:12:53+08:00</updated>
     <published>2026-10-08T18:11:17+08:00</published>
-    <link rel="alternate" href="https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/"/>
-    <author><name>资讯·Simon Willison</name></author>
-    <category term="资讯·Simon Willison"/>
-    <summary type="text">&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.anthropic.com/claude-sonnet-5-5&#34;&gt;Claude Sonnet 5.5&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-New Sonnet model from Anthropic today. They say it &#34;runs 30%+ faster, and costs up to 30% less for most work&#34; - it&#39;s priced the same as Sonnet 5 but appears to beat it on every benchmark, and should be cheaper to run as well.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://tools.simonwillison.net/markdown-svg-renderer?url=https%3A%2F%2Fgist.github.com%2Fsimonw%2F1d85a9be7f3ecce26e7f1569161a0d01&#34;&gt;Here are some pelicans riding bicycles&lt;/a&gt;. Sonnet 5.5 suffered from &lt;a href=&#34;https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/#claude-opus-5-5-max-over-thinks-to-the-point-of-breaking&#34;&gt;the same bug as Opus 5.5&lt;/a&gt;: the &#34;max&#34; thinking effort pelican thought for 128,000 tokens (at a cost of $1.28) before running out of tokens and failing to produce an SVG.&lt;/p&gt;
-&lt;p&gt;Here&#39;s the pelican it gave me for thinking effort &#34;xhigh&#34;, at a cost of 5.74 cents and taking 41 seconds:&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;It&#39;s good- correct bicycle frame, legs either side of the frame, feet touching the pedals, chain in the right place, it is wearing a misshapen blue bicycle helmet though.&#34; src=&#34;https://static.simonwillison.net/static/2026/claude-sonnet-5.5-pelican-xhigh.webp&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;Sonnet 5.5 appears to be almost as good as Opus 5.5 on some coding tasks, including various &lt;a href=&#34;https://x.com/claudeai/status/2104674987164782598&#34;&gt;viral 3D animation tricks&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;The most interesting thing about Sonnet 5.5 is that it&#39;s now the model used for the free tier on &lt;a href=&#34;https://claude.ai/&#34;&gt;claude.ai&lt;/a&gt;. OpenAI&#39;s ChatGPT free tier uses Luna 5.6, which means Anthropic currently have a much more capable free offering.&lt;/p&gt;
-&lt;p&gt;I ran this prompt against that free tier:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;code&gt;build me an HTML page that renders a three-dimensional pelican riding a bicycle using WebGL&lt;/code&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;And got back &lt;a href=&#34;https://static.simonwillison.net/static/2026/claude-sonnet-5.5-free-3d-pelican.html&#34;&gt;this page&lt;/a&gt;, which is a solid effort.&lt;/p&gt;
-&lt;p&gt;Anthropic&#39;s announcement reiterates that Haiku 5.5 will be available &#34;in the coming weeks&#34;. I really hope that one is price-competitive with GPT-6 Luna!
-
-
-    &lt;p&gt;Tags: &lt;a href=&#34;https://simonwillison.net/tags/ai&#34;&gt;ai&lt;/a&gt;, &lt;a href=&#34;https://simonwillison.net/tags/generative-ai&#34;&gt;generative-ai&lt;/a&gt;, &lt;a href=&#34;https://simonwillison.net/tags/llms&#34;&gt;llms&lt;/a&gt;, &lt;a href=&#34;https://simonwillison.net/tags/anthropic&#34;&gt;anthropic&lt;/a&gt;, &lt;a href=&#34;https://simonwillison.net/tags/claude&#34;&gt;claude&lt;/a&gt;, &lt;a href=&#34;https://simonwillison.net/tags/pelican-riding-a-bicycle&#34;&gt;pelican-riding-a-bicycle&lt;/a&gt;, &lt;a href=&#34;https://simonwillison.net/tags/llm-release&#34;&gt;llm-release&lt;/a&gt;&lt;/p&gt;</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·Simon Willison&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：Claude Sonnet 5.5&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.anthropic.com/claude-sonnet-5-5&#34;&gt;Claude Sonnet 5.5&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-New Sonnet model from Anthropic today. They say it &#34;runs 30%+ faster, and costs up to 30% less for most work&#34; - it&#39;s priced the same as Sonnet 5 but appears to beat it on every benchmark, and should be cheaper to run as well.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://tools.simonwillison.net/markdown-svg-renderer?url=https%3A%2F%2Fgist.github.com%2Fsimonw%2F1d85a9be7f3ecce26e7f1569161a0d01&#34;&gt;Here are some pelicans riding bicycles&lt;/a&gt;. Sonnet 5.5 suffered from &lt;a href=&#34;https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/#claude-opus-5-5-max-over-thinks-to-the-point-of-breaking&#34;&gt;the same bug as Opus 5.5&lt;/a&gt;: the &#34;max&#34; thinking effort pelican thought for 128,000 tokens (at a cost of $1.28) before running out of tokens and failing to produce an SVG.&lt;/p&gt;
-&lt;p&gt;Here&#39;s the pelican it gave me for thinking effort &#34;xhigh&#34;, at a cost of 5.74 cents and taking 41 seconds:&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;It&#39;s good- correct bicycle frame, legs either side of the frame, feet touching the pedals, chain in the right place, it is wearing a misshapen blue bicycle helmet though.&#34; src=&#34;https://static.simonwillison.net/static/2026/claude-sonnet-5.5-pelican-xhigh.webp&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;Sonnet 5.5 appears to be almost as good as Opus 5.5 on some coding tasks, including various &lt;a href=&#34;https://x.com/claudeai/status/2104674987164782598&#34;&gt;viral 3D animation tricks&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;The most interesting thing about Sonnet 5.5 is that it&#39;s now the model used for the free tier on &lt;a href=&#34;https://claude.ai/&#34;&gt;claude.ai&lt;/a&gt;. OpenAI&#39;s ChatGPT free tier uses Luna 5.6, which means Anthropic currently have a much more capable free offering.&lt;/p&gt;
-&lt;p&gt;I ran this prompt against that free tier:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;code&gt;build me an HTML page that renders a three-dimensional pelican riding a bicycle using WebGL&lt;/code&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;And got back &lt;a href=&#34;https://static.simonwillison.net/static/2026/claude-sonnet-5.5-free-3d-pelican.html&#34;&gt;this page&lt;/a&gt;, which is a solid effort.&lt;/p&gt;
-&lt;p&gt;Anthropic&#39;s announcement reiterates that Haiku 5.5 will be available &#34;in the coming weeks&#34;. I really hope that one is price-competitive with GPT-6 Luna!
-
-
-    &lt;p&gt;Tags: &lt;a href=&#34;https://simonwillison.net/tags/ai&#34;&gt;ai&lt;/a&gt;, &lt;a href=&#34;https://simonwillison.net/tags/generative-ai&#34;&gt;generative-ai&lt;/a&gt;, &lt;a href=&#34;https://simonwillison.net/tags/llms&#34;&gt;llms&lt;/a&gt;, &lt;a href=&#34;https://simonwillison.net/tags/anthropic&#34;&gt;anthropic&lt;/a&gt;, &lt;a href=&#34;https://simonwillison.net/tags/claude&#34;&gt;claude&lt;/a&gt;, &lt;a href=&#34;https://simonwillison.net/tags/pelican-riding-a-bicycle&#34;&gt;pelican-riding-a-bicycle&lt;/a&gt;, &lt;a href=&#34;https://simonwillison.net/tags/llm-release&#34;&gt;llm-release&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;
+    <link rel="alternate" href="https://developer.nvidia.com/blog/deploying-an-hstu-generative-recommender-with-nvidia-dynamo-triton/"/>
+    <author><name>NVIDIA NIM</name></author>
+    <category term="NVIDIA NIM"/>
+    <summary type="text">&lt;img alt=&#34;&#34; class=&#34;webfeedsFeaturedVisual wp-post-image&#34; height=&#34;432&#34; src=&#34;https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/recsys-768x432.jpg&#34; style=&#34;display: block; margin-bottom: 5px; clear: both;&#34; title=&#34;RecSys - Promo - Recsys Summit 2023 - 2912182&#34; width=&#34;768&#34; /&gt;Generative recommender (GR) systems are emerging as a powerful new approach for large-scale personalization. Instead of treating recommendation as a set of...</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：NVIDIA NIM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：Deploying an HSTU Generative Recommender with NVIDIA Dynamo-Triton&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：&lt;img alt=&#34;&#34; class=&#34;webfeedsFeaturedVisual wp-post-image&#34; height=&#34;432&#34; src=&#34;https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/recsys-768x432.jpg&#34; style=&#34;display: block; margin-bottom: 5px; clear: both;&#34; title=&#34;RecSys - Promo - Recsys Summit 2023 - 2912182&#34; width=&#34;768&#34; /&gt;Generative recommender (GR) systems are emerging as a powerful new approach for large-scale personalization. Instead of treating recommendation as a set of...&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：free tier&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：promo&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://developer.nvidia.com/blog/deploying-an-hstu-generative-recommender-with-nvidia-dynamo-triton/&#34;&gt;https://developer.nvidia.com/blog/deploying-an-hstu-generative-recommender-with-nvidia-dynamo-triton/&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:fa59899fb80cc144</id>
+    <title>Pricing – Replicate</title>
+    <updated>2026-10-08T18:12:53+08:00</updated>
+    <published>2026-10-08T18:11:17+08:00</published>
+    <link rel="alternate" href="https://replicate.com/pricing"/>
+    <author><name>Replicate</name></author>
+    <category term="Replicate"/>
+    <summary type="text">Alibaba logo Wan 3.0 is 30% off this week Replicate glyph Explore Pricing Enterprise Docs Blog Sign in Try for free Menu Explore Pricing Enterprise Docs Blog Sign in Try for free Compare models in the Playground Pricing You only pay for what you use on Replicate. Some models are billed by hardware a</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：Replicate&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：Pricing – Replicate&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：Alibaba logo Wan 3.0 is 30% off this week Replicate glyph Explore Pricing Enterprise Docs Blog Sign in Try for free Menu Explore Pricing Enterprise Docs Blog Sign in Try for free Compare models in the Playground Pricing You only pay for what you use on Replicate. Some models are billed by hardware a&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：free&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://replicate.com/pricing&#34;&gt;https://replicate.com/pricing&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:ff49e507d89b30cd</id>
+    <title>Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission</title>
+    <updated>2026-10-08T18:12:53+08:00</updated>
+    <published>2026-10-08T18:11:17+08:00</published>
+    <link rel="alternate" href="https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/"/>
+    <author><name>Google Gemini</name></author>
+    <category term="Google Gemini"/>
+    <summary type="text">Google commits $40M in AI tokens and credits for the Genesis Mission</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：Google Gemini&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：Google commits $40M in AI tokens and credits for the Genesis Mission&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：credit&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/&#34;&gt;https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:471b7b657ecfc70e</id>
+    <title>Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Global Industrial AIoT Platforms</title>
+    <updated>2026-10-08T18:12:53+08:00</updated>
+    <published>2026-10-08T18:12:53+08:00</published>
+    <link rel="alternate" href="https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-global-industrial-aiot-platforms/"/>
+    <author><name>Azure AI</name></author>
+    <category term="Azure AI"/>
+    <summary type="text">&lt;p&gt;We’re proud to share that Microsoft has been named a Leader in the 2026 Gartner® Magic Quadrant™ for Global Industrial AIoT Platforms.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&#34;https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-global-industrial-aiot-platforms/&#34;&gt;Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Global Industrial AIoT Platforms&lt;/a&gt; appeared first on &lt;a href=&#34;https://azure.microsoft.com/en-us/blog&#34;&gt;Microsoft Azure Blog&lt;/a&gt;.&lt;/p&gt;</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：Azure AI&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Global Industrial AIoT Platforms&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：&lt;p&gt;We’re proud to share that Microsoft has been named a Leader in the 2026 Gartner® Magic Quadrant™ for Global Industrial AIoT Platforms.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&#34;https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-global-industrial-aiot-platforms/&#34;&gt;Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Global Industrial AIoT Platforms&lt;/a&gt; appeared first on &lt;a href=&#34;https://azure.microsoft.com/en-us/blog&#34;&gt;Microsoft Azure Blog&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：trial&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-global-industrial-aiot-platforms/&#34;&gt;https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-global-industrial-aiot-platforms/&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:f8c0f63e701da0df</id>
+    <title>模型推理价格说明 - Kimi API 开放平台</title>
+    <updated>2026-10-08T18:11:17+08:00</updated>
+    <published>2026-10-08T18:11:17+08:00</published>
+    <link rel="alternate" href="https://platform.moonshot.cn/docs/pricing/chat"/>
+    <author><name>月之暗面 Kimi</name></author>
+    <category term="月之暗面 Kimi"/>
+    <summary type="text">模型推理定价 模型推理价格说明 复制页面 复制页面 了解 Kimi 模型推理的 token 计费单位、输入输出计费方式、缓存优惠和各模型价格入口。 复制页面 复制页面 ​ 模型定价 ​ K3 系列模型 注： 缓存写入 是指将请求前缀写入 上下文缓存 所产生的费用。Kimi API 对重复的请求前缀自动启用上下文缓存，缓存条目按有效期（TTL）分为 5min 和 1h 两档，不指定 TTL 时默认按 5min 档。在有效期内命中缓存的输入仅按”输入价格（缓存命中）“计费，命中后缓存有效期自动续期，不再收取缓存写入费用。 ​ K2 系列模型 此处 1M = 1,000,000，表格中的价格代表每消</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：月之暗面 Kimi&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：模型推理价格说明 - Kimi API 开放平台&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：模型推理定价 模型推理价格说明 复制页面 复制页面 了解 Kimi 模型推理的 token 计费单位、输入输出计费方式、缓存优惠和各模型价格入口。 复制页面 复制页面 ​ 模型定价 ​ K3 系列模型 注： 缓存写入 是指将请求前缀写入 上下文缓存 所产生的费用。Kimi API 对重复的请求前缀自动启用上下文缓存，缓存条目按有效期（TTL）分为 5min 和 1h 两档，不指定 TTL 时默认按 5min 档。在有效期内命中缓存的输入仅按”输入价格（缓存命中）“计费，命中后缓存有效期自动续期，不再收取缓存写入费用。 ​ K2 系列模型 此处 1M = 1,000,000，表格中的价格代表每消&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：优惠&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/&#34;&gt;https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://platform.moonshot.cn/docs/pricing/chat&#34;&gt;https://platform.moonshot.cn/docs/pricing/chat&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>

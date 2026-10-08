@@ -5,193 +5,8 @@
     <link>https://ikeng.github.io/model-egg-monitor/</link>
     <description>每日两次监控大模型厂商活动，提供 Atom / JSON Feed 订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 08 Oct 2026 18:11:39 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 18:13:18 +0800</lastBuildDate>
     <generator>ai-egg-monitor</generator>
-    <item>
-      <title>新人免费额度获取及用完即停开关规则-大模型服务平台百炼(Model Studio)-阿里云帮助中心</title>
-      <link>https://help.aliyun.com/zh/model-studio/new-free-quota</link>
-      <description>首页 大模型服务平台百炼 用户指南（模型） 产品计费 新人免费额度 新人免费额度 更新时间： 复制 MD 格式 产品详情 我的收藏 当您首次开通阿里云百炼时，平台会自动为您发放各模型的新人专属免费额度。 说明 仅华北 2（北京）地域模型享有免费额度，其他地域无免费额度。 未认证用户免费额度用完后无法继续调用，需完成 认证 并 充值 后方能继续按量付费。 已认证用户免费额度用完后自动转为按量付费。如需避免意外扣费，可提前开启 免费额度用完即停 ，额度耗尽时服务自动停止。 规则说明 有效期 免费额度的有效期为 90 天，从开通阿里云百炼、模型发布或模型申请通过之日起计算（以较晚者为准）。额度到期或</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:a2d522c721ea08c9</guid>
-      <pubDate>Thu, 08 Oct 2026 17:58:35 +0800</pubDate>
-      <category>通义千问</category>
-    </item>
-    <item>
-      <title>阿里云百炼模型价格-大模型服务平台百炼(Model Studio)-阿里云帮助中心</title>
-      <link>https://help.aliyun.com/zh/model-studio/billing-for-model-studio</link>
-      <description>首页 大模型服务平台百炼 用户指南（模型） 产品计费 模型调用计费 模型调用价格 更新时间： 复制 MD 格式 产品详情 我的收藏 模型调用默认 按量计费 ，涵盖各类模型的计费规则与价格。 说明 本文仅展示模型调用 原价 ，请前往 百炼控制台 查看活动优惠。 说明 部分模型支持 上下文缓存 （显式缓存、隐式缓存）。缓存命中的输入 Token 及创建显式缓存的 Token 采用与标准输入不同的计费单价（例如显式缓存创建按标准输入单价的 125% 计费、命中按 10% 计费），本文价格表中的输入单价 不含 缓存单价。缓存的计费规则、单价折扣及支持的模型请参见 上下文缓存 。 阶梯计费规则 百炼部分</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:cb7b29bd71a9e5c3</guid>
-      <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
-      <category>通义千问</category>
-    </item>
-    <item>
-      <title>模型推理价格说明 - Kimi API 开放平台</title>
-      <link>https://platform.moonshot.cn/docs/pricing/chat</link>
-      <description>模型推理定价 模型推理价格说明 复制页面 复制页面 了解 Kimi 模型推理的 token 计费单位、输入输出计费方式、缓存优惠和各模型价格入口。 复制页面 复制页面 ​ 模型定价 ​ K3 系列模型 注： 缓存写入 是指将请求前缀写入 上下文缓存 所产生的费用。Kimi API 对重复的请求前缀自动启用上下文缓存，缓存条目按有效期（TTL）分为 5min 和 1h 两档，不指定 TTL 时默认按 5min 档。在有效期内命中缓存的输入仅按”输入价格（缓存命中）“计费，命中后缓存有效期自动续期，不再收取缓存写入费用。 ​ K2 系列模型 此处 1M = 1,000,000，表格中的价格代表每消</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:f8c0f63e701da0df</guid>
-      <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
-      <category>月之暗面 Kimi</category>
-    </item>
-    <item>
-      <title>腾讯混元大模型 混元生文计费概述_腾讯云</title>
-      <link>https://cloud.tencent.com/document/product/1729/97731</link>
-      <description>腾讯云 最新活动 大模型 产品 解决方案 定价 企业中心 云市场 开发者 客户支持 合作与生态 了解腾讯云 搜索 腾讯混元大模型 文档中心 入门中心 API 中心 SDK 中心 文档活动 我的反馈 帮你快速理解、总结文档 立即下载 文档中心 &gt; 腾讯混元大模型 &gt; 购买指南 &gt; 混元生文计费概述 混元生文计费概述 最近更新时间： 2026-06-26 10:56:00 微信扫一扫 QQ 新浪微博 复制链接 链接复制成功 我的收藏 本页目录： 计费方式 开通方式 免费额度 混元生文价格说明 token 后付费 计费与结算方式 费用计算示例 后付费 注意： 为进一步提升大模型服务体验，腾讯混元大模</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:1918e08679b03d3d</guid>
-      <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
-      <category>腾讯混元</category>
-    </item>
-    <item>
-      <title>语音资源包 - MiniMax 开放平台文档中心</title>
-      <link>https://platform.minimaxi.com/document/price</link>
-      <description>在此页面 HD 系列 Turbo 系列 API 价格 语音资源包 复制页面 复制页面 MiniMax语音资源包定价 复制页面 复制页面 ​ HD 系列 立即购买 分类 语音套餐一 （节省 10%） 语音套餐二 （节省 15%） 语音套餐三 （节省 20%） 商务定制 折扣价 ¥630 ¥5,950 ¥56,000 基于量级的额外折扣 原价 ¥700 ¥7,000 ¥70,000 —— 有效期 1 个月 3 个月 1 年 —— 总字符数量 2,000,000 字符 20,000,000 字符 200,000,000 字符 —— 功能 支持 T2A v2 / T2A async v2 接口 RPM</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:4935578386852c47</guid>
-      <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
-      <category>MiniMax</category>
-    </item>
-    <item>
-      <title>PPIO - 中国领先的分布式云计算服务商</title>
-      <link>https://ppio.com/</link>
-      <description>模型服务 Agent 云服务 GPU 云服务 即将下线 新闻资讯 关于我们 文档 控制台 登录 立即注册 登录/注册 免费注册 登录 模型服务 Agent 云服务 GPU 云服务 即将下线 新闻资讯 关于我们 文档 控制台 安装 Skills › npx skills add PPIO/ppio-skills --skill {skill} For Agents 高性价比、超弹性、低延迟的产品与服务 模型服务 模态丰富、便捷接入、高性价比的模型 API 服务 大语言模型 API 稳定可靠 最新大模型 推理加速 兼容 OpenAI API 与 Anthropic API 标准，可接入 Claud</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:48e3941064854c6c</guid>
-      <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
-      <category>PPIO 派欧云</category>
-    </item>
-    <item>
-      <title>The Den frees up 10-15 hours a week to grow with ChatGPT Work</title>
-      <link>https://openai.com/index/the-den-family-social</link>
-      <description>As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:b3064618fbca75d9</guid>
-      <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
-      <category>OpenAI</category>
-    </item>
-    <item>
-      <title>The Lenfest Institute grows landmark program with expanded OpenAI support</title>
-      <link>https://openai.com/index/lenfest-ai-collaborative-expansion</link>
-      <description>OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:5737732c967f40f2</guid>
-      <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
-      <category>OpenAI</category>
-    </item>
-    <item>
-      <title>Plans &amp; pricing | Claude by Anthropic</title>
-      <link>https://www.anthropic.com/pricing</link>
-      <description>Latest news Claude Cowork is now just Claude. Rolling out to Pro and Max, with more plans to follow. Read what changed (opens in new tab) Pricing Individual Team &amp; Enterprise API Free Try Claude $0 Free for everyone Try Claude Chat on web, desktop, and mobile Search the web, create files, and run co</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:5f616e62c2cce744</guid>
-      <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
-      <category>Anthropic</category>
-    </item>
-    <item>
-      <title>Gemini Developer API pricing  |  Gemini API  |  Google AI for Developers</title>
-      <link>https://ai.google.dev/gemini-api/docs/pricing</link>
-      <description>Gemini 3.8 Flash is now available. Try it out . Home Gemini API Docs Gemini Developer API pricing Start building free of charge with generous limits, then scale up with
-prepaid then pay-as-you-go pricing for your production ready applications. Free For developers and small projects getting started w</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:5f5c4c0ae520c10f</guid>
-      <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
-      <category>Google Gemini</category>
-    </item>
-    <item>
-      <title>Google Beam expands with new regions, partners, and customers</title>
-      <link>https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/</link>
-      <description>Google Beam promotional animation</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:3f41d9118eb4ec42</guid>
-      <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
-      <category>Google Gemini</category>
-    </item>
-    <item>
-      <title>Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission</title>
-      <link>https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/</link>
-      <description>Google commits $40M in AI tokens and credits for the Genesis Mission</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:ff49e507d89b30cd</guid>
-      <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
-      <category>Google Gemini</category>
-    </item>
-    <item>
-      <title>Pricing | Mistral</title>
-      <link>https://mistral.ai/pricing</link>
-      <description>Pricing Pricing Pricing Pricing USD ($) EUR (€) France Austria Belgium Bulgaria Croatia Cyprus Czech Republic Denmark Estonia Finland France Germany Greece Hungary Ireland Italy Latvia Lithuania Luxembourg Malta Netherlands Poland Portugal Romania Slovakia Slovenia Spain Sweden United Kingdom Free Y</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:232ffcd8a4c48761</guid>
-      <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
-      <category>Mistral</category>
-    </item>
-    <item>
-      <title>Hallo, Deutschland!</title>
-      <link>https://mistral.ai/news/hallo-deutschland/</link>
-      <description>Mistral opens a Munich hub for Physics AI and Industrial AI research, partnering with German industry.</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:b6de95598207771a</guid>
-      <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
-      <category>Mistral</category>
-    </item>
-    <item>
-      <title>Pricing – Replicate</title>
-      <link>https://replicate.com/pricing</link>
-      <description>Alibaba logo Wan 3.0 is 30% off this week Replicate glyph Explore Pricing Enterprise Docs Blog Sign in Try for free Menu Explore Pricing Enterprise Docs Blog Sign in Try for free Compare models in the Playground Pricing You only pay for what you use on Replicate. Some models are billed by hardware a</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:fa59899fb80cc144</guid>
-      <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
-      <category>Replicate</category>
-    </item>
-    <item>
-      <title>Fastest AI Inference Cloud and API | Cerebras</title>
-      <link>https://www.cerebras.ai/inference</link>
-      <description>The Fastest AI Inference Cloud Get instant access to inference that’s up to 30x faster than GPU systems — build more interactive, intelligent products across coding, research, voice, automation, and more agentic use cases.​ demo free trial Unmatched Speed in Action Watch Cerebras deliver top quality</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:95b83aca5ff8baff</guid>
-      <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
-      <category>Cerebras</category>
-    </item>
-    <item>
-      <title>OpenRouter FAQ</title>
-      <link>https://openrouter.ai/docs/faq</link>
-      <description>On this page Getting started Pricing and fees Models and providers API technical specifications Privacy and data logging Credit and billing systems Account management Overview Frequently Asked Questions Copy page Copy page Common questions about OpenRouter Copy page Copy page ​ Getting started Why s</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:1d3f6027b51f1841</guid>
-      <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
-      <category>OpenRouter</category>
-    </item>
-    <item>
-      <title>Cursor · Pricing</title>
-      <link>https://cursor.com/pricing</link>
-      <description>Pricing Monthly Yearly Hobby For the tinkerer Free Includes: ✓ No credit card required ✓ Limited Agent requests ✓ Access to Composer Try Cursor Individual For the agent-curious $20 / mo. Pro Pro+ Ultra Everything in Hobby, plus: ✓ Extended limits on Agent ✓ Generous limits for Grok ✓ Access to front</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:c90cd6038f5c59f9</guid>
-      <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
-      <category>Cursor</category>
-    </item>
-    <item>
-      <title>Plans and Pricing | Devin</title>
-      <link>https://windsurf.com/pricing</link>
-      <description>Product Solutions Resources Customers Pricing Blog Get a demo Login Get started Devin Plans and Pricing Choose the perfect plan for your journey SWE-2, our latest model, is now available → INDIVIDUAL PLANS Free $0 Download Light quota to code with agents Limited model availability Unlimited inline e</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:747206776c9a56c4</guid>
-      <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
-      <category>Windsurf</category>
-    </item>
-    <item>
-      <title>Deploying an HSTU Generative Recommender with NVIDIA Dynamo-Triton</title>
-      <link>https://developer.nvidia.com/blog/deploying-an-hstu-generative-recommender-with-nvidia-dynamo-triton/</link>
-      <description>&lt;img alt=&#34;&#34; class=&#34;webfeedsFeaturedVisual wp-post-image&#34; height=&#34;432&#34; src=&#34;https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/recsys-768x432.jpg&#34; style=&#34;display: block; margin-bottom: 5px; clear: both;&#34; title=&#34;RecSys - Promo - Recsys Summit 2023 - 2912182&#34; width=&#34;768&#34; /&gt;Generative recommender (GR) systems are emerging as a powerful new approach for large-scale personalization. Instead of treating recommendation as a set of...</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:e1bd0c80e491b141</guid>
-      <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
-      <category>NVIDIA NIM</category>
-    </item>
-    <item>
-      <title>Try NVIDIA NIM APIs</title>
-      <link>https://build.nvidia.com/explore/discover</link>
-      <description>Discover Discover Discover Explore Discover Workstations Run on RTX Run on Spark Run on Station Models Reasoning Vision Visual Design Retrieval Speech Predictive AI Biology Simulation Climate &amp; Weather Safety &amp; Moderation Industries Automotive Financial Services Healthcare Industrial Robotics Start </description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:8a143abe5f3a9d8b</guid>
-      <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
-      <category>NVIDIA NIM</category>
-    </item>
-    <item>
-      <title>Making Amazon Quick enterprise-ready: Automated, auditable cross-account resource promotion</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/making-amazon-quick-enterprise-ready-automated-auditable-cross-account-resource-promotion/</link>
-      <description>Promoting Amazon Quick resources (agents, action connectors, knowledge bases, flows, and spaces) from a development to a production AWS account has been a manual, error-prone chore. This post shows how to automate cross-account promotion with an idempotent, auditable MCP server on Amazon Bedrock AgentCore.</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:5b2e89aa12e03d93</guid>
-      <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
-      <category>AWS Bedrock</category>
-    </item>
-    <item>
-      <title>中国一汽、丰田汽车、广汽集团在广州签署全新战略合作框架协议</title>
-      <link>https://www.ithome.com/1/010/585.htm</link>
-      <description>&lt;p&gt;IT之家 10 月 8 日消息，据广州日报报道，&lt;strong&gt;中国一汽、丰田汽车、广汽集团&lt;/strong&gt;于今日（10 月 8 日）在广东广州签署全新战略合作框架协议。广州市委书记冯忠华，市委副书记、市长孙志洋与丰田汽车社长近健太、中国一汽总经理刘亦功座谈交流并共同见证签约。&lt;/p&gt;&lt;p&gt;根据协议，中国一汽、丰田汽车与广汽集团秉持互惠互利、合作共赢基本原则，在资源整合与优化、常态化沟通协作机制、汽车电动化智能化转型、本土化经营等领域开展深入务实合作。&lt;/p&gt;&lt;p&gt;刘亦功表示，中国一汽、丰田汽车、广汽集团签署全新战略合作框架协议，是顺应国家汽车产业整合升级和高质量发展要求作出的重要探索。三方各有积淀、各有所长，特别是中国一汽与广汽集团区位互补、资源互补、能力互补，成为此次三方达成合作的坚实基础。&lt;strong&gt;未来，三方将以资本为纽带，围绕新能源转型、合资合作、技术攻关、产业链协同等领域，积极开展全方位、深层次的战略合作，携手开创“央企＋地方国企＋国际车企”的全新合作范式&lt;/strong&gt;。中国一汽将全力支持广汽集团改革发展和丰田汽车在华合资事业行稳致远，并以此次合作为契机，进一步加强与广州市委、市政府沟通协作，积极对接广州汽车产业发展需求，推动更多优质资源和合作成果落地广州，为广州经济高质量发展作出更大贡献。&lt;/p&gt;&lt;p&gt;另据界面新闻报道，广汽将通过发行股票方式收购一汽持有的一汽丰田 50% 股权。交易完成后，&lt;strong&gt;一汽丰田将继续作为独立实体运营，一汽则成为广汽的重要战略股东&lt;/strong&gt;。后续阶段，一汽丰田与广汽丰田将就研发、采购、生产及销售等职能形成联盟协作。&lt;/p&gt;&lt;p&gt;据IT之家此前报道，&lt;a href=&#34;https://www.ithome.com/1/008/135.htm&#34; target=&#34;_blank&#34;&gt;中国一汽、广汽工业于 9 月 29 日宣布签署战略合作框架协议&lt;/a&gt;，双方将依托资产资本联动，以科技创新为驱动力，逐步深化拓展合作边界，推动产业资源跨区域高效协同，携手实现经营提质增效，共促中国汽车产业发展升级。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;相关阅读：&lt;/strong&gt;&lt;/p&gt;&lt;ul class=&#34;small-size list-paddingleft-2&#34;&gt;&lt;li&gt;&lt;p&gt;《&lt;a href=&#34;https://www.ithome.com/1/009/776.htm&#34; target=&#34;_blank&#34;&gt;一汽丰田：“一汽丰田或将彻底退出历史舞台”“丰田大降价”等均为不实言论&lt;/a&gt;》&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;《&lt;a href=&#34;https://www.ithome.com/1/008/021.htm&#34; target=&#34;_blank&#34;&gt;广汽集团：拟通过发行股份购买一汽丰田 50% 股权，股票明起复牌&lt;/a&gt;》&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:d05e995d317609f1</guid>
-      <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
-      <category>资讯·IT之家</category>
-    </item>
     <item>
       <title>英伟达股价创新高，逼近 6 万亿美元；限制 AI 助手，苹果收紧 MacOS 磁盘访问权限；arXiv 每人每月仅允许投递 2 篇论文</title>
       <link>http://www.geekpark.net/news/372070</link>
@@ -263,6 +78,14 @@ prepaid then pay-as-you-go pricing for your production ready applications. Free 
       <category>资讯·极客公园</category>
     </item>
     <item>
+      <title>腾讯混元大模型 混元生文计费概述_腾讯云</title>
+      <link>https://cloud.tencent.com/document/product/1729/97731</link>
+      <description>腾讯云 最新活动 大模型 产品 解决方案 定价 企业中心 云市场 开发者 客户支持 合作与生态 了解腾讯云 搜索 腾讯混元大模型 文档中心 入门中心 API 中心 SDK 中心 文档活动 我的反馈 帮你快速理解、总结文档 立即下载 文档中心 &gt; 腾讯混元大模型 &gt; 购买指南 &gt; 混元生文计费概述 混元生文计费概述 最近更新时间： 2026-06-26 10:56:00 微信扫一扫 QQ 新浪微博 复制链接 链接复制成功 我的收藏 本页目录： 计费方式 开通方式 免费额度 混元生文价格说明 token 后付费 计费与结算方式 费用计算示例 后付费 注意： 为进一步提升大模型服务体验，腾讯混元大模</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:1918e08679b03d3d</guid>
+      <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
+      <category>腾讯混元</category>
+    </item>
+    <item>
       <title>苹果首款触屏 Macbook 或 10 月发布；AI 能力成本三年下降数千倍创纪录；美人形机器人跳入熔炉，致敬《终结者 2》</title>
       <link>http://www.geekpark.net/news/372069</link>
       <description>&lt;p style=&#34;text-align: left;&#34;&gt;&lt;img src=&#34;https://imgslim.geekpark.net/uploads/image/file/1a/85/1a8539a71d6383f12a59ab9f1c99f8d4.png&#34; /&gt;&lt;/p&gt;
@@ -332,6 +155,22 @@ prepaid then pay-as-you-go pricing for your production ready applications. Free 
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:1a487eae5d13e635</guid>
       <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
       <category>资讯·极客公园</category>
+    </item>
+    <item>
+      <title>OpenRouter FAQ</title>
+      <link>https://openrouter.ai/docs/faq</link>
+      <description>On this page Getting started Pricing and fees Models and providers API technical specifications Privacy and data logging Credit and billing systems Account management Overview Frequently Asked Questions Copy page Copy page Common questions about OpenRouter Copy page Copy page ​ Getting started Why s</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:1d3f6027b51f1841</guid>
+      <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
+      <category>OpenRouter</category>
+    </item>
+    <item>
+      <title>Pricing | Mistral</title>
+      <link>https://mistral.ai/pricing</link>
+      <description>Pricing Pricing Pricing Pricing USD ($) EUR (€) France Austria Belgium Bulgaria Croatia Cyprus Czech Republic Denmark Estonia Finland France Germany Greece Hungary Ireland Italy Latvia Lithuania Luxembourg Malta Netherlands Poland Portugal Romania Slovakia Slovenia Spain Sweden United Kingdom Free Y</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:232ffcd8a4c48761</guid>
+      <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
+      <category>Mistral</category>
     </item>
     <item>
       <title>Manus 正式发布 2.0！个人 AI 助手、云电脑、远程控制，Manus 想做 AI 时代全家桶</title>
@@ -430,6 +269,126 @@ prepaid then pay-as-you-go pricing for your production ready applications. Free 
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:305ee28d03780da2</guid>
       <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
       <category>资讯·极客公园</category>
+    </item>
+    <item>
+      <title>Google Beam expands with new regions, partners, and customers</title>
+      <link>https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/</link>
+      <description>Google Beam promotional animation</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:3f41d9118eb4ec42</guid>
+      <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
+      <category>Google Gemini</category>
+    </item>
+    <item>
+      <title>PPIO - 中国领先的分布式云计算服务商</title>
+      <link>https://ppio.com/</link>
+      <description>模型服务 Agent 云服务 GPU 云服务 即将下线 新闻资讯 关于我们 文档 控制台 登录 立即注册 登录/注册 免费注册 登录 模型服务 Agent 云服务 GPU 云服务 即将下线 新闻资讯 关于我们 文档 控制台 安装 Skills › npx skills add PPIO/ppio-skills --skill {skill} For Agents 高性价比、超弹性、低延迟的产品与服务 模型服务 模态丰富、便捷接入、高性价比的模型 API 服务 大语言模型 API 稳定可靠 最新大模型 推理加速 兼容 OpenAI API 与 Anthropic API 标准，可接入 Claud</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:48e3941064854c6c</guid>
+      <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
+      <category>PPIO 派欧云</category>
+    </item>
+    <item>
+      <title>语音资源包 - MiniMax 开放平台文档中心</title>
+      <link>https://platform.minimaxi.com/document/price</link>
+      <description>在此页面 HD 系列 Turbo 系列 API 价格 语音资源包 复制页面 复制页面 MiniMax语音资源包定价 复制页面 复制页面 ​ HD 系列 立即购买 分类 语音套餐一 （节省 10%） 语音套餐二 （节省 15%） 语音套餐三 （节省 20%） 商务定制 折扣价 ¥630 ¥5,950 ¥56,000 基于量级的额外折扣 原价 ¥700 ¥7,000 ¥70,000 —— 有效期 1 个月 3 个月 1 年 —— 总字符数量 2,000,000 字符 20,000,000 字符 200,000,000 字符 —— 功能 支持 T2A v2 / T2A async v2 接口 RPM</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:4935578386852c47</guid>
+      <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
+      <category>MiniMax</category>
+    </item>
+    <item>
+      <title>The Lenfest Institute grows landmark program with expanded OpenAI support</title>
+      <link>https://openai.com/index/lenfest-ai-collaborative-expansion</link>
+      <description>OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:5737732c967f40f2</guid>
+      <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
+      <category>OpenAI</category>
+    </item>
+    <item>
+      <title>Making Amazon Quick enterprise-ready: Automated, auditable cross-account resource promotion</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/making-amazon-quick-enterprise-ready-automated-auditable-cross-account-resource-promotion/</link>
+      <description>Promoting Amazon Quick resources (agents, action connectors, knowledge bases, flows, and spaces) from a development to a production AWS account has been a manual, error-prone chore. This post shows how to automate cross-account promotion with an idempotent, auditable MCP server on Amazon Bedrock AgentCore.</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:5b2e89aa12e03d93</guid>
+      <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
+      <category>AWS Bedrock</category>
+    </item>
+    <item>
+      <title>Gemini Developer API pricing  |  Gemini API  |  Google AI for Developers</title>
+      <link>https://ai.google.dev/gemini-api/docs/pricing</link>
+      <description>Gemini 3.8 Flash is now available. Try it out . Home Gemini API Docs Gemini Developer API pricing Start building free of charge with generous limits, then scale up with
+prepaid then pay-as-you-go pricing for your production ready applications. Free For developers and small projects getting started w</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:5f5c4c0ae520c10f</guid>
+      <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
+      <category>Google Gemini</category>
+    </item>
+    <item>
+      <title>Plans &amp; pricing | Claude by Anthropic</title>
+      <link>https://www.anthropic.com/pricing</link>
+      <description>Latest news Claude Cowork is now just Claude. Rolling out to Pro and Max, with more plans to follow. Read what changed (opens in new tab) Pricing Individual Team &amp; Enterprise API Free Try Claude $0 Free for everyone Try Claude Chat on web, desktop, and mobile Search the web, create files, and run co</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:5f616e62c2cce744</guid>
+      <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
+      <category>Anthropic</category>
+    </item>
+    <item>
+      <title>GPT-6全球上线、Claude Haiku 5.5降价，这个假期AI圈也没停</title>
+      <link>https://www.tmtpost.com/8160689.html</link>
+      <description>成本压下来之后，下一个阶段比什么？</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:6de87211ccd6481d</guid>
+      <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
+      <category>资讯·钛媒体</category>
+    </item>
+    <item>
+      <title>Claude Sonnet 5.5</title>
+      <link>https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/</link>
+      <description>&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.anthropic.com/claude-sonnet-5-5&#34;&gt;Claude Sonnet 5.5&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+New Sonnet model from Anthropic today. They say it &#34;runs 30%+ faster, and costs up to 30% less for most work&#34; - it&#39;s priced the same as Sonnet 5 but appears to beat it on every benchmark, and should be cheaper to run as well.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://tools.simonwillison.net/markdown-svg-renderer?url=https%3A%2F%2Fgist.github.com%2Fsimonw%2F1d85a9be7f3ecce26e7f1569161a0d01&#34;&gt;Here are some pelicans riding bicycles&lt;/a&gt;. Sonnet 5.5 suffered from &lt;a href=&#34;https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/#claude-opus-5-5-max-over-thinks-to-the-point-of-breaking&#34;&gt;the same bug as Opus 5.5&lt;/a&gt;: the &#34;max&#34; thinking effort pelican thought for 128,000 tokens (at a cost of $1.28) before running out of tokens and failing to produce an SVG.&lt;/p&gt;
+&lt;p&gt;Here&#39;s the pelican it gave me for thinking effort &#34;xhigh&#34;, at a cost of 5.74 cents and taking 41 seconds:&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;It&#39;s good- correct bicycle frame, legs either side of the frame, feet touching the pedals, chain in the right place, it is wearing a misshapen blue bicycle helmet though.&#34; src=&#34;https://static.simonwillison.net/static/2026/claude-sonnet-5.5-pelican-xhigh.webp&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Sonnet 5.5 appears to be almost as good as Opus 5.5 on some coding tasks, including various &lt;a href=&#34;https://x.com/claudeai/status/2104674987164782598&#34;&gt;viral 3D animation tricks&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The most interesting thing about Sonnet 5.5 is that it&#39;s now the model used for the free tier on &lt;a href=&#34;https://claude.ai/&#34;&gt;claude.ai&lt;/a&gt;. OpenAI&#39;s ChatGPT free tier uses Luna 5.6, which means Anthropic currently have a much more capable free offering.&lt;/p&gt;
+&lt;p&gt;I ran this prompt against that free tier:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;code&gt;build me an HTML page that renders a three-dimensional pelican riding a bicycle using WebGL&lt;/code&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;And got back &lt;a href=&#34;https://static.simonwillison.net/static/2026/claude-sonnet-5.5-free-3d-pelican.html&#34;&gt;this page&lt;/a&gt;, which is a solid effort.&lt;/p&gt;
+&lt;p&gt;Anthropic&#39;s announcement reiterates that Haiku 5.5 will be available &#34;in the coming weeks&#34;. I really hope that one is price-competitive with GPT-6 Luna!
+
+
+    &lt;p&gt;Tags: &lt;a href=&#34;https://simonwillison.net/tags/ai&#34;&gt;ai&lt;/a&gt;, &lt;a href=&#34;https://simonwillison.net/tags/generative-ai&#34;&gt;generative-ai&lt;/a&gt;, &lt;a href=&#34;https://simonwillison.net/tags/llms&#34;&gt;llms&lt;/a&gt;, &lt;a href=&#34;https://simonwillison.net/tags/anthropic&#34;&gt;anthropic&lt;/a&gt;, &lt;a href=&#34;https://simonwillison.net/tags/claude&#34;&gt;claude&lt;/a&gt;, &lt;a href=&#34;https://simonwillison.net/tags/pelican-riding-a-bicycle&#34;&gt;pelican-riding-a-bicycle&lt;/a&gt;, &lt;a href=&#34;https://simonwillison.net/tags/llm-release&#34;&gt;llm-release&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:6e463bcffe717723</guid>
+      <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
+      <category>资讯·Simon Willison</category>
+    </item>
+    <item>
+      <title>Plans and Pricing | Devin</title>
+      <link>https://windsurf.com/pricing</link>
+      <description>Product Solutions Resources Customers Pricing Blog Get a demo Login Get started Devin Plans and Pricing Choose the perfect plan for your journey SWE-2, our latest model, is now available → INDIVIDUAL PLANS Free $0 Download Light quota to code with agents Limited model availability Unlimited inline e</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:747206776c9a56c4</guid>
+      <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
+      <category>Windsurf</category>
+    </item>
+    <item>
+      <title>Try NVIDIA NIM APIs</title>
+      <link>https://build.nvidia.com/explore/discover</link>
+      <description>Discover Discover Discover Explore Discover Workstations Run on RTX Run on Spark Run on Station Models Reasoning Vision Visual Design Retrieval Speech Predictive AI Biology Simulation Climate &amp; Weather Safety &amp; Moderation Industries Automotive Financial Services Healthcare Industrial Robotics Start </description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:8a143abe5f3a9d8b</guid>
+      <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
+      <category>NVIDIA NIM</category>
+    </item>
+    <item>
+      <title>Fastest AI Inference Cloud and API | Cerebras</title>
+      <link>https://www.cerebras.ai/inference</link>
+      <description>The Fastest AI Inference Cloud Get instant access to inference that’s up to 30x faster than GPU systems — build more interactive, intelligent products across coding, research, voice, automation, and more agentic use cases.​ demo free trial Unmatched Speed in Action Watch Cerebras deliver top quality</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:95b83aca5ff8baff</guid>
+      <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
+      <category>Cerebras</category>
+    </item>
+    <item>
+      <title>新人免费额度获取及用完即停开关规则-大模型服务平台百炼(Model Studio)-阿里云帮助中心</title>
+      <link>https://help.aliyun.com/zh/model-studio/new-free-quota</link>
+      <description>首页 大模型服务平台百炼 用户指南（模型） 产品计费 新人免费额度 新人免费额度 更新时间： 复制 MD 格式 产品详情 我的收藏 当您首次开通阿里云百炼时，平台会自动为您发放各模型的新人专属免费额度。 说明 仅华北 2（北京）地域模型享有免费额度，其他地域无免费额度。 未认证用户免费额度用完后无法继续调用，需完成 认证 并 充值 后方能继续按量付费。 已认证用户免费额度用完后自动转为按量付费。如需避免意外扣费，可提前开启 免费额度用完即停 ，额度耗尽时服务自动停止。 规则说明 有效期 免费额度的有效期为 90 天，从开通阿里云百炼、模型发布或模型申请通过之日起计算（以较晚者为准）。额度到期或</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:a2d522c721ea08c9</guid>
+      <pubDate>Thu, 08 Oct 2026 17:58:35 +0800</pubDate>
+      <category>通义千问</category>
     </item>
     <item>
       <title>AMD 82 亿美元收购李飞飞 AI 创业公司；Manus 推出个人 AI 助手 CUE；今年低价手机将减少 2.3 亿部｜极客早知道</title>
@@ -539,6 +498,22 @@ prepaid then pay-as-you-go pricing for your production ready applications. Free 
       <category>资讯·极客公园</category>
     </item>
     <item>
+      <title>The Den frees up 10-15 hours a week to grow with ChatGPT Work</title>
+      <link>https://openai.com/index/the-den-family-social</link>
+      <description>As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:b3064618fbca75d9</guid>
+      <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
+      <category>OpenAI</category>
+    </item>
+    <item>
+      <title>Hallo, Deutschland!</title>
+      <link>https://mistral.ai/news/hallo-deutschland/</link>
+      <description>Mistral opens a Munich hub for Physics AI and Industrial AI research, partnering with German industry.</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:b6de95598207771a</guid>
+      <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
+      <category>Mistral</category>
+    </item>
+    <item>
       <title>传 OpenAI 29 日推个人 AI 助手；AI 专家偏远地区买地，担心「AI 失控」；挖掘机能自动「挖沟」，网友：蓝翔还能开几年？</title>
       <link>http://www.geekpark.net/news/371044</link>
       <description>&lt;p style=&#34;text-align: center;&#34;&gt;&lt;img src=&#34;https://imgslim.geekpark.net/uploads/image/file/d6/78/d678b52737e79ba9795dfdc014363ccd.png&#34; /&gt;&lt;/p&gt;&lt;h1&gt;消息称 OpenAI 将推出常驻 AI 助手「O」，预计 9 月 29 日发布&lt;/h1&gt;&lt;p&gt;9 月 27 日消息，据消息人士 Alexey Shabanov 昨日透露，OpenAI 即将推出一款常驻 AI 助手，其代号为「O」，预计将在 9 月 29 日的 OpenAI DevDay 推出。&lt;/p&gt;&lt;p style=&#34;text-align: center;&#34;&gt;&lt;img src=&#34;https://imgslim.geekpark.net/uploads/image/file/28/c2/28c2ba9d1abbe87b3eca0d49c48add53.jpg&#34; /&gt;&lt;/p&gt;&lt;p&gt;据报道，ChatGPT 的配置文件中已经出现了许多与「O」相关的线索，包括将「O」设置为显示名称、配置「-o」的电子邮件后缀。综合这些线索来看，这款智能体预计将能够在普通聊天之外持续运行，还可能拥有独立身份。&lt;/p&gt;&lt;p&gt;同时该项目可能与「Aeon」有关。此前已有消息称，Aeon 是 OpenAI 常驻型智能体项目使用的名称。不过我们目前尚不清楚它支持哪些任务、具备拥有何种权限，以及是否支持定时任务、记忆功能或何时开放。&lt;/p&gt;&lt;p&gt;值得注意的是，此前曾有传闻称 OpenAI 正在研究一款甜甜圈形状的硬件。因此这些项目如果能产生关联，单字母代号可能会成为一种有趣的双关。（来源：IT 之家）&lt;/p&gt;&lt;p style=&#34;text-align: center;&#34;&gt;&lt;img src=&#34;https://imgslim.geekpark.net/uploads/image/file/57/c6/57c63c3153019055d2b242f2323939f0.png&#34; /&gt;&lt;/p&gt;&lt;h1&gt;部分 Anthropic 资深员工考虑在偏远地区购置土地，以防「AI 失控」&lt;/h1&gt;&lt;p&gt;9 月 27 日消息，为防范人工智能彻底失控，Anthropic 的数位资深员工正在悄然制定具体的应急预案。&lt;/p&gt;&lt;p&gt;据华尔街日报于当地时间 9 月 26 日报道，最近数周内，Anthropic 的部分早期员工曾向业界同行透露，他们正打算在美国偏远荒僻的地区购置土地建造隐匿点，以便在「AI 走向失控反噬」之际举家撤离避难。&lt;/p&gt;&lt;p&gt;对这个圈子而言，「逃离 AI」的念头早已屡见不鲜。据早期离职员工回忆，早在 Anthropic 创立初期的公司聚餐中，大家就曾热烈推演过一种极具「曼哈顿计划式假想」的情景：他们未来可能随时被政府征调至荒芜的沙漠深处，在具备全套防电磁脉冲屏蔽功能的绝密军事基地内，闭门继续研发前沿 AI。&lt;/p&gt;&lt;p&gt;据报道，Anthropic 员工们在内部的私密 Slack 频道中推演各类末日毁灭情景并探讨应对预案；他们甚至将一句格言制成贴纸贴在笔记本电脑外壳上，将其奉为行事信条：「一切再难重归平静」。&lt;/p&gt;&lt;p&gt;针对这一文化现象，Anthropic 发言人回应称，公司目前拥有超过 3,500 名员工，内部对于技术的探讨呈现出极其多元的观点与立场。（来源：IT 之家）&lt;/p&gt;&lt;h1&gt;上线 66 万英伟达 Blackwell GPU，马斯克要把 Colossus 2 建成全球最大 AI&lt;/h1&gt;&lt;p&gt;9 月 27 日消息，马斯克旗下 AI 公司 xAI 正推进位于孟菲斯的 Colossus 数据中心项目。该项目于 2024 年开工建设，一期工程 Colossus 1 已投入运营，主要采用英伟达 Hopper GPU；二期工程 Colossus 2 同样落地孟菲斯，并将主要采用英伟达 Blackwell GB300 GPU。&lt;/p&gt;&lt;p&gt;马斯克表示，Colossus 2 计划在 2026 年底前上线 66 万块英伟达 Blackwell GPU，整体部署规模超过 50 万块 AI GPU。&lt;/p&gt;&lt;p&gt;由于 GPU 是人工智能建设中最稀缺的资源之一，Colossus 2 被视为全球最大数据中心之一。xAI 借鉴特斯拉的做法，将 Colossus 称为其计算领域的「超级工厂」。&lt;/p&gt;&lt;p&gt;对于 Colossus 2，马斯克称其当前运行着 11 万块 GB200 GPU 和 44 万块 GB300 GPU。他还给出了分阶段上线计划：本周末将再上线 22 万块 GB300，11 月底再增加 22 万块，最后一批 22 万块预计在 2026 年 12 月底前上线。&lt;/p&gt;&lt;p&gt;马斯克的最新表态，是其围绕 xAI 算力扩张的一系列评论之一。他声称，xAI 应能达到 Anthropic 的模型和 OpenAI 的 GPT-6 模型水平，并认为这些目标有望在未来两到三个月内实现。他同时强调，「快速实现大规模在线计算极其困难」。（来源：快科技）&lt;/p&gt;&lt;h1&gt;腾讯《三角洲行动》官宣联动国产武侠游戏《影之刃零》&lt;/h1&gt;&lt;p&gt;9 月 27 日消息，9 月 26 日，腾讯 FPS 游戏《三角洲行动》官宣联动国产武侠游戏《影之刃零》，敬请期待。&lt;/p&gt;&lt;p style=&#34;text-align: center;&#34;&gt;&lt;img src=&#34;https://imgslim.geekpark.net/uploads/image/file/8c/8e/8c8e18a946de01e0a786b7e1ec8ec54f.jpg&#34; /&gt;&lt;/p&gt;&lt;p&gt;《影之刃零》游戏确定于 10 月 29 日正式发售，各平台预购已经开放。游戏首发登陆 PS5、PS5 Pro，以及 Steam、Epic、WeGame、TapTap PC 平台。国区定价分为两档，数字标准版 268 元，数字豪华版 328 元，预购可获得专属游戏奖励。除此之外，灵游坊还提供了限量 20000 套的实体收藏版礼盒。&lt;/p&gt;&lt;p&gt;据此前报道，《影之刃零》采用虚幻 5 引擎开发，是一款暗黑武侠动作游戏。故事讲述主角只剩 66 天寿命，需在混乱的武林中追查阴谋。&lt;/p&gt;&lt;p&gt;游戏提供 30 多款主武器，可搭配不同副武器，每把武器均有专属招式，兼顾新手与硬核玩家的游玩需求。（来源：IT 之家）&lt;/p&gt;&lt;p style=&#34;text-align: center;&#34;&gt;&lt;img src=&#34;https://imgslim.geekpark.net/uploads/image/file/bc/41/bc41abe366cadf2d3910e8fc21eb0213.png&#34; /&gt;&lt;/p&gt;&lt;h1&gt;黑客在暗网兜售 AI 模型访问权限，最低价仅有正版 3%&lt;/h1&gt;&lt;p&gt;9 月 28 日消息，据英国《金融时报》当地时间 26 日报道，非法获取 AI 模型和算力，正迅速成为网络犯罪黑市上最抢手的商品，黑客希望借助价格高昂的大模型实施勒索、网络战和间谍活动。&lt;/p&gt;&lt;p&gt;谷歌威胁情报团队首席分析师约翰 · 霍特奎斯特披露，今年所谓「LLM 劫持」活动明显增多，具体表现于倒卖公开 AI 工具的被盗登录凭据，以及部分团体盗用他人算力，以免费运行自己的模型。&lt;/p&gt;&lt;p&gt;霍特奎斯特警告，攻击者能够以低廉价格使用原本昂贵的 AI，从而在成本上占据优势，被攻击方为了防御同样需要使用这些 AI 工具。&lt;/p&gt;&lt;p&gt;谷歌威胁情报团队研究人员发现，暗网市场出售 Anthropic、谷歌和 OpenAI 等公司的 AI 模型使用权限，折扣最高达到 97%。&lt;/p&gt;&lt;p&gt;霍特奎斯特称，AI 实验室会监测滥用迹象，因此部分卖家甚至推出「保证访问」服务，承诺初始账户一旦遭到封禁，就不收取额外费用，直接提供新的登录凭据。还有一些犯罪团体和国家支持的组织会入侵企业托管在云端的服务器，再植入自己的 AI 模型，利用受害者的系统运行模型。&lt;/p&gt;&lt;p&gt;霍特奎斯特警告，越来越多大型企业希望把定制 AI 模型部署在自有服务器上，不再向云服务商租用算力，企业自行运行的 AI 系统也会随之成为攻击目标，因此必须严密保护。「如果你需要自己为算力付费，而且成本可能非常高…… 这部分算力就会成为威胁行为者眼中的重要潜在资源。」（来源：IT 之家）&lt;/p&gt;&lt;h1&gt;「第二代豆包手机」玩《王者荣耀》遭强制下线，称暂未收到腾讯回复&lt;/h1&gt;&lt;p&gt;9 月 27 日消息，9 月 25 日，字节跳动旗下豆包手机助手发布声明称，从 9 月 24 日晚上开始陆续收到多条用户反馈，在搭载了豆包手机助手的努比亚 NaviX Ultra 上，登录《王者荣耀》或进行匹配对战时，会出现提示设备环境异常、被强制踢下线的情况。&lt;/p&gt;&lt;p style=&#34;text-align: center;&#34;&gt;&lt;img src=&#34;https://imgslim.geekpark.net/uploads/image/file/97/3a/973ac75e7434764234e45bd4a215a383.jpg&#34; /&gt;&lt;/p&gt;&lt;p&gt;豆包手机助手在声明中提到，经过确认全程未对腾讯游戏系统进行任何操作，AI 也不存在任何违规点击、外挂或模拟行为。目前团队仍在持续与腾讯相关方接洽沟通，但截至目前暂未收到对方的明确回复。&lt;/p&gt;&lt;p&gt;「对此我们深表歉意。同时，也建议用户暂时不要在努比亚 NaviX Ultra 上反复尝试登录《王者荣耀》。如果您的账号已经出现被封禁等情况，建议同步通过官方游戏客服渠道进行申诉 / 投诉，以便更快恢复账号。」声明提到。（来源：IT 之家）&lt;/p&gt;&lt;h1&gt;小鹏汇天创始人：普通人「打飞的」至少再等 5 年 票价仅比滴滴贵一点&lt;/h1&gt;&lt;p&gt;9 月 27 日消息，据报道，在 2026 岳麓大会「AI 湘潮智启未来」论坛上，小鹏汇天创始人赵德力透露了飞行汽车走入普通人生活的时间表和票价预期。他表示，接下来的几年内会有飞行汽车示范运行，等示范运行确保足够安全之后，普通人「打飞的」至少还得 5 年。&lt;/p&gt;&lt;p&gt;关于飞行汽车的实际体验，赵德力给出了具体参数：空中飞行速度大约一分钟两公里，20 公里的城市通勤路程仅需 10 分钟即可抵达。&lt;/p&gt;&lt;p&gt;票价方面，赵德力强调「大家都能消费得起，就比现在的滴滴稍微贵一点点」，并非外界想象的天价出行方式。&lt;/p&gt;&lt;p&gt;在应用场景的推进路径上，赵德力规划了四个阶段：首先从应急救援开始，逐步扩展到娱乐飞行和体验飞行，再过渡到日常通勤，最终实现人人可飞。（来源：快科技）&lt;/p&gt;&lt;p style=&#34;text-align: center;&#34;&gt;&lt;img src=&#34;https://imgslim.geekpark.net/uploads/image/file/a7/92/a7927938e161cea86679bcdc6c3e829e.png&#34; /&gt;&lt;/p&gt;&lt;h1&gt;预售 11.99 万起，北京现代艾尼氪 IONIQ V 车型 9 月 29 日上市&lt;/h1&gt;&lt;p&gt;9 月 27 日消息，据汽车之家报道，北京现代旗下全新中型车——艾尼氪 IONIQ V 将于 9 月 29 日完成上市。该车于 8 月 21 日的成都车展亮相，预售起价为 11.99 万元。&lt;/p&gt;&lt;p style=&#34;text-align: center;&#34;&gt;&lt;img src=&#34;https://imgslim.geekpark.net/uploads/image/file/4f/f5/4ff56693cc9e39b1b6b4c2380350345d.png&#34; /&gt;&lt;/p&gt;&lt;p&gt;艾尼氪 V 相关售价信息如下：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;标准版 540 Max：预售价 11.99 万元，CTLC 纯电续航 540 公里&lt;/li&gt;&lt;li&gt;高端智驾版本 540 Max+：预售价 12.99 万元，CTLC 纯电续航 540 公里&lt;/li&gt;&lt;li&gt;长续航 650 Max+：预售价 13.99 万元，CTLC 纯电续航 650 公里&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;艾尼氪 V 设计均由现代中国设计中心全程主导，为中国用户量身定制，并反向输出全球。车辆提供赛博金、次元紫、伽马绿、磁力灰、光子白（素色漆）、光子白（哑光漆）、流光银、夜刃黑等 8 款颜色。&lt;/p&gt;&lt;p&gt;整体采用极其前卫的轿跑溜背式造型，车身比例呈现低重心、宽体化的视觉效果。其车侧采用无框式车门，车尾为次元星轨尾灯样式。&lt;/p&gt;&lt;p&gt;座舱方面，新车车内配备星云环抱式内饰设计，27 英寸超薄 4K 超大屏，星云光影氛围灯，赛博之眼 HUD。车辆深度融合 Momenta、高通 8295 芯片、宁德时代、文心大模型、火山引擎。&lt;/p&gt;&lt;p&gt;规格方面，这款车型长宽高分别为 4900/1890/1470mm，轴距为 2900mm，基于 E-GMP 纯电平台打造，支持纯电 / 增程双动力，具备 800V 快充。（来源：IT 之家）&lt;/p&gt;&lt;h1&gt;第八代宝马 3 系 9 月 30 日全球首发，首次同时覆盖纯电和燃油动力&lt;/h1&gt;&lt;p&gt;9 月 27 日消息，宝马集团官方宣布，第八代宝马 3 系将于 9 月 30 日迎来全球首发，新车将首次同时覆盖纯电和燃油动力。&lt;/p&gt;&lt;p style=&#34;text-align: center;&#34;&gt;&lt;img src=&#34;https://imgslim.geekpark.net/uploads/image/file/86/e4/86e46580a517468c3b0b79edd65b7fca.jpg&#34; /&gt;&lt;/p&gt;&lt;p&gt;今年 8 月，宝马 BMW 3 系中国累计销量突破 200 万辆。宝马 3 系是宝马公司生产的中型豪华运动轿车，自 1975 年推出以来历经七代革新，全球累计销量超千万辆，被誉为品牌最具代表性的车型。2026 年 3 月 3 日，宝马集团宣布 2026 款宝马 3 系等马年版车型正式上市，售价 31.8 万元起。&lt;/p&gt;&lt;p&gt;此前消息显示，宝马新 3 系在设计风格上仍会保留 Neue Klasse 时代的基本前脸，大灯和双肾格栅可能略有不同，该车继续使用升级后的 CLAR 平台。不过内饰预计会与 i3 和 iX3 保持高度一致，采用宝马最新的信息娱乐系统以及 Panoramic iDrive 抬头显示。（来源：IT 之家）&lt;/p&gt;&lt;p style=&#34;text-align: center;&#34;&gt;&lt;img src=&#34;https://imgslim.geekpark.net/uploads/image/file/26/b0/26b0667385f1d68771509fe0b18b55d6.png&#34; /&gt;&lt;/p&gt;&lt;h1&gt;挖掘机也带智驾自动挖沟，网友：蓝翔还能开几年？&lt;/h1&gt;&lt;p&gt;近日，一段「挖掘机用软件自动挖沟」的视频在短视频平台走红。视频显示，一台挖掘机通过车载智能引导软件，仅需设定进出水口两个点位和开挖深度，便能自动完成排水沟的开挖作业，全程无需人工反复修整，引发网友热议。&lt;/p&gt;&lt;p&gt;从视频画面来看，操作手使用的软件名为「挖机宝」，界面集成了工程管理、挖机管理和铲斗管理等模块。软件功能矩阵涵盖快速 8 大施工场景，顶部状态栏显示「固定解」和「惯导优」，表明卫星定位信号已达到厘米级精度。&lt;/p&gt;&lt;p style=&#34;text-align: center;&#34;&gt;&lt;img src=&#34;https://imgslim.geekpark.net/uploads/image/file/ab/d4/abd42d01fea1c850527592b11c8b392a.png&#34; /&gt;&lt;/p&gt;&lt;p&gt;操作手还演示了挖沟功能的完整流程，视频中使用的并非传统梯形挖斗，而是一把定制方形小斗。操作手介绍，传统挖斗挖出的沟槽呈上大下小的梯形，需要来回修整；而这把定制方斗一铲下去直接成型，两侧壁面整齐，无需二次修边，最后一铲收尾即可完成。&lt;/p&gt;&lt;p&gt;据了解，这类挖掘机智能引导系统目前在国内已有华测导航「易挖宝」、中海达 3D 引导系统、司南导航 XE300 等多款产品落地。&lt;/p&gt;&lt;p&gt;核心原理均基于北斗 GNSS 高精度定位加 IMU 惯导，结合安装在挖掘机大臂、斗杆上的角度传感器，实时计算铲斗齿尖的三维坐标，从而实现厘米级施工引导。&lt;/p&gt;&lt;p&gt;沃尔沃、卡特彼勒等国际品牌也推出了类似的 Dig Assist、Grade Assist 辅助系统。&lt;/p&gt;&lt;p&gt;视频引起关注后，有网友调侃称：「蓝翔技校还能开几年」、「这算不算挖掘机也带智驾功能」、「都 2026 年了，到底啥时候能用电脑控制挖掘机炒菜啊」。（来源：快科技）&lt;/p&gt;</description>
@@ -547,35 +522,69 @@ prepaid then pay-as-you-go pricing for your production ready applications. Free 
       <category>资讯·极客公园</category>
     </item>
     <item>
-      <title>GPT-6全球上线、Claude Haiku 5.5降价，这个假期AI圈也没停</title>
-      <link>https://www.tmtpost.com/8160689.html</link>
-      <description>成本压下来之后，下一个阶段比什么？</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:6de87211ccd6481d</guid>
+      <title>Cursor · Pricing</title>
+      <link>https://cursor.com/pricing</link>
+      <description>Pricing Monthly Yearly Hobby For the tinkerer Free Includes: ✓ No credit card required ✓ Limited Agent requests ✓ Access to Composer Try Cursor Individual For the agent-curious $20 / mo. Pro Pro+ Ultra Everything in Hobby, plus: ✓ Extended limits on Agent ✓ Generous limits for Grok ✓ Access to front</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:c90cd6038f5c59f9</guid>
       <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
-      <category>资讯·钛媒体</category>
+      <category>Cursor</category>
     </item>
     <item>
-      <title>Claude Sonnet 5.5</title>
-      <link>https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/</link>
-      <description>&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.anthropic.com/claude-sonnet-5-5&#34;&gt;Claude Sonnet 5.5&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-New Sonnet model from Anthropic today. They say it &#34;runs 30%+ faster, and costs up to 30% less for most work&#34; - it&#39;s priced the same as Sonnet 5 but appears to beat it on every benchmark, and should be cheaper to run as well.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://tools.simonwillison.net/markdown-svg-renderer?url=https%3A%2F%2Fgist.github.com%2Fsimonw%2F1d85a9be7f3ecce26e7f1569161a0d01&#34;&gt;Here are some pelicans riding bicycles&lt;/a&gt;. Sonnet 5.5 suffered from &lt;a href=&#34;https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/#claude-opus-5-5-max-over-thinks-to-the-point-of-breaking&#34;&gt;the same bug as Opus 5.5&lt;/a&gt;: the &#34;max&#34; thinking effort pelican thought for 128,000 tokens (at a cost of $1.28) before running out of tokens and failing to produce an SVG.&lt;/p&gt;
-&lt;p&gt;Here&#39;s the pelican it gave me for thinking effort &#34;xhigh&#34;, at a cost of 5.74 cents and taking 41 seconds:&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;It&#39;s good- correct bicycle frame, legs either side of the frame, feet touching the pedals, chain in the right place, it is wearing a misshapen blue bicycle helmet though.&#34; src=&#34;https://static.simonwillison.net/static/2026/claude-sonnet-5.5-pelican-xhigh.webp&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;Sonnet 5.5 appears to be almost as good as Opus 5.5 on some coding tasks, including various &lt;a href=&#34;https://x.com/claudeai/status/2104674987164782598&#34;&gt;viral 3D animation tricks&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;The most interesting thing about Sonnet 5.5 is that it&#39;s now the model used for the free tier on &lt;a href=&#34;https://claude.ai/&#34;&gt;claude.ai&lt;/a&gt;. OpenAI&#39;s ChatGPT free tier uses Luna 5.6, which means Anthropic currently have a much more capable free offering.&lt;/p&gt;
-&lt;p&gt;I ran this prompt against that free tier:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;code&gt;build me an HTML page that renders a three-dimensional pelican riding a bicycle using WebGL&lt;/code&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;And got back &lt;a href=&#34;https://static.simonwillison.net/static/2026/claude-sonnet-5.5-free-3d-pelican.html&#34;&gt;this page&lt;/a&gt;, which is a solid effort.&lt;/p&gt;
-&lt;p&gt;Anthropic&#39;s announcement reiterates that Haiku 5.5 will be available &#34;in the coming weeks&#34;. I really hope that one is price-competitive with GPT-6 Luna!
-
-
-    &lt;p&gt;Tags: &lt;a href=&#34;https://simonwillison.net/tags/ai&#34;&gt;ai&lt;/a&gt;, &lt;a href=&#34;https://simonwillison.net/tags/generative-ai&#34;&gt;generative-ai&lt;/a&gt;, &lt;a href=&#34;https://simonwillison.net/tags/llms&#34;&gt;llms&lt;/a&gt;, &lt;a href=&#34;https://simonwillison.net/tags/anthropic&#34;&gt;anthropic&lt;/a&gt;, &lt;a href=&#34;https://simonwillison.net/tags/claude&#34;&gt;claude&lt;/a&gt;, &lt;a href=&#34;https://simonwillison.net/tags/pelican-riding-a-bicycle&#34;&gt;pelican-riding-a-bicycle&lt;/a&gt;, &lt;a href=&#34;https://simonwillison.net/tags/llm-release&#34;&gt;llm-release&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:6e463bcffe717723</guid>
+      <title>阿里云百炼模型价格-大模型服务平台百炼(Model Studio)-阿里云帮助中心</title>
+      <link>https://help.aliyun.com/zh/model-studio/billing-for-model-studio</link>
+      <description>首页 大模型服务平台百炼 用户指南（模型） 产品计费 模型调用计费 模型调用价格 更新时间： 复制 MD 格式 产品详情 我的收藏 模型调用默认 按量计费 ，涵盖各类模型的计费规则与价格。 说明 本文仅展示模型调用 原价 ，请前往 百炼控制台 查看活动优惠。 说明 部分模型支持 上下文缓存 （显式缓存、隐式缓存）。缓存命中的输入 Token 及创建显式缓存的 Token 采用与标准输入不同的计费单价（例如显式缓存创建按标准输入单价的 125% 计费、命中按 10% 计费），本文价格表中的输入单价 不含 缓存单价。缓存的计费规则、单价折扣及支持的模型请参见 上下文缓存 。 阶梯计费规则 百炼部分</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:cb7b29bd71a9e5c3</guid>
       <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
-      <category>资讯·Simon Willison</category>
+      <category>通义千问</category>
+    </item>
+    <item>
+      <title>中国一汽、丰田汽车、广汽集团在广州签署全新战略合作框架协议</title>
+      <link>https://www.ithome.com/1/010/585.htm</link>
+      <description>&lt;p&gt;IT之家 10 月 8 日消息，据广州日报报道，&lt;strong&gt;中国一汽、丰田汽车、广汽集团&lt;/strong&gt;于今日（10 月 8 日）在广东广州签署全新战略合作框架协议。广州市委书记冯忠华，市委副书记、市长孙志洋与丰田汽车社长近健太、中国一汽总经理刘亦功座谈交流并共同见证签约。&lt;/p&gt;&lt;p&gt;根据协议，中国一汽、丰田汽车与广汽集团秉持互惠互利、合作共赢基本原则，在资源整合与优化、常态化沟通协作机制、汽车电动化智能化转型、本土化经营等领域开展深入务实合作。&lt;/p&gt;&lt;p&gt;刘亦功表示，中国一汽、丰田汽车、广汽集团签署全新战略合作框架协议，是顺应国家汽车产业整合升级和高质量发展要求作出的重要探索。三方各有积淀、各有所长，特别是中国一汽与广汽集团区位互补、资源互补、能力互补，成为此次三方达成合作的坚实基础。&lt;strong&gt;未来，三方将以资本为纽带，围绕新能源转型、合资合作、技术攻关、产业链协同等领域，积极开展全方位、深层次的战略合作，携手开创“央企＋地方国企＋国际车企”的全新合作范式&lt;/strong&gt;。中国一汽将全力支持广汽集团改革发展和丰田汽车在华合资事业行稳致远，并以此次合作为契机，进一步加强与广州市委、市政府沟通协作，积极对接广州汽车产业发展需求，推动更多优质资源和合作成果落地广州，为广州经济高质量发展作出更大贡献。&lt;/p&gt;&lt;p&gt;另据界面新闻报道，广汽将通过发行股票方式收购一汽持有的一汽丰田 50% 股权。交易完成后，&lt;strong&gt;一汽丰田将继续作为独立实体运营，一汽则成为广汽的重要战略股东&lt;/strong&gt;。后续阶段，一汽丰田与广汽丰田将就研发、采购、生产及销售等职能形成联盟协作。&lt;/p&gt;&lt;p&gt;据IT之家此前报道，&lt;a href=&#34;https://www.ithome.com/1/008/135.htm&#34; target=&#34;_blank&#34;&gt;中国一汽、广汽工业于 9 月 29 日宣布签署战略合作框架协议&lt;/a&gt;，双方将依托资产资本联动，以科技创新为驱动力，逐步深化拓展合作边界，推动产业资源跨区域高效协同，携手实现经营提质增效，共促中国汽车产业发展升级。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;相关阅读：&lt;/strong&gt;&lt;/p&gt;&lt;ul class=&#34;small-size list-paddingleft-2&#34;&gt;&lt;li&gt;&lt;p&gt;《&lt;a href=&#34;https://www.ithome.com/1/009/776.htm&#34; target=&#34;_blank&#34;&gt;一汽丰田：“一汽丰田或将彻底退出历史舞台”“丰田大降价”等均为不实言论&lt;/a&gt;》&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;《&lt;a href=&#34;https://www.ithome.com/1/008/021.htm&#34; target=&#34;_blank&#34;&gt;广汽集团：拟通过发行股份购买一汽丰田 50% 股权，股票明起复牌&lt;/a&gt;》&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:d05e995d317609f1</guid>
+      <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
+      <category>资讯·IT之家</category>
+    </item>
+    <item>
+      <title>Deploying an HSTU Generative Recommender with NVIDIA Dynamo-Triton</title>
+      <link>https://developer.nvidia.com/blog/deploying-an-hstu-generative-recommender-with-nvidia-dynamo-triton/</link>
+      <description>&lt;img alt=&#34;&#34; class=&#34;webfeedsFeaturedVisual wp-post-image&#34; height=&#34;432&#34; src=&#34;https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/recsys-768x432.jpg&#34; style=&#34;display: block; margin-bottom: 5px; clear: both;&#34; title=&#34;RecSys - Promo - Recsys Summit 2023 - 2912182&#34; width=&#34;768&#34; /&gt;Generative recommender (GR) systems are emerging as a powerful new approach for large-scale personalization. Instead of treating recommendation as a set of...</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:e1bd0c80e491b141</guid>
+      <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
+      <category>NVIDIA NIM</category>
+    </item>
+    <item>
+      <title>Pricing – Replicate</title>
+      <link>https://replicate.com/pricing</link>
+      <description>Alibaba logo Wan 3.0 is 30% off this week Replicate glyph Explore Pricing Enterprise Docs Blog Sign in Try for free Menu Explore Pricing Enterprise Docs Blog Sign in Try for free Compare models in the Playground Pricing You only pay for what you use on Replicate. Some models are billed by hardware a</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:fa59899fb80cc144</guid>
+      <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
+      <category>Replicate</category>
+    </item>
+    <item>
+      <title>Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission</title>
+      <link>https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/</link>
+      <description>Google commits $40M in AI tokens and credits for the Genesis Mission</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:ff49e507d89b30cd</guid>
+      <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
+      <category>Google Gemini</category>
+    </item>
+    <item>
+      <title>Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Global Industrial AIoT Platforms</title>
+      <link>https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-global-industrial-aiot-platforms/</link>
+      <description>&lt;p&gt;We’re proud to share that Microsoft has been named a Leader in the 2026 Gartner® Magic Quadrant™ for Global Industrial AIoT Platforms.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&#34;https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-global-industrial-aiot-platforms/&#34;&gt;Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Global Industrial AIoT Platforms&lt;/a&gt; appeared first on &lt;a href=&#34;https://azure.microsoft.com/en-us/blog&#34;&gt;Microsoft Azure Blog&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:471b7b657ecfc70e</guid>
+      <pubDate>Thu, 08 Oct 2026 18:12:53 +0800</pubDate>
+      <category>Azure AI</category>
+    </item>
+    <item>
+      <title>模型推理价格说明 - Kimi API 开放平台</title>
+      <link>https://platform.moonshot.cn/docs/pricing/chat</link>
+      <description>模型推理定价 模型推理价格说明 复制页面 复制页面 了解 Kimi 模型推理的 token 计费单位、输入输出计费方式、缓存优惠和各模型价格入口。 复制页面 复制页面 ​ 模型定价 ​ K3 系列模型 注： 缓存写入 是指将请求前缀写入 上下文缓存 所产生的费用。Kimi API 对重复的请求前缀自动启用上下文缓存，缓存条目按有效期（TTL）分为 5min 和 1h 两档，不指定 TTL 时默认按 5min 档。在有效期内命中缓存的输入仅按”输入价格（缓存命中）“计费，命中后缓存有效期自动续期，不再收取缓存写入费用。 ​ K2 系列模型 此处 1M = 1,000,000，表格中的价格代表每消</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:f8c0f63e701da0df</guid>
+      <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
+      <category>月之暗面 Kimi</category>
     </item>
   </channel>
 </rss>
