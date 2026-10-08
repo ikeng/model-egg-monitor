@@ -1,17 +1,14 @@
-# 赛博鸡蛋日报 2026-10-08 18:17
+# 赛博鸡蛋日报 2026-10-08 18:19
 
 > 每日两次监控大模型厂商公开活动，发现"赛博鸡蛋"。
 > 仅做提醒与资讯，不自动领取，不登录，不绕过风控。
 
 今日新增：0
 需登录确认：0
-失败源：1
+失败源：0
 
 ## 新增
 （本次无新增）
-
-## 失败 / 失效
-- 源 `https://www.infini-ai.com/` (html)：ConnectTimeout: HTTPSConnectionPool(host='www.infinigence-ai.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.infinigence-ai.com', port=443) at 0x7f5fccfeec90>, 'Connection to www.infinigence-ai.com timed out. (connect timeout=15)'))
 
 ## 订阅
 - Atom: [atom.xml](https://ikeng.github.io/model-egg-monitor/atom.xml)
