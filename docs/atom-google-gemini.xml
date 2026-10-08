@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://ikeng.github.io/model-egg-monitor/atom-google-gemini.xml</id>
   <title>赛博鸡蛋 · Google Gemini</title>
-  <updated>2026-10-08T18:13:18+08:00</updated>
+  <updated>2026-10-08T18:18:00+08:00</updated>
   <subtitle>大模型厂商活动监控</subtitle>
   <link rel="self" href="https://ikeng.github.io/model-egg-monitor/atom-google-gemini.xml"/>
   <link rel="alternate" href="https://ikeng.github.io/model-egg-monitor/"/>
@@ -14,7 +14,7 @@
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:3f41d9118eb4ec42</id>
     <title>Google Beam expands with new regions, partners, and customers</title>
-    <updated>2026-10-08T18:12:53+08:00</updated>
+    <updated>2026-10-08T18:15:53+08:00</updated>
     <published>2026-10-08T18:11:17+08:00</published>
     <link rel="alternate" href="https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/"/>
     <author><name>Google Gemini</name></author>
@@ -27,13 +27,13 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：promo&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:15:53+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/&#34;&gt;https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:5f5c4c0ae520c10f</id>
     <title>Gemini Developer API pricing  |  Gemini API  |  Google AI for Developers</title>
-    <updated>2026-10-08T18:12:53+08:00</updated>
+    <updated>2026-10-08T18:15:53+08:00</updated>
     <published>2026-10-08T18:11:17+08:00</published>
     <link rel="alternate" href="https://ai.google.dev/gemini-api/docs/pricing"/>
     <author><name>Google Gemini</name></author>
@@ -48,13 +48,13 @@ prepaid then pay-as-you-go pricing for your production ready applications. Free 
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：free&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:15:53+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://ai.google.dev/gemini-api/docs/pricing&#34;&gt;https://ai.google.dev/gemini-api/docs/pricing&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:ff49e507d89b30cd</id>
     <title>Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission</title>
-    <updated>2026-10-08T18:12:53+08:00</updated>
+    <updated>2026-10-08T18:15:53+08:00</updated>
     <published>2026-10-08T18:11:17+08:00</published>
     <link rel="alternate" href="https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/"/>
     <author><name>Google Gemini</name></author>
@@ -67,7 +67,7 @@ prepaid then pay-as-you-go pricing for your production ready applications. Free 
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：credit&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:15:53+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/&#34;&gt;https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://ikeng.github.io/model-egg-monitor/atom-腾讯混元.xml</id>
   <title>赛博鸡蛋 · 腾讯混元</title>
-  <updated>2026-10-08T18:13:18+08:00</updated>
+  <updated>2026-10-08T18:18:00+08:00</updated>
   <subtitle>大模型厂商活动监控</subtitle>
   <link rel="self" href="https://ikeng.github.io/model-egg-monitor/atom-腾讯混元.xml"/>
   <link rel="alternate" href="https://ikeng.github.io/model-egg-monitor/"/>
@@ -14,7 +14,7 @@
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:1918e08679b03d3d</id>
     <title>腾讯混元大模型 混元生文计费概述_腾讯云</title>
-    <updated>2026-10-08T18:12:53+08:00</updated>
+    <updated>2026-10-08T18:15:53+08:00</updated>
     <published>2026-10-08T18:11:17+08:00</published>
     <link rel="alternate" href="https://cloud.tencent.com/document/product/1729/97731"/>
     <author><name>腾讯混元</name></author>
@@ -27,7 +27,7 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：免费&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:15:53+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://cloud.tencent.com/document/product/1729/97731&#34;&gt;https://cloud.tencent.com/document/product/1729/97731&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>

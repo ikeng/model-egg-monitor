@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://ikeng.github.io/model-egg-monitor/atom-openai.xml</id>
   <title>赛博鸡蛋 · OpenAI</title>
-  <updated>2026-10-08T18:13:18+08:00</updated>
+  <updated>2026-10-08T18:18:00+08:00</updated>
   <subtitle>大模型厂商活动监控</subtitle>
   <link rel="self" href="https://ikeng.github.io/model-egg-monitor/atom-openai.xml"/>
   <link rel="alternate" href="https://ikeng.github.io/model-egg-monitor/"/>
@@ -14,7 +14,7 @@
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:5737732c967f40f2</id>
     <title>The Lenfest Institute grows landmark program with expanded OpenAI support</title>
-    <updated>2026-10-08T18:12:53+08:00</updated>
+    <updated>2026-10-08T18:15:53+08:00</updated>
     <published>2026-10-08T18:11:17+08:00</published>
     <link rel="alternate" href="https://openai.com/index/lenfest-ai-collaborative-expansion"/>
     <author><name>OpenAI</name></author>
@@ -27,13 +27,13 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：credit&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:15:53+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://openai.com/index/lenfest-ai-collaborative-expansion&#34;&gt;https://openai.com/index/lenfest-ai-collaborative-expansion&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:b3064618fbca75d9</id>
     <title>The Den frees up 10-15 hours a week to grow with ChatGPT Work</title>
-    <updated>2026-10-08T18:12:53+08:00</updated>
+    <updated>2026-10-08T18:15:53+08:00</updated>
     <published>2026-10-08T18:11:17+08:00</published>
     <link rel="alternate" href="https://openai.com/index/the-den-family-social"/>
     <author><name>OpenAI</name></author>
@@ -46,7 +46,7 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：free&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:15:53+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://openai.com/index/the-den-family-social&#34;&gt;https://openai.com/index/the-den-family-social&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>

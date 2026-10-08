@@ -5,7 +5,7 @@
     <link>https://ikeng.github.io/model-egg-monitor/</link>
     <description>每日两次监控大模型厂商活动，提供 Atom / JSON Feed 订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 08 Oct 2026 18:13:18 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 18:17:59 +0800</lastBuildDate>
     <generator>ai-egg-monitor</generator>
     <item>
       <title>英伟达股价创新高，逼近 6 万亿美元；限制 AI 助手，苹果收紧 MacOS 磁盘访问权限；arXiv 每人每月仅允许投递 2 篇论文</title>
@@ -277,6 +277,15 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:3f41d9118eb4ec42</guid>
       <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
       <category>Google Gemini</category>
+    </item>
+    <item>
+      <title>Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Global Industrial AIoT Platforms</title>
+      <link>https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-global-industrial-aiot-platforms/</link>
+      <description>&lt;p&gt;We’re proud to share that Microsoft has been named a Leader in the 2026 Gartner® Magic Quadrant™ for Global Industrial AIoT Platforms.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&#34;https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-global-industrial-aiot-platforms/&#34;&gt;Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Global Industrial AIoT Platforms&lt;/a&gt; appeared first on &lt;a href=&#34;https://azure.microsoft.com/en-us/blog&#34;&gt;Microsoft Azure Blog&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:471b7b657ecfc70e</guid>
+      <pubDate>Thu, 08 Oct 2026 18:12:53 +0800</pubDate>
+      <category>Azure AI</category>
     </item>
     <item>
       <title>PPIO - 中国领先的分布式云计算服务商</title>
@@ -568,15 +577,6 @@ New Sonnet model from Anthropic today. They say it &#34;runs 30%+ faster, and co
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:ff49e507d89b30cd</guid>
       <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
       <category>Google Gemini</category>
-    </item>
-    <item>
-      <title>Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Global Industrial AIoT Platforms</title>
-      <link>https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-global-industrial-aiot-platforms/</link>
-      <description>&lt;p&gt;We’re proud to share that Microsoft has been named a Leader in the 2026 Gartner® Magic Quadrant™ for Global Industrial AIoT Platforms.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href=&#34;https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-global-industrial-aiot-platforms/&#34;&gt;Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Global Industrial AIoT Platforms&lt;/a&gt; appeared first on &lt;a href=&#34;https://azure.microsoft.com/en-us/blog&#34;&gt;Microsoft Azure Blog&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:471b7b657ecfc70e</guid>
-      <pubDate>Thu, 08 Oct 2026 18:12:53 +0800</pubDate>
-      <category>Azure AI</category>
     </item>
     <item>
       <title>模型推理价格说明 - Kimi API 开放平台</title>

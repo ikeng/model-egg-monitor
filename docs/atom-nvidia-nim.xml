@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://ikeng.github.io/model-egg-monitor/atom-nvidia-nim.xml</id>
   <title>赛博鸡蛋 · NVIDIA NIM</title>
-  <updated>2026-10-08T18:13:18+08:00</updated>
+  <updated>2026-10-08T18:18:00+08:00</updated>
   <subtitle>大模型厂商活动监控</subtitle>
   <link rel="self" href="https://ikeng.github.io/model-egg-monitor/atom-nvidia-nim.xml"/>
   <link rel="alternate" href="https://ikeng.github.io/model-egg-monitor/"/>
@@ -14,7 +14,7 @@
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:8a143abe5f3a9d8b</id>
     <title>Try NVIDIA NIM APIs</title>
-    <updated>2026-10-08T18:12:53+08:00</updated>
+    <updated>2026-10-08T18:15:53+08:00</updated>
     <published>2026-10-08T18:11:17+08:00</published>
     <link rel="alternate" href="https://build.nvidia.com/explore/discover"/>
     <author><name>NVIDIA NIM</name></author>
@@ -27,13 +27,13 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：trial&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:15:53+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://build.nvidia.com/explore/discover&#34;&gt;https://build.nvidia.com/explore/discover&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:e1bd0c80e491b141</id>
     <title>Deploying an HSTU Generative Recommender with NVIDIA Dynamo-Triton</title>
-    <updated>2026-10-08T18:12:53+08:00</updated>
+    <updated>2026-10-08T18:15:53+08:00</updated>
     <published>2026-10-08T18:11:17+08:00</published>
     <link rel="alternate" href="https://developer.nvidia.com/blog/deploying-an-hstu-generative-recommender-with-nvidia-dynamo-triton/"/>
     <author><name>NVIDIA NIM</name></author>
@@ -46,7 +46,7 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：promo&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:15:53+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://developer.nvidia.com/blog/deploying-an-hstu-generative-recommender-with-nvidia-dynamo-triton/&#34;&gt;https://developer.nvidia.com/blog/deploying-an-hstu-generative-recommender-with-nvidia-dynamo-triton/&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>
