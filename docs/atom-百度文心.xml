@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://ikeng.github.io/model-egg-monitor/atom-百度文心.xml</id>
+  <title>赛博鸡蛋 · 百度文心</title>
+  <updated>2026-10-08T18:28:00+08:00</updated>
+  <subtitle>大模型厂商活动监控</subtitle>
+  <link rel="self" href="https://ikeng.github.io/model-egg-monitor/atom-百度文心.xml"/>
+  <link rel="alternate" href="https://ikeng.github.io/model-egg-monitor/"/>
+  <generator uri="https://github.com/ikeng/model-egg-monitor" version="0.1">ai-egg-monitor</generator>
+  <rights>MIT License</rights>
+  <author>
+    <name>ai-egg-monitor</name>
+  </author>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:e8a5979a892b82c1</id>
+    <title>千帆大模型平台</title>
+    <updated>2026-10-08T18:27:38+08:00</updated>
+    <published>2026-10-08T18:27:38+08:00</published>
+    <link rel="alternate" href="https://cloud.baidu.com/product/wenxinworkshop"/>
+    <author><name>百度文心</name></author>
+    <category term="百度文心"/>
+    <summary type="text">…28b-a3b 上下文 32K,30K+8K 输入价格 ¥0.001/ 千tokens 输出价格 ¥0.01/ 千tokens 立即体验 探索更多大模型 独家优质Skill与精选MCP服务 百度搜索 免费试用 独家 Skill MCP 百度搜索（BaiduSearch）服务基于百度搜索能力与AI技术，专为生成式AI提供全网实时信息检索服务，具备海量内容站点、高权威性，强时效性，提供全新的搜索体验。 了…</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：百度文心&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：千帆大模型平台&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…28b-a3b 上下文 32K,30K+8K 输入价格 ¥0.001/ 千tokens 输出价格 ¥0.01/ 千tokens 立即体验 探索更多大模型 独家优质Skill与精选MCP服务 百度搜索 免费试用 独家 Skill MCP 百度搜索（BaiduSearch）服务基于百度搜索能力与AI技术，专为生成式AI提供全网实时信息检索服务，具备海量内容站点、高权威性，强时效性，提供全新的搜索体验。 了…&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：免费&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:27:38+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:27:38+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://cloud.baidu.com/product/wenxinworkshop&#34;&gt;https://cloud.baidu.com/product/wenxinworkshop&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+</feed>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://ikeng.github.io/model-egg-monitor/atom-github-copilot.xml</id>
+  <title>赛博鸡蛋 · GitHub Copilot</title>
+  <updated>2026-10-08T18:28:00+08:00</updated>
+  <subtitle>大模型厂商活动监控</subtitle>
+  <link rel="self" href="https://ikeng.github.io/model-egg-monitor/atom-github-copilot.xml"/>
+  <link rel="alternate" href="https://ikeng.github.io/model-egg-monitor/"/>
+  <generator uri="https://github.com/ikeng/model-egg-monitor" version="0.1">ai-egg-monitor</generator>
+  <rights>MIT License</rights>
+  <author>
+    <name>ai-egg-monitor</name>
+  </author>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:09cec74616d2634c</id>
+    <title>Plans for GitHub Copilot</title>
+    <updated>2026-10-08T18:27:38+08:00</updated>
+    <published>2026-10-08T18:27:38+08:00</published>
+    <link rel="alternate" href="https://docs.github.com/en/copilot/about-github-copilot/plans-for-github-copilot"/>
+    <author><name>GitHub Copilot</name></author>
+    <category term="GitHub Copilot"/>
+    <summary type="text">…whether you&#39;re using Copilot as an individual or as part of an organization or enterprise. Copilot Free : Start using Copilot Free . This plan includes limited access to a selection of Copilot features a…</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：GitHub Copilot&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：Plans for GitHub Copilot&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…whether you&#39;re using Copilot as an individual or as part of an organization or enterprise. Copilot Free : Start using Copilot Free . This plan includes limited access to a selection of Copilot features a…&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：free&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:27:38+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:27:38+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://docs.github.com/en/copilot/about-github-copilot/plans-for-github-copilot&#34;&gt;https://docs.github.com/en/copilot/about-github-copilot/plans-for-github-copilot&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+</feed>

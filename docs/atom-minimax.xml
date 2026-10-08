@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://ikeng.github.io/model-egg-monitor/atom-minimax.xml</id>
   <title>赛博鸡蛋 · MiniMax</title>
-  <updated>2026-10-08T18:19:14+08:00</updated>
+  <updated>2026-10-08T18:28:00+08:00</updated>
   <subtitle>大模型厂商活动监控</subtitle>
   <link rel="self" href="https://ikeng.github.io/model-egg-monitor/atom-minimax.xml"/>
   <link rel="alternate" href="https://ikeng.github.io/model-egg-monitor/"/>
@@ -13,21 +13,40 @@
   </author>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:4935578386852c47</id>
-    <title>语音资源包 - MiniMax 开放平台文档中心</title>
-    <updated>2026-10-08T18:18:55+08:00</updated>
+    <title>语音资源包</title>
+    <updated>2026-10-08T18:27:38+08:00</updated>
     <published>2026-10-08T18:11:17+08:00</published>
     <link rel="alternate" href="https://platform.minimaxi.com/document/price"/>
     <author><name>MiniMax</name></author>
     <category term="MiniMax"/>
-    <summary type="text">在此页面 HD 系列 Turbo 系列 API 价格 语音资源包 复制页面 复制页面 MiniMax语音资源包定价 复制页面 复制页面 ​ HD 系列 立即购买 分类 语音套餐一 （节省 10%） 语音套餐二 （节省 15%） 语音套餐三 （节省 20%） 商务定制 折扣价 ¥630 ¥5,950 ¥56,000 基于量级的额外折扣 原价 ¥700 ¥7,000 ¥70,000 —— 有效期 1 个月 3 个月 1 年 —— 总字符数量 2,000,000 字符 20,000,000 字符 200,000,000 字符 —— 功能 支持 T2A v2 / T2A async v2 接口 RPM</summary>
+    <summary type="text">…价格 语音资源包 复制页面 MiniMax语音资源包定价 复制页面 ​ HD 系列 立即购买 分类 语音套餐一 （节省 10%） 语音套餐二 （节省 15%） 语音套餐三 （节省 20%） 商务定制 折扣价 ¥630 ¥5,950 ¥56,000 基于量级的额外折扣 原价 ¥700 ¥7,000 ¥70,000 —— 有效期 1 个月 3 个月 1 年 —— 总字符数量 2,000,000 字符 20…</summary>
     <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：MiniMax&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：语音资源包 - MiniMax 开放平台文档中心&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：在此页面 HD 系列 Turbo 系列 API 价格 语音资源包 复制页面 复制页面 MiniMax语音资源包定价 复制页面 复制页面 ​ HD 系列 立即购买 分类 语音套餐一 （节省 10%） 语音套餐二 （节省 15%） 语音套餐三 （节省 20%） 商务定制 折扣价 ¥630 ¥5,950 ¥56,000 基于量级的额外折扣 原价 ¥700 ¥7,000 ¥70,000 —— 有效期 1 个月 3 个月 1 年 —— 总字符数量 2,000,000 字符 20,000,000 字符 200,000,000 字符 —— 功能 支持 T2A v2 / T2A async v2 接口 RPM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：语音资源包&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…价格 语音资源包 复制页面 MiniMax语音资源包定价 复制页面 ​ HD 系列 立即购买 分类 语音套餐一 （节省 10%） 语音套餐二 （节省 15%） 语音套餐三 （节省 20%） 商务定制 折扣价 ¥630 ¥5,950 ¥56,000 基于量级的额外折扣 原价 ¥700 ¥7,000 ¥70,000 —— 有效期 1 个月 3 个月 1 年 —— 总字符数量 2,000,000 字符 20…&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：折扣&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:18:55+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:27:38+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://platform.minimaxi.com/document/price&#34;&gt;https://platform.minimaxi.com/document/price&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:00a2c75e9abfa9da</id>
+    <title>MiniMax</title>
+    <updated>2026-10-08T18:27:38+08:00</updated>
+    <published>2026-10-08T18:27:38+08:00</published>
+    <link rel="alternate" href="https://www.minimaxi.com/"/>
+    <author><name>MiniMax</name></author>
+    <category term="MiniMax"/>
+    <summary type="text">…创作 覆盖广告、电商、品牌营销、创意后期等多个内容生产场景 开放的本地工作流 支持本地资产、本地部署与 API 调用，操作更加开放灵活自主 AI Agent 驱动的商业内容生产平台 立即体验 立即订阅会员 旗舰模型 MiniMax 最新首推模型，覆盖语言模型 / 视频生成 / 语音 &amp; 音乐 MiniMax M3 Coding 顶尖 · 1M 上下文 · 原生多模态 MiniMax H3 视频生成 M…</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：MiniMax&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：MiniMax&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…创作 覆盖广告、电商、品牌营销、创意后期等多个内容生产场景 开放的本地工作流 支持本地资产、本地部署与 API 调用，操作更加开放灵活自主 AI Agent 驱动的商业内容生产平台 立即体验 立即订阅会员 旗舰模型 MiniMax 最新首推模型，覆盖语言模型 / 视频生成 / 语音 &amp; 音乐 MiniMax M3 Coding 顶尖 · 1M 上下文 · 原生多模态 MiniMax H3 视频生成 M…&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：会员&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:27:38+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:27:38+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.minimaxi.com/&#34;&gt;https://www.minimaxi.com/&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>
