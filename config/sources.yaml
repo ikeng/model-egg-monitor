@@ -1,0 +1,56 @@
+# ai-egg-monitor 配置文件
+# 新增厂商或调整关键词，只需修改本文件，无需改动代码。
+
+# ---------------- 全局配置 ----------------
+site:
+  base_url: https://<user>.github.io/ai-egg-monitor
+  title: 赛博鸡蛋
+  subtitle: 大模型厂商活动监控
+  description: 每日两次监控大模型厂商活动，提供 Atom / JSON Feed 订阅
+  language: zh-CN
+  author: ai-egg-monitor
+  max_items: 100
+
+# 默认关键词。命中任一关键词即视为"赛博鸡蛋"候选。
+# source 没有单独 keywords 时使用此列表。
+default_keywords:
+  - 免费
+  - 赠金
+  - 额度
+  - 算力券
+  - 优惠
+  - 限时
+  - 学生
+  - 内测
+  - 邀请
+  - 降价
+  - 折扣
+  - 会员
+  - free
+  - credit
+  - trial
+  - promo
+  - discount
+  - giveaway
+
+# ---------------- 厂商列表 ----------------
+vendors:
+  - name: DeepSeek
+    enabled: true
+    sources:
+      - type: html
+        url: https://api-docs.deepseek.com/quick_start/pricing
+      - type: rss
+        url: https://example.com/feed.xml
+
+  - name: 通义千问
+    enabled: true
+    sources:
+      - type: html
+        url: https://example.com/activity
+
+  - name: OpenRouter
+    enabled: true
+    sources:
+      - type: html
+        url: https://openrouter.ai/models

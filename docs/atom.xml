@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://&lt;user&gt;.github.io/ai-egg-monitor/atom.xml</id>
+  <title>赛博鸡蛋</title>
+  <updated>2026-10-08T17:15:37+08:00</updated>
+  <subtitle>大模型厂商活动监控</subtitle>
+  <link rel="self" href="https://&lt;user&gt;.github.io/ai-egg-monitor/atom.xml"/>
+  <link rel="alternate" href="https://&lt;user&gt;.github.io/ai-egg-monitor/"/>
+  <generator uri="https://github.com/ai-egg-monitor/ai-egg-monitor" version="0.1">ai-egg-monitor</generator>
+  <rights>MIT License</rights>
+  <author>
+    <name>ai-egg-monitor</name>
+  </author>
+</feed>

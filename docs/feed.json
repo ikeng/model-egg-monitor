@@ -1,0 +1,14 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "赛博鸡蛋",
+  "home_page_url": "https://<user>.github.io/ai-egg-monitor/",
+  "feed_url": "https://<user>.github.io/ai-egg-monitor/feed.json",
+  "description": "每日两次监控大模型厂商活动，提供 Atom / JSON Feed 订阅",
+  "language": "zh-CN",
+  "authors": [
+    {
+      "name": "ai-egg-monitor"
+    }
+  ],
+  "items": []
+}
