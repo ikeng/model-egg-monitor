@@ -176,8 +176,11 @@ vendors:
   - name: 无问芯穹
     enabled: true
     sources:
+      # 注：www.infini-ai.com 会 302 到 www.infinigence-ai.com，
+      # 从 GitHub Actions（美国 IP）访问会 connect timeout，本地可访问。
       - type: html
         url: https://www.infini-ai.com/
+        enabled: false
 
   - name: PPIO 派欧云
     enabled: true
