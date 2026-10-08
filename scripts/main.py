@@ -177,6 +177,17 @@ def parse_html_page(html: str) -> dict:
     title = ""
     if soup.title and soup.title.string:
         title = soup.title.string.strip()
+    # 部分站点（尤其国内文档站）没有 <title>，退而求其次读 og:title / twitter:title
+    if not title:
+        for attr, key in (("property", "og:title"), ("name", "twitter:title")):
+            meta = soup.find("meta", attrs={attr: key})
+            if meta and meta.get("content"):
+                title = meta["content"].strip()
+                break
+    if not title:
+        h1 = soup.find("h1")
+        if h1:
+            title = h1.get_text(" ", strip=True)
     # 优先用 article / main / body
     main_node = soup.find("main") or soup.find("article") or soup.body or soup
     text = main_node.get_text(separator=" ", strip=True) if main_node else ""
@@ -206,6 +217,111 @@ def match_keywords(text: str, keywords: list[str]) -> str | None:
         if kw.lower() in text_lower:
             return kw
     return None
+
+
+# ---------------------------------------------------------------------------
+# 文本清洗：标题尾巴的站点名 / 摘要取关键词上下文
+# ---------------------------------------------------------------------------
+_WS_RE = re.compile(r"\s+")
+
+# 标题尾巴命中这些词，说明它是站点名而不是标题内容，可以安全裁掉
+_SITE_HINTS = (
+    "帮助中心", "开放平台", "控制台", "官网", "首页", "文档", "服务中心", "用户指南",
+    "大模型服务平台", "阿里云", "腾讯云", "百度智能云", "华为云", "火山引擎",
+    "平台", "云服务", "社区", "博客", "新闻", "专区", "频道", "站点",
+    "documentation", "docs", "official site", "home", "blog", "news",
+    "platform", "api reference", "developer", "support", "help center", "console",
+)
+
+# 带空格的连接符几乎总是“内容 - 站点名”，左段 ≥3 字即可切
+_TITLE_SEPS_SPACED = (" | ", " - ", " – ", " — ", " :: ", " · ", " _ ")
+# 不带空格的连接符也可能是模型名的一部分（GLM-4 / K2-0905），左段要够长才切
+_TITLE_SEPS_TIGHT = ("｜", " |", "-")
+
+
+def collapse_ws(s: str) -> str:
+    return _WS_RE.sub(" ", (s or "").replace("\u3000", " ")).strip()
+
+
+def strip_html(s: str) -> str:
+    """把 feed 里带标签的 summary 转成纯文本。"""
+    if not s:
+        return ""
+    return collapse_ws(BeautifulSoup(s, "html.parser").get_text(" ", strip=True))
+
+
+def clean_title(raw: str, vendor: str = "") -> str:
+    """去掉标题尾巴上的站点名。
+
+    例：'模型推理价格说明 - Kimi API 开放平台' → '模型推理价格说明'
+         '阿里云百炼模型价格-大模型服务平台百炼(Model Studio)-阿里云帮助中心'
+         → '阿里云百炼模型价格'
+         'Blog | Together AI'（vendor='Together AI'）→ 'Blog'
+    保护：'GLM-4' / 'Kimi K2-0905' 这类模型名不会被切坏（左段过短则不切）。
+    """
+    t = collapse_ws(raw)
+    if not t:
+        return t
+    vendor_low = (vendor or "").lower()
+    for seps, min_head in ((_TITLE_SEPS_SPACED, 3), (_TITLE_SEPS_TIGHT, 6)):
+        for sep in seps:
+            if sep not in t:
+                continue
+            head, tail = t.split(sep, 1)
+            head, tail = head.strip(), tail.strip()
+            # 左段太短不切，避免切坏模型名；尾巴为空也不切
+            if len(head) < min_head or not tail:
+                continue
+            tail_low = tail.lower()
+            # 尾巴就是本厂商名，属冗余（'Pricing - Perplexity'）
+            vendor_hit = len(vendor_low) >= 3 and (
+                vendor_low in tail_low or tail_low in vendor_low
+            )
+            site_like = vendor_hit or any(h in tail or h in tail_low for h in _SITE_HINTS)
+            # 尾巴是站点名，或标题整体很长（新闻站常用 '标题 - 站点' 格式）时才裁
+            if site_like or (len(t) >= 40 and len(tail) >= 8):
+                t = head
+                break
+        else:
+            continue
+        break
+    return t.strip(" -|｜·_")
+
+
+def dedupe_phrases(s: str) -> str:
+    """去掉相邻的重复词，如 '复制页面 复制页面' → '复制页面'。"""
+    out: list[str] = []
+    for tok in s.split():
+        if out and tok == out[-1]:
+            continue
+        out.append(tok)
+    return " ".join(out)
+
+
+def make_snippet(text: str, keyword: str, width: int = 100) -> str:
+    """取命中关键词前后各 width 个字符作为“福利摘要”，并加省略号标记截断。"""
+    body = dedupe_phrases(collapse_ws(text))
+    if not body:
+        return ""
+    limit = width * 2
+    if not keyword:
+        return body[:limit] + ("…" if len(body) > limit else "")
+    idx = body.lower().find(keyword.lower())
+    if idx < 0:
+        return body[:limit] + ("…" if len(body) > limit else "")
+    start = max(0, idx - width)
+    end = min(len(body), idx + len(keyword) + width)
+    # 起点若落在英文单词中间，往后对齐到下一个空格，避免出现半个词
+    if start > 0 and body[start - 1].isascii() and body[start - 1].isalnum() and body[start].isalnum():
+        nxt = body.find(" ", start)
+        if 0 <= nxt < idx:
+            start = nxt + 1
+    snip = body[start:end].strip()
+    if start > 0:
+        snip = "…" + snip
+    if end < len(body):
+        snip = snip + "…"
+    return snip
 
 
 def detect_login(text: str) -> bool:
@@ -246,13 +362,16 @@ def process_source(
         if stype == "html":
             html = fetch(url)
             page = parse_html_page(html)
-            kw = match_keywords(page["title"] + " " + page["summary"], keywords)
+            # 用全文匹配（不只是正文前 300 字符）——很多页面开头是导航/目录，
+            # 只截前 300 字符会漏掉真正写着“免费额度”的那一段。
+            kw = match_keywords(page["title"] + " " + page["text"], keywords)
             if kw:
                 activities.append({
                     "guid": make_guid(vendor_name, page["title"] or url, url),
                     "vendor": vendor_name,
-                    "title": page["title"] or url,
-                    "summary": page["summary"],
+                    # 页面自己没有可用标题时，用配置里的 source 级 title 兜底
+                    "title": clean_title(page["title"], vendor_name) or source.get("title") or url,
+                    "summary": make_snippet(page["text"], kw),
                     "link": url,
                     "source_type": "html",
                     "needs_login": detect_login(page["text"]),
@@ -263,17 +382,18 @@ def process_source(
         elif stype == "rss":
             items, _bozo = parse_rss_feed(url)
             for item in items:
-                kw = match_keywords(item["title"] + " " + item["summary"], keywords)
+                plain = strip_html(item["summary"])
+                kw = match_keywords(item["title"] + " " + plain, keywords)
                 if kw:
                     link = item["link"] or url
                     activities.append({
                         "guid": make_guid(vendor_name, item["title"] or link, link),
                         "vendor": vendor_name,
-                        "title": item["title"] or link,
-                        "summary": item["summary"],
+                        "title": clean_title(item["title"], vendor_name) or link,
+                        "summary": make_snippet(plain, kw),
                         "link": link,
                         "source_type": "rss",
-                        "needs_login": detect_login(item["summary"]),
+                        "needs_login": detect_login(plain),
                         "matched_keyword": kw,
                         "first_seen": now_iso,
                         "updated": now_iso,
@@ -631,6 +751,12 @@ def main() -> int:
             new_items.append(act)
 
     state["failures"] = all_failures
+
+    # 历史条目也过一遍标题清洗（幂等）：
+    # 被 enabled: false 关掉的源不会再被抓取，否则它们留下的旧格式标题会永远留在订阅里。
+    for act in state_acts.values():
+        if act.get("title"):
+            act["title"] = clean_title(act["title"], act.get("vendor", ""))
 
     # ---------- 3. 计算订阅用的 items 列表 ----------
     all_known = list(state_acts.values())

@@ -122,8 +122,10 @@ vendors:
   - name: 火山方舟·豆包
     enabled: true
     sources:
+      # 该页没有 <title> / og:title，用 source 级 title 给 feed 一个可读标题
       - type: html
         url: https://www.volcengine.com/docs/82379/1099320
+        title: 火山方舟 模型计费说明
 
   - name: 腾讯混元
     enabled: true
