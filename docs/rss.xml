@@ -2,10 +2,18 @@
 <rss version="2.0">
   <channel>
     <title>赛博鸡蛋</title>
-    <link>https://&lt;user&gt;.github.io/ai-egg-monitor/</link>
+    <link>https://ikeng.github.io/model-egg-monitor/</link>
     <description>每日两次监控大模型厂商活动，提供 Atom / JSON Feed 订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 08 Oct 2026 17:15:37 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 17:58:38 +0800</lastBuildDate>
     <generator>ai-egg-monitor</generator>
+    <item>
+      <title>新人免费额度获取及用完即停开关规则-大模型服务平台百炼(Model Studio)-阿里云帮助中心</title>
+      <link>https://help.aliyun.com/zh/model-studio/new-free-quota</link>
+      <description>首页 大模型服务平台百炼 用户指南（模型） 产品计费 新人免费额度 新人免费额度 更新时间： 复制 MD 格式 产品详情 我的收藏 当您首次开通阿里云百炼时，平台会自动为您发放各模型的新人专属免费额度。 说明 仅华北 2（北京）地域模型享有免费额度，其他地域无免费额度。 未认证用户免费额度用完后无法继续调用，需完成 认证 并 充值 后方能继续按量付费。 已认证用户免费额度用完后自动转为按量付费。如需避免意外扣费，可提前开启 免费额度用完即停 ，额度耗尽时服务自动停止。 规则说明 有效期 免费额度的有效期为 90 天，从开通阿里云百炼、模型发布或模型申请通过之日起计算（以较晚者为准）。额度到期或</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:a2d522c721ea08c9</guid>
+      <pubDate>Thu, 08 Oct 2026 17:58:35 +0800</pubDate>
+      <category>通义千问</category>
+    </item>
   </channel>
 </rss>

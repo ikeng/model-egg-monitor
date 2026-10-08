@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>https://ikeng.github.io/model-egg-monitor/atom.xml</id>
-  <title>赛博鸡蛋</title>
+  <id>https://ikeng.github.io/model-egg-monitor/atom-通义千问.xml</id>
+  <title>赛博鸡蛋 · 通义千问</title>
   <updated>2026-10-08T17:58:38+08:00</updated>
   <subtitle>大模型厂商活动监控</subtitle>
-  <link rel="self" href="https://ikeng.github.io/model-egg-monitor/atom.xml"/>
+  <link rel="self" href="https://ikeng.github.io/model-egg-monitor/atom-通义千问.xml"/>
   <link rel="alternate" href="https://ikeng.github.io/model-egg-monitor/"/>
   <generator uri="https://github.com/ai-egg-monitor/ai-egg-monitor" version="0.1">ai-egg-monitor</generator>
   <rights>MIT License</rights>

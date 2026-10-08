@@ -3,7 +3,7 @@
 
 # ---------------- 全局配置 ----------------
 site:
-  base_url: https://<user>.github.io/ai-egg-monitor
+  base_url: https://ikeng.github.io/model-egg-monitor
   title: 赛博鸡蛋
   subtitle: 大模型厂商活动监控
   description: 每日两次监控大模型厂商活动，提供 Atom / JSON Feed 订阅
@@ -40,14 +40,14 @@ vendors:
     sources:
       - type: html
         url: https://api-docs.deepseek.com/quick_start/pricing
-      - type: rss
-        url: https://example.com/feed.xml
+      - type: html
+        url: https://api-docs.deepseek.com/news/
 
   - name: 通义千问
     enabled: true
     sources:
       - type: html
-        url: https://example.com/activity
+        url: https://help.aliyun.com/zh/model-studio/new-free-quota
 
   - name: OpenRouter
     enabled: true
