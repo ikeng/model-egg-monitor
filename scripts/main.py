@@ -35,6 +35,7 @@ import re
 import sys
 import time
 import urllib.parse
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 from typing import Any
 
@@ -55,9 +56,10 @@ HISTORY_DIR = DOCS_DIR / "history"
 
 USER_AGENT = (
     "ai-egg-monitor/0.1 "
-    "(+https://github.com/ai-egg-monitor/ai-egg-monitor)"
+    "(+https://github.com/ikeng/model-egg-monitor)"
 )
 TIMEOUT = 15
+DEFAULT_FETCH_WORKERS = 8  # 并发抓取线程数，可用 site.fetch_workers 覆盖
 
 # 登录墙检测：仅当页面正文较短且含登录字眼时才标记
 LOGIN_PATTERNS = [
@@ -561,19 +563,51 @@ def main() -> int:
     # ---------- 1. 抓取所有源 ----------
     all_activities: list[dict] = []
     all_failures: list[dict] = []
-    log.info(f"共 {len(config.get('vendors', []))} 个厂商配置")
-
+    # 列出所有待抓取的 (厂商, source) 对；禁用的厂商直接跳过
+    jobs: list[tuple[str, dict]] = []
     for vendor in config.get("vendors", []):
         if not vendor.get("enabled", True):
             log.info(f"厂商 {vendor['name']} 已禁用，跳过")
             continue
         for source in vendor.get("sources", []):
-            activities, status = process_source(
-                vendor["name"], source, default_keywords, now
-            )
-            all_activities.extend(activities)
-            if not status["ok"]:
-                all_failures.append(status)
+            jobs.append((vendor["name"], source))
+
+    workers = int(site.get("fetch_workers", DEFAULT_FETCH_WORKERS)) or 1
+    log.info(
+        f"共 {len(config.get('vendors', []))} 个厂商配置，{len(jobs)} 个源待抓取"
+        f"（并发 {min(workers, max(len(jobs), 1))}）"
+    )
+
+    # 并发抓取。process_source 内部已自带 try/except，这里再包一层防意外。
+    # 结果按 jobs 顺序回填，保证输出不受线程完成顺序影响（可重复构建）。
+    results: list[tuple[list[dict], dict] | None] = [None] * len(jobs)
+    with ThreadPoolExecutor(max_workers=max(1, min(workers, max(len(jobs), 1)))) as pool:
+        futures = {
+            pool.submit(process_source, vname, src, default_keywords, now): idx
+            for idx, (vname, src) in enumerate(jobs)
+        }
+        for fut in as_completed(futures):
+            idx = futures[fut]
+            try:
+                results[idx] = fut.result()
+            except Exception as e:  # pragma: no cover - 兜底
+                vname, src = jobs[idx]
+                log.warning(f"source 线程异常 {src.get('url')}: {e}")
+                results[idx] = ([], {
+                    "ok": False,
+                    "error": f"{type(e).__name__}: {e}",
+                    "url": src.get("url", ""),
+                    "type": src.get("type", ""),
+                    "vendor": vname,
+                })
+
+    for item in results:
+        if item is None:  # pragma: no cover - 理论不可达
+            continue
+        activities, status = item
+        all_activities.extend(activities)
+        if not status["ok"]:
+            all_failures.append(status)
 
     log.info(f"抓取完成：候选 {len(all_activities)}，失败源 {len(all_failures)}")
 

@@ -1,5 +1,9 @@
 # ai-egg-monitor 配置文件
 # 新增厂商或调整关键词，只需修改本文件，无需改动代码。
+#
+# 说明：下列所有 url 均已实测「可访问 + 正文非空 / feed 有条目」，
+# 403 / 纯 JS 渲染（正文为空）/ 404 的页面一律未收录，
+# 避免每次运行都产生大量「失败源」噪音。
 
 # ---------------- 全局配置 ----------------
 site:
@@ -10,6 +14,7 @@ site:
   language: zh-CN
   author: ai-egg-monitor
   max_items: 100
+  fetch_workers: 8        # 并发抓取线程数（源较多，串行会超出 Actions 超时）
 
 # 默认关键词。命中任一关键词即视为"赛博鸡蛋"候选。
 # source 没有单独 keywords 时使用此列表。
@@ -33,7 +38,35 @@ default_keywords:
   - discount
   - giveaway
 
+# 媒体 / 社区类来源用的收窄关键词。
+# 泛媒体一旦只用「免费」匹配会命中大量无关新闻，这里只认"福利语义"的短语。
+media_keywords: &media_kw
+  - 免费额度
+  - 免费 API
+  - 免费调用
+  - 免费试用
+  - 免费领取
+  - 限时免费
+  - 免费 token
+  - 免费 tokens
+  - 赠金
+  - 算力券
+  - 代金券
+  - 优惠券
+  - 学生认证
+  - 内测资格
+  - 邀请码
+  - 降价
+  - 折扣
+  - free credit
+  - free tier
+  - free trial
+  - free API
+  - free tokens
+  - giveaway
+
 # ---------------- 厂商列表 ----------------
+# ========== 国内厂商（官方页面） ==========
 vendors:
   - name: DeepSeek
     enabled: true
@@ -42,15 +75,426 @@ vendors:
         url: https://api-docs.deepseek.com/quick_start/pricing
       - type: html
         url: https://api-docs.deepseek.com/news/
+      - type: html
+        url: https://api-docs.deepseek.com/updates
+      - type: html
+        url: https://api-docs.deepseek.com/
 
   - name: 通义千问
     enabled: true
     sources:
+      # 阿里云百炼（Model Studio）控制台背后的通义系列模型计费 / 免费额度页
       - type: html
         url: https://help.aliyun.com/zh/model-studio/new-free-quota
+      - type: html
+        url: https://help.aliyun.com/zh/model-studio/billing-for-model-studio
+      - type: html
+        url: https://help.aliyun.com/zh/model-studio/models
+      - type: html
+        url: https://tongyi.aliyun.com/
+
+  - name: 月之暗面 Kimi
+    enabled: true
+    sources:
+      - type: html
+        url: https://platform.moonshot.cn/docs/pricing/chat
+      - type: html
+        url: https://platform.moonshot.cn/docs/pricing/limit
+      - type: html
+        url: https://platform.moonshot.cn/docs/
+
+  - name: 智谱 GLM
+    enabled: true
+    sources:
+      - type: html
+        url: https://docs.bigmodel.cn/cn/guide/start/model-overview
+      - type: html
+        url: https://open.bigmodel.cn/dev/howuse/model
+      - type: html
+        url: https://www.bigmodel.cn/dev/api
+
+  - name: 火山方舟·豆包
+    enabled: true
+    sources:
+      - type: html
+        url: https://www.volcengine.com/docs/82379/1099320
+
+  - name: 腾讯混元
+    enabled: true
+    sources:
+      - type: html
+        url: https://cloud.tencent.com/document/product/1729/97731
+      - type: html
+        url: https://cloud.tencent.com/document/product/1729
+
+  - name: 百度文心
+    enabled: true
+    sources:
+      - type: html
+        url: https://cloud.baidu.com/product/wenxinworkshop
+      - type: html
+        url: https://cloud.baidu.com/doc/WENXINWORKSHOP/index.html
+
+  - name: 讯飞星火
+    enabled: true
+    sources:
+      - type: html
+        url: https://www.xfyun.cn/
+
+  - name: MiniMax
+    enabled: true
+    sources:
+      - type: html
+        url: https://platform.minimaxi.com/document/price
+      - type: html
+        url: https://www.minimaxi.com/
+      - type: html
+        url: https://www.minimax.io/
+
+  - name: 硅基流动 SiliconFlow
+    enabled: true
+    sources:
+      - type: html
+        url: https://siliconflow.cn/pricing
+      - type: html
+        url: https://siliconflow.cn/
+      - type: html
+        url: https://docs.siliconflow.cn/
+
+  - name: 零一万物 01.AI
+    enabled: true
+    sources:
+      - type: html
+        url: https://www.01.ai/
+
+  - name: 无问芯穹
+    enabled: true
+    sources:
+      - type: html
+        url: https://www.infini-ai.com/
+
+  - name: PPIO 派欧云
+    enabled: true
+    sources:
+      - type: html
+        url: https://ppio.com/
+
+  - name: 面壁智能
+    enabled: true
+    sources:
+      - type: html
+        url: https://modelbest.cn/
+
+  # ========== 国际厂商（官方页面） ==========
+  - name: OpenAI
+    enabled: true
+    sources:
+      - type: html
+        url: https://platform.openai.com/docs/pricing
+      - type: rss
+        url: https://openai.com/news/rss.xml
+      - type: rss
+        url: https://developers.openai.com/rss.xml
+      - type: html
+        url: https://developers.openai.com/blog
+
+  - name: Anthropic
+    enabled: true
+    sources:
+      - type: html
+        url: https://www.anthropic.com/pricing
+      - type: html
+        url: https://www.anthropic.com/claude-code
+      - type: html
+        url: https://www.anthropic.com/news
+      - type: html
+        url: https://www.anthropic.com/engineering
+
+  - name: Google Gemini
+    enabled: true
+    sources:
+      - type: html
+        url: https://ai.google.dev/gemini-api/docs/pricing
+      - type: rss
+        url: https://blog.google/technology/ai/rss/
+      - type: rss
+        url: https://developers.googleblog.com/feeds/posts/default
+      - type: rss
+        url: https://deepmind.google/blog/rss.xml
+      - type: rss
+        url: https://research.google/blog/rss/
+
+  - name: Meta Llama
+    enabled: true
+    sources:
+      - type: html
+        url: https://www.llama.com/
+
+  - name: Mistral
+    enabled: true
+    sources:
+      - type: html
+        url: https://mistral.ai/pricing
+      - type: html
+        url: https://mistral.ai/news
+      - type: rss
+        url: https://mistral.ai/rss.xml
+
+  - name: Cohere
+    enabled: true
+    sources:
+      - type: html
+        url: https://cohere.com/blog
+      - type: html
+        url: https://docs.cohere.com/docs/rate-limits
+
+  - name: xAI Grok
+    enabled: true
+    sources:
+      - type: html
+        url: https://docs.x.ai/docs/pricing
+      - type: html
+        url: https://docs.x.ai/docs/models
+
+  - name: Perplexity
+    enabled: true
+    sources:
+      - type: html
+        url: https://docs.perplexity.ai/getting-started/pricing
+
+  - name: Groq
+    enabled: true
+    sources:
+      - type: html
+        url: https://groq.com/pricing
+      - type: html
+        url: https://groq.com/
+
+  - name: Together AI
+    enabled: true
+    sources:
+      - type: html
+        url: https://www.together.ai/pricing
+      - type: html
+        url: https://www.together.ai/blog
+      - type: rss
+        url: https://www.together.ai/blog/rss.xml
+
+  - name: Fireworks AI
+    enabled: true
+    sources:
+      - type: html
+        url: https://fireworks.ai/pricing
+
+  - name: DeepInfra
+    enabled: true
+    sources:
+      - type: html
+        url: https://deepinfra.com/pricing
+      - type: html
+        url: https://deepinfra.com/
+
+  - name: Replicate
+    enabled: true
+    sources:
+      - type: html
+        url: https://replicate.com/pricing
+
+  - name: Hugging Face
+    enabled: true
+    sources:
+      - type: html
+        url: https://huggingface.co/pricing
+      - type: rss
+        url: https://huggingface.co/blog/feed.xml
+
+  - name: Ollama
+    enabled: true
+    sources:
+      - type: html
+        url: https://ollama.com/blog
+
+  - name: Cerebras
+    enabled: true
+    sources:
+      - type: html
+        url: https://www.cerebras.ai/inference
+      - type: html
+        url: https://www.cerebras.ai/pricing
 
   - name: OpenRouter
     enabled: true
     sources:
       - type: html
         url: https://openrouter.ai/models
+      - type: html
+        url: https://openrouter.ai/docs/overview/models
+      - type: html
+        url: https://openrouter.ai/docs/faq
+
+  - name: Baseten
+    enabled: true
+    sources:
+      - type: html
+        url: https://www.baseten.co/pricing/
+
+  - name: Modal
+    enabled: true
+    sources:
+      - type: html
+        url: https://modal.com/pricing
+
+  - name: RunPod
+    enabled: true
+    sources:
+      - type: html
+        url: https://www.runpod.io/pricing
+
+  - name: Lambda
+    enabled: true
+    sources:
+      - type: html
+        url: https://lambda.ai/pricing
+
+  - name: Cursor
+    enabled: true
+    sources:
+      - type: html
+        url: https://cursor.com/pricing
+
+  - name: Windsurf
+    enabled: true
+    sources:
+      - type: html
+        url: https://windsurf.com/pricing
+
+  - name: GitHub Copilot
+    enabled: true
+    sources:
+      - type: html
+        url: https://docs.github.com/en/copilot/about-github-copilot/plans-for-github-copilot
+
+  - name: NVIDIA NIM
+    enabled: true
+    sources:
+      - type: rss
+        url: https://developer.nvidia.com/blog/feed
+      - type: html
+        url: https://build.nvidia.com/explore/discover
+
+  - name: AWS Bedrock
+    enabled: true
+    sources:
+      - type: rss
+        url: https://aws.amazon.com/blogs/machine-learning/feed/
+
+  - name: Azure AI
+    enabled: true
+    sources:
+      - type: rss
+        url: https://azure.microsoft.com/en-us/blog/feed/
+
+  - name: Databricks
+    enabled: true
+    sources:
+      - type: rss
+        url: https://www.databricks.com/feed
+
+  # ========== 行业资讯 / 社区（媒体，用收窄关键词） ==========
+  - name: 资讯·量子位
+    enabled: true
+    sources:
+      - type: rss
+        url: https://www.qbitai.com/feed
+        keywords: *media_kw
+
+  - name: 资讯·雷锋网
+    enabled: true
+    sources:
+      - type: rss
+        url: https://www.leiphone.com/feed
+        keywords: *media_kw
+
+  - name: 资讯·IT之家
+    enabled: true
+    sources:
+      - type: rss
+        url: https://www.ithome.com/rss/
+        keywords: *media_kw
+
+  - name: 资讯·极客公园
+    enabled: true
+    sources:
+      - type: rss
+        url: https://www.geekpark.net/rss
+        keywords: *media_kw
+
+  - name: 资讯·开源中国
+    enabled: true
+    sources:
+      - type: rss
+        url: https://www.oschina.net/news/rss
+        keywords: *media_kw
+
+  - name: 资讯·钛媒体
+    enabled: true
+    sources:
+      - type: rss
+        url: https://www.tmtpost.com/feed
+        keywords: *media_kw
+
+  - name: 资讯·爱范儿
+    enabled: true
+    sources:
+      - type: rss
+        url: https://www.ifanr.com/feed
+        keywords: *media_kw
+
+  - name: 资讯·少数派
+    enabled: true
+    sources:
+      - type: rss
+        url: https://sspai.com/feed
+        keywords: *media_kw
+
+  - name: 资讯·InfoQ 中文
+    enabled: true
+    sources:
+      - type: rss
+        url: https://www.infoq.cn/feed
+        keywords: *media_kw
+
+  - name: 资讯·Solidot
+    enabled: true
+    sources:
+      - type: rss
+        url: https://www.solidot.org/index.rss
+        keywords: *media_kw
+
+  - name: 资讯·GitHub Blog
+    enabled: true
+    sources:
+      - type: rss
+        url: https://github.blog/feed/
+        keywords: *media_kw
+
+  - name: 资讯·Simon Willison
+    enabled: true
+    sources:
+      - type: rss
+        url: https://simonwillison.net/atom/everything/
+        keywords: *media_kw
+
+  - name: 资讯·Hacker News
+    enabled: true
+    sources:
+      - type: rss
+        url: https://news.ycombinator.com/rss
+        keywords: *media_kw
+
+  - name: 资讯·Reddit LocalLLaMA
+    enabled: true
+    sources:
+      - type: rss
+        url: https://www.reddit.com/r/LocalLLaMA/new/.rss
+        keywords: *media_kw

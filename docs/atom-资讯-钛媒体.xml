@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://ikeng.github.io/model-egg-monitor/atom-资讯-钛媒体.xml</id>
+  <title>赛博鸡蛋 · 资讯·钛媒体</title>
+  <updated>2026-10-08T18:11:39+08:00</updated>
+  <subtitle>大模型厂商活动监控</subtitle>
+  <link rel="self" href="https://ikeng.github.io/model-egg-monitor/atom-资讯-钛媒体.xml"/>
+  <link rel="alternate" href="https://ikeng.github.io/model-egg-monitor/"/>
+  <generator uri="https://github.com/ikeng/model-egg-monitor" version="0.1">ai-egg-monitor</generator>
+  <rights>MIT License</rights>
+  <author>
+    <name>ai-egg-monitor</name>
+  </author>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:6de87211ccd6481d</id>
+    <title>GPT-6全球上线、Claude Haiku 5.5降价，这个假期AI圈也没停</title>
+    <updated>2026-10-08T18:11:17+08:00</updated>
+    <published>2026-10-08T18:11:17+08:00</published>
+    <link rel="alternate" href="https://www.tmtpost.com/8160689.html"/>
+    <author><name>资讯·钛媒体</name></author>
+    <category term="资讯·钛媒体"/>
+    <summary type="text">成本压下来之后，下一个阶段比什么？</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·钛媒体&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：GPT-6全球上线、Claude Haiku 5.5降价，这个假期AI圈也没停&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：成本压下来之后，下一个阶段比什么？&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：降价&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.tmtpost.com/8160689.html&#34;&gt;https://www.tmtpost.com/8160689.html&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+</feed>

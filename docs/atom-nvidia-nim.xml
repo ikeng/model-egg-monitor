@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://ikeng.github.io/model-egg-monitor/atom-nvidia-nim.xml</id>
+  <title>赛博鸡蛋 · NVIDIA NIM</title>
+  <updated>2026-10-08T18:11:39+08:00</updated>
+  <subtitle>大模型厂商活动监控</subtitle>
+  <link rel="self" href="https://ikeng.github.io/model-egg-monitor/atom-nvidia-nim.xml"/>
+  <link rel="alternate" href="https://ikeng.github.io/model-egg-monitor/"/>
+  <generator uri="https://github.com/ikeng/model-egg-monitor" version="0.1">ai-egg-monitor</generator>
+  <rights>MIT License</rights>
+  <author>
+    <name>ai-egg-monitor</name>
+  </author>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:e1bd0c80e491b141</id>
+    <title>Deploying an HSTU Generative Recommender with NVIDIA Dynamo-Triton</title>
+    <updated>2026-10-08T18:11:17+08:00</updated>
+    <published>2026-10-08T18:11:17+08:00</published>
+    <link rel="alternate" href="https://developer.nvidia.com/blog/deploying-an-hstu-generative-recommender-with-nvidia-dynamo-triton/"/>
+    <author><name>NVIDIA NIM</name></author>
+    <category term="NVIDIA NIM"/>
+    <summary type="text">&lt;img alt=&#34;&#34; class=&#34;webfeedsFeaturedVisual wp-post-image&#34; height=&#34;432&#34; src=&#34;https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/recsys-768x432.jpg&#34; style=&#34;display: block; margin-bottom: 5px; clear: both;&#34; title=&#34;RecSys - Promo - Recsys Summit 2023 - 2912182&#34; width=&#34;768&#34; /&gt;Generative recommender (GR) systems are emerging as a powerful new approach for large-scale personalization. Instead of treating recommendation as a set of...</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：NVIDIA NIM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：Deploying an HSTU Generative Recommender with NVIDIA Dynamo-Triton&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：&lt;img alt=&#34;&#34; class=&#34;webfeedsFeaturedVisual wp-post-image&#34; height=&#34;432&#34; src=&#34;https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/recsys-768x432.jpg&#34; style=&#34;display: block; margin-bottom: 5px; clear: both;&#34; title=&#34;RecSys - Promo - Recsys Summit 2023 - 2912182&#34; width=&#34;768&#34; /&gt;Generative recommender (GR) systems are emerging as a powerful new approach for large-scale personalization. Instead of treating recommendation as a set of...&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：promo&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://developer.nvidia.com/blog/deploying-an-hstu-generative-recommender-with-nvidia-dynamo-triton/&#34;&gt;https://developer.nvidia.com/blog/deploying-an-hstu-generative-recommender-with-nvidia-dynamo-triton/&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:8a143abe5f3a9d8b</id>
+    <title>Try NVIDIA NIM APIs</title>
+    <updated>2026-10-08T18:11:17+08:00</updated>
+    <published>2026-10-08T18:11:17+08:00</published>
+    <link rel="alternate" href="https://build.nvidia.com/explore/discover"/>
+    <author><name>NVIDIA NIM</name></author>
+    <category term="NVIDIA NIM"/>
+    <summary type="text">Discover Discover Discover Explore Discover Workstations Run on RTX Run on Spark Run on Station Models Reasoning Vision Visual Design Retrieval Speech Predictive AI Biology Simulation Climate &amp; Weather Safety &amp; Moderation Industries Automotive Financial Services Healthcare Industrial Robotics Start </summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：NVIDIA NIM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：Try NVIDIA NIM APIs&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：Discover Discover Discover Explore Discover Workstations Run on RTX Run on Spark Run on Station Models Reasoning Vision Visual Design Retrieval Speech Predictive AI Biology Simulation Climate &amp; Weather Safety &amp; Moderation Industries Automotive Financial Services Healthcare Industrial Robotics Start &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：trial&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://build.nvidia.com/explore/discover&#34;&gt;https://build.nvidia.com/explore/discover&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+</feed>
