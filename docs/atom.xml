@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://ikeng.github.io/model-egg-monitor/atom.xml</id>
   <title>赛博鸡蛋</title>
-  <updated>2026-10-09T01:13:13+08:00</updated>
+  <updated>2026-10-09T16:17:23+08:00</updated>
   <subtitle>大模型厂商活动监控</subtitle>
   <link rel="self" href="https://ikeng.github.io/model-egg-monitor/atom.xml"/>
   <link rel="alternate" href="https://ikeng.github.io/model-egg-monitor/"/>
@@ -14,7 +14,7 @@
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:00165271027eb922</id>
     <title>大模型 API 价格方案</title>
-    <updated>2026-10-09T01:12:53+08:00</updated>
+    <updated>2026-10-09T16:17:00+08:00</updated>
     <published>2026-10-08T18:27:38+08:00</published>
     <link rel="alternate" href="https://siliconflow.cn/pricing"/>
     <author><name>硅基流动 SiliconFlow</name></author>
@@ -27,13 +27,13 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：免费&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:27:38+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T01:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T16:17:00+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://siliconflow.cn/pricing&#34;&gt;https://siliconflow.cn/pricing&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:00a2c75e9abfa9da</id>
     <title>MiniMax</title>
-    <updated>2026-10-09T01:12:53+08:00</updated>
+    <updated>2026-10-09T16:17:00+08:00</updated>
     <published>2026-10-08T18:27:38+08:00</published>
     <link rel="alternate" href="https://www.minimaxi.com/"/>
     <author><name>MiniMax</name></author>
@@ -46,13 +46,13 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：会员&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:27:38+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T01:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T16:17:00+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.minimaxi.com/&#34;&gt;https://www.minimaxi.com/&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:087dcc668c4c8c76</id>
     <title>Blog</title>
-    <updated>2026-10-09T01:12:53+08:00</updated>
+    <updated>2026-10-09T16:17:00+08:00</updated>
     <published>2026-10-08T18:27:38+08:00</published>
     <link rel="alternate" href="https://www.together.ai/blog"/>
     <author><name>Together AI</name></author>
@@ -65,13 +65,13 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：free&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:27:38+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T01:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T16:17:00+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.together.ai/blog&#34;&gt;https://www.together.ai/blog&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:09cec74616d2634c</id>
     <title>Plans for GitHub Copilot</title>
-    <updated>2026-10-09T01:12:53+08:00</updated>
+    <updated>2026-10-09T16:17:00+08:00</updated>
     <published>2026-10-08T18:27:38+08:00</published>
     <link rel="alternate" href="https://docs.github.com/en/copilot/about-github-copilot/plans-for-github-copilot"/>
     <author><name>GitHub Copilot</name></author>
@@ -84,13 +84,13 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：free&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:27:38+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T01:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T16:17:00+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://docs.github.com/en/copilot/about-github-copilot/plans-for-github-copilot&#34;&gt;https://docs.github.com/en/copilot/about-github-copilot/plans-for-github-copilot&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:0a02cf04f0132a7a</id>
     <title>英伟达股价创新高，逼近 6 万亿美元；限制 AI 助手，苹果收紧 MacOS 磁盘访问权限；arXiv 每人每月仅允许投递 2 篇论文</title>
-    <updated>2026-10-09T01:12:53+08:00</updated>
+    <updated>2026-10-09T16:17:00+08:00</updated>
     <published>2026-10-08T18:11:17+08:00</published>
     <link rel="alternate" href="http://www.geekpark.net/news/372070"/>
     <author><name>资讯·极客公园</name></author>
@@ -103,13 +103,13 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：折扣&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T01:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T16:17:00+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;http://www.geekpark.net/news/372070&#34;&gt;http://www.geekpark.net/news/372070&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:17fe1240de605060</id>
     <title>Latest news</title>
-    <updated>2026-10-09T01:12:53+08:00</updated>
+    <updated>2026-10-09T16:17:00+08:00</updated>
     <published>2026-10-08T18:27:38+08:00</published>
     <link rel="alternate" href="https://mistral.ai/news"/>
     <author><name>Mistral</name></author>
@@ -122,13 +122,13 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：trial&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:27:38+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T01:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T16:17:00+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://mistral.ai/news&#34;&gt;https://mistral.ai/news&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:1918e08679b03d3d</id>
     <title>腾讯混元大模型 混元生文计费概述</title>
-    <updated>2026-10-09T01:12:53+08:00</updated>
+    <updated>2026-10-09T16:17:00+08:00</updated>
     <published>2026-10-08T18:11:17+08:00</published>
     <link rel="alternate" href="https://cloud.tencent.com/document/product/1729/97731"/>
     <author><name>腾讯混元</name></author>
@@ -141,13 +141,13 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：免费&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T01:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T16:17:00+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://cloud.tencent.com/document/product/1729/97731&#34;&gt;https://cloud.tencent.com/document/product/1729/97731&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:1a487eae5d13e635</id>
     <title>苹果首款触屏 Macbook 或 10 月发布；AI 能力成本三年下降数千倍创纪录；美人形机器人跳入熔炉，致敬《终结者 2》</title>
-    <updated>2026-10-09T01:12:53+08:00</updated>
+    <updated>2026-10-09T16:17:00+08:00</updated>
     <published>2026-10-08T18:11:17+08:00</published>
     <link rel="alternate" href="http://www.geekpark.net/news/372069"/>
     <author><name>资讯·极客公园</name></author>
@@ -160,13 +160,13 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：降价&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T01:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T16:17:00+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;http://www.geekpark.net/news/372069&#34;&gt;http://www.geekpark.net/news/372069&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:1d3f6027b51f1841</id>
     <title>OpenRouter FAQ</title>
-    <updated>2026-10-09T01:12:53+08:00</updated>
+    <updated>2026-10-09T16:17:00+08:00</updated>
     <published>2026-10-08T18:11:17+08:00</published>
     <link rel="alternate" href="https://openrouter.ai/docs/faq"/>
     <author><name>OpenRouter</name></author>
@@ -179,13 +179,13 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：free&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T01:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T16:17:00+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://openrouter.ai/docs/faq&#34;&gt;https://openrouter.ai/docs/faq&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:222146e80f0b2614</id>
     <title>Pricing</title>
-    <updated>2026-10-09T01:12:53+08:00</updated>
+    <updated>2026-10-09T16:17:00+08:00</updated>
     <published>2026-10-08T18:27:38+08:00</published>
     <link rel="alternate" href="https://huggingface.co/pricing"/>
     <author><name>Hugging Face</name></author>
@@ -198,13 +198,13 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：free&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:27:38+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T01:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T16:17:00+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://huggingface.co/pricing&#34;&gt;https://huggingface.co/pricing&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:232ffcd8a4c48761</id>
     <title>Pricing</title>
-    <updated>2026-10-09T01:12:53+08:00</updated>
+    <updated>2026-10-09T16:17:00+08:00</updated>
     <published>2026-10-08T18:11:17+08:00</published>
     <link rel="alternate" href="https://mistral.ai/pricing"/>
     <author><name>Mistral</name></author>
@@ -217,13 +217,13 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：free&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T01:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T16:17:00+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://mistral.ai/pricing&#34;&gt;https://mistral.ai/pricing&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:2472035a4555976f</id>
     <title>模型概览</title>
-    <updated>2026-10-09T01:12:53+08:00</updated>
+    <updated>2026-10-09T16:17:00+08:00</updated>
     <published>2026-10-08T18:27:38+08:00</published>
     <link rel="alternate" href="https://docs.bigmodel.cn/cn/guide/start/model-overview"/>
     <author><name>智谱 GLM</name></author>
@@ -236,13 +236,13 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：免费&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:27:38+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T01:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T16:17:00+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://docs.bigmodel.cn/cn/guide/start/model-overview&#34;&gt;https://docs.bigmodel.cn/cn/guide/start/model-overview&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:305ee28d03780da2</id>
     <title>Manus 正式发布 2.0！个人 AI 助手、云电脑、远程控制，Manus 想做 AI 时代全家桶</title>
-    <updated>2026-10-09T01:12:53+08:00</updated>
+    <updated>2026-10-09T16:17:00+08:00</updated>
     <published>2026-10-08T18:11:17+08:00</published>
     <link rel="alternate" href="http://www.geekpark.net/news/371493"/>
     <author><name>资讯·极客公园</name></author>
@@ -255,13 +255,13 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：邀请码&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T01:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T16:17:00+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;http://www.geekpark.net/news/371493&#34;&gt;http://www.geekpark.net/news/371493&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:325373ce89188f63</id>
     <title>Different Types of API Keys and Rate Limits</title>
-    <updated>2026-10-09T01:12:53+08:00</updated>
+    <updated>2026-10-09T16:17:00+08:00</updated>
     <published>2026-10-08T18:27:38+08:00</published>
     <link rel="alternate" href="https://docs.cohere.com/docs/rate-limits"/>
     <author><name>Cohere</name></author>
@@ -274,13 +274,13 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：free&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:27:38+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T01:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T16:17:00+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://docs.cohere.com/docs/rate-limits&#34;&gt;https://docs.cohere.com/docs/rate-limits&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:3f41d9118eb4ec42</id>
     <title>Google Beam expands with new regions, partners, and customers</title>
-    <updated>2026-10-09T01:12:53+08:00</updated>
+    <updated>2026-10-09T16:17:00+08:00</updated>
     <published>2026-10-08T18:11:17+08:00</published>
     <link rel="alternate" href="https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/"/>
     <author><name>Google Gemini</name></author>
@@ -293,13 +293,32 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：promo&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T01:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T16:17:00+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/&#34;&gt;https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:3f9515c4e7efd405</id>
+    <title>火山方舟 模型计费说明</title>
+    <updated>2026-10-09T16:17:00+08:00</updated>
+    <published>2026-10-08T18:27:38+08:00</published>
+    <link rel="alternate" href="https://www.volcengine.com/docs/82379/1099320"/>
+    <author><name>火山方舟·豆包</name></author>
+    <category term="火山方舟·豆包"/>
+    <summary type="text">…的单价 × 视频时长（秒）） ​ 图片生成模型 ​ 模型名称 ​ 输入图单价（元/张） ​ 输出图单价（元/张） ​ doubao-seedream-5-0-pro ​ 按生图场景区分定价 ​ 首张免费 ​ 第 2 张起：0.02 ​ 单图生成场景： ​ ≤ 261 万像素（分辨率 1.5K 及以下）：0.30 ​ &gt; 261 万像素（分辨率 1.5K 以上）：0.60 ​ 图层拆分场景： ​ ≤…</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：火山方舟·豆包&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：火山方舟 模型计费说明&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…的单价 × 视频时长（秒）） ​ 图片生成模型 ​ 模型名称 ​ 输入图单价（元/张） ​ 输出图单价（元/张） ​ doubao-seedream-5-0-pro ​ 按生图场景区分定价 ​ 首张免费 ​ 第 2 张起：0.02 ​ 单图生成场景： ​ ≤ 261 万像素（分辨率 1.5K 及以下）：0.30 ​ &gt; 261 万像素（分辨率 1.5K 以上）：0.60 ​ 图层拆分场景： ​ ≤…&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：免费&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:27:38+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T16:17:00+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.volcengine.com/docs/82379/1099320&#34;&gt;https://www.volcengine.com/docs/82379/1099320&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:454f941d51e15f39</id>
     <title>Pricing</title>
-    <updated>2026-10-09T01:12:53+08:00</updated>
+    <updated>2026-10-09T16:17:00+08:00</updated>
     <published>2026-10-08T18:27:38+08:00</published>
     <link rel="alternate" href="https://docs.perplexity.ai/getting-started/pricing"/>
     <author><name>Perplexity</name></author>
@@ -312,13 +331,13 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：free&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:27:38+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T01:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T16:17:00+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://docs.perplexity.ai/getting-started/pricing&#34;&gt;https://docs.perplexity.ai/getting-started/pricing&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:471b7b657ecfc70e</id>
     <title>Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Global Industrial AIoT Platforms</title>
-    <updated>2026-10-09T01:12:53+08:00</updated>
+    <updated>2026-10-09T16:17:00+08:00</updated>
     <published>2026-10-08T18:12:53+08:00</published>
     <link rel="alternate" href="https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-global-industrial-aiot-platforms/"/>
     <author><name>Azure AI</name></author>
@@ -331,32 +350,32 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：trial&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:12:53+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T01:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T16:17:00+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-global-industrial-aiot-platforms/&#34;&gt;https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-global-industrial-aiot-platforms/&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:48e3941064854c6c</id>
     <title>PPIO - 中国领先的分布式云计算服务商</title>
-    <updated>2026-10-09T01:12:53+08:00</updated>
+    <updated>2026-10-09T16:17:00+08:00</updated>
     <published>2026-10-08T18:11:17+08:00</published>
     <link rel="alternate" href="https://ppio.com/"/>
     <author><name>PPIO 派欧云</name></author>
     <category term="PPIO 派欧云"/>
-    <summary type="text">模型服务 Agent 云服务 GPU 云服务 即将下线 新闻资讯 关于我们 文档 控制台 登录 立即注册 登录/注册 免费注册 登录 模型服务 Agent 云服务 GPU 云服务 即将下线 新闻资讯 关于我们 文档 控制台 安装 Skills › npx skills add PPIO/ppio-skills --ski…</summary>
+    <summary type="text">模型服务 Agent 云服务 GPU 云服务 即将下线 边缘云计算 新闻资讯 关于我们 文档 控制台 登录 立即注册 登录/注册 免费注册 登录 模型服务 Agent 云服务 GPU 云服务 即将下线 边缘云计算 新闻资讯 关于我们 文档 控制台 安装 Skills › npx skills add PPIO/ppio-skills…</summary>
     <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：PPIO 派欧云&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：PPIO - 中国领先的分布式云计算服务商&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：模型服务 Agent 云服务 GPU 云服务 即将下线 新闻资讯 关于我们 文档 控制台 登录 立即注册 登录/注册 免费注册 登录 模型服务 Agent 云服务 GPU 云服务 即将下线 新闻资讯 关于我们 文档 控制台 安装 Skills › npx skills add PPIO/ppio-skills --ski…&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：模型服务 Agent 云服务 GPU 云服务 即将下线 边缘云计算 新闻资讯 关于我们 文档 控制台 登录 立即注册 登录/注册 免费注册 登录 模型服务 Agent 云服务 GPU 云服务 即将下线 边缘云计算 新闻资讯 关于我们 文档 控制台 安装 Skills › npx skills add PPIO/ppio-skills…&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：免费&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T01:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T16:17:00+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://ppio.com/&#34;&gt;https://ppio.com/&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:4935578386852c47</id>
     <title>语音资源包</title>
-    <updated>2026-10-09T01:12:53+08:00</updated>
+    <updated>2026-10-09T16:17:00+08:00</updated>
     <published>2026-10-08T18:11:17+08:00</published>
     <link rel="alternate" href="https://platform.minimaxi.com/document/price"/>
     <author><name>MiniMax</name></author>
@@ -369,13 +388,13 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：折扣&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T01:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T16:17:00+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://platform.minimaxi.com/document/price&#34;&gt;https://platform.minimaxi.com/document/price&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:50e017209458414f</id>
     <title>GPU Cloud Pricing</title>
-    <updated>2026-10-09T01:12:53+08:00</updated>
+    <updated>2026-10-09T16:17:00+08:00</updated>
     <published>2026-10-08T18:27:38+08:00</published>
     <link rel="alternate" href="https://www.runpod.io/pricing"/>
     <author><name>RunPod</name></author>
@@ -388,13 +407,13 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：discount&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:27:38+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T01:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T16:17:00+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.runpod.io/pricing&#34;&gt;https://www.runpod.io/pricing&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:573469f2620924c1</id>
     <title>Pricing: Pay per second for GPUs and CPUs</title>
-    <updated>2026-10-09T01:12:53+08:00</updated>
+    <updated>2026-10-09T16:17:00+08:00</updated>
     <published>2026-10-08T18:27:38+08:00</published>
     <link rel="alternate" href="https://modal.com/pricing"/>
     <author><name>Modal</name></author>
@@ -407,13 +426,13 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：free&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:27:38+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T01:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T16:17:00+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://modal.com/pricing&#34;&gt;https://modal.com/pricing&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:5737732c967f40f2</id>
     <title>The Lenfest Institute grows landmark program with expanded OpenAI support</title>
-    <updated>2026-10-09T01:12:53+08:00</updated>
+    <updated>2026-10-09T16:17:00+08:00</updated>
     <published>2026-10-08T18:11:17+08:00</published>
     <link rel="alternate" href="https://openai.com/index/lenfest-ai-collaborative-expansion"/>
     <author><name>OpenAI</name></author>
@@ -426,13 +445,13 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：credit&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T01:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T16:17:00+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://openai.com/index/lenfest-ai-collaborative-expansion&#34;&gt;https://openai.com/index/lenfest-ai-collaborative-expansion&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:5b2e89aa12e03d93</id>
     <title>Making Amazon Quick enterprise</title>
-    <updated>2026-10-09T01:12:53+08:00</updated>
+    <updated>2026-10-09T16:17:00+08:00</updated>
     <published>2026-10-08T18:11:17+08:00</published>
     <link rel="alternate" href="https://aws.amazon.com/blogs/machine-learning/making-amazon-quick-enterprise-ready-automated-auditable-cross-account-resource-promotion/"/>
     <author><name>AWS Bedrock</name></author>
@@ -445,13 +464,13 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：promo&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T01:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T16:17:00+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://aws.amazon.com/blogs/machine-learning/making-amazon-quick-enterprise-ready-automated-auditable-cross-account-resource-promotion/&#34;&gt;https://aws.amazon.com/blogs/machine-learning/making-amazon-quick-enterprise-ready-automated-auditable-cross-account-resource-promotion/&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:5f5c4c0ae520c10f</id>
     <title>Gemini Developer API pricing</title>
-    <updated>2026-10-09T01:12:53+08:00</updated>
+    <updated>2026-10-09T16:17:00+08:00</updated>
     <published>2026-10-08T18:11:17+08:00</published>
     <link rel="alternate" href="https://ai.google.dev/gemini-api/docs/pricing"/>
     <author><name>Google Gemini</name></author>
@@ -464,13 +483,13 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：free&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T01:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T16:17:00+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://ai.google.dev/gemini-api/docs/pricing&#34;&gt;https://ai.google.dev/gemini-api/docs/pricing&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:5f616e62c2cce744</id>
     <title>Plans &amp; pricing</title>
-    <updated>2026-10-09T01:12:53+08:00</updated>
+    <updated>2026-10-09T16:17:00+08:00</updated>
     <published>2026-10-08T18:11:17+08:00</published>
     <link rel="alternate" href="https://www.anthropic.com/pricing"/>
     <author><name>Anthropic</name></author>
@@ -483,13 +502,13 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：free&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T01:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T16:17:00+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.anthropic.com/pricing&#34;&gt;https://www.anthropic.com/pricing&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:6036ae7091e69ce3</id>
     <title>Blog</title>
-    <updated>2026-10-09T01:12:53+08:00</updated>
+    <updated>2026-10-09T16:17:00+08:00</updated>
     <published>2026-10-08T18:27:38+08:00</published>
     <link rel="alternate" href="https://ollama.com/blog"/>
     <author><name>Ollama</name></author>
@@ -502,13 +521,13 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：free&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:27:38+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T01:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T16:17:00+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://ollama.com/blog&#34;&gt;https://ollama.com/blog&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:6cec0a5b4127f767</id>
     <title>Cloud Pricing</title>
-    <updated>2026-10-09T01:12:53+08:00</updated>
+    <updated>2026-10-09T16:17:00+08:00</updated>
     <published>2026-10-08T18:27:38+08:00</published>
     <link rel="alternate" href="https://www.baseten.co/pricing/"/>
     <author><name>Baseten</name></author>
@@ -521,32 +540,13 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：free&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:27:38+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T01:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T16:17:00+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.baseten.co/pricing/&#34;&gt;https://www.baseten.co/pricing/&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:ai-egg-monitor,2026:activity:6e463bcffe717723</id>
-    <title>Claude Sonnet 5.5</title>
-    <updated>2026-10-09T01:12:53+08:00</updated>
-    <published>2026-10-08T18:11:17+08:00</published>
-    <link rel="alternate" href="https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/"/>
-    <author><name>资讯·Simon Willison</name></author>
-    <category term="资讯·Simon Willison"/>
-    <summary type="text">…tricks . The most interesting thing about Sonnet 5.5 is that it&#39;s now the model used for the free tier on claude.ai . OpenAI&#39;s ChatGPT free tier uses Luna 5.6, which means Anthropic currently have a muc…</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·Simon Willison&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：Claude Sonnet 5.5&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…tricks . The most interesting thing about Sonnet 5.5 is that it&#39;s now the model used for the free tier on claude.ai . OpenAI&#39;s ChatGPT free tier uses Luna 5.6, which means Anthropic currently have a muc…&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：free tier&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T01:12:53+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/&#34;&gt;https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:747206776c9a56c4</id>
     <title>Plans and Pricing | Devin</title>
-    <updated>2026-10-09T01:12:53+08:00</updated>
+    <updated>2026-10-09T16:17:00+08:00</updated>
     <published>2026-10-08T18:11:17+08:00</published>
     <link rel="alternate" href="https://windsurf.com/pricing"/>
     <author><name>Windsurf</name></author>
@@ -559,13 +559,13 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：free&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T01:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T16:17:00+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://windsurf.com/pricing&#34;&gt;https://windsurf.com/pricing&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:74b59133ae9afdfe</id>
     <title>硅基流动 SiliconFlow</title>
-    <updated>2026-10-09T01:12:53+08:00</updated>
+    <updated>2026-10-09T16:17:00+08:00</updated>
     <published>2026-10-08T18:27:38+08:00</published>
     <link rel="alternate" href="https://siliconflow.cn/"/>
     <author><name>硅基流动 SiliconFlow</name></author>
@@ -578,13 +578,13 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：学生&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:27:38+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T01:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T16:17:00+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://siliconflow.cn/&#34;&gt;https://siliconflow.cn/&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:8a143abe5f3a9d8b</id>
     <title>Try NVIDIA NIM APIs</title>
-    <updated>2026-10-09T01:12:53+08:00</updated>
+    <updated>2026-10-09T16:17:00+08:00</updated>
     <published>2026-10-08T18:11:17+08:00</published>
     <link rel="alternate" href="https://build.nvidia.com/explore/discover"/>
     <author><name>NVIDIA NIM</name></author>
@@ -597,13 +597,13 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：trial&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T01:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T16:17:00+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://build.nvidia.com/explore/discover&#34;&gt;https://build.nvidia.com/explore/discover&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:95b83aca5ff8baff</id>
     <title>Fastest AI Inference Cloud and API</title>
-    <updated>2026-10-09T01:12:53+08:00</updated>
+    <updated>2026-10-09T16:17:00+08:00</updated>
     <published>2026-10-08T18:11:17+08:00</published>
     <link rel="alternate" href="https://www.cerebras.ai/inference"/>
     <author><name>Cerebras</name></author>
@@ -616,13 +616,13 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：free&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T01:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T16:17:00+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.cerebras.ai/inference&#34;&gt;https://www.cerebras.ai/inference&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:a2d522c721ea08c9</id>
     <title>新人免费额度获取及用完即停开关规则</title>
-    <updated>2026-10-09T01:12:53+08:00</updated>
+    <updated>2026-10-09T16:17:00+08:00</updated>
     <published>2026-10-08T17:58:35+08:00</published>
     <link rel="alternate" href="https://help.aliyun.com/zh/model-studio/new-free-quota"/>
     <author><name>通义千问</name></author>
@@ -635,13 +635,13 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：免费&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T17:58:35+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T01:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T16:17:00+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://help.aliyun.com/zh/model-studio/new-free-quota&#34;&gt;https://help.aliyun.com/zh/model-studio/new-free-quota&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:a3169b683b57358b</id>
     <title>Cerebras Inference Pricing</title>
-    <updated>2026-10-09T01:12:53+08:00</updated>
+    <updated>2026-10-09T16:17:00+08:00</updated>
     <published>2026-10-08T18:27:38+08:00</published>
     <link rel="alternate" href="https://www.cerebras.ai/pricing"/>
     <author><name>Cerebras</name></author>
@@ -654,13 +654,13 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：credit&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:27:38+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T01:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T16:17:00+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.cerebras.ai/pricing&#34;&gt;https://www.cerebras.ai/pricing&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:b2b7ef18aa541fbe</id>
     <title>AMD 82 亿美元收购李飞飞 AI 创业公司；Manus 推出个人 AI 助手 CUE；今年低价手机将减少 2.3 亿部｜极客早知道</title>
-    <updated>2026-10-09T01:12:53+08:00</updated>
+    <updated>2026-10-09T16:17:00+08:00</updated>
     <published>2026-10-08T18:11:17+08:00</published>
     <link rel="alternate" href="http://www.geekpark.net/news/371359"/>
     <author><name>资讯·极客公园</name></author>
@@ -673,13 +673,13 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：邀请码&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T01:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T16:17:00+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;http://www.geekpark.net/news/371359&#34;&gt;http://www.geekpark.net/news/371359&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:b3064618fbca75d9</id>
     <title>The Den frees up 10</title>
-    <updated>2026-10-09T01:12:53+08:00</updated>
+    <updated>2026-10-09T16:17:00+08:00</updated>
     <published>2026-10-08T18:11:17+08:00</published>
     <link rel="alternate" href="https://openai.com/index/the-den-family-social"/>
     <author><name>OpenAI</name></author>
@@ -692,13 +692,13 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：free&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T01:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T16:17:00+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://openai.com/index/the-den-family-social&#34;&gt;https://openai.com/index/the-den-family-social&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:b6de95598207771a</id>
     <title>Hallo, Deutschland!</title>
-    <updated>2026-10-09T01:12:53+08:00</updated>
+    <updated>2026-10-09T16:17:00+08:00</updated>
     <published>2026-10-08T18:11:17+08:00</published>
     <link rel="alternate" href="https://mistral.ai/news/hallo-deutschland/"/>
     <author><name>Mistral</name></author>
@@ -711,13 +711,13 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：trial&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T01:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T16:17:00+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://mistral.ai/news/hallo-deutschland/&#34;&gt;https://mistral.ai/news/hallo-deutschland/&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:b99574d412655a47</id>
     <title>Pricing</title>
-    <updated>2026-10-09T01:12:53+08:00</updated>
+    <updated>2026-10-09T16:17:00+08:00</updated>
     <published>2026-10-08T18:27:38+08:00</published>
     <link rel="alternate" href="https://www.together.ai/pricing"/>
     <author><name>Together AI</name></author>
@@ -730,32 +730,13 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：free&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:27:38+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T01:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T16:17:00+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.together.ai/pricing&#34;&gt;https://www.together.ai/pricing&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:ai-egg-monitor,2026:activity:c79bc99fe93fb14b</id>
-    <title>传 OpenAI 29 日推个人 AI 助手；AI 专家偏远地区买地，担心「AI 失控」；挖掘机能自动「挖沟」，网友：蓝翔还能开几年？</title>
-    <updated>2026-10-09T01:12:53+08:00</updated>
-    <published>2026-10-08T18:11:17+08:00</published>
-    <link rel="alternate" href="http://www.geekpark.net/news/371044"/>
-    <author><name>资讯·极客公园</name></author>
-    <category term="资讯·极客公园"/>
-    <summary type="text">…昂贵的 AI，从而在成本上占据优势，被攻击方为了防御同样需要使用这些 AI 工具。 谷歌威胁情报团队研究人员发现，暗网市场出售 Anthropic、谷歌和 OpenAI 等公司的 AI 模型使用权限，折扣最高达到 97%。 霍特奎斯特称，AI 实验室会监测滥用迹象，因此部分卖家甚至推出「保证访问」服务，承诺初始账户一旦遭到封禁，就不收取额外费用，直接提供新的登录凭据。还有一些犯罪团体和国家支持的组织会…</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·极客公园&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：传 OpenAI 29 日推个人 AI 助手；AI 专家偏远地区买地，担心「AI 失控」；挖掘机能自动「挖沟」，网友：蓝翔还能开几年？&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…昂贵的 AI，从而在成本上占据优势，被攻击方为了防御同样需要使用这些 AI 工具。 谷歌威胁情报团队研究人员发现，暗网市场出售 Anthropic、谷歌和 OpenAI 等公司的 AI 模型使用权限，折扣最高达到 97%。 霍特奎斯特称，AI 实验室会监测滥用迹象，因此部分卖家甚至推出「保证访问」服务，承诺初始账户一旦遭到封禁，就不收取额外费用，直接提供新的登录凭据。还有一些犯罪团体和国家支持的组织会…&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：折扣&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T01:12:53+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;http://www.geekpark.net/news/371044&#34;&gt;http://www.geekpark.net/news/371044&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:c90cd6038f5c59f9</id>
     <title>Cursor · Pricing</title>
-    <updated>2026-10-09T01:12:53+08:00</updated>
+    <updated>2026-10-09T16:17:00+08:00</updated>
     <published>2026-10-08T18:11:17+08:00</published>
     <link rel="alternate" href="https://cursor.com/pricing"/>
     <author><name>Cursor</name></author>
@@ -768,13 +749,13 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：free&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T01:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T16:17:00+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://cursor.com/pricing&#34;&gt;https://cursor.com/pricing&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:cb7b29bd71a9e5c3</id>
     <title>阿里云百炼模型价格</title>
-    <updated>2026-10-09T01:12:53+08:00</updated>
+    <updated>2026-10-09T16:17:00+08:00</updated>
     <published>2026-10-08T18:11:17+08:00</published>
     <link rel="alternate" href="https://help.aliyun.com/zh/model-studio/billing-for-model-studio"/>
     <author><name>通义千问</name></author>
@@ -787,13 +768,13 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：免费&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T01:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T16:17:00+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://help.aliyun.com/zh/model-studio/billing-for-model-studio&#34;&gt;https://help.aliyun.com/zh/model-studio/billing-for-model-studio&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:d270ab6a09f967b5</id>
     <title>OpenRouter Models</title>
-    <updated>2026-10-09T01:12:53+08:00</updated>
+    <updated>2026-10-09T16:17:00+08:00</updated>
     <published>2026-10-08T18:27:38+08:00</published>
     <link rel="alternate" href="https://openrouter.ai/docs/overview/models"/>
     <author><name>OpenRouter</name></author>
@@ -806,13 +787,13 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：free&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:27:38+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T01:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T16:17:00+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://openrouter.ai/docs/overview/models&#34;&gt;https://openrouter.ai/docs/overview/models&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:da510d5207ae5f08</id>
     <title>面壁智能</title>
-    <updated>2026-10-09T01:12:53+08:00</updated>
+    <updated>2026-10-09T16:17:00+08:00</updated>
     <published>2026-10-08T18:27:38+08:00</published>
     <link rel="alternate" href="https://modelbest.cn/"/>
     <author><name>面壁智能</name></author>
@@ -825,13 +806,13 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：免费&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:27:38+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T01:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T16:17:00+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://modelbest.cn/&#34;&gt;https://modelbest.cn/&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:de76b49c9d692247</id>
     <title>Pricing</title>
-    <updated>2026-10-09T01:12:53+08:00</updated>
+    <updated>2026-10-09T16:17:00+08:00</updated>
     <published>2026-10-08T18:27:38+08:00</published>
     <link rel="alternate" href="https://platform.openai.com/docs/pricing"/>
     <author><name>OpenAI</name></author>
@@ -844,13 +825,13 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：free&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:27:38+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T01:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T16:17:00+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://platform.openai.com/docs/pricing&#34;&gt;https://platform.openai.com/docs/pricing&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:e82c8a882c5a1012</id>
     <title>API Pricing</title>
-    <updated>2026-10-09T01:12:53+08:00</updated>
+    <updated>2026-10-09T16:17:00+08:00</updated>
     <published>2026-10-08T18:27:38+08:00</published>
     <link rel="alternate" href="https://docs.x.ai/docs/pricing"/>
     <author><name>xAI Grok</name></author>
@@ -863,13 +844,13 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：free&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:27:38+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T01:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T16:17:00+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://docs.x.ai/docs/pricing&#34;&gt;https://docs.x.ai/docs/pricing&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:e8a5979a892b82c1</id>
     <title>千帆大模型平台</title>
-    <updated>2026-10-09T01:12:53+08:00</updated>
+    <updated>2026-10-09T16:17:00+08:00</updated>
     <published>2026-10-08T18:27:38+08:00</published>
     <link rel="alternate" href="https://cloud.baidu.com/product/wenxinworkshop"/>
     <author><name>百度文心</name></author>
@@ -882,13 +863,13 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：免费&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:27:38+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T01:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T16:17:00+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://cloud.baidu.com/product/wenxinworkshop&#34;&gt;https://cloud.baidu.com/product/wenxinworkshop&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:f47ac99038d603b1</id>
     <title>Fireworks - Pricing</title>
-    <updated>2026-10-09T01:12:53+08:00</updated>
+    <updated>2026-10-09T16:17:00+08:00</updated>
     <published>2026-10-08T18:27:38+08:00</published>
     <link rel="alternate" href="https://fireworks.ai/pricing"/>
     <author><name>Fireworks AI</name></author>
@@ -901,13 +882,13 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：credit&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:27:38+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T01:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T16:17:00+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://fireworks.ai/pricing&#34;&gt;https://fireworks.ai/pricing&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:fa59899fb80cc144</id>
     <title>Pricing</title>
-    <updated>2026-10-09T01:12:53+08:00</updated>
+    <updated>2026-10-09T16:17:00+08:00</updated>
     <published>2026-10-08T18:11:17+08:00</published>
     <link rel="alternate" href="https://replicate.com/pricing"/>
     <author><name>Replicate</name></author>
@@ -920,13 +901,13 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：free&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T01:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T16:17:00+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://replicate.com/pricing&#34;&gt;https://replicate.com/pricing&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:fe5ab79de351cc77</id>
     <title>Claude Code by Anthropic</title>
-    <updated>2026-10-09T01:12:53+08:00</updated>
+    <updated>2026-10-09T16:17:00+08:00</updated>
     <published>2026-10-08T18:27:38+08:00</published>
     <link rel="alternate" href="https://www.anthropic.com/claude-code"/>
     <author><name>Anthropic</name></author>
@@ -939,13 +920,13 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：free&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:27:38+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T01:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T16:17:00+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.anthropic.com/claude-code&#34;&gt;https://www.anthropic.com/claude-code&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:ff49e507d89b30cd</id>
     <title>Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission</title>
-    <updated>2026-10-09T01:12:53+08:00</updated>
+    <updated>2026-10-09T16:17:00+08:00</updated>
     <published>2026-10-08T18:11:17+08:00</published>
     <link rel="alternate" href="https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/"/>
     <author><name>Google Gemini</name></author>
@@ -958,8 +939,103 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：credit&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T01:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T16:17:00+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/&#34;&gt;https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:aee1f94546fcd3e1</id>
+    <title>再裁员5000人！保时捷明确回归燃油车，高端车型计划涨价20%；腾讯拟发行50亿美元离岸债券，或筹钱加码AI；OpenAI全面上线GPT-6</title>
+    <updated>2026-10-09T16:17:00+08:00</updated>
+    <published>2026-10-09T16:17:00+08:00</published>
+    <link rel="alternate" href="https://www.leiphone.com/category/zaobao/GGmq1RiBgXY2GSVL.html"/>
+    <author><name>资讯·雷锋网</name></author>
+    <category term="资讯·雷锋网"/>
+    <summary type="text">…8日消息，小鹏集团Robotaxi业务正式启用中文名称“小鹏悠游”，英文名为“XPENG YOYO”。同日，小鹏集团官网上线Robotaxi页面，小鹏YOYO自动驾驶打车小程序同步上线，后续将通过发放邀请码的方式面向公众开放体验。这标志着小鹏Robotaxi业务正式从技术验证，迈入用户开放运营和商业化探索新阶段。（新浪科技） 融资近7亿！前百度大牛创业自动驾驶，顺丰连投三次 10月8日消息，L4级自动驾…</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·雷锋网&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：再裁员5000人！保时捷明确回归燃油车，高端车型计划涨价20%；腾讯拟发行50亿美元离岸债券，或筹钱加码AI；OpenAI全面上线GPT-6&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…8日消息，小鹏集团Robotaxi业务正式启用中文名称“小鹏悠游”，英文名为“XPENG YOYO”。同日，小鹏集团官网上线Robotaxi页面，小鹏YOYO自动驾驶打车小程序同步上线，后续将通过发放邀请码的方式面向公众开放体验。这标志着小鹏Robotaxi业务正式从技术验证，迈入用户开放运营和商业化探索新阶段。（新浪科技） 融资近7亿！前百度大牛创业自动驾驶，顺丰连投三次 10月8日消息，L4级自动驾…&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：邀请码&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-09T16:17:00+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T16:17:00+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.leiphone.com/category/zaobao/GGmq1RiBgXY2GSVL.html&#34;&gt;https://www.leiphone.com/category/zaobao/GGmq1RiBgXY2GSVL.html&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:fd683b95acc05d33</id>
+    <title>Steam 新一周游戏销量榜公布：《AION 2》登顶全球榜首，多作降价上榜</title>
+    <updated>2026-10-09T16:17:00+08:00</updated>
+    <published>2026-10-09T16:17:00+08:00</published>
+    <link rel="alternate" href="https://www.ithome.com/1/011/031.htm"/>
+    <author><name>资讯·IT之家</name></author>
+    <category term="资讯·IT之家"/>
+    <summary type="text">…最新一周游戏销量排行榜（2026 年 9 月 29 日 - 2026 年 10 月 6 日，无免费游戏），《AION 2》首次登顶全球收费游戏销量榜首，《The Outlast Trials》凭借大幅降价登顶国区榜单，多款促销游戏集体上榜。 全球榜单： AION 2 《空战奇兵 8 希孚之翼 (ACE COMBAT 8: WINGS OF THEVE)》 EA SPORTS FC™ 27 《WARDO…</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·IT之家&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：Steam 新一周游戏销量榜公布：《AION 2》登顶全球榜首，多作降价上榜&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…最新一周游戏销量排行榜（2026 年 9 月 29 日 - 2026 年 10 月 6 日，无免费游戏），《AION 2》首次登顶全球收费游戏销量榜首，《The Outlast Trials》凭借大幅降价登顶国区榜单，多款促销游戏集体上榜。 全球榜单： AION 2 《空战奇兵 8 希孚之翼 (ACE COMBAT 8: WINGS OF THEVE)》 EA SPORTS FC™ 27 《WARDO…&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：降价&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-09T16:17:00+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T16:17:00+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.ithome.com/1/011/031.htm&#34;&gt;https://www.ithome.com/1/011/031.htm&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:cdee53bd42c2a7b2</id>
+    <title>Steam 喜加一：原价 22 元心理恐怖解谜游戏《Pony Island》免费领</title>
+    <updated>2026-10-09T16:17:00+08:00</updated>
+    <published>2026-10-09T16:17:00+08:00</published>
+    <link rel="alternate" href="https://www.ithome.com/1/010/990.htm"/>
+    <author><name>资讯·IT之家</name></author>
+    <category term="资讯·IT之家"/>
+    <summary type="text">…制作的心理恐怖解谜游戏《Pony Island（小马岛）》目前正在 Steam 平台开展限时免费“喜加一”活动， 本作在 Steam 国区定价为 22 元 ，玩家可以在北京时间 10 月 13 日前免费领取，IT之家附游戏商品页（ https://store.steampowered.com/app/405640/Pony_Island/ ）。 《Pony Island》表面上是一款画风可爱的小马跳跃闯…</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·IT之家&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：Steam 喜加一：原价 22 元心理恐怖解谜游戏《Pony Island》免费领&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…制作的心理恐怖解谜游戏《Pony Island（小马岛）》目前正在 Steam 平台开展限时免费“喜加一”活动， 本作在 Steam 国区定价为 22 元 ，玩家可以在北京时间 10 月 13 日前免费领取，IT之家附游戏商品页（ https://store.steampowered.com/app/405640/Pony_Island/ ）。 《Pony Island》表面上是一款画风可爱的小马跳跃闯…&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：免费领取&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-09T16:17:00+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T16:17:00+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.ithome.com/1/010/990.htm&#34;&gt;https://www.ithome.com/1/010/990.htm&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:9129df7561346b0d</id>
+    <title>Steam 喜加一：卡牌 Roguelike 游戏《Hex Reverse》限时免费领</title>
+    <updated>2026-10-09T16:17:00+08:00</updated>
+    <published>2026-10-09T16:17:00+08:00</published>
+    <link rel="alternate" href="https://www.ithome.com/1/010/975.htm"/>
+    <author><name>资讯·IT之家</name></author>
+    <category term="资讯·IT之家"/>
+    <summary type="text">IT之家 10 月 9 日消息，开发者 IsaoWorks 宣布旗下卡牌 Roguelike 游戏《Hex Reverse》将于首发 30 天内进行“限时免费领取”活动，本作已于 10 月 7 日登陆 Steam，也就是玩家可以在 11 月 6 日前免费领取这款作品，IT之家附游戏商品页（ https://store.steampowered.com/app/…</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·IT之家&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：Steam 喜加一：卡牌 Roguelike 游戏《Hex Reverse》限时免费领&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：IT之家 10 月 9 日消息，开发者 IsaoWorks 宣布旗下卡牌 Roguelike 游戏《Hex Reverse》将于首发 30 天内进行“限时免费领取”活动，本作已于 10 月 7 日登陆 Steam，也就是玩家可以在 11 月 6 日前免费领取这款作品，IT之家附游戏商品页（ https://store.steampowered.com/app/…&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：免费领取&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-09T16:17:00+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T16:17:00+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.ithome.com/1/010/975.htm&#34;&gt;https://www.ithome.com/1/010/975.htm&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:65afaea0902ec53d</id>
+    <title>我使用国产「个人 AI 助手」的十天｜AI 上新</title>
+    <updated>2026-10-09T16:17:00+08:00</updated>
+    <published>2026-10-09T16:17:00+08:00</published>
+    <link rel="alternate" href="http://www.geekpark.net/news/372163"/>
+    <author><name>资讯·极客公园</name></author>
+    <category term="资讯·极客公园"/>
+    <summary type="text">…我玩嗨了｜AI 上新 ）向栏目投稿，在极客公园公众号发布，不仅能获得相应稿费，且会为你「报销」AI 应用的订阅费用。 同时， 优秀作者还有机会进入极客公园 AI 体验群 ，获得最新 AI 应用和工具的内测资格，参加极客公园专属相关 AI 活动，和 AI 应用创始人一对一沟通。 AGI 太久，只争朝夕，让一部分人先 AI 起来吧！ 投稿、进群请扫描下方二维码添加极客小助手微信👇 01 我有常用的 AI，为什…</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·极客公园&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：我使用国产「个人 AI 助手」的十天｜AI 上新&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…我玩嗨了｜AI 上新 ）向栏目投稿，在极客公园公众号发布，不仅能获得相应稿费，且会为你「报销」AI 应用的订阅费用。 同时， 优秀作者还有机会进入极客公园 AI 体验群 ，获得最新 AI 应用和工具的内测资格，参加极客公园专属相关 AI 活动，和 AI 应用创始人一对一沟通。 AGI 太久，只争朝夕，让一部分人先 AI 起来吧！ 投稿、进群请扫描下方二维码添加极客小助手微信👇 01 我有常用的 AI，为什…&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：内测资格&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-09T16:17:00+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T16:17:00+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;http://www.geekpark.net/news/372163&#34;&gt;http://www.geekpark.net/news/372163&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:2f0a169d68136ab3</id>
@@ -981,6 +1057,25 @@
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.ithome.com/1/010/739.htm&#34;&gt;https://www.ithome.com/1/010/739.htm&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:ai-egg-monitor,2026:activity:6e463bcffe717723</id>
+    <title>Claude Sonnet 5.5</title>
+    <updated>2026-10-09T01:12:53+08:00</updated>
+    <published>2026-10-08T18:11:17+08:00</published>
+    <link rel="alternate" href="https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/"/>
+    <author><name>资讯·Simon Willison</name></author>
+    <category term="资讯·Simon Willison"/>
+    <summary type="text">…tricks . The most interesting thing about Sonnet 5.5 is that it&#39;s now the model used for the free tier on claude.ai . OpenAI&#39;s ChatGPT free tier uses Luna 5.6, which means Anthropic currently have a muc…</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·Simon Willison&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：Claude Sonnet 5.5&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…tricks . The most interesting thing about Sonnet 5.5 is that it&#39;s now the model used for the free tier on claude.ai . OpenAI&#39;s ChatGPT free tier uses Luna 5.6, which means Anthropic currently have a muc…&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：free tier&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T01:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/&#34;&gt;https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:ai-egg-monitor,2026:activity:a167ce37195d376f</id>
     <title>Epic 喜加二：《熊视眈眈》《愿景之城》游戏免费领取</title>
     <updated>2026-10-09T01:12:53+08:00</updated>
@@ -998,6 +1093,25 @@
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-09T01:12:53+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T01:12:53+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.ithome.com/1/010/735.htm&#34;&gt;https://www.ithome.com/1/010/735.htm&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:c79bc99fe93fb14b</id>
+    <title>传 OpenAI 29 日推个人 AI 助手；AI 专家偏远地区买地，担心「AI 失控」；挖掘机能自动「挖沟」，网友：蓝翔还能开几年？</title>
+    <updated>2026-10-09T01:12:53+08:00</updated>
+    <published>2026-10-08T18:11:17+08:00</published>
+    <link rel="alternate" href="http://www.geekpark.net/news/371044"/>
+    <author><name>资讯·极客公园</name></author>
+    <category term="资讯·极客公园"/>
+    <summary type="text">…昂贵的 AI，从而在成本上占据优势，被攻击方为了防御同样需要使用这些 AI 工具。 谷歌威胁情报团队研究人员发现，暗网市场出售 Anthropic、谷歌和 OpenAI 等公司的 AI 模型使用权限，折扣最高达到 97%。 霍特奎斯特称，AI 实验室会监测滥用迹象，因此部分卖家甚至推出「保证访问」服务，承诺初始账户一旦遭到封禁，就不收取额外费用，直接提供新的登录凭据。还有一些犯罪团体和国家支持的组织会…</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·极客公园&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：传 OpenAI 29 日推个人 AI 助手；AI 专家偏远地区买地，担心「AI 失控」；挖掘机能自动「挖沟」，网友：蓝翔还能开几年？&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…昂贵的 AI，从而在成本上占据优势，被攻击方为了防御同样需要使用这些 AI 工具。 谷歌威胁情报团队研究人员发现，暗网市场出售 Anthropic、谷歌和 OpenAI 等公司的 AI 模型使用权限，折扣最高达到 97%。 霍特奎斯特称，AI 实验室会监测滥用迹象，因此部分卖家甚至推出「保证访问」服务，承诺初始账户一旦遭到封禁，就不收取额外费用，直接提供新的登录凭据。还有一些犯罪团体和国家支持的组织会…&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：折扣&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T01:12:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;http://www.geekpark.net/news/371044&#34;&gt;http://www.geekpark.net/news/371044&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:6de87211ccd6481d</id>
@@ -1036,25 +1150,6 @@
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:32:51+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.ithome.com/1/010/585.htm&#34;&gt;https://www.ithome.com/1/010/585.htm&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:ai-egg-monitor,2026:activity:3f9515c4e7efd405</id>
-    <title>火山方舟 模型计费说明</title>
-    <updated>2026-10-08T18:30:28+08:00</updated>
-    <published>2026-10-08T18:27:38+08:00</published>
-    <link rel="alternate" href="https://www.volcengine.com/docs/82379/1099320"/>
-    <author><name>火山方舟·豆包</name></author>
-    <category term="火山方舟·豆包"/>
-    <summary type="text">…的单价 × 视频时长（秒）） ​ 图片生成模型 ​ 模型名称 ​ 输入图单价（元/张） ​ 输出图单价（元/张） ​ doubao-seedream-5-0-pro ​ 按生图场景区分定价 ​ 首张免费 ​ 第 2 张起：0.02 ​ 单图生成场景： ​ ≤ 261 万像素（分辨率 1.5K 及以下）：0.30 ​ &gt; 261 万像素（分辨率 1.5K 以上）：0.60 ​ 图层拆分场景： ​ ≤…</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：火山方舟·豆包&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：火山方舟 模型计费说明&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…的单价 × 视频时长（秒）） ​ 图片生成模型 ​ 模型名称 ​ 输入图单价（元/张） ​ 输出图单价（元/张） ​ doubao-seedream-5-0-pro ​ 按生图场景区分定价 ​ 首张免费 ​ 第 2 张起：0.02 ​ 单图生成场景： ​ ≤ 261 万像素（分辨率 1.5K 及以下）：0.30 ​ &gt; 261 万像素（分辨率 1.5K 以上）：0.60 ​ 图层拆分场景： ​ ≤…&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：免费&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:27:38+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-08T18:30:28+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.volcengine.com/docs/82379/1099320&#34;&gt;https://www.volcengine.com/docs/82379/1099320&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:e1bd0c80e491b141</id>

@@ -5,7 +5,7 @@
     <link>https://ikeng.github.io/model-egg-monitor/</link>
     <description>每日两次监控大模型厂商活动，提供 Atom / JSON Feed 订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 09 Oct 2026 01:13:13 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 16:17:23 +0800</lastBuildDate>
     <generator>ai-egg-monitor</generator>
     <item>
       <title>大模型 API 价格方案</title>
@@ -128,6 +128,14 @@
       <category>Google Gemini</category>
     </item>
     <item>
+      <title>火山方舟 模型计费说明</title>
+      <link>https://www.volcengine.com/docs/82379/1099320</link>
+      <description>…的单价 × 视频时长（秒）） ​ 图片生成模型 ​ 模型名称 ​ 输入图单价（元/张） ​ 输出图单价（元/张） ​ doubao-seedream-5-0-pro ​ 按生图场景区分定价 ​ 首张免费 ​ 第 2 张起：0.02 ​ 单图生成场景： ​ ≤ 261 万像素（分辨率 1.5K 及以下）：0.30 ​ &gt; 261 万像素（分辨率 1.5K 以上）：0.60 ​ 图层拆分场景： ​ ≤…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:3f9515c4e7efd405</guid>
+      <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
+      <category>火山方舟·豆包</category>
+    </item>
+    <item>
       <title>Pricing</title>
       <link>https://docs.perplexity.ai/getting-started/pricing</link>
       <description>…Model Price ($/1M input tokens) Output tokens Per-request fee pplx-decider-v1.1-27b $0.02 Free None pplx-decider-v1-27b $0.02 Free None Billing unit: you pay for input tokens only. The state , e…</description>
@@ -146,7 +154,7 @@
     <item>
       <title>PPIO - 中国领先的分布式云计算服务商</title>
       <link>https://ppio.com/</link>
-      <description>模型服务 Agent 云服务 GPU 云服务 即将下线 新闻资讯 关于我们 文档 控制台 登录 立即注册 登录/注册 免费注册 登录 模型服务 Agent 云服务 GPU 云服务 即将下线 新闻资讯 关于我们 文档 控制台 安装 Skills › npx skills add PPIO/ppio-skills --ski…</description>
+      <description>模型服务 Agent 云服务 GPU 云服务 即将下线 边缘云计算 新闻资讯 关于我们 文档 控制台 登录 立即注册 登录/注册 免费注册 登录 模型服务 Agent 云服务 GPU 云服务 即将下线 边缘云计算 新闻资讯 关于我们 文档 控制台 安装 Skills › npx skills add PPIO/ppio-skills…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:48e3941064854c6c</guid>
       <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
       <category>PPIO 派欧云</category>
@@ -222,14 +230,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:6cec0a5b4127f767</guid>
       <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
       <category>Baseten</category>
-    </item>
-    <item>
-      <title>Claude Sonnet 5.5</title>
-      <link>https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/</link>
-      <description>…tricks . The most interesting thing about Sonnet 5.5 is that it&#39;s now the model used for the free tier on claude.ai . OpenAI&#39;s ChatGPT free tier uses Luna 5.6, which means Anthropic currently have a muc…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:6e463bcffe717723</guid>
-      <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
-      <category>资讯·Simon Willison</category>
     </item>
     <item>
       <title>Plans and Pricing | Devin</title>
@@ -310,14 +310,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:b99574d412655a47</guid>
       <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
       <category>Together AI</category>
-    </item>
-    <item>
-      <title>传 OpenAI 29 日推个人 AI 助手；AI 专家偏远地区买地，担心「AI 失控」；挖掘机能自动「挖沟」，网友：蓝翔还能开几年？</title>
-      <link>http://www.geekpark.net/news/371044</link>
-      <description>…昂贵的 AI，从而在成本上占据优势，被攻击方为了防御同样需要使用这些 AI 工具。 谷歌威胁情报团队研究人员发现，暗网市场出售 Anthropic、谷歌和 OpenAI 等公司的 AI 模型使用权限，折扣最高达到 97%。 霍特奎斯特称，AI 实验室会监测滥用迹象，因此部分卖家甚至推出「保证访问」服务，承诺初始账户一旦遭到封禁，就不收取额外费用，直接提供新的登录凭据。还有一些犯罪团体和国家支持的组织会…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:c79bc99fe93fb14b</guid>
-      <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
-      <category>资讯·极客公园</category>
     </item>
     <item>
       <title>Cursor · Pricing</title>
@@ -408,6 +400,46 @@
       <category>Google Gemini</category>
     </item>
     <item>
+      <title>再裁员5000人！保时捷明确回归燃油车，高端车型计划涨价20%；腾讯拟发行50亿美元离岸债券，或筹钱加码AI；OpenAI全面上线GPT-6</title>
+      <link>https://www.leiphone.com/category/zaobao/GGmq1RiBgXY2GSVL.html</link>
+      <description>…8日消息，小鹏集团Robotaxi业务正式启用中文名称“小鹏悠游”，英文名为“XPENG YOYO”。同日，小鹏集团官网上线Robotaxi页面，小鹏YOYO自动驾驶打车小程序同步上线，后续将通过发放邀请码的方式面向公众开放体验。这标志着小鹏Robotaxi业务正式从技术验证，迈入用户开放运营和商业化探索新阶段。（新浪科技） 融资近7亿！前百度大牛创业自动驾驶，顺丰连投三次 10月8日消息，L4级自动驾…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:aee1f94546fcd3e1</guid>
+      <pubDate>Fri, 09 Oct 2026 16:17:00 +0800</pubDate>
+      <category>资讯·雷锋网</category>
+    </item>
+    <item>
+      <title>Steam 新一周游戏销量榜公布：《AION 2》登顶全球榜首，多作降价上榜</title>
+      <link>https://www.ithome.com/1/011/031.htm</link>
+      <description>…最新一周游戏销量排行榜（2026 年 9 月 29 日 - 2026 年 10 月 6 日，无免费游戏），《AION 2》首次登顶全球收费游戏销量榜首，《The Outlast Trials》凭借大幅降价登顶国区榜单，多款促销游戏集体上榜。 全球榜单： AION 2 《空战奇兵 8 希孚之翼 (ACE COMBAT 8: WINGS OF THEVE)》 EA SPORTS FC™ 27 《WARDO…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:fd683b95acc05d33</guid>
+      <pubDate>Fri, 09 Oct 2026 16:17:00 +0800</pubDate>
+      <category>资讯·IT之家</category>
+    </item>
+    <item>
+      <title>Steam 喜加一：原价 22 元心理恐怖解谜游戏《Pony Island》免费领</title>
+      <link>https://www.ithome.com/1/010/990.htm</link>
+      <description>…制作的心理恐怖解谜游戏《Pony Island（小马岛）》目前正在 Steam 平台开展限时免费“喜加一”活动， 本作在 Steam 国区定价为 22 元 ，玩家可以在北京时间 10 月 13 日前免费领取，IT之家附游戏商品页（ https://store.steampowered.com/app/405640/Pony_Island/ ）。 《Pony Island》表面上是一款画风可爱的小马跳跃闯…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:cdee53bd42c2a7b2</guid>
+      <pubDate>Fri, 09 Oct 2026 16:17:00 +0800</pubDate>
+      <category>资讯·IT之家</category>
+    </item>
+    <item>
+      <title>Steam 喜加一：卡牌 Roguelike 游戏《Hex Reverse》限时免费领</title>
+      <link>https://www.ithome.com/1/010/975.htm</link>
+      <description>IT之家 10 月 9 日消息，开发者 IsaoWorks 宣布旗下卡牌 Roguelike 游戏《Hex Reverse》将于首发 30 天内进行“限时免费领取”活动，本作已于 10 月 7 日登陆 Steam，也就是玩家可以在 11 月 6 日前免费领取这款作品，IT之家附游戏商品页（ https://store.steampowered.com/app/…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:9129df7561346b0d</guid>
+      <pubDate>Fri, 09 Oct 2026 16:17:00 +0800</pubDate>
+      <category>资讯·IT之家</category>
+    </item>
+    <item>
+      <title>我使用国产「个人 AI 助手」的十天｜AI 上新</title>
+      <link>http://www.geekpark.net/news/372163</link>
+      <description>…我玩嗨了｜AI 上新 ）向栏目投稿，在极客公园公众号发布，不仅能获得相应稿费，且会为你「报销」AI 应用的订阅费用。 同时， 优秀作者还有机会进入极客公园 AI 体验群 ，获得最新 AI 应用和工具的内测资格，参加极客公园专属相关 AI 活动，和 AI 应用创始人一对一沟通。 AGI 太久，只争朝夕，让一部分人先 AI 起来吧！ 投稿、进群请扫描下方二维码添加极客小助手微信👇 01 我有常用的 AI，为什…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:65afaea0902ec53d</guid>
+      <pubDate>Fri, 09 Oct 2026 16:17:00 +0800</pubDate>
+      <category>资讯·极客公园</category>
+    </item>
+    <item>
       <title>微软拿出最高 1000 美元置换补贴，吸引苹果 MacBook Pro 用户跳槽 Surface Laptop Ultra</title>
       <link>https://www.ithome.com/1/010/739.htm</link>
       <description>…1,000 美元”宣传语，吸引消费者换机。如果用户真的选择以旧换新， 那么除了正常的折抵金额外 ， 还会额外获得最高 1,000 美元补贴 。 微软表示，这笔优惠可与原本的以旧换新折扣相叠加，相关服务由合作伙伴 Teladvance 负责。因此回收 MacBook Pro 能够获得多少补贴，用户需要查询 Teladvance。</description>
@@ -416,12 +448,28 @@
       <category>资讯·IT之家</category>
     </item>
     <item>
+      <title>Claude Sonnet 5.5</title>
+      <link>https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/</link>
+      <description>…tricks . The most interesting thing about Sonnet 5.5 is that it&#39;s now the model used for the free tier on claude.ai . OpenAI&#39;s ChatGPT free tier uses Luna 5.6, which means Anthropic currently have a muc…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:6e463bcffe717723</guid>
+      <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
+      <category>资讯·Simon Willison</category>
+    </item>
+    <item>
       <title>Epic 喜加二：《熊视眈眈》《愿景之城》游戏免费领取</title>
       <link>https://www.ithome.com/1/010/735.htm</link>
       <description>IT之家 10 月 8 日消息， Epic 本周送出的游戏是《熊视眈眈》和《愿景之城》 ，下周送出的游戏是《Bad Cheese》以及《Agent A - 伪装游戏》。 领取链接： 《熊视眈眈 (Out of Sight)》 ， 《愿景之城》 IT之家附《熊视眈眈》游戏简介： 这是一款将第一人称和第二人称视角相融合的氛围恐怖游戏，拥有引人入胜的配音，给你带来沉浸式的惊悚情感之旅。 作为参考，本作在…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:a167ce37195d376f</guid>
       <pubDate>Fri, 09 Oct 2026 01:12:53 +0800</pubDate>
       <category>资讯·IT之家</category>
+    </item>
+    <item>
+      <title>传 OpenAI 29 日推个人 AI 助手；AI 专家偏远地区买地，担心「AI 失控」；挖掘机能自动「挖沟」，网友：蓝翔还能开几年？</title>
+      <link>http://www.geekpark.net/news/371044</link>
+      <description>…昂贵的 AI，从而在成本上占据优势，被攻击方为了防御同样需要使用这些 AI 工具。 谷歌威胁情报团队研究人员发现，暗网市场出售 Anthropic、谷歌和 OpenAI 等公司的 AI 模型使用权限，折扣最高达到 97%。 霍特奎斯特称，AI 实验室会监测滥用迹象，因此部分卖家甚至推出「保证访问」服务，承诺初始账户一旦遭到封禁，就不收取额外费用，直接提供新的登录凭据。还有一些犯罪团体和国家支持的组织会…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:c79bc99fe93fb14b</guid>
+      <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
+      <category>资讯·极客公园</category>
     </item>
     <item>
       <title>GPT-6全球上线、Claude Haiku 5.5降价，这个假期AI圈也没停</title>
@@ -438,14 +486,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:d05e995d317609f1</guid>
       <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
       <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>火山方舟 模型计费说明</title>
-      <link>https://www.volcengine.com/docs/82379/1099320</link>
-      <description>…的单价 × 视频时长（秒）） ​ 图片生成模型 ​ 模型名称 ​ 输入图单价（元/张） ​ 输出图单价（元/张） ​ doubao-seedream-5-0-pro ​ 按生图场景区分定价 ​ 首张免费 ​ 第 2 张起：0.02 ​ 单图生成场景： ​ ≤ 261 万像素（分辨率 1.5K 及以下）：0.30 ​ &gt; 261 万像素（分辨率 1.5K 以上）：0.60 ​ 图层拆分场景： ​ ≤…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:3f9515c4e7efd405</guid>
-      <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
-      <category>火山方舟·豆包</category>
     </item>
     <item>
       <title>Deploying an HSTU Generative Recommender with NVIDIA Dynamo-Triton</title>
