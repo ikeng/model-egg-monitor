@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://ikeng.github.io/model-egg-monitor/atom-资讯-it之家.xml</id>
   <title>赛博鸡蛋 · 资讯·IT之家</title>
-  <updated>2026-10-09T16:17:23+08:00</updated>
+  <updated>2026-10-10T00:45:27+08:00</updated>
   <subtitle>大模型厂商活动监控</subtitle>
   <link rel="self" href="https://ikeng.github.io/model-egg-monitor/atom-资讯-it之家.xml"/>
   <link rel="alternate" href="https://ikeng.github.io/model-egg-monitor/"/>
@@ -12,23 +12,99 @@
     <name>ai-egg-monitor</name>
   </author>
   <entry>
-    <id>tag:ai-egg-monitor,2026:activity:fd683b95acc05d33</id>
-    <title>Steam 新一周游戏销量榜公布：《AION 2》登顶全球榜首，多作降价上榜</title>
-    <updated>2026-10-09T16:17:00+08:00</updated>
-    <published>2026-10-09T16:17:00+08:00</published>
-    <link rel="alternate" href="https://www.ithome.com/1/011/031.htm"/>
+    <id>tag:ai-egg-monitor,2026:activity:59682ce01204c281</id>
+    <title>漫威新剧《幻视任务》首曝中字片段：奥创以人类形态回归，10 月 14 日 Disney+ 开播</title>
+    <updated>2026-10-10T00:45:07+08:00</updated>
+    <published>2026-10-10T00:45:07+08:00</published>
+    <link rel="alternate" href="https://www.ithome.com/1/011/154.htm"/>
     <author><name>资讯·IT之家</name></author>
     <category term="资讯·IT之家"/>
-    <summary type="text">…最新一周游戏销量排行榜（2026 年 9 月 29 日 - 2026 年 10 月 6 日，无免费游戏），《AION 2》首次登顶全球收费游戏销量榜首，《The Outlast Trials》凭借大幅降价登顶国区榜单，多款促销游戏集体上榜。 全球榜单： AION 2 《空战奇兵 8 希孚之翼 (ACE COMBAT 8: WINGS OF THEVE)》 EA SPORTS FC™ 27 《WARDO…</summary>
+    <summary type="text">…手持摄像机，全程拍摄托尼在车库里的各项战甲测试和实验 Vlog。除了拍照摄影，小 U 也具备基础的抓取和递送功能，会在托尼组装战甲时在旁边递送关键零件。 IT之家小伙伴记得用 最会买购买电影票 ，享受折扣价的同时还可以获得返利，预计每张票可以节省 5~15 元！</summary>
     <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·IT之家&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：Steam 新一周游戏销量榜公布：《AION 2》登顶全球榜首，多作降价上榜&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…最新一周游戏销量排行榜（2026 年 9 月 29 日 - 2026 年 10 月 6 日，无免费游戏），《AION 2》首次登顶全球收费游戏销量榜首，《The Outlast Trials》凭借大幅降价登顶国区榜单，多款促销游戏集体上榜。 全球榜单： AION 2 《空战奇兵 8 希孚之翼 (ACE COMBAT 8: WINGS OF THEVE)》 EA SPORTS FC™ 27 《WARDO…&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：漫威新剧《幻视任务》首曝中字片段：奥创以人类形态回归，10 月 14 日 Disney+ 开播&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…手持摄像机，全程拍摄托尼在车库里的各项战甲测试和实验 Vlog。除了拍照摄影，小 U 也具备基础的抓取和递送功能，会在托尼组装战甲时在旁边递送关键零件。 IT之家小伙伴记得用 最会买购买电影票 ，享受折扣价的同时还可以获得返利，预计每张票可以节省 5~15 元！&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：降价&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：折扣&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-10T00:45:07+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-10T00:45:07+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.ithome.com/1/011/154.htm&#34;&gt;https://www.ithome.com/1/011/154.htm&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:90edc1cfbe0cc006</id>
+    <title>小米发布 MiMo-V2.5-Pro 模型下线通知，可替换为 V2.6 版本</title>
+    <updated>2026-10-10T00:45:07+08:00</updated>
+    <published>2026-10-10T00:45:07+08:00</published>
+    <link rel="alternate" href="https://www.ithome.com/1/011/146.htm"/>
+    <author><name>资讯·IT之家</name></author>
+    <category term="资讯·IT之家"/>
+    <summary type="text">…两个原生全模态模型 。 MiMo-V2.6 系列沿用 V2.5 系列的 API 定价：Flash 为每百万词元输入 1 元、每百万输出 2 元；Pro 为 3 元和 6 元，并提供 99% 缓存折扣。在同等智能水平下，价格仅为海外模型的 1/20 至 1/60。 相关阅读： 《 小米 MiMo-V2.6 发布：Pro 与 Flash 双版本价格不变，超越 Kimi K3、GLM-5.3 成为当前…</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·IT之家&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：小米发布 MiMo-V2.5-Pro 模型下线通知，可替换为 V2.6 版本&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…两个原生全模态模型 。 MiMo-V2.6 系列沿用 V2.5 系列的 API 定价：Flash 为每百万词元输入 1 元、每百万输出 2 元；Pro 为 3 元和 6 元，并提供 99% 缓存折扣。在同等智能水平下，价格仅为海外模型的 1/20 至 1/60。 相关阅读： 《 小米 MiMo-V2.6 发布：Pro 与 Flash 双版本价格不变，超越 Kimi K3、GLM-5.3 成为当前…&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：折扣&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-10T00:45:07+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-10T00:45:07+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.ithome.com/1/011/146.htm&#34;&gt;https://www.ithome.com/1/011/146.htm&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:be4c8959023ea2c8</id>
+    <title>剧情驱动末日生存沙盒《永冻纪元》登陆 Steam：国区首发价 ¥95.20，支持简中配音</title>
+    <updated>2026-10-10T00:45:07+08:00</updated>
+    <published>2026-10-10T00:45:07+08:00</published>
+    <link rel="alternate" href="https://www.ithome.com/1/011/127.htm"/>
+    <author><name>资讯·IT之家</name></author>
+    <category term="资讯·IT之家"/>
+    <summary type="text">…Games 开发、Toplitz Productions 发行的剧情驱动末日生存沙盒游戏《永冻纪元》（Permafrost）今日正式登陆 Steam 开启抢先体验，国区首发享 20% 折扣，折后价为 ¥ 95.20，优惠截止至 10 月 23 日。游戏支持简体中文界面与完整中文音频，目前尚无玩家评价。IT之家附游戏商品页（ https://store.steampowered.com/…</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·IT之家&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：剧情驱动末日生存沙盒《永冻纪元》登陆 Steam：国区首发价 ¥95.20，支持简中配音&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…Games 开发、Toplitz Productions 发行的剧情驱动末日生存沙盒游戏《永冻纪元》（Permafrost）今日正式登陆 Steam 开启抢先体验，国区首发享 20% 折扣，折后价为 ¥ 95.20，优惠截止至 10 月 23 日。游戏支持简体中文界面与完整中文音频，目前尚无玩家评价。IT之家附游戏商品页（ https://store.steampowered.com/…&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：折扣&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-10T00:45:07+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-10T00:45:07+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.ithome.com/1/011/127.htm&#34;&gt;https://www.ithome.com/1/011/127.htm&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:d692b96b9e614eae</id>
+    <title>游改真人电影《生化危机：爆发夜》上映 5 天，总票房破 2 亿</title>
+    <updated>2026-10-10T00:45:07+08:00</updated>
+    <published>2026-10-10T00:45:07+08:00</published>
+    <link rel="alternate" href="https://www.ithome.com/1/011/120.htm"/>
+    <author><name>资讯·IT之家</name></author>
+    <category term="资讯·IT之家"/>
+    <summary type="text">…版游戏剧情 。克雷格强调，全新《生化危机》电影并不是某款游戏或角色剧情的改编，而是发生在《生化危机》世界观的全新故事，时间线大致与《生化危机 2》相同。 IT之家小伙伴记得用 最会买购买电影票 ，享受折扣价的同时还可以获得返利，预计每张票可以节省 5~15 元！</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·IT之家&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：游改真人电影《生化危机：爆发夜》上映 5 天，总票房破 2 亿&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…版游戏剧情 。克雷格强调，全新《生化危机》电影并不是某款游戏或角色剧情的改编，而是发生在《生化危机》世界观的全新故事，时间线大致与《生化危机 2》相同。 IT之家小伙伴记得用 最会买购买电影票 ，享受折扣价的同时还可以获得返利，预计每张票可以节省 5~15 元！&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：折扣&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-10T00:45:07+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-10T00:45:07+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.ithome.com/1/011/120.htm&#34;&gt;https://www.ithome.com/1/011/120.htm&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:9129df7561346b0d</id>
+    <title>Steam 喜加一：卡牌 Roguelike 游戏《Hex Reverse》限时免费领</title>
+    <updated>2026-10-09T16:17:00+08:00</updated>
+    <published>2026-10-09T16:17:00+08:00</published>
+    <link rel="alternate" href="https://www.ithome.com/1/010/975.htm"/>
+    <author><name>资讯·IT之家</name></author>
+    <category term="资讯·IT之家"/>
+    <summary type="text">IT之家 10 月 9 日消息，开发者 IsaoWorks 宣布旗下卡牌 Roguelike 游戏《Hex Reverse》将于首发 30 天内进行“限时免费领取”活动，本作已于 10 月 7 日登陆 Steam，也就是玩家可以在 11 月 6 日前免费领取这款作品，IT之家附游戏商品页（ https://store.steampowered.com/app/…</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·IT之家&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：Steam 喜加一：卡牌 Roguelike 游戏《Hex Reverse》限时免费领&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：IT之家 10 月 9 日消息，开发者 IsaoWorks 宣布旗下卡牌 Roguelike 游戏《Hex Reverse》将于首发 30 天内进行“限时免费领取”活动，本作已于 10 月 7 日登陆 Steam，也就是玩家可以在 11 月 6 日前免费领取这款作品，IT之家附游戏商品页（ https://store.steampowered.com/app/…&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：免费领取&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-09T16:17:00+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T16:17:00+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.ithome.com/1/011/031.htm&#34;&gt;https://www.ithome.com/1/011/031.htm&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.ithome.com/1/010/975.htm&#34;&gt;https://www.ithome.com/1/010/975.htm&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:cdee53bd42c2a7b2</id>
@@ -50,23 +126,23 @@
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.ithome.com/1/010/990.htm&#34;&gt;https://www.ithome.com/1/010/990.htm&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
-    <id>tag:ai-egg-monitor,2026:activity:9129df7561346b0d</id>
-    <title>Steam 喜加一：卡牌 Roguelike 游戏《Hex Reverse》限时免费领</title>
+    <id>tag:ai-egg-monitor,2026:activity:fd683b95acc05d33</id>
+    <title>Steam 新一周游戏销量榜公布：《AION 2》登顶全球榜首，多作降价上榜</title>
     <updated>2026-10-09T16:17:00+08:00</updated>
     <published>2026-10-09T16:17:00+08:00</published>
-    <link rel="alternate" href="https://www.ithome.com/1/010/975.htm"/>
+    <link rel="alternate" href="https://www.ithome.com/1/011/031.htm"/>
     <author><name>资讯·IT之家</name></author>
     <category term="资讯·IT之家"/>
-    <summary type="text">IT之家 10 月 9 日消息，开发者 IsaoWorks 宣布旗下卡牌 Roguelike 游戏《Hex Reverse》将于首发 30 天内进行“限时免费领取”活动，本作已于 10 月 7 日登陆 Steam，也就是玩家可以在 11 月 6 日前免费领取这款作品，IT之家附游戏商品页（ https://store.steampowered.com/app/…</summary>
+    <summary type="text">…最新一周游戏销量排行榜（2026 年 9 月 29 日 - 2026 年 10 月 6 日，无免费游戏），《AION 2》首次登顶全球收费游戏销量榜首，《The Outlast Trials》凭借大幅降价登顶国区榜单，多款促销游戏集体上榜。 全球榜单： AION 2 《空战奇兵 8 希孚之翼 (ACE COMBAT 8: WINGS OF THEVE)》 EA SPORTS FC™ 27 《WARDO…</summary>
     <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·IT之家&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：Steam 喜加一：卡牌 Roguelike 游戏《Hex Reverse》限时免费领&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：IT之家 10 月 9 日消息，开发者 IsaoWorks 宣布旗下卡牌 Roguelike 游戏《Hex Reverse》将于首发 30 天内进行“限时免费领取”活动，本作已于 10 月 7 日登陆 Steam，也就是玩家可以在 11 月 6 日前免费领取这款作品，IT之家附游戏商品页（ https://store.steampowered.com/app/…&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：Steam 新一周游戏销量榜公布：《AION 2》登顶全球榜首，多作降价上榜&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…最新一周游戏销量排行榜（2026 年 9 月 29 日 - 2026 年 10 月 6 日，无免费游戏），《AION 2》首次登顶全球收费游戏销量榜首，《The Outlast Trials》凭借大幅降价登顶国区榜单，多款促销游戏集体上榜。 全球榜单： AION 2 《空战奇兵 8 希孚之翼 (ACE COMBAT 8: WINGS OF THEVE)》 EA SPORTS FC™ 27 《WARDO…&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：免费领取&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：降价&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-09T16:17:00+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-09T16:17:00+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.ithome.com/1/010/975.htm&#34;&gt;https://www.ithome.com/1/010/975.htm&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.ithome.com/1/011/031.htm&#34;&gt;https://www.ithome.com/1/011/031.htm&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:2f0a169d68136ab3</id>
