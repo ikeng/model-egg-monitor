@@ -1,0 +1,29 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "赛博鸡蛋 · 资讯·开源中国",
+  "home_page_url": "https://ikeng.github.io/model-egg-monitor/",
+  "feed_url": "https://ikeng.github.io/model-egg-monitor/feed-资讯-开源中国.json",
+  "description": "每日两次监控大模型厂商活动，提供 Atom / JSON Feed 订阅",
+  "language": "zh-CN",
+  "authors": [
+    {
+      "name": "ai-egg-monitor"
+    }
+  ],
+  "items": [
+    {
+      "id": "tag:ai-egg-monitor,2026:activity:320e4e4410c4a8db",
+      "url": "https://www.oschina.net/news/502945/cloudflare-clef-faster-cheaper-multimodal",
+      "title": "Cloudflare 让决策模型打起了价格战：Clef 降价、提速、上多模态",
+      "content_html": "<p><strong>厂商</strong>：资讯·开源中国</p>\n<p><strong>标题</strong>：Cloudflare 让决策模型打起了价格战：Clef 降价、提速、上多模态</p>\n<p><strong>福利摘要</strong>：Cloudflare 今天把三件事打包放出来了：一个新的多模态决策模型 Clef-omni，一个变便宜了的 Clef-flash，还有一个变快了的 Clef。官方博客标题写得很直白——『faster, cheaper, multimodal』。 Clef-omni 是 Clef 系列里第一个能吃音频、视频、图像和文本的决策模型。它基于开源的 Qwen3-Omni-30B-A3B-Instruct（…</p>\n<p><strong>需登录</strong>：否</p>\n<p><strong>来源类型</strong>：rss</p>\n<p><strong>命中关键词</strong>：降价</p>\n<p><strong>首次发现</strong>：2026-10-10T23:39:10+08:00</p>\n<p><strong>最后更新</strong>：2026-10-10T23:39:10+08:00</p>\n<p><strong>原始链接</strong>：<a href=\"https://www.oschina.net/news/502945/cloudflare-clef-faster-cheaper-multimodal\">https://www.oschina.net/news/502945/cloudflare-clef-faster-cheaper-multimodal</a></p>",
+      "summary": "Cloudflare 今天把三件事打包放出来了：一个新的多模态决策模型 Clef-omni，一个变便宜了的 Clef-flash，还有一个变快了的 Clef。官方博客标题写得很直白——『faster, cheaper, multimodal』。 Clef-omni 是 Clef 系列里第一个能吃音频、视频、图像和文本的决策模型。它基于开源的 Qwen3-Omni-30B-A3B-Instruct（…",
+      "date_published": "2026-10-10T23:39:10+08:00",
+      "date_modified": "2026-10-10T23:39:10+08:00",
+      "tags": [
+        "资讯·开源中国",
+        "rss",
+        "降价"
+      ]
+    }
+  ]
+}

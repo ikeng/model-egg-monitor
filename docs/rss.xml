@@ -5,7 +5,7 @@
     <link>https://ikeng.github.io/model-egg-monitor/</link>
     <description>每日两次监控大模型厂商活动，提供 Atom / JSON Feed 订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 10 Oct 2026 15:58:31 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 23:39:31 +0800</lastBuildDate>
     <generator>ai-egg-monitor</generator>
     <item>
       <title>大模型 API 价格方案</title>
@@ -280,14 +280,6 @@
       <category>Cerebras</category>
     </item>
     <item>
-      <title>再裁员5000人！保时捷明确回归燃油车，高端车型计划涨价20%；腾讯拟发行50亿美元离岸债券，或筹钱加码AI；OpenAI全面上线GPT-6</title>
-      <link>https://www.leiphone.com/category/zaobao/GGmq1RiBgXY2GSVL.html</link>
-      <description>…8日消息，小鹏集团Robotaxi业务正式启用中文名称“小鹏悠游”，英文名为“XPENG YOYO”。同日，小鹏集团官网上线Robotaxi页面，小鹏YOYO自动驾驶打车小程序同步上线，后续将通过发放邀请码的方式面向公众开放体验。这标志着小鹏Robotaxi业务正式从技术验证，迈入用户开放运营和商业化探索新阶段。（新浪科技） 融资近7亿！前百度大牛创业自动驾驶，顺丰连投三次 10月8日消息，L4级自动驾…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:aee1f94546fcd3e1</guid>
-      <pubDate>Fri, 09 Oct 2026 16:17:00 +0800</pubDate>
-      <category>资讯·雷锋网</category>
-    </item>
-    <item>
       <title>AMD 82 亿美元收购李飞飞 AI 创业公司；Manus 推出个人 AI 助手 CUE；今年低价手机将减少 2.3 亿部｜极客早知道</title>
       <link>http://www.geekpark.net/news/371359</link>
       <description>…运行的项目提供环境。 独立应用 Cue 支持手机和桌面端，每个 AI 助手可拥有独立邮箱、电话号码、钱包和电脑，在用户设定的预算内付款、代接电话，也可与其他助手协作。目前 Cue 处于抢先体验阶段，凭邀请码免费使用。 Manus 还表示，正在组建团队开发面向国内市场的产品，并与国产模型厂商及生态伙伴推进合作。（来源：极客公园） AMD 斥资 82 亿美元收购 World Labs，「AI 教母」李飞飞出…</description>
@@ -406,6 +398,46 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:ff49e507d89b30cd</guid>
       <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
       <category>Google Gemini</category>
+    </item>
+    <item>
+      <title>对话蔚来创始人李斌：蔚来单车均价比奥迪贵18万，比宝马贵七八万，比奔驰贵数万</title>
+      <link>https://www.leiphone.com/category/transportation/AZ0KUba2gFI5kSB4.html</link>
+      <description>…了大部分。下半年虽然还会继续涨一点，但我们会通过供应链成本优化，以及和合作伙伴一起提效，消化额外的涨价成本。 所以总体来看，我们有信心保持一个合理的毛利率水平，基本和二季度接近。只要价格不乱动、不主动降价，毛利率还是可以稳住的。 问：二季度整车毛利率18.5%，下半年单车成本还会上涨，蔚来到底是保销量还是保毛利？ 李斌： 我们最终看的是毛利总额，毛利总额优先。内部做量价关系测算的时候，也是以毛利总额最…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:2f61a9a5b7e9f637</guid>
+      <pubDate>Sat, 10 Oct 2026 23:39:10 +0800</pubDate>
+      <category>资讯·雷锋网</category>
+    </item>
+    <item>
+      <title>对话赵长江：智界RX要成为华为的「Pura X」</title>
+      <link>https://www.leiphone.com/category/transportation/N2Mpq4po8AjIzd1T.html</link>
+      <description>…准备干那个活，但我想一下……算了。” 他的理由很简单：复制别人，可能短期有效，但无法建立一个长期品牌。这也是智界和V9之间最重要的一次互相成就。 V9没有选择进入20多万元MPV市场，也没有简单地通过降价去扩大市场。它的价格区间被锁定在40万—50万元。最终，V9的成交均价达到50万元左右，7月单月交付超过1万辆。 这说明一个问题：用户并不是不能接受高价，只是高价必须对应新的价值。 所以赵长江并不把V…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:23b5e61748a783cd</guid>
+      <pubDate>Sat, 10 Oct 2026 23:39:10 +0800</pubDate>
+      <category>资讯·雷锋网</category>
+    </item>
+    <item>
+      <title>Cloudflare 让决策模型打起了价格战：Clef 降价、提速、上多模态</title>
+      <link>https://www.oschina.net/news/502945/cloudflare-clef-faster-cheaper-multimodal</link>
+      <description>Cloudflare 今天把三件事打包放出来了：一个新的多模态决策模型 Clef-omni，一个变便宜了的 Clef-flash，还有一个变快了的 Clef。官方博客标题写得很直白——『faster, cheaper, multimodal』。 Clef-omni 是 Clef 系列里第一个能吃音频、视频、图像和文本的决策模型。它基于开源的 Qwen3-Omni-30B-A3B-Instruct（…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:320e4e4410c4a8db</guid>
+      <pubDate>Sat, 10 Oct 2026 23:39:10 +0800</pubDate>
+      <category>资讯·开源中国</category>
+    </item>
+    <item>
+      <title>Talorys</title>
+      <link>https://github.com/rociiu/talorys</link>
+      <description>Comments</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:95ad7881e9bf3ef8</guid>
+      <pubDate>Sat, 10 Oct 2026 23:39:10 +0800</pubDate>
+      <category>资讯·Hacker News</category>
+    </item>
+    <item>
+      <title>再裁员5000人！保时捷明确回归燃油车，高端车型计划涨价20%；腾讯拟发行50亿美元离岸债券，或筹钱加码AI；OpenAI全面上线GPT-6</title>
+      <link>https://www.leiphone.com/category/zaobao/GGmq1RiBgXY2GSVL.html</link>
+      <description>…8日消息，小鹏集团Robotaxi业务正式启用中文名称“小鹏悠游”，英文名为“XPENG YOYO”。同日，小鹏集团官网上线Robotaxi页面，小鹏YOYO自动驾驶打车小程序同步上线，后续将通过发放邀请码的方式面向公众开放体验。这标志着小鹏Robotaxi业务正式从技术验证，迈入用户开放运营和商业化探索新阶段。（新浪科技） 融资近7亿！前百度大牛创业自动驾驶，顺丰连投三次 10月8日消息，L4级自动驾…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:aee1f94546fcd3e1</guid>
+      <pubDate>Fri, 09 Oct 2026 16:17:00 +0800</pubDate>
+      <category>资讯·雷锋网</category>
     </item>
     <item>
       <title>漫威新剧《幻视任务》首曝中字片段：奥创以人类形态回归，10 月 14 日 Disney+ 开播</title>
