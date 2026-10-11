@@ -5,7 +5,7 @@
     <link>https://ikeng.github.io/model-egg-monitor/</link>
     <description>每日两次监控大模型厂商活动，提供 Atom / JSON Feed 订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 10 Oct 2026 23:39:31 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 16:07:09 +0800</lastBuildDate>
     <generator>ai-egg-monitor</generator>
     <item>
       <title>大模型 API 价格方案</title>
@@ -96,6 +96,14 @@
       <category>Mistral</category>
     </item>
     <item>
+      <title>对话赵长江：智界RX要成为华为的「Pura X」</title>
+      <link>https://www.leiphone.com/category/transportation/N2Mpq4po8AjIzd1T.html</link>
+      <description>…准备干那个活，但我想一下……算了。” 他的理由很简单：复制别人，可能短期有效，但无法建立一个长期品牌。这也是智界和V9之间最重要的一次互相成就。 V9没有选择进入20多万元MPV市场，也没有简单地通过降价去扩大市场。它的价格区间被锁定在40万—50万元。最终，V9的成交均价达到50万元左右，7月单月交付超过1万辆。 这说明一个问题：用户并不是不能接受高价，只是高价必须对应新的价值。 所以赵长江并不把V…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:23b5e61748a783cd</guid>
+      <pubDate>Sat, 10 Oct 2026 23:39:10 +0800</pubDate>
+      <category>资讯·雷锋网</category>
+    </item>
+    <item>
       <title>模型概览</title>
       <link>https://docs.bigmodel.cn/cn/guide/start/model-overview</link>
       <description>…复杂的查询 为处理超长文本和记忆型任务设计 1M 4K GLM-4-FlashX-250414 Flash 增强高速版本 推理速度快，适合高并发调用场景 128K 16K GLM-4.7-Flash 免费文本模型 延续 GLM-4.7 基座的通用能力 200K 128K GLM-4.5-Flash 免费文本模型 支持最长 128K 的上下文处理 128K 96K GLM-4-Flash-250414…</description>
@@ -104,12 +112,28 @@
       <category>智谱 GLM</category>
     </item>
     <item>
+      <title>对话蔚来创始人李斌：蔚来单车均价比奥迪贵18万，比宝马贵七八万，比奔驰贵数万</title>
+      <link>https://www.leiphone.com/category/transportation/AZ0KUba2gFI5kSB4.html</link>
+      <description>…了大部分。下半年虽然还会继续涨一点，但我们会通过供应链成本优化，以及和合作伙伴一起提效，消化额外的涨价成本。 所以总体来看，我们有信心保持一个合理的毛利率水平，基本和二季度接近。只要价格不乱动、不主动降价，毛利率还是可以稳住的。 问：二季度整车毛利率18.5%，下半年单车成本还会上涨，蔚来到底是保销量还是保毛利？ 李斌： 我们最终看的是毛利总额，毛利总额优先。内部做量价关系测算的时候，也是以毛利总额最…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:2f61a9a5b7e9f637</guid>
+      <pubDate>Sat, 10 Oct 2026 23:39:10 +0800</pubDate>
+      <category>资讯·雷锋网</category>
+    </item>
+    <item>
       <title>Manus 正式发布 2.0！个人 AI 助手、云电脑、远程控制，Manus 想做 AI 时代全家桶</title>
       <link>http://www.geekpark.net/news/371493</link>
       <description>…选名单，另一个起草演示文稿，用户只负责定方向和最后拍板 。 Cue 还能对接线下的日常服务，比如在餐厅扫一下二维码，就让 Agent 帮忙点餐，或者排队取号。不过目前 Cue 目前处于抢先体验阶段，凭邀请码免费使用。Manus 放出的邀请码 MEETCUE 限前 1000 位用户，拿到资格的用户还会额外收到可以分享给别人的邀请码。 从 Agent 到个人 AI Manus 2.0 中最值得关注的新产品之…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:305ee28d03780da2</guid>
       <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
       <category>资讯·极客公园</category>
+    </item>
+    <item>
+      <title>Cloudflare 让决策模型打起了价格战：Clef 降价、提速、上多模态</title>
+      <link>https://www.oschina.net/news/502945/cloudflare-clef-faster-cheaper-multimodal</link>
+      <description>Cloudflare 今天把三件事打包放出来了：一个新的多模态决策模型 Clef-omni，一个变便宜了的 Clef-flash，还有一个变快了的 Clef。官方博客标题写得很直白——『faster, cheaper, multimodal』。 Clef-omni 是 Clef 系列里第一个能吃音频、视频、图像和文本的决策模型。它基于开源的 Qwen3-Omni-30B-A3B-Instruct（…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:320e4e4410c4a8db</guid>
+      <pubDate>Sat, 10 Oct 2026 23:39:10 +0800</pubDate>
+      <category>资讯·开源中国</category>
     </item>
     <item>
       <title>Different Types of API Keys and Rate Limits</title>
@@ -256,6 +280,14 @@
       <category>NVIDIA NIM</category>
     </item>
     <item>
+      <title>Talorys</title>
+      <link>https://github.com/rociiu/talorys</link>
+      <description>Comments</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:95ad7881e9bf3ef8</guid>
+      <pubDate>Sat, 10 Oct 2026 23:39:10 +0800</pubDate>
+      <category>资讯·Hacker News</category>
+    </item>
+    <item>
       <title>Fastest AI Inference Cloud and API</title>
       <link>https://www.cerebras.ai/inference</link>
       <description>…intelligent products across coding, research, voice, automation, and more agentic use cases.​ demo free trial Unmatched Speed in Action Watch Cerebras deliver top quality answers in a fraction of the tim…</description>
@@ -278,14 +310,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:a3169b683b57358b</guid>
       <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
       <category>Cerebras</category>
-    </item>
-    <item>
-      <title>AMD 82 亿美元收购李飞飞 AI 创业公司；Manus 推出个人 AI 助手 CUE；今年低价手机将减少 2.3 亿部｜极客早知道</title>
-      <link>http://www.geekpark.net/news/371359</link>
-      <description>…运行的项目提供环境。 独立应用 Cue 支持手机和桌面端，每个 AI 助手可拥有独立邮箱、电话号码、钱包和电脑，在用户设定的预算内付款、代接电话，也可与其他助手协作。目前 Cue 处于抢先体验阶段，凭邀请码免费使用。 Manus 还表示，正在组建团队开发面向国内市场的产品，并与国产模型厂商及生态伙伴推进合作。（来源：极客公园） AMD 斥资 82 亿美元收购 World Labs，「AI 教母」李飞飞出…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:b2b7ef18aa541fbe</guid>
-      <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
-      <category>资讯·极客公园</category>
     </item>
     <item>
       <title>The Den frees up 10</title>
@@ -352,14 +376,6 @@
       <category>OpenAI</category>
     </item>
     <item>
-      <title>API Pricing</title>
-      <link>https://docs.x.ai/docs/pricing</link>
-      <description>…and is billed through your plan there. It is not available on the public xAI API, and Grok Build&#39;s free tier does not include it. Prompt tokens Input Cached input Output Below 200k $4.00 / 1M $1.00 / 1M…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:e82c8a882c5a1012</guid>
-      <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
-      <category>xAI Grok</category>
-    </item>
-    <item>
       <title>千帆大模型平台</title>
       <link>https://cloud.baidu.com/product/wenxinworkshop</link>
       <description>…28b-a3b 上下文 32K,30K+8K 输入价格 ¥0.001/ 千tokens 输出价格 ¥0.01/ 千tokens 立即体验 探索更多大模型 独家优质Skill与精选MCP服务 百度搜索 免费试用 独家 Skill MCP 百度搜索（BaiduSearch）服务基于百度搜索能力与AI技术，专为生成式AI提供全网实时信息检索服务，具备海量内容站点、高权威性，强时效性，提供全新的搜索体验。 了…</description>
@@ -400,36 +416,44 @@
       <category>Google Gemini</category>
     </item>
     <item>
-      <title>对话蔚来创始人李斌：蔚来单车均价比奥迪贵18万，比宝马贵七八万，比奔驰贵数万</title>
-      <link>https://www.leiphone.com/category/transportation/AZ0KUba2gFI5kSB4.html</link>
-      <description>…了大部分。下半年虽然还会继续涨一点，但我们会通过供应链成本优化，以及和合作伙伴一起提效，消化额外的涨价成本。 所以总体来看，我们有信心保持一个合理的毛利率水平，基本和二季度接近。只要价格不乱动、不主动降价，毛利率还是可以稳住的。 问：二季度整车毛利率18.5%，下半年单车成本还会上涨，蔚来到底是保销量还是保毛利？ 李斌： 我们最终看的是毛利总额，毛利总额优先。内部做量价关系测算的时候，也是以毛利总额最…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:2f61a9a5b7e9f637</guid>
-      <pubDate>Sat, 10 Oct 2026 23:39:10 +0800</pubDate>
-      <category>资讯·雷锋网</category>
+      <title>API Pricing</title>
+      <link>https://docs.x.ai/docs/pricing</link>
+      <description>…and is billed through your plan there. It is not available on the public xAI API, and Grok Build&#39;s free tier does not include it. Prompt tokens Input Cached input Output Below 200k $4.00 / 1M $1.00 / 1M…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:8fd93e908672e965</guid>
+      <pubDate>Sun, 11 Oct 2026 16:06:47 +0800</pubDate>
+      <category>xAI Grok</category>
     </item>
     <item>
-      <title>对话赵长江：智界RX要成为华为的「Pura X」</title>
-      <link>https://www.leiphone.com/category/transportation/N2Mpq4po8AjIzd1T.html</link>
-      <description>…准备干那个活，但我想一下……算了。” 他的理由很简单：复制别人，可能短期有效，但无法建立一个长期品牌。这也是智界和V9之间最重要的一次互相成就。 V9没有选择进入20多万元MPV市场，也没有简单地通过降价去扩大市场。它的价格区间被锁定在40万—50万元。最终，V9的成交均价达到50万元左右，7月单月交付超过1万辆。 这说明一个问题：用户并不是不能接受高价，只是高价必须对应新的价值。 所以赵长江并不把V…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:23b5e61748a783cd</guid>
-      <pubDate>Sat, 10 Oct 2026 23:39:10 +0800</pubDate>
-      <category>资讯·雷锋网</category>
+      <title>“第二代豆包手机”努比亚 NaviX Ultra「内测实验室」计划即将开启，10 月 14 日直播</title>
+      <link>https://www.ithome.com/1/011/617.htm</link>
+      <description>IT之家 10 月 11 日消息，努比亚今日宣布 NaviX Ultra「内测实验室」计划即将开启，面向尝鲜用户开放内测资格，抢先体验最新版本能力。10 月 14 日 19:00，首场进化直播。 IT之家注意到，“第二代豆包手机” 努比亚 NaviX Ultra 于 9 月 16 日发布， 号称“全球首款 AI 智能体手机…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:ac06f23b6774c9d6</guid>
+      <pubDate>Sun, 11 Oct 2026 16:06:47 +0800</pubDate>
+      <category>资讯·IT之家</category>
     </item>
     <item>
-      <title>Cloudflare 让决策模型打起了价格战：Clef 降价、提速、上多模态</title>
-      <link>https://www.oschina.net/news/502945/cloudflare-clef-faster-cheaper-multimodal</link>
-      <description>Cloudflare 今天把三件事打包放出来了：一个新的多模态决策模型 Clef-omni，一个变便宜了的 Clef-flash，还有一个变快了的 Clef。官方博客标题写得很直白——『faster, cheaper, multimodal』。 Clef-omni 是 Clef 系列里第一个能吃音频、视频、图像和文本的决策模型。它基于开源的 Qwen3-Omni-30B-A3B-Instruct（…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:320e4e4410c4a8db</guid>
-      <pubDate>Sat, 10 Oct 2026 23:39:10 +0800</pubDate>
-      <category>资讯·开源中国</category>
+      <title>马斯克豪言 SpaceX 估值将超1000万亿美元，遭拉表打脸；传腾讯字节加速个人智能体研发；四部门拟禁止汽车采用全隐藏式门把手</title>
+      <link>http://www.geekpark.net/news/372216</link>
+      <description>…，争取尽快对外推出。 腾讯方面则已于 9 月底上线个人智能体产品 LightVela，将其定位为「云端个人助理」。该产品可以通过微信接入，全天在线处理用户的日常需求，目前仍处于开发者体验阶段，新用户可免费试用一个月。（来源：财新） 调查显示近半数美国员工夸大 AI 使用情况，只为给上司留下「懂 AI」的印象 随着企业持续加大对生成式人工智能的投入，并不断向员工强调 AI 带来的效率提升，越来越多的职场人士…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:5591687d989dd4c3</guid>
+      <pubDate>Sun, 11 Oct 2026 16:06:47 +0800</pubDate>
+      <category>资讯·极客公园</category>
     </item>
     <item>
-      <title>Talorys</title>
-      <link>https://github.com/rociiu/talorys</link>
-      <description>Comments</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:95ad7881e9bf3ef8</guid>
-      <pubDate>Sat, 10 Oct 2026 23:39:10 +0800</pubDate>
-      <category>资讯·Hacker News</category>
+      <title>AMD 82 亿美元收购李飞飞 AI 创业公司；Manus 推出个人 AI 助手 CUE；今年低价手机将减少 2.3 亿部｜极客早知道</title>
+      <link>http://www.geekpark.net/news/371359</link>
+      <description>…运行的项目提供环境。 独立应用 Cue 支持手机和桌面端，每个 AI 助手可拥有独立邮箱、电话号码、钱包和电脑，在用户设定的预算内付款、代接电话，也可与其他助手协作。目前 Cue 处于抢先体验阶段，凭邀请码免费使用。 Manus 还表示，正在组建团队开发面向国内市场的产品，并与国产模型厂商及生态伙伴推进合作。（来源：极客公园） AMD 斥资 82 亿美元收购 World Labs，「AI 教母」李飞飞出…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:b2b7ef18aa541fbe</guid>
+      <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
+      <category>资讯·极客公园</category>
+    </item>
+    <item>
+      <title>API Pricing</title>
+      <link>https://docs.x.ai/docs/pricing</link>
+      <description>…and is billed through your plan there. It is not available on the public xAI API, and Grok Build&#39;s free tier does not include it. Prompt tokens Input Cached input Output Below 200k $4.00 / 1M $1.00 / 1M…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:e82c8a882c5a1012</guid>
+      <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
+      <category>xAI Grok</category>
     </item>
     <item>
       <title>再裁员5000人！保时捷明确回归燃油车，高端车型计划涨价20%；腾讯拟发行50亿美元离岸债券，或筹钱加码AI；OpenAI全面上线GPT-6</title>
