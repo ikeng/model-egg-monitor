@@ -5,7 +5,7 @@
     <link>https://ikeng.github.io/model-egg-monitor/</link>
     <description>每日两次监控大模型厂商活动，提供 Atom / JSON Feed 订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 11 Oct 2026 16:07:09 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 00:06:38 +0800</lastBuildDate>
     <generator>ai-egg-monitor</generator>
     <item>
       <title>大模型 API 价格方案</title>
@@ -192,6 +192,14 @@
       <category>RunPod</category>
     </item>
     <item>
+      <title>马斯克豪言 SpaceX 估值将超1000万亿美元，遭拉表打脸；传腾讯字节加速个人智能体研发；四部门拟禁止汽车采用全隐藏式门把手</title>
+      <link>http://www.geekpark.net/news/372216</link>
+      <description>…，争取尽快对外推出。 腾讯方面则已于 9 月底上线个人智能体产品 LightVela，将其定位为「云端个人助理」。该产品可以通过微信接入，全天在线处理用户的日常需求，目前仍处于开发者体验阶段，新用户可免费试用一个月。（来源：财新） 调查显示近半数美国员工夸大 AI 使用情况，只为给上司留下「懂 AI」的印象 随着企业持续加大对生成式人工智能的投入，并不断向员工强调 AI 带来的效率提升，越来越多的职场人士…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:5591687d989dd4c3</guid>
+      <pubDate>Sun, 11 Oct 2026 16:06:47 +0800</pubDate>
+      <category>资讯·极客公园</category>
+    </item>
+    <item>
       <title>Pricing: Pay per second for GPUs and CPUs</title>
       <link>https://modal.com/pricing</link>
       <description>…Memory $ 0.00000222 0 . 0 2 / GiB / sec Volumes $ 0.09 0 . 0 9 / GiB / mo *includes 1 TiB / mo free Network Egress $ 0.04 0 . 0 4 / GiB *See plan for included usage / mo Pricing plans Starter Popular…</description>
@@ -278,6 +286,14 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:8a143abe5f3a9d8b</guid>
       <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
       <category>NVIDIA NIM</category>
+    </item>
+    <item>
+      <title>API Pricing</title>
+      <link>https://docs.x.ai/docs/pricing</link>
+      <description>…and is billed through your plan there. It is not available on the public xAI API, and Grok Build&#39;s free tier does not include it. Prompt tokens Input Cached input Output Below 200k $4.00 / 1M $1.00 / 1M…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:8fd93e908672e965</guid>
+      <pubDate>Sun, 11 Oct 2026 16:06:47 +0800</pubDate>
+      <category>xAI Grok</category>
     </item>
     <item>
       <title>Talorys</title>
@@ -416,28 +432,12 @@
       <category>Google Gemini</category>
     </item>
     <item>
-      <title>API Pricing</title>
-      <link>https://docs.x.ai/docs/pricing</link>
-      <description>…and is billed through your plan there. It is not available on the public xAI API, and Grok Build&#39;s free tier does not include it. Prompt tokens Input Cached input Output Below 200k $4.00 / 1M $1.00 / 1M…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:8fd93e908672e965</guid>
-      <pubDate>Sun, 11 Oct 2026 16:06:47 +0800</pubDate>
-      <category>xAI Grok</category>
-    </item>
-    <item>
       <title>“第二代豆包手机”努比亚 NaviX Ultra「内测实验室」计划即将开启，10 月 14 日直播</title>
       <link>https://www.ithome.com/1/011/617.htm</link>
       <description>IT之家 10 月 11 日消息，努比亚今日宣布 NaviX Ultra「内测实验室」计划即将开启，面向尝鲜用户开放内测资格，抢先体验最新版本能力。10 月 14 日 19:00，首场进化直播。 IT之家注意到，“第二代豆包手机” 努比亚 NaviX Ultra 于 9 月 16 日发布， 号称“全球首款 AI 智能体手机…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:ac06f23b6774c9d6</guid>
       <pubDate>Sun, 11 Oct 2026 16:06:47 +0800</pubDate>
       <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>马斯克豪言 SpaceX 估值将超1000万亿美元，遭拉表打脸；传腾讯字节加速个人智能体研发；四部门拟禁止汽车采用全隐藏式门把手</title>
-      <link>http://www.geekpark.net/news/372216</link>
-      <description>…，争取尽快对外推出。 腾讯方面则已于 9 月底上线个人智能体产品 LightVela，将其定位为「云端个人助理」。该产品可以通过微信接入，全天在线处理用户的日常需求，目前仍处于开发者体验阶段，新用户可免费试用一个月。（来源：财新） 调查显示近半数美国员工夸大 AI 使用情况，只为给上司留下「懂 AI」的印象 随着企业持续加大对生成式人工智能的投入，并不断向员工强调 AI 带来的效率提升，越来越多的职场人士…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:5591687d989dd4c3</guid>
-      <pubDate>Sun, 11 Oct 2026 16:06:47 +0800</pubDate>
-      <category>资讯·极客公园</category>
     </item>
     <item>
       <title>AMD 82 亿美元收购李飞飞 AI 创业公司；Manus 推出个人 AI 助手 CUE；今年低价手机将减少 2.3 亿部｜极客早知道</title>
