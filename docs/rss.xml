@@ -5,7 +5,7 @@
     <link>https://ikeng.github.io/model-egg-monitor/</link>
     <description>每日两次监控大模型厂商活动，提供 Atom / JSON Feed 订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 12 Oct 2026 00:06:38 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 16:24:22 +0800</lastBuildDate>
     <generator>ai-egg-monitor</generator>
     <item>
       <title>大模型 API 价格方案</title>
@@ -120,14 +120,6 @@
       <category>资讯·雷锋网</category>
     </item>
     <item>
-      <title>Manus 正式发布 2.0！个人 AI 助手、云电脑、远程控制，Manus 想做 AI 时代全家桶</title>
-      <link>http://www.geekpark.net/news/371493</link>
-      <description>…选名单，另一个起草演示文稿，用户只负责定方向和最后拍板 。 Cue 还能对接线下的日常服务，比如在餐厅扫一下二维码，就让 Agent 帮忙点餐，或者排队取号。不过目前 Cue 目前处于抢先体验阶段，凭邀请码免费使用。Manus 放出的邀请码 MEETCUE 限前 1000 位用户，拿到资格的用户还会额外收到可以分享给别人的邀请码。 从 Agent 到个人 AI Manus 2.0 中最值得关注的新产品之…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:305ee28d03780da2</guid>
-      <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
-      <category>资讯·极客公园</category>
-    </item>
-    <item>
       <title>Cloudflare 让决策模型打起了价格战：Clef 降价、提速、上多模态</title>
       <link>https://www.oschina.net/news/502945/cloudflare-clef-faster-cheaper-multimodal</link>
       <description>Cloudflare 今天把三件事打包放出来了：一个新的多模态决策模型 Clef-omni，一个变便宜了的 Clef-flash，还有一个变快了的 Clef。官方博客标题写得很直白——『faster, cheaper, multimodal』。 Clef-omni 是 Clef 系列里第一个能吃音频、视频、图像和文本的决策模型。它基于开源的 Qwen3-Omni-30B-A3B-Instruct（…</description>
@@ -166,14 +158,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:471b7b657ecfc70e</guid>
       <pubDate>Thu, 08 Oct 2026 18:12:53 +0800</pubDate>
       <category>Azure AI</category>
-    </item>
-    <item>
-      <title>PPIO - 中国领先的分布式云计算服务商</title>
-      <link>https://ppio.com/</link>
-      <description>模型服务 Agent 云服务 GPU 云服务 即将下线 边缘云计算 新闻资讯 关于我们 文档 控制台 登录 立即注册 登录/注册 免费注册 登录 模型服务 Agent 云服务 GPU 云服务 即将下线 边缘云计算 新闻资讯 关于我们 文档 控制台 安装 Skills › npx skills add PPIO/ppio-skills…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:48e3941064854c6c</guid>
-      <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
-      <category>PPIO 派欧云</category>
     </item>
     <item>
       <title>语音资源包</title>
@@ -294,14 +278,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:8fd93e908672e965</guid>
       <pubDate>Sun, 11 Oct 2026 16:06:47 +0800</pubDate>
       <category>xAI Grok</category>
-    </item>
-    <item>
-      <title>Talorys</title>
-      <link>https://github.com/rociiu/talorys</link>
-      <description>Comments</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:95ad7881e9bf3ef8</guid>
-      <pubDate>Sat, 10 Oct 2026 23:39:10 +0800</pubDate>
-      <category>资讯·Hacker News</category>
     </item>
     <item>
       <title>Fastest AI Inference Cloud and API</title>
@@ -430,6 +406,46 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:ff49e507d89b30cd</guid>
       <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
       <category>Google Gemini</category>
+    </item>
+    <item>
+      <title>PPIO｜中国领先的独立 Agentic Cloud 服务商</title>
+      <link>https://ppio.com/</link>
+      <description>模型服务 Agent 云服务 GPU 云服务 即将下线 新闻资讯 关于我们 文档 控制台 登录 立即注册 登录/注册 免费注册 登录 模型服务 Agent 云服务 GPU 云服务 即将下线 新闻资讯 关于我们 文档 控制台 安装 Skills › npx skills add PPIO/ppio-skills --ski…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:0d2c4df3ac601949</guid>
+      <pubDate>Mon, 12 Oct 2026 16:24:02 +0800</pubDate>
+      <category>PPIO 派欧云</category>
+    </item>
+    <item>
+      <title>阶跃 Step 5 Preview 接入腾讯 WorkBuddy，独家限免 2 周！</title>
+      <link>https://www.leiphone.com/category/industrynews/J5Gvtdeng3EAvjmF.html</link>
+      <description>10 月 12 日消息，腾讯旗下全场景 AI 办公工作台 WorkBuddy 已接入阶跃最新旗舰模型 Step 5 Preview。即日起，该模型在 WorkBuddy 独家限时免费开放两周。凭借推理与 Agent 能力，Step 5 Preview 将助力 WorkBuddy 用户处理深度研究、信息检索、数据分析、文档与 PPT 生成等办公任务，并支持多步骤复杂任务的持续执行。…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:0c13404112733757</guid>
+      <pubDate>Mon, 12 Oct 2026 16:24:02 +0800</pubDate>
+      <category>资讯·雷锋网</category>
+    </item>
+    <item>
+      <title>Manus 正式发布 2.0！个人 AI 助手、云电脑、远程控制，Manus 想做 AI 时代全家桶</title>
+      <link>http://www.geekpark.net/news/371493</link>
+      <description>…选名单，另一个起草演示文稿，用户只负责定方向和最后拍板 。 Cue 还能对接线下的日常服务，比如在餐厅扫一下二维码，就让 Agent 帮忙点餐，或者排队取号。不过目前 Cue 目前处于抢先体验阶段，凭邀请码免费使用。Manus 放出的邀请码 MEETCUE 限前 1000 位用户，拿到资格的用户还会额外收到可以分享给别人的邀请码。 从 Agent 到个人 AI Manus 2.0 中最值得关注的新产品之…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:305ee28d03780da2</guid>
+      <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
+      <category>资讯·极客公园</category>
+    </item>
+    <item>
+      <title>PPIO - 中国领先的分布式云计算服务商</title>
+      <link>https://ppio.com/</link>
+      <description>模型服务 Agent 云服务 GPU 云服务 即将下线 边缘云计算 新闻资讯 关于我们 文档 控制台 登录 立即注册 登录/注册 免费注册 登录 模型服务 Agent 云服务 GPU 云服务 即将下线 边缘云计算 新闻资讯 关于我们 文档 控制台 安装 Skills › npx skills add PPIO/ppio-skills…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:48e3941064854c6c</guid>
+      <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
+      <category>PPIO 派欧云</category>
+    </item>
+    <item>
+      <title>Talorys</title>
+      <link>https://github.com/rociiu/talorys</link>
+      <description>Comments</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:95ad7881e9bf3ef8</guid>
+      <pubDate>Sat, 10 Oct 2026 23:39:10 +0800</pubDate>
+      <category>资讯·Hacker News</category>
     </item>
     <item>
       <title>“第二代豆包手机”努比亚 NaviX Ultra「内测实验室」计划即将开启，10 月 14 日直播</title>
