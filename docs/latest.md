@@ -1,15 +1,14 @@
-# 赛博鸡蛋日报 2026-10-12 16:24
+# 赛博鸡蛋日报 2026-10-13 03:33
 
 > 每日两次监控大模型厂商公开活动，发现"赛博鸡蛋"。
 > 仅做提醒与资讯，不自动领取，不登录，不绕过风控。
 
-今日新增：2
+今日新增：1
 需登录确认：0
 失败源：0
 
 ## 新增
-- [PPIO 派欧云] PPIO｜中国领先的独立 Agentic Cloud 服务商 | 模型服务 Agent 云服务 GPU 云服务 即将下线 新闻资讯 关于我们 文档 控制台 登录 立即注册 登录/注册 免费注册 登录 模型服务 Agent 云服务 GPU 云服务 即将下线 新闻资讯 关于我们 文档 控制台 安装 Skills › npx skills add PPIO/ppio-skills --ski… | 状态：待领取 | 需登录：否 | [链接](https://ppio.com/)
-- [资讯·雷锋网] 阶跃 Step 5 Preview 接入腾讯 WorkBuddy，独家限免 2 周！ | 10 月 12 日消息，腾讯旗下全场景 AI 办公工作台 WorkBuddy 已接入阶跃最新旗舰模型 Step 5 Preview。即日起，该模型在 WorkBuddy 独家限时免费开放两周。凭借推理与 Agent 能力，Step 5 Preview 将助力 WorkBuddy 用户处理深度研究、信息检索、数据分析、文档与 PPT 生成等办公任务，并支持多步骤复杂任务的持续执行。… | 状态：待领取 | 需登录：否 | [链接](https://www.leiphone.com/category/industrynews/J5Gvtdeng3EAvjmF.html)
+- [资讯·雷锋网] 苹果交出第一份折叠作业，华为已经把答案写了八年 | …： 八 年积累，换门槛往下走 创新的账，最终要算到价格上才算数。华为Mate X7 11999元起，定价已经低于iPhone Duo；华为Mate X6如今来到8999元起（9999元+1000元官网优惠券），直接下探到苹果直板机的价格带，还限时赠送价值999元HUAWEI Care+意外无忧（一年期）。 八年的技术积累，换来的不是更高的溢价，而是更低的准入——当折叠形态的创新能被更多人真正用上，这件事… | 状态：待领取 | 需登录：否 | [链接](https://www.leiphone.com/category/industrynews/PtbASm1JWY99NTou.html)
 
 ## 订阅
 - Atom: [atom.xml](https://ikeng.github.io/model-egg-monitor/atom.xml)
