@@ -5,7 +5,7 @@
     <link>https://ikeng.github.io/model-egg-monitor/</link>
     <description>每日两次监控大模型厂商活动，提供 Atom / JSON Feed 订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 13 Oct 2026 03:33:32 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 16:49:51 +0800</lastBuildDate>
     <generator>ai-egg-monitor</generator>
     <item>
       <title>大模型 API 价格方案</title>
@@ -112,36 +112,12 @@
       <category>Mistral</category>
     </item>
     <item>
-      <title>对话赵长江：智界RX要成为华为的「Pura X」</title>
-      <link>https://www.leiphone.com/category/transportation/N2Mpq4po8AjIzd1T.html</link>
-      <description>…准备干那个活，但我想一下……算了。” 他的理由很简单：复制别人，可能短期有效，但无法建立一个长期品牌。这也是智界和V9之间最重要的一次互相成就。 V9没有选择进入20多万元MPV市场，也没有简单地通过降价去扩大市场。它的价格区间被锁定在40万—50万元。最终，V9的成交均价达到50万元左右，7月单月交付超过1万辆。 这说明一个问题：用户并不是不能接受高价，只是高价必须对应新的价值。 所以赵长江并不把V…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:23b5e61748a783cd</guid>
-      <pubDate>Sat, 10 Oct 2026 23:39:10 +0800</pubDate>
-      <category>资讯·雷锋网</category>
-    </item>
-    <item>
       <title>模型概览</title>
       <link>https://docs.bigmodel.cn/cn/guide/start/model-overview</link>
       <description>…复杂的查询 为处理超长文本和记忆型任务设计 1M 4K GLM-4-FlashX-250414 Flash 增强高速版本 推理速度快，适合高并发调用场景 128K 16K GLM-4.7-Flash 免费文本模型 延续 GLM-4.7 基座的通用能力 200K 128K GLM-4.5-Flash 免费文本模型 支持最长 128K 的上下文处理 128K 96K GLM-4-Flash-250414…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:2472035a4555976f</guid>
       <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
       <category>智谱 GLM</category>
-    </item>
-    <item>
-      <title>对话蔚来创始人李斌：蔚来单车均价比奥迪贵18万，比宝马贵七八万，比奔驰贵数万</title>
-      <link>https://www.leiphone.com/category/transportation/AZ0KUba2gFI5kSB4.html</link>
-      <description>…了大部分。下半年虽然还会继续涨一点，但我们会通过供应链成本优化，以及和合作伙伴一起提效，消化额外的涨价成本。 所以总体来看，我们有信心保持一个合理的毛利率水平，基本和二季度接近。只要价格不乱动、不主动降价，毛利率还是可以稳住的。 问：二季度整车毛利率18.5%，下半年单车成本还会上涨，蔚来到底是保销量还是保毛利？ 李斌： 我们最终看的是毛利总额，毛利总额优先。内部做量价关系测算的时候，也是以毛利总额最…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:2f61a9a5b7e9f637</guid>
-      <pubDate>Sat, 10 Oct 2026 23:39:10 +0800</pubDate>
-      <category>资讯·雷锋网</category>
-    </item>
-    <item>
-      <title>Cloudflare 让决策模型打起了价格战：Clef 降价、提速、上多模态</title>
-      <link>https://www.oschina.net/news/502945/cloudflare-clef-faster-cheaper-multimodal</link>
-      <description>Cloudflare 今天把三件事打包放出来了：一个新的多模态决策模型 Clef-omni，一个变便宜了的 Clef-flash，还有一个变快了的 Clef。官方博客标题写得很直白——『faster, cheaper, multimodal』。 Clef-omni 是 Clef 系列里第一个能吃音频、视频、图像和文本的决策模型。它基于开源的 Qwen3-Omni-30B-A3B-Instruct（…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:320e4e4410c4a8db</guid>
-      <pubDate>Sat, 10 Oct 2026 23:39:10 +0800</pubDate>
-      <category>资讯·开源中国</category>
     </item>
     <item>
       <title>Different Types of API Keys and Rate Limits</title>
@@ -182,6 +158,14 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:4935578386852c47</guid>
       <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
       <category>MiniMax</category>
+    </item>
+    <item>
+      <title>苹果交出第一份折叠作业，华为已经把答案写了八年</title>
+      <link>https://www.leiphone.com/category/industrynews/PtbASm1JWY99NTou.html</link>
+      <description>…： 八 年积累，换门槛往下走 创新的账，最终要算到价格上才算数。华为Mate X7 11999元起，定价已经低于iPhone Duo；华为Mate X6如今来到8999元起（9999元+1000元官网优惠券），直接下探到苹果直板机的价格带，还限时赠送价值999元HUAWEI Care+意外无忧（一年期）。 八年的技术积累，换来的不是更高的溢价，而是更低的准入——当折叠形态的创新能被更多人真正用上，这件事…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:493e54e0f04508a1</guid>
+      <pubDate>Tue, 13 Oct 2026 03:33:12 +0800</pubDate>
+      <category>资讯·雷锋网</category>
     </item>
     <item>
       <title>GPU Cloud Pricing</title>
@@ -338,7 +322,7 @@
     <item>
       <title>Cursor · Pricing</title>
       <link>https://cursor.com/pricing</link>
-      <description>Pricing Monthly Yearly Hobby For the tinkerer Free Includes: ✓ No credit card required ✓ Limited Agent requests ✓ Access to Composer Try Cursor Indivi…</description>
+      <description>Pricing Individual Teams Free $0 /month Get started Get started with: Limited AI usage AI Features Limited agent requests Limited…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:c90cd6038f5c59f9</guid>
       <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
       <category>Cursor</category>
@@ -386,7 +370,7 @@
     <item>
       <title>Fireworks - Pricing</title>
       <link>https://fireworks.ai/pricing</link>
-      <description>…Inference Pay per token with pre-paid, usage-based billing. Simply add a payment method to buy credits, and usage is then deducted from your balance. Usage is billed on output, input, and cached tokens…</description>
+      <description>…Training Pricing Serve fine-tuned models for the same price as base models. Muse Glimmer 30B SFT is free via UI and Serverless Training API until 10/31 ✨ No credit card required. Start a job Managed Train…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:f47ac99038d603b1</guid>
       <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
       <category>Fireworks AI</category>
@@ -416,12 +400,60 @@
       <category>Google Gemini</category>
     </item>
     <item>
-      <title>苹果交出第一份折叠作业，华为已经把答案写了八年</title>
-      <link>https://www.leiphone.com/category/industrynews/PtbASm1JWY99NTou.html</link>
-      <description>…： 八 年积累，换门槛往下走 创新的账，最终要算到价格上才算数。华为Mate X7 11999元起，定价已经低于iPhone Duo；华为Mate X6如今来到8999元起（9999元+1000元官网优惠券），直接下探到苹果直板机的价格带，还限时赠送价值999元HUAWEI Care+意外无忧（一年期）。 八年的技术积累，换来的不是更高的溢价，而是更低的准入——当折叠形态的创新能被更多人真正用上，这件事…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:493e54e0f04508a1</guid>
-      <pubDate>Tue, 13 Oct 2026 03:33:12 +0800</pubDate>
+      <title>再发断轴事件！奇瑞官宣召回马来西亚市场OMODA 5；汽车坠百米悬崖车主奇迹生还！车企回应；曝梁文锋密集接触具身智能创业者丨雷峰早报</title>
+      <link>https://www.leiphone.com/category/zaobao/sVMq5cHa4c52VolM.html</link>
+      <description>…新旗舰模型接入腾讯WorkBuddy 10月12日消息，据媒体报道，腾讯旗下AI办公工作台WorkBuddy已接入阶跃最新旗舰模型Step 5 Preview。 即日起，该模型在WorkBuddy独家限时免费开放两周。Step 5 Preview将助力WorkBuddy用户处理深度研究、信息检索、数据分析、文档与 PPT 生成等办公任务，并支持多步骤复杂任务的持续执行。 离谱！女子3个月在盒马对399件商…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:84b16a5badcbcbc1</guid>
+      <pubDate>Tue, 13 Oct 2026 16:49:32 +0800</pubDate>
       <category>资讯·雷锋网</category>
+    </item>
+    <item>
+      <title>1688全面接入AI电商工作台Accio</title>
+      <link>https://www.leiphone.com/category/industrynews/geJK2UpprDrFwEMI.html</link>
+      <description>…一个工作台内闭环完成，无需再来回切换。 值得关注的是，此次1688全面接入Accio正值双11备战期。每逢大促，中小商家每天要应对一连串充满不确定性的决策——哪个广告计划在烧钱？哪个商品可能断货？竞品降价了要不要跟？与此同时，多平台数据“各说各话”，往往等问题汇总出来，最佳处理时机已经过去。此外，大促期间素材需求集中爆发，主图、详情页、海报、短视频要在预热、开门红、高潮、返场各阶段同步更新，团队节奏根…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:e2502adef35618e2</guid>
+      <pubDate>Tue, 13 Oct 2026 16:49:32 +0800</pubDate>
+      <category>资讯·雷锋网</category>
+    </item>
+    <item>
+      <title>曝梁文锋密集见机器人创业者；影石出货量累计突破1000万台；Meta发布Muse Wonder模型｜极客早知道</title>
+      <link>http://www.geekpark.net/news/372264</link>
+      <description>…2 周 10 月 12 日下午消息，腾讯旗下全场景 AI 办公工作台 WorkBuddy 已接入阶跃最新旗舰模型 Step 5 Preview。即日起，该模型在 WorkBuddy 独家限时免费开放两周。凭借推理与 Agent 能力，Step 5 Preview 将帮 WorkBuddy 用户处理深度研究、信息检索、数据分析、文档与 PPT 生成等办公任务，并支持多步骤复杂任务的持续执行。…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:33ffb560de13e9e1</guid>
+      <pubDate>Tue, 13 Oct 2026 16:49:32 +0800</pubDate>
+      <category>资讯·极客公园</category>
+    </item>
+    <item>
+      <title>传统豪华车降价，中国新豪华向上，阿维塔T09想争的不只是50万元市场</title>
+      <link>https://www.tmtpost.com/8165939.html</link>
+      <description>阿维塔T09冲击50万元以上市场，也进一步抬高了品牌向上与全球化的想象空间。</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:913fb8e3d5a644f1</guid>
+      <pubDate>Tue, 13 Oct 2026 16:49:32 +0800</pubDate>
+      <category>资讯·钛媒体</category>
+    </item>
+    <item>
+      <title>对话赵长江：智界RX要成为华为的「Pura X」</title>
+      <link>https://www.leiphone.com/category/transportation/N2Mpq4po8AjIzd1T.html</link>
+      <description>…准备干那个活，但我想一下……算了。” 他的理由很简单：复制别人，可能短期有效，但无法建立一个长期品牌。这也是智界和V9之间最重要的一次互相成就。 V9没有选择进入20多万元MPV市场，也没有简单地通过降价去扩大市场。它的价格区间被锁定在40万—50万元。最终，V9的成交均价达到50万元左右，7月单月交付超过1万辆。 这说明一个问题：用户并不是不能接受高价，只是高价必须对应新的价值。 所以赵长江并不把V…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:23b5e61748a783cd</guid>
+      <pubDate>Sat, 10 Oct 2026 23:39:10 +0800</pubDate>
+      <category>资讯·雷锋网</category>
+    </item>
+    <item>
+      <title>对话蔚来创始人李斌：蔚来单车均价比奥迪贵18万，比宝马贵七八万，比奔驰贵数万</title>
+      <link>https://www.leiphone.com/category/transportation/AZ0KUba2gFI5kSB4.html</link>
+      <description>…了大部分。下半年虽然还会继续涨一点，但我们会通过供应链成本优化，以及和合作伙伴一起提效，消化额外的涨价成本。 所以总体来看，我们有信心保持一个合理的毛利率水平，基本和二季度接近。只要价格不乱动、不主动降价，毛利率还是可以稳住的。 问：二季度整车毛利率18.5%，下半年单车成本还会上涨，蔚来到底是保销量还是保毛利？ 李斌： 我们最终看的是毛利总额，毛利总额优先。内部做量价关系测算的时候，也是以毛利总额最…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:2f61a9a5b7e9f637</guid>
+      <pubDate>Sat, 10 Oct 2026 23:39:10 +0800</pubDate>
+      <category>资讯·雷锋网</category>
+    </item>
+    <item>
+      <title>Cloudflare 让决策模型打起了价格战：Clef 降价、提速、上多模态</title>
+      <link>https://www.oschina.net/news/502945/cloudflare-clef-faster-cheaper-multimodal</link>
+      <description>Cloudflare 今天把三件事打包放出来了：一个新的多模态决策模型 Clef-omni，一个变便宜了的 Clef-flash，还有一个变快了的 Clef。官方博客标题写得很直白——『faster, cheaper, multimodal』。 Clef-omni 是 Clef 系列里第一个能吃音频、视频、图像和文本的决策模型。它基于开源的 Qwen3-Omni-30B-A3B-Instruct（…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:320e4e4410c4a8db</guid>
+      <pubDate>Sat, 10 Oct 2026 23:39:10 +0800</pubDate>
+      <category>资讯·开源中国</category>
     </item>
     <item>
       <title>Making Amazon Quick enterprise</title>
