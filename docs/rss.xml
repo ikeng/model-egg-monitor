@@ -5,7 +5,7 @@
     <link>https://ikeng.github.io/model-egg-monitor/</link>
     <description>每日两次监控大模型厂商活动，提供 Atom / JSON Feed 订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 13 Oct 2026 16:49:51 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 01:17:31 +0800</lastBuildDate>
     <generator>ai-egg-monitor</generator>
     <item>
       <title>大模型 API 价格方案</title>
@@ -126,6 +126,14 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:325373ce89188f63</guid>
       <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
       <category>Cohere</category>
+    </item>
+    <item>
+      <title>曝梁文锋密集见机器人创业者；影石出货量累计突破1000万台；Meta发布Muse Wonder模型｜极客早知道</title>
+      <link>http://www.geekpark.net/news/372264</link>
+      <description>…2 周 10 月 12 日下午消息，腾讯旗下全场景 AI 办公工作台 WorkBuddy 已接入阶跃最新旗舰模型 Step 5 Preview。即日起，该模型在 WorkBuddy 独家限时免费开放两周。凭借推理与 Agent 能力，Step 5 Preview 将帮 WorkBuddy 用户处理深度研究、信息检索、数据分析、文档与 PPT 生成等办公任务，并支持多步骤复杂任务的持续执行。…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:33ffb560de13e9e1</guid>
+      <pubDate>Tue, 13 Oct 2026 16:49:32 +0800</pubDate>
+      <category>资讯·极客公园</category>
     </item>
     <item>
       <title>Google Beam expands with new regions, partners, and customers</title>
@@ -360,6 +368,14 @@
       <category>OpenAI</category>
     </item>
     <item>
+      <title>1688全面接入AI电商工作台Accio</title>
+      <link>https://www.leiphone.com/category/industrynews/geJK2UpprDrFwEMI.html</link>
+      <description>…一个工作台内闭环完成，无需再来回切换。 值得关注的是，此次1688全面接入Accio正值双11备战期。每逢大促，中小商家每天要应对一连串充满不确定性的决策——哪个广告计划在烧钱？哪个商品可能断货？竞品降价了要不要跟？与此同时，多平台数据“各说各话”，往往等问题汇总出来，最佳处理时机已经过去。此外，大促期间素材需求集中爆发，主图、详情页、海报、短视频要在预热、开门红、高潮、返场各阶段同步更新，团队节奏根…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:e2502adef35618e2</guid>
+      <pubDate>Tue, 13 Oct 2026 16:49:32 +0800</pubDate>
+      <category>资讯·雷锋网</category>
+    </item>
+    <item>
       <title>千帆大模型平台</title>
       <link>https://cloud.baidu.com/product/wenxinworkshop</link>
       <description>…28b-a3b 上下文 32K,30K+8K 输入价格 ¥0.001/ 千tokens 输出价格 ¥0.01/ 千tokens 立即体验 探索更多大模型 独家优质Skill与精选MCP服务 百度搜索 免费试用 独家 Skill MCP 百度搜索（BaiduSearch）服务基于百度搜索能力与AI技术，专为生成式AI提供全网实时信息检索服务，具备海量内容站点、高权威性，强时效性，提供全新的搜索体验。 了…</description>
@@ -400,28 +416,20 @@
       <category>Google Gemini</category>
     </item>
     <item>
+      <title>Steam 新一周游戏销量榜公布：《AION 2》继续领跑全球榜首</title>
+      <link>https://www.ithome.com/1/012/580.htm</link>
+      <description>…，Steam 平台现已公布了最新一周游戏销量排行榜（2026 年 10 月 6 日 - 2026 年 10 月 13 日，无免费游戏），《AION 2（〈永恒之塔 2〉国际服）》继续占据全球榜首，多款降价及新游戏上榜，《影之刃零》预购登顶国区榜单。 全球榜单： AION 2 《星球大战：银河赛车手™》 EA SPORTS FC™ 27 Gears of War: E-Day 《雨中冒险 2》 ARC…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:64312ce9c985773e</guid>
+      <pubDate>Wed, 14 Oct 2026 01:17:12 +0800</pubDate>
+      <category>资讯·IT之家</category>
+    </item>
+    <item>
       <title>再发断轴事件！奇瑞官宣召回马来西亚市场OMODA 5；汽车坠百米悬崖车主奇迹生还！车企回应；曝梁文锋密集接触具身智能创业者丨雷峰早报</title>
       <link>https://www.leiphone.com/category/zaobao/sVMq5cHa4c52VolM.html</link>
       <description>…新旗舰模型接入腾讯WorkBuddy 10月12日消息，据媒体报道，腾讯旗下AI办公工作台WorkBuddy已接入阶跃最新旗舰模型Step 5 Preview。 即日起，该模型在WorkBuddy独家限时免费开放两周。Step 5 Preview将助力WorkBuddy用户处理深度研究、信息检索、数据分析、文档与 PPT 生成等办公任务，并支持多步骤复杂任务的持续执行。 离谱！女子3个月在盒马对399件商…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:84b16a5badcbcbc1</guid>
       <pubDate>Tue, 13 Oct 2026 16:49:32 +0800</pubDate>
       <category>资讯·雷锋网</category>
-    </item>
-    <item>
-      <title>1688全面接入AI电商工作台Accio</title>
-      <link>https://www.leiphone.com/category/industrynews/geJK2UpprDrFwEMI.html</link>
-      <description>…一个工作台内闭环完成，无需再来回切换。 值得关注的是，此次1688全面接入Accio正值双11备战期。每逢大促，中小商家每天要应对一连串充满不确定性的决策——哪个广告计划在烧钱？哪个商品可能断货？竞品降价了要不要跟？与此同时，多平台数据“各说各话”，往往等问题汇总出来，最佳处理时机已经过去。此外，大促期间素材需求集中爆发，主图、详情页、海报、短视频要在预热、开门红、高潮、返场各阶段同步更新，团队节奏根…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:e2502adef35618e2</guid>
-      <pubDate>Tue, 13 Oct 2026 16:49:32 +0800</pubDate>
-      <category>资讯·雷锋网</category>
-    </item>
-    <item>
-      <title>曝梁文锋密集见机器人创业者；影石出货量累计突破1000万台；Meta发布Muse Wonder模型｜极客早知道</title>
-      <link>http://www.geekpark.net/news/372264</link>
-      <description>…2 周 10 月 12 日下午消息，腾讯旗下全场景 AI 办公工作台 WorkBuddy 已接入阶跃最新旗舰模型 Step 5 Preview。即日起，该模型在 WorkBuddy 独家限时免费开放两周。凭借推理与 Agent 能力，Step 5 Preview 将帮 WorkBuddy 用户处理深度研究、信息检索、数据分析、文档与 PPT 生成等办公任务，并支持多步骤复杂任务的持续执行。…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:33ffb560de13e9e1</guid>
-      <pubDate>Tue, 13 Oct 2026 16:49:32 +0800</pubDate>
-      <category>资讯·极客公园</category>
     </item>
     <item>
       <title>传统豪华车降价，中国新豪华向上，阿维塔T09想争的不只是50万元市场</title>
