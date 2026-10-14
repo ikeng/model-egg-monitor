@@ -5,7 +5,7 @@
     <link>https://ikeng.github.io/model-egg-monitor/</link>
     <description>每日两次监控大模型厂商活动，提供 Atom / JSON Feed 订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 14 Oct 2026 14:58:36 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 22:49:37 +0800</lastBuildDate>
     <generator>ai-egg-monitor</generator>
     <item>
       <title>大模型 API 价格方案</title>
@@ -136,6 +136,14 @@
       <category>Google Gemini</category>
     </item>
     <item>
+      <title>火山方舟 模型计费说明</title>
+      <link>https://www.volcengine.com/docs/82379/1099320</link>
+      <description>…的单价 × 视频时长（秒）） ​ 图片生成模型 ​ 模型名称 ​ 输入图单价（元/张） ​ 输出图单价（元/张） ​ doubao-seedream-5-0-pro ​ 按生图场景区分定价 ​ 首张免费 ​ 第 2 张起：0.02 ​ 单图生成场景： ​ ≤ 261 万像素（分辨率 1.5K 及以下）：0.30 ​ &gt; 261 万像素（分辨率 1.5K 以上）：0.60 ​ 图层拆分场景： ​ ≤…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:3f9515c4e7efd405</guid>
+      <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
+      <category>火山方舟·豆包</category>
+    </item>
+    <item>
       <title>Pricing</title>
       <link>https://docs.perplexity.ai/getting-started/pricing</link>
       <description>…Model Price ($/1M input tokens) Output tokens Per-request fee pplx-decider-v1.1-27b $0.02 Free None pplx-decider-v1-27b $0.02 Free None Billing unit: you pay for input tokens only. The state , e…</description>
@@ -150,22 +158,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:471b7b657ecfc70e</guid>
       <pubDate>Thu, 08 Oct 2026 18:12:53 +0800</pubDate>
       <category>Azure AI</category>
-    </item>
-    <item>
-      <title>语音资源包</title>
-      <link>https://platform.minimaxi.com/document/price</link>
-      <description>…价格 语音资源包 复制页面 MiniMax语音资源包定价 复制页面 ​ HD 系列 立即购买 分类 语音套餐一 （节省 10%） 语音套餐二 （节省 15%） 语音套餐三 （节省 20%） 商务定制 折扣价 ¥630 ¥5,950 ¥56,000 基于量级的额外折扣 原价 ¥700 ¥7,000 ¥70,000 —— 有效期 1 个月 3 个月 1 年 —— 总字符数量 2,000,000 字符 20…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:4935578386852c47</guid>
-      <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
-      <category>MiniMax</category>
-    </item>
-    <item>
-      <title>苹果交出第一份折叠作业，华为已经把答案写了八年</title>
-      <link>https://www.leiphone.com/category/industrynews/PtbASm1JWY99NTou.html</link>
-      <description>…： 八 年积累，换门槛往下走 创新的账，最终要算到价格上才算数。华为Mate X7 11999元起，定价已经低于iPhone Duo；华为Mate X6如今来到8999元起（9999元+1000元官网优惠券），直接下探到苹果直板机的价格带，还限时赠送价值999元HUAWEI Care+意外无忧（一年期）。 八年的技术积累，换来的不是更高的溢价，而是更低的准入——当折叠形态的创新能被更多人真正用上，这件事…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:493e54e0f04508a1</guid>
-      <pubDate>Tue, 13 Oct 2026 03:33:12 +0800</pubDate>
-      <category>资讯·雷锋网</category>
     </item>
     <item>
       <title>GPU Cloud Pricing</title>
@@ -202,7 +194,7 @@
     <item>
       <title>Gemini Developer API pricing</title>
       <link>https://ai.google.dev/gemini-api/docs/pricing</link>
-      <description>…is now available. Try it out . Home Gemini API Docs Gemini Developer API pricing Start building free of charge with generous limits, then scale up with prepaid then pay-as-you-go pricing for your prod…</description>
+      <description>…is now available. Try it out . Home Gemini API Docs Gemini Developer API pricing Start building free of charge with generous limits, then scale up with prepaid and pay-as-you-go pricing for your produ…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:5f5c4c0ae520c10f</guid>
       <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
       <category>Google Gemini</category>
@@ -229,6 +221,14 @@
       <description>…我玩嗨了｜AI 上新 ）向栏目投稿，在极客公园公众号发布，不仅能获得相应稿费，且会为你「报销」AI 应用的订阅费用。 同时， 优秀作者还有机会进入极客公园 AI 体验群 ，获得最新 AI 应用和工具的内测资格，参加极客公园专属相关 AI 活动，和 AI 应用创始人一对一沟通。 AGI 太久，只争朝夕，让一部分人先 AI 起来吧！ 投稿、进群请扫描下方二维码添加极客小助手微信👇 01 我有常用的 AI，为什…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:65afaea0902ec53d</guid>
       <pubDate>Fri, 09 Oct 2026 16:17:00 +0800</pubDate>
+      <category>资讯·极客公园</category>
+    </item>
+    <item>
+      <title>超越抖音，传红果短剧日均时长 125 分钟；299 美元，苹果推 Siri AI 带屏音箱；谷歌最强模型 Gemini 4 正式上线</title>
+      <link>http://www.geekpark.net/news/372304</link>
+      <description>…千问是全球首个能为用户办事的个人 AI 助理，基于阿里生态和开放平台，已实现购物、打车、快递、理财等相关能力。 从用户分享的实测案例来看，该助理可查询对应延误航班信息后对接客服，拒绝代金券赔偿方案，为用户争取到 70 元现金赔偿；也可找到淘宝价保入口，核查用户所有订单，识别到相关炒锅订单可赔付，为用户退回 52 元差价。升级后的千问可自主查询操作各类授权平台，比对方案、联系服务方完成目…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:6ab8143684faa409</guid>
+      <pubDate>Wed, 14 Oct 2026 14:58:16 +0800</pubDate>
       <category>资讯·极客公园</category>
     </item>
     <item>
@@ -408,20 +408,36 @@
       <category>Google Gemini</category>
     </item>
     <item>
+      <title>定价概览</title>
+      <link>https://platform.minimaxi.com/document/price</link>
+      <description>…-Max 480P 按秒计费 0.33 元/秒 MiniMax-H3-Max 768P 按秒计费 0.50 元/秒 视频生成-输入素材价格 模型/接口 素材类型 计费规则 MiniMax-H3 音频 免费 MiniMax-H3 图片 5 张 以内免费，超出部分 0.20 元/张 MiniMax-H3 视频 按输入视频时长及生成视频分辨率计费： 2K 0.80 元/秒 ， 768P 0.50 元/秒 M…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:efff6cc6ac0e23bf</guid>
+      <pubDate>Wed, 14 Oct 2026 22:49:18 +0800</pubDate>
+      <category>MiniMax</category>
+    </item>
+    <item>
+      <title>语音资源包</title>
+      <link>https://platform.minimaxi.com/document/price</link>
+      <description>…价格 语音资源包 复制页面 MiniMax语音资源包定价 复制页面 ​ HD 系列 立即购买 分类 语音套餐一 （节省 10%） 语音套餐二 （节省 15%） 语音套餐三 （节省 20%） 商务定制 折扣价 ¥630 ¥5,950 ¥56,000 基于量级的额外折扣 原价 ¥700 ¥7,000 ¥70,000 —— 有效期 1 个月 3 个月 1 年 —— 总字符数量 2,000,000 字符 20…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:4935578386852c47</guid>
+      <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
+      <category>MiniMax</category>
+    </item>
+    <item>
+      <title>苹果交出第一份折叠作业，华为已经把答案写了八年</title>
+      <link>https://www.leiphone.com/category/industrynews/PtbASm1JWY99NTou.html</link>
+      <description>…： 八 年积累，换门槛往下走 创新的账，最终要算到价格上才算数。华为Mate X7 11999元起，定价已经低于iPhone Duo；华为Mate X6如今来到8999元起（9999元+1000元官网优惠券），直接下探到苹果直板机的价格带，还限时赠送价值999元HUAWEI Care+意外无忧（一年期）。 八年的技术积累，换来的不是更高的溢价，而是更低的准入——当折叠形态的创新能被更多人真正用上，这件事…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:493e54e0f04508a1</guid>
+      <pubDate>Tue, 13 Oct 2026 03:33:12 +0800</pubDate>
+      <category>资讯·雷锋网</category>
+    </item>
+    <item>
       <title>2026 双 11 装机最优解：5 大于 4，选对平台少花冤枉钱</title>
       <link>https://www.ithome.com/1/012/817.htm</link>
       <description>…平台兼容性极好，从 X870 到 B650 主板都能用，老主板刷个 BIOS 就能直接换新 CPU，不需要平台大换血。在显卡预算受限、暂时只能用中低端卡过渡的阶段，先上一颗 X3D 处理器，等未来显卡降价补货再升级，平台不用动，预算省一半。 由于 X3D 处理器有着更高的游戏性能上限，因此如果你打算上 RTX 5070 Ti 或更高端的游戏显卡， 没有大缓存加持的非 X3D CPU 反而会成为瓶颈，将…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:86c56defc20e1d4b</guid>
       <pubDate>Wed, 14 Oct 2026 14:58:16 +0800</pubDate>
       <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>超越抖音，传红果短剧日均时长 125 分钟；299 美元，苹果推 Siri AI 带屏音箱；谷歌最强模型 Gemini 4 正式上线</title>
-      <link>http://www.geekpark.net/news/372304</link>
-      <description>…千问是全球首个能为用户办事的个人 AI 助理，基于阿里生态和开放平台，已实现购物、打车、快递、理财等相关能力。 从用户分享的实测案例来看，该助理可查询对应延误航班信息后对接客服，拒绝代金券赔偿方案，为用户争取到 70 元现金赔偿；也可找到淘宝价保入口，核查用户所有订单，识别到相关炒锅订单可赔付，为用户退回 52 元差价。升级后的千问可自主查询操作各类授权平台，比对方案、联系服务方完成目…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:6ab8143684faa409</guid>
-      <pubDate>Wed, 14 Oct 2026 14:58:16 +0800</pubDate>
-      <category>资讯·极客公园</category>
     </item>
     <item>
       <title>阶跃 Step 5 Preview 接入腾讯 WorkBuddy，独家限免 2 周！</title>
@@ -574,14 +590,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:d692b96b9e614eae</guid>
       <pubDate>Sat, 10 Oct 2026 00:45:07 +0800</pubDate>
       <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>火山方舟 模型计费说明</title>
-      <link>https://www.volcengine.com/docs/82379/1099320</link>
-      <description>…的单价 × 视频时长（秒）） ​ 图片生成模型 ​ 模型名称 ​ 输入图单价（元/张） ​ 输出图单价（元/张） ​ doubao-seedream-5-0-pro ​ 按生图场景区分定价 ​ 首张免费 ​ 第 2 张起：0.02 ​ 单图生成场景： ​ ≤ 261 万像素（分辨率 1.5K 及以下）：0.30 ​ &gt; 261 万像素（分辨率 1.5K 以上）：0.60 ​ 图层拆分场景： ​ ≤…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:3f9515c4e7efd405</guid>
-      <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
-      <category>火山方舟·豆包</category>
     </item>
     <item>
       <title>Steam 喜加一：卡牌 Roguelike 游戏《Hex Reverse》限时免费领</title>
