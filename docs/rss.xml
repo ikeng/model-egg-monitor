@@ -5,7 +5,7 @@
     <link>https://ikeng.github.io/model-egg-monitor/</link>
     <description>每日两次监控大模型厂商活动，提供 Atom / JSON Feed 订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 14 Oct 2026 01:17:31 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 14:58:36 +0800</lastBuildDate>
     <generator>ai-egg-monitor</generator>
     <item>
       <title>大模型 API 价格方案</title>
@@ -46,14 +46,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:0a02cf04f0132a7a</guid>
       <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
       <category>资讯·极客公园</category>
-    </item>
-    <item>
-      <title>阶跃 Step 5 Preview 接入腾讯 WorkBuddy，独家限免 2 周！</title>
-      <link>https://www.leiphone.com/category/industrynews/J5Gvtdeng3EAvjmF.html</link>
-      <description>10 月 12 日消息，腾讯旗下全场景 AI 办公工作台 WorkBuddy 已接入阶跃最新旗舰模型 Step 5 Preview。即日起，该模型在 WorkBuddy 独家限时免费开放两周。凭借推理与 Agent 能力，Step 5 Preview 将助力 WorkBuddy 用户处理深度研究、信息检索、数据分析、文档与 PPT 生成等办公任务，并支持多步骤复杂任务的持续执行。…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:0c13404112733757</guid>
-      <pubDate>Mon, 12 Oct 2026 16:24:02 +0800</pubDate>
-      <category>资讯·雷锋网</category>
     </item>
     <item>
       <title>PPIO｜中国领先的独立 Agentic Cloud 服务商</title>
@@ -414,6 +406,30 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:ff49e507d89b30cd</guid>
       <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
       <category>Google Gemini</category>
+    </item>
+    <item>
+      <title>2026 双 11 装机最优解：5 大于 4，选对平台少花冤枉钱</title>
+      <link>https://www.ithome.com/1/012/817.htm</link>
+      <description>…平台兼容性极好，从 X870 到 B650 主板都能用，老主板刷个 BIOS 就能直接换新 CPU，不需要平台大换血。在显卡预算受限、暂时只能用中低端卡过渡的阶段，先上一颗 X3D 处理器，等未来显卡降价补货再升级，平台不用动，预算省一半。 由于 X3D 处理器有着更高的游戏性能上限，因此如果你打算上 RTX 5070 Ti 或更高端的游戏显卡， 没有大缓存加持的非 X3D CPU 反而会成为瓶颈，将…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:86c56defc20e1d4b</guid>
+      <pubDate>Wed, 14 Oct 2026 14:58:16 +0800</pubDate>
+      <category>资讯·IT之家</category>
+    </item>
+    <item>
+      <title>超越抖音，传红果短剧日均时长 125 分钟；299 美元，苹果推 Siri AI 带屏音箱；谷歌最强模型 Gemini 4 正式上线</title>
+      <link>http://www.geekpark.net/news/372304</link>
+      <description>…千问是全球首个能为用户办事的个人 AI 助理，基于阿里生态和开放平台，已实现购物、打车、快递、理财等相关能力。 从用户分享的实测案例来看，该助理可查询对应延误航班信息后对接客服，拒绝代金券赔偿方案，为用户争取到 70 元现金赔偿；也可找到淘宝价保入口，核查用户所有订单，识别到相关炒锅订单可赔付，为用户退回 52 元差价。升级后的千问可自主查询操作各类授权平台，比对方案、联系服务方完成目…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:6ab8143684faa409</guid>
+      <pubDate>Wed, 14 Oct 2026 14:58:16 +0800</pubDate>
+      <category>资讯·极客公园</category>
+    </item>
+    <item>
+      <title>阶跃 Step 5 Preview 接入腾讯 WorkBuddy，独家限免 2 周！</title>
+      <link>https://www.leiphone.com/category/industrynews/J5Gvtdeng3EAvjmF.html</link>
+      <description>10 月 12 日消息，腾讯旗下全场景 AI 办公工作台 WorkBuddy 已接入阶跃最新旗舰模型 Step 5 Preview。即日起，该模型在 WorkBuddy 独家限时免费开放两周。凭借推理与 Agent 能力，Step 5 Preview 将助力 WorkBuddy 用户处理深度研究、信息检索、数据分析、文档与 PPT 生成等办公任务，并支持多步骤复杂任务的持续执行。…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:0c13404112733757</guid>
+      <pubDate>Mon, 12 Oct 2026 16:24:02 +0800</pubDate>
+      <category>资讯·雷锋网</category>
     </item>
     <item>
       <title>Steam 新一周游戏销量榜公布：《AION 2》继续领跑全球榜首</title>
