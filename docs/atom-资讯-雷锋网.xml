@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://ikeng.github.io/model-egg-monitor/atom-资讯-雷锋网.xml</id>
   <title>赛博鸡蛋 · 资讯·雷锋网</title>
-  <updated>2026-10-14T22:49:37+08:00</updated>
+  <updated>2026-10-15T14:50:04+08:00</updated>
   <subtitle>大模型厂商活动监控</subtitle>
   <link rel="self" href="https://ikeng.github.io/model-egg-monitor/atom-资讯-雷锋网.xml"/>
   <link rel="alternate" href="https://ikeng.github.io/model-egg-monitor/"/>
@@ -11,6 +11,25 @@
   <author>
     <name>ai-egg-monitor</name>
   </author>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:64ed0a74f24eb683</id>
+    <title>短视频、联盟营销与本地化履约，家居卖家如何撑起一场大促增长？</title>
+    <updated>2026-10-15T14:49:42+08:00</updated>
+    <published>2026-10-15T14:49:42+08:00</published>
+    <link rel="alternate" href="https://www.leiphone.com/category/industrynews/v2QysI05W4eMciQG.html"/>
+    <author><name>资讯·雷锋网</name></author>
+    <category term="资讯·雷锋网"/>
+    <summary type="text">…订单，后端能不能跟得上？ 平时相对稳定的订单一旦在短时间内集中增加，备货、出库和配送都会面临更大的压力。对于中小卖家而言，如果等到订单涌入后再临时调整，前端好不容易获得的增长机会，也可能在后续交付中打折扣。 在这件事上，周扬没有等到大促当天才做准备。 店铺已经将海外仓作为日常经营中的重要履约方式，将商品提前备至当地。到了大促期间，这套本地化履约能力也自然成为承接订单的后端支撑，店铺绝大多数订单都通过海…</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·雷锋网&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：短视频、联盟营销与本地化履约，家居卖家如何撑起一场大促增长？&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…订单，后端能不能跟得上？ 平时相对稳定的订单一旦在短时间内集中增加，备货、出库和配送都会面临更大的压力。对于中小卖家而言，如果等到订单涌入后再临时调整，前端好不容易获得的增长机会，也可能在后续交付中打折扣。 在这件事上，周扬没有等到大促当天才做准备。 店铺已经将海外仓作为日常经营中的重要履约方式，将商品提前备至当地。到了大促期间，这套本地化履约能力也自然成为承接订单的后端支撑，店铺绝大多数订单都通过海…&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：折扣&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-15T14:49:42+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-15T14:49:42+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.leiphone.com/category/industrynews/v2QysI05W4eMciQG.html&#34;&gt;https://www.leiphone.com/category/industrynews/v2QysI05W4eMciQG.html&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:e2502adef35618e2</id>
     <title>1688全面接入AI电商工作台Accio</title>
