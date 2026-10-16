@@ -5,7 +5,7 @@
     <link>https://ikeng.github.io/model-egg-monitor/</link>
     <description>每日两次监控大模型厂商活动，提供 Atom / JSON Feed 订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 15 Oct 2026 22:36:37 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 14:38:05 +0800</lastBuildDate>
     <generator>ai-egg-monitor</generator>
     <item>
       <title>大模型 API 价格方案</title>
@@ -50,7 +50,7 @@
     <item>
       <title>Latest news</title>
       <link>https://mistral.ai/news</link>
-      <description>…6, 2026 By Mistral Company Hallo, Deutschland! Mistral Opens German Hub in Munich to Advance Industrial AI in Europe’s Largest Economy September 28, 2026 By Mistral Company Mistral and Mozilla are bringi…</description>
+      <description>…15, 2026 By Mistral Company Hallo, Deutschland! Mistral Opens German Hub in Munich to Advance Industrial AI in Europe’s Largest Economy September 28, 2026 By Mistral Company Mistral and Mozilla are bringi…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:17fe1240de605060</guid>
       <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
       <category>Mistral</category>
@@ -78,6 +78,14 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:222146e80f0b2614</guid>
       <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
       <category>Hugging Face</category>
+    </item>
+    <item>
+      <title>京东采销员工发布谣言诋毁其他平台被起诉，法院已立案</title>
+      <link>https://www.leiphone.com/category/industrynews/3pF2gUvuBewkORgl.html</link>
+      <description>…监督报道，名为“知名电商平台陷乱价风波：同款电器差价超千元，市监部门要求落实内卷式竞争整治”，该报道从未登上过今日头条热榜。 该报道指出，京东平台往往会在大促期间要求平台内商家必须提供“全网最低价”、降价成本主要由商家承担，同时通过“毛利保护”条款保障自身利润；为了竞争，京东有时还会针对自己几乎无货的其他平台专供品，故意标一个很低的价格来“乱价”，同款电器有时和其他平台差价上千元，“本质上是用一个假的…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:2237522a5325cac0</guid>
+      <pubDate>Thu, 15 Oct 2026 22:36:15 +0800</pubDate>
+      <category>资讯·雷锋网</category>
     </item>
     <item>
       <title>Pricing</title>
@@ -192,14 +200,6 @@
       <category>Ollama</category>
     </item>
     <item>
-      <title>短视频、联盟营销与本地化履约，家居卖家如何撑起一场大促增长？</title>
-      <link>https://www.leiphone.com/category/industrynews/v2QysI05W4eMciQG.html</link>
-      <description>…订单，后端能不能跟得上？ 平时相对稳定的订单一旦在短时间内集中增加，备货、出库和配送都会面临更大的压力。对于中小卖家而言，如果等到订单涌入后再临时调整，前端好不容易获得的增长机会，也可能在后续交付中打折扣。 在这件事上，周扬没有等到大促当天才做准备。 店铺已经将海外仓作为日常经营中的重要履约方式，将商品提前备至当地。到了大促期间，这套本地化履约能力也自然成为承接订单的后端支撑，店铺绝大多数订单都通过海…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:64ed0a74f24eb683</guid>
-      <pubDate>Thu, 15 Oct 2026 14:49:42 +0800</pubDate>
-      <category>资讯·雷锋网</category>
-    </item>
-    <item>
       <title>我使用国产「个人 AI 助手」的十天｜AI 上新</title>
       <link>http://www.geekpark.net/news/372163</link>
       <description>…我玩嗨了｜AI 上新 ）向栏目投稿，在极客公园公众号发布，不仅能获得相应稿费，且会为你「报销」AI 应用的订阅费用。 同时， 优秀作者还有机会进入极客公园 AI 体验群 ，获得最新 AI 应用和工具的内测资格，参加极客公园专属相关 AI 活动，和 AI 应用创始人一对一沟通。 AGI 太久，只争朝夕，让一部分人先 AI 起来吧！ 投稿、进群请扫描下方二维码添加极客小助手微信👇 01 我有常用的 AI，为什…</description>
@@ -298,7 +298,7 @@
     <item>
       <title>Pricing</title>
       <link>https://www.together.ai/pricing</link>
-      <description>….15 $0.03 (cached) $0.50 DeepSeek V4.1 Flash $0.30 $0.006 (cached) $1.20 Tev1 4B Experimental $0.04 Free Gemma 4 31B $0.39 $0.97 Qwen3.7-Plus $0.32 $1.28 GLM-5.2 $1.40 $0.26 (cached) $4.40 Ternary Bonsai…</description>
+      <description>…$0.30 $0.006 (cached) $1.20 Muse Spark Open $1.25 $0.15 (cached) $4.25 Tev1 4B Experimental $0.04 Free Muse Spark Open (Free for limited time) PROMO Promotion valid until 10/18/2026 $1.00 $0.00 $5.00 $0…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:b99574d412655a47</guid>
       <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
       <category>Together AI</category>
@@ -362,7 +362,7 @@
     <item>
       <title>Fireworks - Pricing</title>
       <link>https://fireworks.ai/pricing</link>
-      <description>…Training Pricing Serve fine-tuned models for the same price as base models. Muse Glimmer 30B SFT is free via UI and Serverless Training API until 10/31 ✨ No credit card required. Start a job Managed Train…</description>
+      <description>…Training Pricing Serve fine-tuned models for the same price as base models. Muse Glimmer 30B SFT is free via UI and Serverless Training API until 11/30 ✨ No credit card required. Start a job Managed Train…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:f47ac99038d603b1</guid>
       <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
       <category>Fireworks AI</category>
@@ -392,26 +392,50 @@
       <category>Google Gemini</category>
     </item>
     <item>
-      <title>京东采销员工发布谣言诋毁其他平台被起诉，法院已立案</title>
-      <link>https://www.leiphone.com/category/industrynews/3pF2gUvuBewkORgl.html</link>
-      <description>…监督报道，名为“知名电商平台陷乱价风波：同款电器差价超千元，市监部门要求落实内卷式竞争整治”，该报道从未登上过今日头条热榜。 该报道指出，京东平台往往会在大促期间要求平台内商家必须提供“全网最低价”、降价成本主要由商家承担，同时通过“毛利保护”条款保障自身利润；为了竞争，京东有时还会针对自己几乎无货的其他平台专供品，故意标一个很低的价格来“乱价”，同款电器有时和其他平台差价上千元，“本质上是用一个假的…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:2237522a5325cac0</guid>
-      <pubDate>Thu, 15 Oct 2026 22:36:15 +0800</pubDate>
+      <title>付费用户占比超 20%，电商商家「涌入」千问办公</title>
+      <link>https://www.leiphone.com/category/industrynews/csaOBaiXpZZLOOtp.html</link>
+      <description>…为多平台作战的“后盾”。 第二件让商家头疼的事，是要人工时刻“盯梢”，一刻都松不了。 小熊电器的运营小余，每天都要反复查询天猫、京东平台上的商品价格。最让他崩溃的是，查一次就得花15到30分钟，还得把优惠券、平台补贴都算进去，才能得出实际到手价，有时候还会遗漏短期降价、商品下架等变化。要是赶上大促，就得查得更勤。 用上千问办公后，小余轻松了不少。系统每天上午8点半和下午6点自动采集两个平台的商品到手价，…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:b64a52c937f9db59</guid>
+      <pubDate>Fri, 16 Oct 2026 14:37:42 +0800</pubDate>
       <category>资讯·雷锋网</category>
     </item>
     <item>
-      <title>2598 元 → 1664 元国补直降：大疆 Osmo Action 5 Pro 破冰新低</title>
-      <link>https://www.ithome.com/1/013/660.htm</link>
-      <description>…活动可能随时变更，需以实付款为准】 大疆 Osmo Action 5 Pro 运动相机发布于 2024 年 9 月 19 日，标准套装售价 2598 元。 京东 11.11 大促期间，领取 240 元优惠券，叠加 15% 国补（立减 293.7 元）后仅需 1664.3 元： 京东 大疆 Osmo Action 5 Pro 标准套装 国补后 1664.3 元 领 240 元券 京东 11.11 红包至高…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:9ee0bd4f9cfc6a0a</guid>
-      <pubDate>Thu, 15 Oct 2026 22:36:15 +0800</pubDate>
-      <category>资讯·IT之家</category>
+      <title>DeepSeek 出现服务故障，官方补偿 1 周 Token 消耗；库克：苹果智能月底在华发测试版；特斯拉、SpaceX 最快年底合并｜极客早知道</title>
+      <link>http://www.geekpark.net/news/372430</link>
+      <description>…扰，我们深表歉意。 我们已第一时间启动针对服务稳定性的全面排查和彻底整改，全面梳理并剥离单点依赖 ，坚决杜绝同类问题再次发生。 作为补偿， 我们将按您账号 7 日内（10.8-10.14）的消耗金额以赠金形式全额返还 ，赠金自动到账，API 计费扣款先从赠金账户扣除。此次故障对您造成了影响，我们再次致歉，感谢您一直以来的信任与支持。 这是 DeepSeek 本月以来遇到的最大规模服务问题，网友今早在…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:3cd4095b8ed19da0</guid>
+      <pubDate>Fri, 16 Oct 2026 14:37:42 +0800</pubDate>
+      <category>资讯·极客公园</category>
+    </item>
+    <item>
+      <title>【钛晨报】潘功胜：全球失衡不能依靠汇率调节；DeepSeek发布补偿通知：将按账号7日内的消耗金额以赠金形式全额返还；工信部等三部门联合调查有关车辆刹车踏板支架断裂问题</title>
+      <link>https://www.tmtpost.com/8170437.html</link>
+      <description>Tim之父、圆通总裁潘水苗出任影视飓风董事长，持股25.65%为第二大股东；腾讯上线“绿泡泡短剧”对标红果，采用IAA模式；台积电第三季度净利润7631亿元台币；OpenAI据报洽购Trail of Bits，拓展网络安全版图；苹果AI国内采用双合作伙伴：阿里提供模型能力，百度负责Siri和视觉智能；马斯克旗下Terafab项目或在明年年中迎来首台EUV光刻设备；四部门公布婴幼儿纸尿裤甲酰胺问题调…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:97645315a3f75624</guid>
+      <pubDate>Fri, 16 Oct 2026 14:37:42 +0800</pubDate>
+      <category>资讯·钛媒体</category>
+    </item>
+    <item>
+      <title>短视频、联盟营销与本地化履约，家居卖家如何撑起一场大促增长？</title>
+      <link>https://www.leiphone.com/category/industrynews/v2QysI05W4eMciQG.html</link>
+      <description>…订单，后端能不能跟得上？ 平时相对稳定的订单一旦在短时间内集中增加，备货、出库和配送都会面临更大的压力。对于中小卖家而言，如果等到订单涌入后再临时调整，前端好不容易获得的增长机会，也可能在后续交付中打折扣。 在这件事上，周扬没有等到大促当天才做准备。 店铺已经将海外仓作为日常经营中的重要履约方式，将商品提前备至当地。到了大促期间，这套本地化履约能力也自然成为承接订单的后端支撑，店铺绝大多数订单都通过海…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:64ed0a74f24eb683</guid>
+      <pubDate>Thu, 15 Oct 2026 14:49:42 +0800</pubDate>
+      <category>资讯·雷锋网</category>
     </item>
     <item>
       <title>5999 → 1494 元：石头 H1 分子筛洗烘一体机新低，12kg 一键洗完烘干直接穿</title>
       <link>https://www.ithome.com/1/013/425.htm</link>
       <description>石头分子筛洗烘一体机 H1 12kg，定价 5999 元，今日标价 4299 元： 下单立减 1419 元； PLUS 会员立减 128.97 元； 领取 8 折优惠券： 点此领取 ； 以旧换新立减 132.32 元； 国补立减 263.69 元； 到手价为 1494.27 元： 京东 石头 分子筛洗烘一体机 H1 12kg 券后 1494.27 元 领 8 折券…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:83d1b39edfc8580d</guid>
+      <pubDate>Thu, 15 Oct 2026 22:36:15 +0800</pubDate>
+      <category>资讯·IT之家</category>
+    </item>
+    <item>
+      <title>2598 元 → 1664 元国补直降：大疆 Osmo Action 5 Pro 破冰新低</title>
+      <link>https://www.ithome.com/1/013/660.htm</link>
+      <description>…活动可能随时变更，需以实付款为准】 大疆 Osmo Action 5 Pro 运动相机发布于 2024 年 9 月 19 日，标准套装售价 2598 元。 京东 11.11 大促期间，领取 240 元优惠券，叠加 15% 国补（立减 293.7 元）后仅需 1664.3 元： 京东 大疆 Osmo Action 5 Pro 标准套装 国补后 1664.3 元 领 240 元券 京东 11.11 红包至高…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:9ee0bd4f9cfc6a0a</guid>
       <pubDate>Thu, 15 Oct 2026 22:36:15 +0800</pubDate>
       <category>资讯·IT之家</category>
     </item>
