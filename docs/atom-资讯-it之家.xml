@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://ikeng.github.io/model-egg-monitor/atom-资讯-it之家.xml</id>
   <title>赛博鸡蛋 · 资讯·IT之家</title>
-  <updated>2026-10-16T14:38:05+08:00</updated>
+  <updated>2026-10-16T22:27:26+08:00</updated>
   <subtitle>大模型厂商活动监控</subtitle>
   <link rel="self" href="https://ikeng.github.io/model-egg-monitor/atom-资讯-it之家.xml"/>
   <link rel="alternate" href="https://ikeng.github.io/model-egg-monitor/"/>
@@ -11,6 +11,25 @@
   <author>
     <name>ai-egg-monitor</name>
   </author>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:f69c397d2180640c</id>
+    <title>3299 → 1982 元：石头洗地机 A30 Pro Steam 3.0 国补新低，32000Pa 吸力 + 蒸汽热水混洗</title>
+    <updated>2026-10-16T22:27:05+08:00</updated>
+    <published>2026-10-16T22:27:05+08:00</published>
+    <link rel="alternate" href="https://www.ithome.com/1/013/800.htm"/>
+    <author><name>资讯·IT之家</name></author>
+    <category term="资讯·IT之家"/>
+    <summary type="text">…8 月开售，该产品号称首次实现了 180℃ 活性蒸汽与 90℃ 高温热水的一键混洗，可在重度油污环境使用，首发价 3299 元。 京东 11.11 大促期间，活动价 2592 元； 下单领取 9 折优惠券； 国家补贴立减 349.92 元； 到手价为 1982.88 元： 京东 石头 A30 Pro Steam 3.0 洗地机 180° 蒸汽 + 90° 热水 券后 1982.88 元 领 9 折券…</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·IT之家&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：3299 → 1982 元：石头洗地机 A30 Pro Steam 3.0 国补新低，32000Pa 吸力 + 蒸汽热水混洗&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…8 月开售，该产品号称首次实现了 180℃ 活性蒸汽与 90℃ 高温热水的一键混洗，可在重度油污环境使用，首发价 3299 元。 京东 11.11 大促期间，活动价 2592 元； 下单领取 9 折优惠券； 国家补贴立减 349.92 元； 到手价为 1982.88 元： 京东 石头 A30 Pro Steam 3.0 洗地机 180° 蒸汽 + 90° 热水 券后 1982.88 元 领 9 折券…&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：优惠券&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-16T22:27:05+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-16T22:27:05+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.ithome.com/1/013/800.htm&#34;&gt;https://www.ithome.com/1/013/800.htm&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:83d1b39edfc8580d</id>
     <title>5999 → 1494 元：石头 H1 分子筛洗烘一体机新低，12kg 一键洗完烘干直接穿</title>
