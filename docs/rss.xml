@@ -5,7 +5,7 @@
     <link>https://ikeng.github.io/model-egg-monitor/</link>
     <description>每日两次监控大模型厂商活动，提供 Atom / JSON Feed 订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 17 Oct 2026 14:27:01 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 21:24:44 +0800</lastBuildDate>
     <generator>ai-egg-monitor</generator>
     <item>
       <title>大模型 API 价格方案</title>
@@ -56,6 +56,14 @@
       <category>Mistral</category>
     </item>
     <item>
+      <title>抖音商城双11首日数据：消费券带动破千万商家数同比增长74%</title>
+      <link>https://www.leiphone.com/category/industrynews/JjzV775vQhP9EgGN.html</link>
+      <description>…求集中释放，快消行业成交额破千万商家数量同比增长223%。 大促期间，平台还将持续加码，针对爆品、重点类目及高搜索需求等商品提供丰厚流量与资源倾斜，并对现货及快发商品给予额外流量扶持。巨量千川推出智能优惠券、AI投放工具等产品利好，配合多重红包及流量激励，助力商家把每一次用心经营高效变成生意。 随着秋冬焕新消费需求的持续释放，愿每一个认真选货、踏实经营的品牌商家，都可以借助平台多元的玩法及扶持政策，在双…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:18ed0520f819bd25</guid>
+      <pubDate>Sat, 17 Oct 2026 14:26:40 +0800</pubDate>
+      <category>资讯·雷锋网</category>
+    </item>
+    <item>
       <title>腾讯混元大模型 混元生文计费概述</title>
       <link>https://cloud.tencent.com/document/product/1729/97731</link>
       <description>…讯混元大模型 &gt; 购买指南 &gt; 混元生文计费概述 最近更新时间： 2026-06-26 10:56:00 微信扫一扫 QQ 新浪微博 复制链接 链接复制成功 我的收藏 本页目录： 计费方式 开通方式 免费额度 混元生文价格说明 token 后付费 计费与结算方式 费用计算示例 后付费 注意： 为进一步提升大模型服务体验，腾讯混元大模型相关功能将逐步迁移至 TokenHub 。迁移后，原平台将不再新增模…</description>
@@ -78,14 +86,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:222146e80f0b2614</guid>
       <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
       <category>Hugging Face</category>
-    </item>
-    <item>
-      <title>京东采销员工发布谣言诋毁其他平台被起诉，法院已立案</title>
-      <link>https://www.leiphone.com/category/industrynews/3pF2gUvuBewkORgl.html</link>
-      <description>…监督报道，名为“知名电商平台陷乱价风波：同款电器差价超千元，市监部门要求落实内卷式竞争整治”，该报道从未登上过今日头条热榜。 该报道指出，京东平台往往会在大促期间要求平台内商家必须提供“全网最低价”、降价成本主要由商家承担，同时通过“毛利保护”条款保障自身利润；为了竞争，京东有时还会针对自己几乎无货的其他平台专供品，故意标一个很低的价格来“乱价”，同款电器有时和其他平台差价上千元，“本质上是用一个假的…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:2237522a5325cac0</guid>
-      <pubDate>Thu, 15 Oct 2026 22:36:15 +0800</pubDate>
-      <category>资讯·雷锋网</category>
     </item>
     <item>
       <title>Pricing</title>
@@ -232,6 +232,14 @@
       <category>Baseten</category>
     </item>
     <item>
+      <title>Models &amp; Pricing</title>
+      <link>https://api-docs.deepseek.com/quick_start/pricing</link>
+      <description>…, or Codex, server-side tool calls already hit the Search and Fetch APIs. These calls are currently free of charge; per-request billing starts at 00:00 Beijing time on November 1, 2026. See the Search &amp; F…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:711aaf63478ae2f0</guid>
+      <pubDate>Sat, 17 Oct 2026 14:26:40 +0800</pubDate>
+      <category>DeepSeek</category>
+    </item>
+    <item>
       <title>Plans and Pricing | Devin</title>
       <link>https://windsurf.com/pricing</link>
       <description>…the perfect plan for your journey SWE-2, our latest model, is now available → INDIVIDUAL PLANS Free $0 Download Light quota to code with agents Limited model availability Unlimited inline edits Unlim…</description>
@@ -376,6 +384,14 @@
       <category>MiniMax</category>
     </item>
     <item>
+      <title>Benefit Street Partners answers questions faster with Codex</title>
+      <link>https://openai.com/index/benefit-street-partners</link>
+      <description>Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:f35ff89bf357650c</guid>
+      <pubDate>Sat, 17 Oct 2026 14:26:40 +0800</pubDate>
+      <category>OpenAI</category>
+    </item>
+    <item>
       <title>Fireworks - Pricing</title>
       <link>https://fireworks.ai/pricing</link>
       <description>…Training Pricing Serve fine-tuned models for the same price as base models. Muse Glimmer 30B SFT is free via UI and Serverless Training API until 11/30 ✨ No credit card required. Start a job Managed Train…</description>
@@ -408,27 +424,27 @@
       <category>Google Gemini</category>
     </item>
     <item>
-      <title>Models &amp; Pricing</title>
-      <link>https://api-docs.deepseek.com/quick_start/pricing</link>
-      <description>…, or Codex, server-side tool calls already hit the Search and Fetch APIs. These calls are currently free of charge; per-request billing starts at 00:00 Beijing time on November 1, 2026. See the Search &amp; F…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:711aaf63478ae2f0</guid>
-      <pubDate>Sat, 17 Oct 2026 14:26:40 +0800</pubDate>
-      <category>DeepSeek</category>
+      <title>系列最大官方地图：《DayZ》游戏地图“Badlands”扩展包发售，Steam 国区 107.10 元</title>
+      <link>https://www.ithome.com/1/014/385.htm</link>
+      <description>IT之家 10 月 17 日消息，波西米亚互动开发发行的知名生存游戏《DayZ》全新官方地图扩展《DayZ Badlands》现已登陆 Steam 平台，目前国区开启首发 10% 折扣，折后售价为 107.10 元，优惠截止至 10 月 29 日。该 DLC 需要拥有基础游戏《DayZ》才能畅玩，支持简体中文界面与字幕。 IT之家附游戏商品页（ https://store.stea…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:4a8c09456e5a8767</guid>
+      <pubDate>Sat, 17 Oct 2026 21:24:25 +0800</pubDate>
+      <category>资讯·IT之家</category>
     </item>
     <item>
-      <title>Benefit Street Partners answers questions faster with Codex</title>
-      <link>https://openai.com/index/benefit-street-partners</link>
-      <description>Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:f35ff89bf357650c</guid>
-      <pubDate>Sat, 17 Oct 2026 14:26:40 +0800</pubDate>
-      <category>OpenAI</category>
+      <title>5999 → 1598 元：石头 H1 分子筛洗烘一体机直降，12kg 一键洗完烘干直接穿</title>
+      <link>https://www.ithome.com/1/014/376.htm</link>
+      <description>…石头分子筛洗烘一体机 H1 12kg，定价 5999 元，今日标价 4299 元： 京东 11.11 大促期间，按下方步骤下单，叠加 PLUS 立减 + 15% 国补后仅需 1598 元： 领 8 折优惠券： 点此领取 下单时选择“以旧换新 → 个护健康 → 电动牙刷（无需回收）”补贴 80 元。 大多数用户可弹出限时 30 分钟的 9.4 折券。 京东 石头 分子筛洗烘一体机 H1 12kg 券后 1…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:844b5095ee73f394</guid>
+      <pubDate>Sat, 17 Oct 2026 21:24:25 +0800</pubDate>
+      <category>资讯·IT之家</category>
     </item>
     <item>
-      <title>抖音商城双11首日数据：消费券带动破千万商家数同比增长74%</title>
-      <link>https://www.leiphone.com/category/industrynews/JjzV775vQhP9EgGN.html</link>
-      <description>…求集中释放，快消行业成交额破千万商家数量同比增长223%。 大促期间，平台还将持续加码，针对爆品、重点类目及高搜索需求等商品提供丰厚流量与资源倾斜，并对现货及快发商品给予额外流量扶持。巨量千川推出智能优惠券、AI投放工具等产品利好，配合多重红包及流量激励，助力商家把每一次用心经营高效变成生意。 随着秋冬焕新消费需求的持续释放，愿每一个认真选货、踏实经营的品牌商家，都可以借助平台多元的玩法及扶持政策，在双…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:18ed0520f819bd25</guid>
-      <pubDate>Sat, 17 Oct 2026 14:26:40 +0800</pubDate>
+      <title>京东采销员工发布谣言诋毁其他平台被起诉，法院已立案</title>
+      <link>https://www.leiphone.com/category/industrynews/3pF2gUvuBewkORgl.html</link>
+      <description>…监督报道，名为“知名电商平台陷乱价风波：同款电器差价超千元，市监部门要求落实内卷式竞争整治”，该报道从未登上过今日头条热榜。 该报道指出，京东平台往往会在大促期间要求平台内商家必须提供“全网最低价”、降价成本主要由商家承担，同时通过“毛利保护”条款保障自身利润；为了竞争，京东有时还会针对自己几乎无货的其他平台专供品，故意标一个很低的价格来“乱价”，同款电器有时和其他平台差价上千元，“本质上是用一个假的…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:2237522a5325cac0</guid>
+      <pubDate>Thu, 15 Oct 2026 22:36:15 +0800</pubDate>
       <category>资讯·雷锋网</category>
     </item>
     <item>
