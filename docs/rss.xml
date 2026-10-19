@@ -5,7 +5,7 @@
     <link>https://ikeng.github.io/model-egg-monitor/</link>
     <description>每日两次监控大模型厂商活动，提供 Atom / JSON Feed 订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 18 Oct 2026 21:43:14 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 15:11:33 +0800</lastBuildDate>
     <generator>ai-egg-monitor</generator>
     <item>
       <title>大模型 API 价格方案</title>
@@ -258,7 +258,7 @@
     <item>
       <title>Try NVIDIA NIM APIs</title>
       <link>https://build.nvidia.com/explore/discover</link>
-      <description>…Climate &amp; Weather Safety &amp; Moderation Industries Automotive Financial Services Healthcare Industrial Robotics Start Building with your DGX Spark Explore step-by-step playbooks, including setting up Ne…</description>
+      <description>…by the community, optimized and accelerated by NVIDIA&#39;s enterprise-ready inference runtime. NVIDIA Free Endpoint nemotron-3.5-super-vl-120b-a12b Nemotron 3.5 Super early-access reasoning model for agenti…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:8a143abe5f3a9d8b</guid>
       <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
       <category>NVIDIA NIM</category>
@@ -304,14 +304,6 @@
       <category>Cerebras</category>
     </item>
     <item>
-      <title>付费用户占比超 20%，电商商家「涌入」千问办公</title>
-      <link>https://www.leiphone.com/category/industrynews/csaOBaiXpZZLOOtp.html</link>
-      <description>…为多平台作战的“后盾”。 第二件让商家头疼的事，是要人工时刻“盯梢”，一刻都松不了。 小熊电器的运营小余，每天都要反复查询天猫、京东平台上的商品价格。最让他崩溃的是，查一次就得花15到30分钟，还得把优惠券、平台补贴都算进去，才能得出实际到手价，有时候还会遗漏短期降价、商品下架等变化。要是赶上大促，就得查得更勤。 用上千问办公后，小余轻松了不少。系统每天上午8点半和下午6点自动采集两个平台的商品到手价，…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:b64a52c937f9db59</guid>
-      <pubDate>Fri, 16 Oct 2026 14:37:42 +0800</pubDate>
-      <category>资讯·雷锋网</category>
-    </item>
-    <item>
       <title>Hallo, Deutschland!</title>
       <link>https://mistral.ai/news/hallo-deutschland/</link>
       <description>Mistral opens a Munich hub for Physics AI and Industrial AI research, partnering with German industry.</description>
@@ -322,7 +314,7 @@
     <item>
       <title>Pricing</title>
       <link>https://www.together.ai/pricing</link>
-      <description>…$0.30 $0.006 (cached) $1.20 Muse Spark Open $1.25 $0.15 (cached) $4.25 Tev1 4B Experimental $0.04 Free Reflection Beam $0.40 $0.04 (cached) $1.20 Muse Spark Open (Free for limited time) PROMO Promotion…</description>
+      <description>…$0.30 $0.006 (cached) $1.20 Muse Spark Open $1.25 $0.15 (cached) $4.25 Tev1 4B Experimental $0.04 Free Reflection Beam $0.40 $0.04 (cached) $1.20 DeepSeek V4.1 Flash 1017 $0.30 $0.006 (cached) $1.20 Gem…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:b99574d412655a47</guid>
       <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
       <category>Together AI</category>
@@ -422,6 +414,14 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:ff49e507d89b30cd</guid>
       <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
       <category>Google Gemini</category>
+    </item>
+    <item>
+      <title>付费用户占比超 20%，电商商家「涌入」千问办公</title>
+      <link>https://www.leiphone.com/category/industrynews/csaOBaiXpZZLOOtp.html</link>
+      <description>…为多平台作战的“后盾”。 第二件让商家头疼的事，是要人工时刻“盯梢”，一刻都松不了。 小熊电器的运营小余，每天都要反复查询天猫、京东平台上的商品价格。最让他崩溃的是，查一次就得花15到30分钟，还得把优惠券、平台补贴都算进去，才能得出实际到手价，有时候还会遗漏短期降价、商品下架等变化。要是赶上大促，就得查得更勤。 用上千问办公后，小余轻松了不少。系统每天上午8点半和下午6点自动采集两个平台的商品到手价，…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:b64a52c937f9db59</guid>
+      <pubDate>Fri, 16 Oct 2026 14:37:42 +0800</pubDate>
+      <category>资讯·雷锋网</category>
     </item>
     <item>
       <title>系列最大官方地图：《DayZ》游戏地图“Badlands”扩展包发售，Steam 国区 107.10 元</title>
