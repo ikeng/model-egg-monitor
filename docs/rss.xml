@@ -5,7 +5,7 @@
     <link>https://ikeng.github.io/model-egg-monitor/</link>
     <description>每日两次监控大模型厂商活动，提供 Atom / JSON Feed 订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 19 Oct 2026 15:11:33 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 00:44:44 +0800</lastBuildDate>
     <generator>ai-egg-monitor</generator>
     <item>
       <title>大模型 API 价格方案</title>
@@ -18,7 +18,7 @@
     <item>
       <title>MiniMax</title>
       <link>https://www.minimaxi.com/</link>
-      <description>…创作 覆盖广告、电商、品牌营销、创意后期等多个内容生产场景 开放的本地工作流 支持本地资产、本地部署与 API 调用，操作更加开放灵活自主 AI Agent 驱动的商业内容生产平台 立即体验 立即订阅会员 旗舰模型 MiniMax 最新首推模型，覆盖语言模型 / 视频生成 / 语音 &amp; 音乐 MiniMax M3 Coding 顶尖 · 1M 上下文 · 原生多模态 MiniMax H3 视频生成 M…</description>
+      <description>…创作 覆盖广告、电商、品牌营销、创意后期等多个内容生产场景 开放的本地工作流 支持本地资产、本地部署与 API 调用，操作更加开放灵活自主 AI Agent 驱动的商业内容生产平台 立即体验 立即订阅会员 旗舰模型 MiniMax 最新首推模型，覆盖语言模型 / 视频生成 / 语音 &amp; 音乐 MiniMax M3.1 Flash 为专业而强，为日常而快 MiniMax H3 视频生成 MiniMax…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:00a2c75e9abfa9da</guid>
       <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
       <category>MiniMax</category>
@@ -136,6 +136,14 @@
       <category>Google Gemini</category>
     </item>
     <item>
+      <title>火山方舟 模型计费说明</title>
+      <link>https://www.volcengine.com/docs/82379/1099320</link>
+      <description>…的单价 × 视频时长（秒）） ​ 图片生成模型 ​ 模型名称 ​ 输入图单价（元/张） ​ 输出图单价（元/张） ​ doubao-seedream-5-0-pro ​ 按生图场景区分定价 ​ 首张免费 ​ 第 2 张起：0.02 ​ 单图生成场景： ​ ≤ 261 万像素（分辨率 1.5K 及以下）：0.30 ​ &gt; 261 万像素（分辨率 1.5K 以上）：0.60 ​ 图层拆分场景： ​ ≤…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:3f9515c4e7efd405</guid>
+      <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
+      <category>火山方舟·豆包</category>
+    </item>
+    <item>
       <title>Pricing</title>
       <link>https://docs.perplexity.ai/getting-started/pricing</link>
       <description>…Model Price ($/1M input tokens) Output tokens Per-request fee pplx-decider-v1.2 $0.02 Free None pplx-decider-flash-v1.2 $0.01 Free None Aliases: pplx-decider-latest and perplexity/pplx-decid…</description>
@@ -208,14 +216,6 @@
       <category>Ollama</category>
     </item>
     <item>
-      <title>我使用国产「个人 AI 助手」的十天｜AI 上新</title>
-      <link>http://www.geekpark.net/news/372163</link>
-      <description>…我玩嗨了｜AI 上新 ）向栏目投稿，在极客公园公众号发布，不仅能获得相应稿费，且会为你「报销」AI 应用的订阅费用。 同时， 优秀作者还有机会进入极客公园 AI 体验群 ，获得最新 AI 应用和工具的内测资格，参加极客公园专属相关 AI 活动，和 AI 应用创始人一对一沟通。 AGI 太久，只争朝夕，让一部分人先 AI 起来吧！ 投稿、进群请扫描下方二维码添加极客小助手微信👇 01 我有常用的 AI，为什…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:65afaea0902ec53d</guid>
-      <pubDate>Fri, 09 Oct 2026 16:17:00 +0800</pubDate>
-      <category>资讯·极客公园</category>
-    </item>
-    <item>
       <title>超越抖音，传红果短剧日均时长 125 分钟；299 美元，苹果推 Siri AI 带屏音箱；谷歌最强模型 Gemini 4 正式上线</title>
       <link>http://www.geekpark.net/news/372304</link>
       <description>…千问是全球首个能为用户办事的个人 AI 助理，基于阿里生态和开放平台，已实现购物、打车、快递、理财等相关能力。 从用户分享的实测案例来看，该助理可查询对应延误航班信息后对接客服，拒绝代金券赔偿方案，为用户争取到 70 元现金赔偿；也可找到淘宝价保入口，核查用户所有订单，识别到相关炒锅订单可赔付，为用户退回 52 元差价。升级后的千问可自主查询操作各类授权平台，比对方案、联系服务方完成目…</description>
@@ -258,7 +258,7 @@
     <item>
       <title>Try NVIDIA NIM APIs</title>
       <link>https://build.nvidia.com/explore/discover</link>
-      <description>…by the community, optimized and accelerated by NVIDIA&#39;s enterprise-ready inference runtime. NVIDIA Free Endpoint nemotron-3.5-super-vl-120b-a12b Nemotron 3.5 Super early-access reasoning model for agenti…</description>
+      <description>…Climate &amp; Weather Safety &amp; Moderation Industries Automotive Financial Services Healthcare Industrial Robotics Start Building with your DGX Spark Explore step-by-step playbooks, including setting up Ne…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:8a143abe5f3a9d8b</guid>
       <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
       <category>NVIDIA NIM</category>
@@ -416,6 +416,22 @@
       <category>Google Gemini</category>
     </item>
     <item>
+      <title>1999 元起 → 2499 元起，荣耀 X80 Pro Max 手机官网涨价</title>
+      <link>https://www.ithome.com/1/015/009.htm</link>
+      <description>IT之家 10 月 19 日消息，荣耀 X80 Pro Max 手机现已在官网渠道调价，涨价 500 元， 起售价从 1999 元变为 2499 元 。不过官网目前提供了 180 元优惠券， 实际到手价约为 2319 元起 。 IT之家附 X80 Pro Max 新旧价格对比如下： 8GB+128GB：现价 2499 元，原价 1999 元 8GB+256GB：现价 2699 元，原价…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:74051ec8cd4f1cfb</guid>
+      <pubDate>Tue, 20 Oct 2026 00:44:24 +0800</pubDate>
+      <category>资讯·IT之家</category>
+    </item>
+    <item>
+      <title>我使用国产「个人 AI 助手」的十天｜AI 上新</title>
+      <link>http://www.geekpark.net/news/372163</link>
+      <description>…我玩嗨了｜AI 上新 ）向栏目投稿，在极客公园公众号发布，不仅能获得相应稿费，且会为你「报销」AI 应用的订阅费用。 同时， 优秀作者还有机会进入极客公园 AI 体验群 ，获得最新 AI 应用和工具的内测资格，参加极客公园专属相关 AI 活动，和 AI 应用创始人一对一沟通。 AGI 太久，只争朝夕，让一部分人先 AI 起来吧！ 投稿、进群请扫描下方二维码添加极客小助手微信👇 01 我有常用的 AI，为什…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:65afaea0902ec53d</guid>
+      <pubDate>Fri, 09 Oct 2026 16:17:00 +0800</pubDate>
+      <category>资讯·极客公园</category>
+    </item>
+    <item>
       <title>付费用户占比超 20%，电商商家「涌入」千问办公</title>
       <link>https://www.leiphone.com/category/industrynews/csaOBaiXpZZLOOtp.html</link>
       <description>…为多平台作战的“后盾”。 第二件让商家头疼的事，是要人工时刻“盯梢”，一刻都松不了。 小熊电器的运营小余，每天都要反复查询天猫、京东平台上的商品价格。最让他崩溃的是，查一次就得花15到30分钟，还得把优惠券、平台补贴都算进去，才能得出实际到手价，有时候还会遗漏短期降价、商品下架等变化。要是赶上大促，就得查得更勤。 用上千问办公后，小余轻松了不少。系统每天上午8点半和下午6点自动采集两个平台的商品到手价，…</description>
@@ -462,14 +478,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:f69c397d2180640c</guid>
       <pubDate>Fri, 16 Oct 2026 22:27:05 +0800</pubDate>
       <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>火山方舟 模型计费说明</title>
-      <link>https://www.volcengine.com/docs/82379/1099320</link>
-      <description>…的单价 × 视频时长（秒）） ​ 图片生成模型 ​ 模型名称 ​ 输入图单价（元/张） ​ 输出图单价（元/张） ​ doubao-seedream-5-0-pro ​ 按生图场景区分定价 ​ 首张免费 ​ 第 2 张起：0.02 ​ 单图生成场景： ​ ≤ 261 万像素（分辨率 1.5K 及以下）：0.30 ​ &gt; 261 万像素（分辨率 1.5K 以上）：0.60 ​ 图层拆分场景： ​ ≤…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:3f9515c4e7efd405</guid>
-      <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
-      <category>火山方舟·豆包</category>
     </item>
     <item>
       <title>【钛晨报】潘功胜：全球失衡不能依靠汇率调节；DeepSeek发布补偿通知：将按账号7日内的消耗金额以赠金形式全额返还；工信部等三部门联合调查有关车辆刹车踏板支架断裂问题</title>
