@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://ikeng.github.io/model-egg-monitor/atom-资讯-雷锋网.xml</id>
   <title>赛博鸡蛋 · 资讯·雷锋网</title>
-  <updated>2026-10-20T14:59:01+08:00</updated>
+  <updated>2026-10-20T22:36:39+08:00</updated>
   <subtitle>大模型厂商活动监控</subtitle>
   <link rel="self" href="https://ikeng.github.io/model-egg-monitor/atom-资讯-雷锋网.xml"/>
   <link rel="alternate" href="https://ikeng.github.io/model-egg-monitor/"/>
@@ -12,28 +12,9 @@
     <name>ai-egg-monitor</name>
   </author>
   <entry>
-    <id>tag:ai-egg-monitor,2026:activity:b2039cbefbfaf4c9</id>
-    <title>全年最优惠！真正的双11今晚8点天猫开卖</title>
-    <updated>2026-10-20T14:58:40+08:00</updated>
-    <published>2026-10-20T14:58:40+08:00</published>
-    <link rel="alternate" href="https://www.leiphone.com/category/industrynews/PxChMV65ai4TKgYz.html"/>
-    <author><name>资讯·雷锋网</name></author>
-    <category term="资讯·雷锋网"/>
-    <summary type="text">…。 潮流、美妆和黄金同样有新品及专属优惠：ALO Accolade系列王一博同款作为全球新品在天猫首发；老铺黄金参与天猫双11优惠，首次推出“满30000减2000”、“满60000减4000”的店铺优惠券；海蓝之谜精萃水250ml为天猫独家，买正送正享同款450ml。 网友热盼双11到来，在社交媒体评论：“双11就像牛郎等织女，一年只见一次面”。今晚8点，大家一起打开购物车，把心心念念的东西一次买齐吧…</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·雷锋网&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：全年最优惠！真正的双11今晚8点天猫开卖&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…。 潮流、美妆和黄金同样有新品及专属优惠：ALO Accolade系列王一博同款作为全球新品在天猫首发；老铺黄金参与天猫双11优惠，首次推出“满30000减2000”、“满60000减4000”的店铺优惠券；海蓝之谜精萃水250ml为天猫独家，买正送正享同款450ml。 网友热盼双11到来，在社交媒体评论：“双11就像牛郎等织女，一年只见一次面”。今晚8点，大家一起打开购物车，把心心念念的东西一次买齐吧…&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：优惠券&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-20T14:58:40+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-20T14:58:40+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.leiphone.com/category/industrynews/PxChMV65ai4TKgYz.html&#34;&gt;https://www.leiphone.com/category/industrynews/PxChMV65ai4TKgYz.html&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
     <id>tag:ai-egg-monitor,2026:activity:a0cc1b5c4d0b7785</id>
     <title>京东左琦的惊艳出道：最强公关，竟在采销</title>
-    <updated>2026-10-20T14:58:40+08:00</updated>
+    <updated>2026-10-20T22:36:20+08:00</updated>
     <published>2026-10-20T14:58:40+08:00</published>
     <link rel="alternate" href="https://www.leiphone.com/category/industrynews/1qas4lUYu8NA19Ki.html"/>
     <author><name>资讯·雷锋网</name></author>
@@ -46,8 +27,65 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：优惠券&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-20T14:58:40+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-20T14:58:40+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-20T22:36:20+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.leiphone.com/category/industrynews/1qas4lUYu8NA19Ki.html&#34;&gt;https://www.leiphone.com/category/industrynews/1qas4lUYu8NA19Ki.html&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:b2039cbefbfaf4c9</id>
+    <title>全年最优惠！真正的双11今晚8点天猫开卖</title>
+    <updated>2026-10-20T22:36:20+08:00</updated>
+    <published>2026-10-20T14:58:40+08:00</published>
+    <link rel="alternate" href="https://www.leiphone.com/category/industrynews/PxChMV65ai4TKgYz.html"/>
+    <author><name>资讯·雷锋网</name></author>
+    <category term="资讯·雷锋网"/>
+    <summary type="text">…。 潮流、美妆和黄金同样有新品及专属优惠：ALO Accolade系列王一博同款作为全球新品在天猫首发；老铺黄金参与天猫双11优惠，首次推出“满30000减2000”、“满60000减4000”的店铺优惠券；海蓝之谜精萃水250ml为天猫独家，买正送正享同款450ml。 网友热盼双11到来，在社交媒体评论：“双11就像牛郎等织女，一年只见一次面”。今晚8点，大家一起打开购物车，把心心念念的东西一次买齐吧…</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·雷锋网&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：全年最优惠！真正的双11今晚8点天猫开卖&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…。 潮流、美妆和黄金同样有新品及专属优惠：ALO Accolade系列王一博同款作为全球新品在天猫首发；老铺黄金参与天猫双11优惠，首次推出“满30000减2000”、“满60000减4000”的店铺优惠券；海蓝之谜精萃水250ml为天猫独家，买正送正享同款450ml。 网友热盼双11到来，在社交媒体评论：“双11就像牛郎等织女，一年只见一次面”。今晚8点，大家一起打开购物车，把心心念念的东西一次买齐吧…&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：优惠券&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-20T14:58:40+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-20T22:36:20+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.leiphone.com/category/industrynews/PxChMV65ai4TKgYz.html&#34;&gt;https://www.leiphone.com/category/industrynews/PxChMV65ai4TKgYz.html&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:c6f292f030eab0d1</id>
+    <title>喊出300万张订单，英伟达RTX PRO 5500为何遭到提前疯抢？</title>
+    <updated>2026-10-20T22:36:20+08:00</updated>
+    <published>2026-10-20T22:36:20+08:00</published>
+    <link rel="alternate" href="https://www.leiphone.com/category/chips/STx9ZzfDNh5W80Bm.html"/>
+    <author><name>资讯·雷锋网</name></author>
+    <category term="资讯·雷锋网"/>
+    <summary type="text">…AI计算精度下，这款特供产品的算力仅占RTX PRO 6000服务器版的三至四成。 有RTX PRO 6000D的性能大幅缩水在前，目前暂未声明有特供型号的RTX PRO 5500算力表现是否也会大打折扣，自然备受关注。结合官方理论参数和夏寅卿给到的数据，在FP4、FP8等精度下， RTX PRO 5500的理论算力较RTX PRO 6000D提升约一倍。 除此之外，接近英伟达的算力服务从业者秦宇还关…</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·雷锋网&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：喊出300万张订单，英伟达RTX PRO 5500为何遭到提前疯抢？&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…AI计算精度下，这款特供产品的算力仅占RTX PRO 6000服务器版的三至四成。 有RTX PRO 6000D的性能大幅缩水在前，目前暂未声明有特供型号的RTX PRO 5500算力表现是否也会大打折扣，自然备受关注。结合官方理论参数和夏寅卿给到的数据，在FP4、FP8等精度下， RTX PRO 5500的理论算力较RTX PRO 6000D提升约一倍。 除此之外，接近英伟达的算力服务从业者秦宇还关…&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：折扣&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-20T22:36:20+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-20T22:36:20+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.leiphone.com/category/chips/STx9ZzfDNh5W80Bm.html&#34;&gt;https://www.leiphone.com/category/chips/STx9ZzfDNh5W80Bm.html&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:266ceaf916c19ebe</id>
+    <title>双11 iPhone Duo货源大战：苹果为什么把更多货交给天猫？</title>
+    <updated>2026-10-20T22:36:20+08:00</updated>
+    <published>2026-10-20T22:36:20+08:00</published>
+    <link rel="alternate" href="https://www.leiphone.com/category/industrynews/1kN394wi9h0iFG43.html"/>
+    <author><name>资讯·雷锋网</name></author>
+    <category term="资讯·雷锋网"/>
+    <summary type="text">…26年的市场背景来看，更能体会其含金量。IDC数据显示，今年中国智能手机市场大盘已连续五个季度下滑；但在天猫，一部起售价接近万元的高端手机，反而卖得更快、更好了。这证明了在确定的经营环境下，品牌无需靠降价换销量，依然能实现高质量的逆势增长。第三，全网最具购买力的高净值用户都在天猫。高端新品的首发，流量规模不等于高客单转化，精准的高购买力人群才是关键。最新数据显示，截至2026年6月底，淘宝天猫88VI…</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·雷锋网&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：双11 iPhone Duo货源大战：苹果为什么把更多货交给天猫？&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…26年的市场背景来看，更能体会其含金量。IDC数据显示，今年中国智能手机市场大盘已连续五个季度下滑；但在天猫，一部起售价接近万元的高端手机，反而卖得更快、更好了。这证明了在确定的经营环境下，品牌无需靠降价换销量，依然能实现高质量的逆势增长。第三，全网最具购买力的高净值用户都在天猫。高端新品的首发，流量规模不等于高客单转化，精准的高购买力人群才是关键。最新数据显示，截至2026年6月底，淘宝天猫88VI…&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：降价&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-20T22:36:20+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-20T22:36:20+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.leiphone.com/category/industrynews/1kN394wi9h0iFG43.html&#34;&gt;https://www.leiphone.com/category/industrynews/1kN394wi9h0iFG43.html&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:18ed0520f819bd25</id>
