@@ -5,7 +5,7 @@
     <link>https://ikeng.github.io/model-egg-monitor/</link>
     <description>每日两次监控大模型厂商活动，提供 Atom / JSON Feed 订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 20 Oct 2026 22:36:39 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 14:53:00 +0800</lastBuildDate>
     <generator>ai-egg-monitor</generator>
     <item>
       <title>大模型 API 价格方案</title>
@@ -96,6 +96,14 @@
       <category>智谱 GLM</category>
     </item>
     <item>
+      <title>双11 iPhone Duo货源大战：苹果为什么把更多货交给天猫？</title>
+      <link>https://www.leiphone.com/category/industrynews/1kN394wi9h0iFG43.html</link>
+      <description>…26年的市场背景来看，更能体会其含金量。IDC数据显示，今年中国智能手机市场大盘已连续五个季度下滑；但在天猫，一部起售价接近万元的高端手机，反而卖得更快、更好了。这证明了在确定的经营环境下，品牌无需靠降价换销量，依然能实现高质量的逆势增长。第三，全网最具购买力的高净值用户都在天猫。高端新品的首发，流量规模不等于高客单转化，精准的高购买力人群才是关键。最新数据显示，截至2026年6月底，淘宝天猫88VI…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:266ceaf916c19ebe</guid>
+      <pubDate>Tue, 20 Oct 2026 22:36:20 +0800</pubDate>
+      <category>资讯·雷锋网</category>
+    </item>
+    <item>
       <title>Different Types of API Keys and Rate Limits</title>
       <link>https://docs.cohere.com/docs/rate-limits</link>
       <description>…- v1 API: https://docs.cohere.com/v1/llms.txt Cohere offers two kinds of API keys: evaluation keys (free but limited in usage), and production keys (paid and much less limited in usage). You can create a…</description>
@@ -128,6 +136,14 @@
       <category>Google Gemini</category>
     </item>
     <item>
+      <title>火山方舟 模型计费说明</title>
+      <link>https://www.volcengine.com/docs/82379/1099320</link>
+      <description>…的单价 × 视频时长（秒）） ​ 图片生成模型 ​ 模型名称 ​ 输入图单价（元/张） ​ 输出图单价（元/张） ​ doubao-seedream-5-0-pro ​ 按生图场景区分定价 ​ 首张免费 ​ 第 2 张起：0.02 ​ 单图生成场景： ​ ≤ 261 万像素（分辨率 1.5K 及以下）：0.30 ​ &gt; 261 万像素（分辨率 1.5K 以上）：0.60 ​ 图层拆分场景： ​ ≤…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:3f9515c4e7efd405</guid>
+      <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
+      <category>火山方舟·豆包</category>
+    </item>
+    <item>
       <title>Pricing</title>
       <link>https://docs.perplexity.ai/getting-started/pricing</link>
       <description>…Model Price ($/1M input tokens) Output tokens Per-request fee pplx-decider-v1.2 $0.02 Free None pplx-decider-flash-v1.2 $0.01 Free None Aliases: pplx-decider-latest and perplexity/pplx-decid…</description>
@@ -150,14 +166,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:50e017209458414f</guid>
       <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
       <category>RunPod</category>
-    </item>
-    <item>
-      <title>马斯克豪言 SpaceX 估值将超1000万亿美元，遭拉表打脸；传腾讯字节加速个人智能体研发；四部门拟禁止汽车采用全隐藏式门把手</title>
-      <link>http://www.geekpark.net/news/372216</link>
-      <description>…，争取尽快对外推出。 腾讯方面则已于 9 月底上线个人智能体产品 LightVela，将其定位为「云端个人助理」。该产品可以通过微信接入，全天在线处理用户的日常需求，目前仍处于开发者体验阶段，新用户可免费试用一个月。（来源：财新） 调查显示近半数美国员工夸大 AI 使用情况，只为给上司留下「懂 AI」的印象 随着企业持续加大对生成式人工智能的投入，并不断向员工强调 AI 带来的效率提升，越来越多的职场人士…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:5591687d989dd4c3</guid>
-      <pubDate>Sun, 11 Oct 2026 16:06:47 +0800</pubDate>
-      <category>资讯·极客公园</category>
     </item>
     <item>
       <title>Pricing: Pay per second for GPUs and CPUs</title>
@@ -312,6 +320,14 @@
       <category>Together AI</category>
     </item>
     <item>
+      <title>喊出300万张订单，英伟达RTX PRO 5500为何遭到提前疯抢？</title>
+      <link>https://www.leiphone.com/category/chips/STx9ZzfDNh5W80Bm.html</link>
+      <description>…AI计算精度下，这款特供产品的算力仅占RTX PRO 6000服务器版的三至四成。 有RTX PRO 6000D的性能大幅缩水在前，目前暂未声明有特供型号的RTX PRO 5500算力表现是否也会大打折扣，自然备受关注。结合官方理论参数和夏寅卿给到的数据，在FP4、FP8等精度下， RTX PRO 5500的理论算力较RTX PRO 6000D提升约一倍。 除此之外，接近英伟达的算力服务从业者秦宇还关…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:c6f292f030eab0d1</guid>
+      <pubDate>Tue, 20 Oct 2026 22:36:20 +0800</pubDate>
+      <category>资讯·雷锋网</category>
+    </item>
+    <item>
       <title>Cursor · Pricing</title>
       <link>https://cursor.com/pricing</link>
       <description>Pricing Individual Teams Free $0 /month Get started Get started with: Limited AI usage AI Features Limited agent requests Limited…</description>
@@ -416,28 +432,36 @@
       <category>Google Gemini</category>
     </item>
     <item>
-      <title>喊出300万张订单，英伟达RTX PRO 5500为何遭到提前疯抢？</title>
-      <link>https://www.leiphone.com/category/chips/STx9ZzfDNh5W80Bm.html</link>
-      <description>…AI计算精度下，这款特供产品的算力仅占RTX PRO 6000服务器版的三至四成。 有RTX PRO 6000D的性能大幅缩水在前，目前暂未声明有特供型号的RTX PRO 5500算力表现是否也会大打折扣，自然备受关注。结合官方理论参数和夏寅卿给到的数据，在FP4、FP8等精度下， RTX PRO 5500的理论算力较RTX PRO 6000D提升约一倍。 除此之外，接近英伟达的算力服务从业者秦宇还关…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:c6f292f030eab0d1</guid>
-      <pubDate>Tue, 20 Oct 2026 22:36:20 +0800</pubDate>
-      <category>资讯·雷锋网</category>
+      <title>Franchisee reconciles cash in 94% less time with ChatGPT Work</title>
+      <link>https://openai.com/index/ted-taylor-restaurant</link>
+      <description>…Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:88c116a2c62e573c</guid>
+      <pubDate>Wed, 21 Oct 2026 14:52:38 +0800</pubDate>
+      <category>OpenAI</category>
     </item>
     <item>
-      <title>双11 iPhone Duo货源大战：苹果为什么把更多货交给天猫？</title>
-      <link>https://www.leiphone.com/category/industrynews/1kN394wi9h0iFG43.html</link>
-      <description>…26年的市场背景来看，更能体会其含金量。IDC数据显示，今年中国智能手机市场大盘已连续五个季度下滑；但在天猫，一部起售价接近万元的高端手机，反而卖得更快、更好了。这证明了在确定的经营环境下，品牌无需靠降价换销量，依然能实现高质量的逆势增长。第三，全网最具购买力的高净值用户都在天猫。高端新品的首发，流量规模不等于高客单转化，精准的高购买力人群才是关键。最新数据显示，截至2026年6月底，淘宝天猫88VI…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:266ceaf916c19ebe</guid>
-      <pubDate>Tue, 20 Oct 2026 22:36:20 +0800</pubDate>
-      <category>资讯·雷锋网</category>
+      <title>Newsroom \ Anthropic</title>
+      <link>https://www.anthropic.com/news</link>
+      <description>…qualify for a Claude Team subscription plan and then add their research team to Standard seats for free, or Premium seats for $15 per month, for up to a year. Announcements Aug 27, 2026 Aug 27, 2026 Anno…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:b15c32a87bcd99dd</guid>
+      <pubDate>Wed, 21 Oct 2026 14:52:38 +0800</pubDate>
+      <category>Anthropic</category>
     </item>
     <item>
-      <title>999 → 551 元：小米 Sound Pro 智能音箱再降价，40W 低音 + 哈曼联合调校</title>
-      <link>https://www.ithome.com/1/015/589.htm</link>
-      <description>【京东活动可能随时变更，需以实付款为准】 小米 Sound Pro 智能音箱发售于 2022 年 12 月，官方上市价 999 元。 京东 11.11 大促期间，按下方步骤下单，叠加 PLUS 立减 + 国补后仅需 551.17 元： 领 8.6 折券： 点此查看 。 领 800-80 元 PLUS 专享券（需 2 积分兑换）： 点此查看 。 京东 小米 Sound Pro 智能音箱 7 单元高保…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:c31b9aad10bc9865</guid>
-      <pubDate>Tue, 20 Oct 2026 22:36:20 +0800</pubDate>
+      <title>苹果 AirPods 5 全国国补 999 → 755 元，AirPods Pro 3 限地区 1178 元再降新低</title>
+      <link>https://www.ithome.com/1/015/827.htm</link>
+      <description>…直达链接 京东 Apple AirPods 5 搭配无线充电盒 增强续航 国补后 861 元 直达链接 如果有哪个地区的小伙伴发现本地无国补，可在评论区留言哦。 AirPods Pro 3 京东今日再降价，PLUS 折后仅需 1309 元 。 目前支持 广东、江苏、北京、湖南、吉林、湖北、河北、云南、四川、大连 政府补贴，国补后仅需 1178 元 破冰新低： 京东 AirPods Pro 第三代 搭配…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:3d693e2d5ba65123</guid>
+      <pubDate>Wed, 21 Oct 2026 14:52:38 +0800</pubDate>
       <category>资讯·IT之家</category>
+    </item>
+    <item>
+      <title>马斯克豪言 SpaceX 估值将超1000万亿美元，遭拉表打脸；传腾讯字节加速个人智能体研发；四部门拟禁止汽车采用全隐藏式门把手</title>
+      <link>http://www.geekpark.net/news/372216</link>
+      <description>…，争取尽快对外推出。 腾讯方面则已于 9 月底上线个人智能体产品 LightVela，将其定位为「云端个人助理」。该产品可以通过微信接入，全天在线处理用户的日常需求，目前仍处于开发者体验阶段，新用户可免费试用一个月。（来源：财新） 调查显示近半数美国员工夸大 AI 使用情况，只为给上司留下「懂 AI」的印象 随着企业持续加大对生成式人工智能的投入，并不断向员工强调 AI 带来的效率提升，越来越多的职场人士…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:5591687d989dd4c3</guid>
+      <pubDate>Sun, 11 Oct 2026 16:06:47 +0800</pubDate>
+      <category>资讯·极客公园</category>
     </item>
     <item>
       <title>苹果 iPhone Air 京东破五千：12+256G 国补后 8799 → 4989 元，配 A19 Pro 芯片</title>
@@ -456,6 +480,14 @@
       <category>资讯·IT之家</category>
     </item>
     <item>
+      <title>999 → 551 元：小米 Sound Pro 智能音箱再降价，40W 低音 + 哈曼联合调校</title>
+      <link>https://www.ithome.com/1/015/589.htm</link>
+      <description>【京东活动可能随时变更，需以实付款为准】 小米 Sound Pro 智能音箱发售于 2022 年 12 月，官方上市价 999 元。 京东 11.11 大促期间，按下方步骤下单，叠加 PLUS 立减 + 国补后仅需 551.17 元： 领 8.6 折券： 点此查看 。 领 800-80 元 PLUS 专享券（需 2 积分兑换）： 点此查看 。 京东 小米 Sound Pro 智能音箱 7 单元高保…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:c31b9aad10bc9865</guid>
+      <pubDate>Tue, 20 Oct 2026 22:36:20 +0800</pubDate>
+      <category>资讯·IT之家</category>
+    </item>
+    <item>
       <title>1499 → 843 元：小米米家净水器 2 官方新低，1200G 大通量 + 7 年 RO 滤芯</title>
       <link>https://www.ithome.com/1/015/267.htm</link>
       <description>…议零售价为 1999 元，首发价 1499 元。 京东 11.11 大促期间，现在支付定金，活动价 1240.52 元； PLUS 会员立减 10.05 元； 满 1 件打 9.5 折； 领取 9 折优惠券； 国家补贴 148.83 元； 以旧换新立减 5%； 到手价为 843.34 元： 京东 小米 米家 净水器 2 1200G 券后 843.34 元 领 9 折券 京东 11.11 红包至高 268…</description>
@@ -470,14 +502,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:18ed0520f819bd25</guid>
       <pubDate>Sat, 17 Oct 2026 14:26:40 +0800</pubDate>
       <category>资讯·雷锋网</category>
-    </item>
-    <item>
-      <title>火山方舟 模型计费说明</title>
-      <link>https://www.volcengine.com/docs/82379/1099320</link>
-      <description>…的单价 × 视频时长（秒）） ​ 图片生成模型 ​ 模型名称 ​ 输入图单价（元/张） ​ 输出图单价（元/张） ​ doubao-seedream-5-0-pro ​ 按生图场景区分定价 ​ 首张免费 ​ 第 2 张起：0.02 ​ 单图生成场景： ​ ≤ 261 万像素（分辨率 1.5K 及以下）：0.30 ​ &gt; 261 万像素（分辨率 1.5K 以上）：0.60 ​ 图层拆分场景： ​ ≤…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:3f9515c4e7efd405</guid>
-      <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
-      <category>火山方舟·豆包</category>
     </item>
     <item>
       <title>长鑫科技市值两月内跌去1万亿；阿里加码AI硬件品牌，天猫、速卖通联动；国行版苹果AI有望12月上线，百度、阿里参与合作丨雷峰早报</title>
@@ -781,30 +805,6 @@
       <description>…Games 开发、Toplitz Productions 发行的剧情驱动末日生存沙盒游戏《永冻纪元》（Permafrost）今日正式登陆 Steam 开启抢先体验，国区首发享 20% 折扣，折后价为 ¥ 95.20，优惠截止至 10 月 23 日。游戏支持简体中文界面与完整中文音频，目前尚无玩家评价。IT之家附游戏商品页（ https://store.steampowered.com/…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:be4c8959023ea2c8</guid>
       <pubDate>Sat, 10 Oct 2026 00:45:07 +0800</pubDate>
-      <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>游改真人电影《生化危机：爆发夜》上映 5 天，总票房破 2 亿</title>
-      <link>https://www.ithome.com/1/011/120.htm</link>
-      <description>…版游戏剧情 。克雷格强调，全新《生化危机》电影并不是某款游戏或角色剧情的改编，而是发生在《生化危机》世界观的全新故事，时间线大致与《生化危机 2》相同。 IT之家小伙伴记得用 最会买购买电影票 ，享受折扣价的同时还可以获得返利，预计每张票可以节省 5~15 元！</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:d692b96b9e614eae</guid>
-      <pubDate>Sat, 10 Oct 2026 00:45:07 +0800</pubDate>
-      <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>Steam 喜加一：卡牌 Roguelike 游戏《Hex Reverse》限时免费领</title>
-      <link>https://www.ithome.com/1/010/975.htm</link>
-      <description>IT之家 10 月 9 日消息，开发者 IsaoWorks 宣布旗下卡牌 Roguelike 游戏《Hex Reverse》将于首发 30 天内进行“限时免费领取”活动，本作已于 10 月 7 日登陆 Steam，也就是玩家可以在 11 月 6 日前免费领取这款作品，IT之家附游戏商品页（ https://store.steampowered.com/app/…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:9129df7561346b0d</guid>
-      <pubDate>Fri, 09 Oct 2026 16:17:00 +0800</pubDate>
-      <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>Steam 喜加一：原价 22 元心理恐怖解谜游戏《Pony Island》免费领</title>
-      <link>https://www.ithome.com/1/010/990.htm</link>
-      <description>…制作的心理恐怖解谜游戏《Pony Island（小马岛）》目前正在 Steam 平台开展限时免费“喜加一”活动， 本作在 Steam 国区定价为 22 元 ，玩家可以在北京时间 10 月 13 日前免费领取，IT之家附游戏商品页（ https://store.steampowered.com/app/405640/Pony_Island/ ）。 《Pony Island》表面上是一款画风可爱的小马跳跃闯…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:cdee53bd42c2a7b2</guid>
-      <pubDate>Fri, 09 Oct 2026 16:17:00 +0800</pubDate>
       <category>资讯·IT之家</category>
     </item>
   </channel>
