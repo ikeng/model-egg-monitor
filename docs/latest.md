@@ -1,16 +1,14 @@
-# 赛博鸡蛋日报 2026-10-21 14:53
+# 赛博鸡蛋日报 2026-10-21 22:48
 
 > 每日两次监控大模型厂商公开活动，发现"赛博鸡蛋"。
 > 仅做提醒与资讯，不自动领取，不登录，不绕过风控。
 
-今日新增：3
+今日新增：1
 需登录确认：0
 失败源：0
 
 ## 新增
-- [OpenAI] Franchisee reconciles cash in 94% less time with ChatGPT Work | …Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow. | 状态：待领取 | 需登录：否 | [链接](https://openai.com/index/ted-taylor-restaurant)
-- [Anthropic] Newsroom \ Anthropic | …qualify for a Claude Team subscription plan and then add their research team to Standard seats for free, or Premium seats for $15 per month, for up to a year. Announcements Aug 27, 2026 Aug 27, 2026 Anno… | 状态：待领取 | 需登录：否 | [链接](https://www.anthropic.com/news)
-- [资讯·IT之家] 苹果 AirPods 5 全国国补 999 → 755 元，AirPods Pro 3 限地区 1178 元再降新低 | …直达链接 京东 Apple AirPods 5 搭配无线充电盒 增强续航 国补后 861 元 直达链接 如果有哪个地区的小伙伴发现本地无国补，可在评论区留言哦。 AirPods Pro 3 京东今日再降价，PLUS 折后仅需 1309 元 。 目前支持 广东、江苏、北京、湖南、吉林、湖北、河北、云南、四川、大连 政府补贴，国补后仅需 1178 元 破冰新低： 京东 AirPods Pro 第三代 搭配… | 状态：待领取 | 需登录：否 | [链接](https://www.ithome.com/1/015/827.htm)
+- [资讯·雷锋网] 双11大促火热开局，千川多重产品助力生意爆发 | 双11大促火热开局，抖音电商千川阶段性投放数据正式出炉！平台加码流量扶持，乘方星选、达人营销、智能优惠券等多款产品协同发力，助力商家抢抓大促红利，迎来生意爆发。破百万、破千万商品与店铺规模大幅走高，多重补贴权益持续释放增量空间，为商家带来确定性增长机遇！ | 状态：待领取 | 需登录：否 | [链接](https://www.leiphone.com/category/industrynews/WA7ddFac1GqlW4Hi.html)
 
 ## 订阅
 - Atom: [atom.xml](https://ikeng.github.io/model-egg-monitor/atom.xml)

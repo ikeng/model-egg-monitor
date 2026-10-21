@@ -5,7 +5,7 @@
     <link>https://ikeng.github.io/model-egg-monitor/</link>
     <description>每日两次监控大模型厂商活动，提供 Atom / JSON Feed 订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 21 Oct 2026 14:53:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 22:48:04 +0800</lastBuildDate>
     <generator>ai-egg-monitor</generator>
     <item>
       <title>大模型 API 价格方案</title>
@@ -136,14 +136,6 @@
       <category>Google Gemini</category>
     </item>
     <item>
-      <title>火山方舟 模型计费说明</title>
-      <link>https://www.volcengine.com/docs/82379/1099320</link>
-      <description>…的单价 × 视频时长（秒）） ​ 图片生成模型 ​ 模型名称 ​ 输入图单价（元/张） ​ 输出图单价（元/张） ​ doubao-seedream-5-0-pro ​ 按生图场景区分定价 ​ 首张免费 ​ 第 2 张起：0.02 ​ 单图生成场景： ​ ≤ 261 万像素（分辨率 1.5K 及以下）：0.30 ​ &gt; 261 万像素（分辨率 1.5K 以上）：0.60 ​ 图层拆分场景： ​ ≤…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:3f9515c4e7efd405</guid>
-      <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
-      <category>火山方舟·豆包</category>
-    </item>
-    <item>
       <title>Pricing</title>
       <link>https://docs.perplexity.ai/getting-started/pricing</link>
       <description>…Model Price ($/1M input tokens) Output tokens Per-request fee pplx-decider-v1.2 $0.02 Free None pplx-decider-flash-v1.2 $0.01 Free None Aliases: pplx-decider-latest and perplexity/pplx-decid…</description>
@@ -240,6 +232,14 @@
       <category>硅基流动 SiliconFlow</category>
     </item>
     <item>
+      <title>Franchisee reconciles cash in 94% less time with ChatGPT Work</title>
+      <link>https://openai.com/index/ted-taylor-restaurant</link>
+      <description>…Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:88c116a2c62e573c</guid>
+      <pubDate>Wed, 21 Oct 2026 14:52:38 +0800</pubDate>
+      <category>OpenAI</category>
+    </item>
+    <item>
       <title>Try NVIDIA NIM APIs</title>
       <link>https://build.nvidia.com/explore/discover</link>
       <description>…Climate &amp; Weather Safety &amp; Moderation Industries Automotive Financial Services Healthcare Industrial Robotics Start Building with your DGX Spark Explore step-by-step playbooks, including setting up Ne…</description>
@@ -272,14 +272,6 @@
       <category>资讯·极客公园</category>
     </item>
     <item>
-      <title>京东左琦的惊艳出道：最强公关，竟在采销</title>
-      <link>https://www.leiphone.com/category/industrynews/1qas4lUYu8NA19Ki.html</link>
-      <description>…论出道战就惊艳全场。 2、避实就虚：这一手，太老练了 光有影响力还不够，更绝的是他的策略。 我们把时间线往回拉一拉，左琦最初发朋友圈的背景是，有品牌方公开质疑京东——因为在其他平台销售时使用平台补贴的优惠券，比在京东上卖得更便宜，该品牌的店铺在京东就被限制，消费者搜不到、买不了了。这其实是个很严重的问题，平台为了保证自己是全网最低价，限制商家使用其他平台的优惠券。换任何一个公司都得回应改进。 图/清北道…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:a0cc1b5c4d0b7785</guid>
-      <pubDate>Tue, 20 Oct 2026 14:58:40 +0800</pubDate>
-      <category>资讯·雷锋网</category>
-    </item>
-    <item>
       <title>新人免费额度获取及用完即停开关规则</title>
       <link>https://help.aliyun.com/zh/model-studio/new-free-quota</link>
       <description>首页 大模型服务平台百炼 用户指南（模型） 产品计费 新人免费额度 更新时间： 复制 MD 格式 产品详情 我的收藏 当您首次开通阿里云百炼时，平台会自动为您发放各模型的新人专属免费额度。 说明 仅华北 2（北京）地域模型享有免费额度，其他地域无免费额度。 未认…</description>
@@ -296,12 +288,12 @@
       <category>Cerebras</category>
     </item>
     <item>
-      <title>全年最优惠！真正的双11今晚8点天猫开卖</title>
-      <link>https://www.leiphone.com/category/industrynews/PxChMV65ai4TKgYz.html</link>
-      <description>…。 潮流、美妆和黄金同样有新品及专属优惠：ALO Accolade系列王一博同款作为全球新品在天猫首发；老铺黄金参与天猫双11优惠，首次推出“满30000减2000”、“满60000减4000”的店铺优惠券；海蓝之谜精萃水250ml为天猫独家，买正送正享同款450ml。 网友热盼双11到来，在社交媒体评论：“双11就像牛郎等织女，一年只见一次面”。今晚8点，大家一起打开购物车，把心心念念的东西一次买齐吧…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:b2039cbefbfaf4c9</guid>
-      <pubDate>Tue, 20 Oct 2026 14:58:40 +0800</pubDate>
-      <category>资讯·雷锋网</category>
+      <title>Newsroom \ Anthropic</title>
+      <link>https://www.anthropic.com/news</link>
+      <description>…qualify for a Claude Team subscription plan and then add their research team to Standard seats for free, or Premium seats for $15 per month, for up to a year. Announcements Aug 27, 2026 Aug 27, 2026 Anno…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:b15c32a87bcd99dd</guid>
+      <pubDate>Wed, 21 Oct 2026 14:52:38 +0800</pubDate>
+      <category>Anthropic</category>
     </item>
     <item>
       <title>Hallo, Deutschland!</title>
@@ -432,20 +424,12 @@
       <category>Google Gemini</category>
     </item>
     <item>
-      <title>Franchisee reconciles cash in 94% less time with ChatGPT Work</title>
-      <link>https://openai.com/index/ted-taylor-restaurant</link>
-      <description>…Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:88c116a2c62e573c</guid>
-      <pubDate>Wed, 21 Oct 2026 14:52:38 +0800</pubDate>
-      <category>OpenAI</category>
-    </item>
-    <item>
-      <title>Newsroom \ Anthropic</title>
-      <link>https://www.anthropic.com/news</link>
-      <description>…qualify for a Claude Team subscription plan and then add their research team to Standard seats for free, or Premium seats for $15 per month, for up to a year. Announcements Aug 27, 2026 Aug 27, 2026 Anno…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:b15c32a87bcd99dd</guid>
-      <pubDate>Wed, 21 Oct 2026 14:52:38 +0800</pubDate>
-      <category>Anthropic</category>
+      <title>双11大促火热开局，千川多重产品助力生意爆发</title>
+      <link>https://www.leiphone.com/category/industrynews/WA7ddFac1GqlW4Hi.html</link>
+      <description>双11大促火热开局，抖音电商千川阶段性投放数据正式出炉！平台加码流量扶持，乘方星选、达人营销、智能优惠券等多款产品协同发力，助力商家抢抓大促红利，迎来生意爆发。破百万、破千万商品与店铺规模大幅走高，多重补贴权益持续释放增量空间，为商家带来确定性增长机遇！</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:679dc792aaecce98</guid>
+      <pubDate>Wed, 21 Oct 2026 22:47:42 +0800</pubDate>
+      <category>资讯·雷锋网</category>
     </item>
     <item>
       <title>苹果 AirPods 5 全国国补 999 → 755 元，AirPods Pro 3 限地区 1178 元再降新低</title>
@@ -454,6 +438,30 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:3d693e2d5ba65123</guid>
       <pubDate>Wed, 21 Oct 2026 14:52:38 +0800</pubDate>
       <category>资讯·IT之家</category>
+    </item>
+    <item>
+      <title>火山方舟 模型计费说明</title>
+      <link>https://www.volcengine.com/docs/82379/1099320</link>
+      <description>…的单价 × 视频时长（秒）） ​ 图片生成模型 ​ 模型名称 ​ 输入图单价（元/张） ​ 输出图单价（元/张） ​ doubao-seedream-5-0-pro ​ 按生图场景区分定价 ​ 首张免费 ​ 第 2 张起：0.02 ​ 单图生成场景： ​ ≤ 261 万像素（分辨率 1.5K 及以下）：0.30 ​ &gt; 261 万像素（分辨率 1.5K 以上）：0.60 ​ 图层拆分场景： ​ ≤…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:3f9515c4e7efd405</guid>
+      <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
+      <category>火山方舟·豆包</category>
+    </item>
+    <item>
+      <title>京东左琦的惊艳出道：最强公关，竟在采销</title>
+      <link>https://www.leiphone.com/category/industrynews/1qas4lUYu8NA19Ki.html</link>
+      <description>…论出道战就惊艳全场。 2、避实就虚：这一手，太老练了 光有影响力还不够，更绝的是他的策略。 我们把时间线往回拉一拉，左琦最初发朋友圈的背景是，有品牌方公开质疑京东——因为在其他平台销售时使用平台补贴的优惠券，比在京东上卖得更便宜，该品牌的店铺在京东就被限制，消费者搜不到、买不了了。这其实是个很严重的问题，平台为了保证自己是全网最低价，限制商家使用其他平台的优惠券。换任何一个公司都得回应改进。 图/清北道…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:a0cc1b5c4d0b7785</guid>
+      <pubDate>Tue, 20 Oct 2026 14:58:40 +0800</pubDate>
+      <category>资讯·雷锋网</category>
+    </item>
+    <item>
+      <title>全年最优惠！真正的双11今晚8点天猫开卖</title>
+      <link>https://www.leiphone.com/category/industrynews/PxChMV65ai4TKgYz.html</link>
+      <description>…。 潮流、美妆和黄金同样有新品及专属优惠：ALO Accolade系列王一博同款作为全球新品在天猫首发；老铺黄金参与天猫双11优惠，首次推出“满30000减2000”、“满60000减4000”的店铺优惠券；海蓝之谜精萃水250ml为天猫独家，买正送正享同款450ml。 网友热盼双11到来，在社交媒体评论：“双11就像牛郎等织女，一年只见一次面”。今晚8点，大家一起打开购物车，把心心念念的东西一次买齐吧…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:b2039cbefbfaf4c9</guid>
+      <pubDate>Tue, 20 Oct 2026 14:58:40 +0800</pubDate>
+      <category>资讯·雷锋网</category>
     </item>
     <item>
       <title>马斯克豪言 SpaceX 估值将超1000万亿美元，遭拉表打脸；传腾讯字节加速个人智能体研发；四部门拟禁止汽车采用全隐藏式门把手</title>
@@ -796,14 +804,6 @@
       <link>https://www.ithome.com/1/011/146.htm</link>
       <description>…两个原生全模态模型 。 MiMo-V2.6 系列沿用 V2.5 系列的 API 定价：Flash 为每百万词元输入 1 元、每百万输出 2 元；Pro 为 3 元和 6 元，并提供 99% 缓存折扣。在同等智能水平下，价格仅为海外模型的 1/20 至 1/60。 相关阅读： 《 小米 MiMo-V2.6 发布：Pro 与 Flash 双版本价格不变，超越 Kimi K3、GLM-5.3 成为当前…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:90edc1cfbe0cc006</guid>
-      <pubDate>Sat, 10 Oct 2026 00:45:07 +0800</pubDate>
-      <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>剧情驱动末日生存沙盒《永冻纪元》登陆 Steam：国区首发价 ¥95.20，支持简中配音</title>
-      <link>https://www.ithome.com/1/011/127.htm</link>
-      <description>…Games 开发、Toplitz Productions 发行的剧情驱动末日生存沙盒游戏《永冻纪元》（Permafrost）今日正式登陆 Steam 开启抢先体验，国区首发享 20% 折扣，折后价为 ¥ 95.20，优惠截止至 10 月 23 日。游戏支持简体中文界面与完整中文音频，目前尚无玩家评价。IT之家附游戏商品页（ https://store.steampowered.com/…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:be4c8959023ea2c8</guid>
       <pubDate>Sat, 10 Oct 2026 00:45:07 +0800</pubDate>
       <category>资讯·IT之家</category>
     </item>
