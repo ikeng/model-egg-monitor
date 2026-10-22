@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://ikeng.github.io/model-egg-monitor/atom-资讯-极客公园.xml</id>
   <title>赛博鸡蛋 · 资讯·极客公园</title>
-  <updated>2026-10-22T14:56:44+08:00</updated>
+  <updated>2026-10-22T22:48:36+08:00</updated>
   <subtitle>大模型厂商活动监控</subtitle>
   <link rel="self" href="https://ikeng.github.io/model-egg-monitor/atom-资讯-极客公园.xml"/>
   <link rel="alternate" href="https://ikeng.github.io/model-egg-monitor/"/>
@@ -14,7 +14,7 @@
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:3cd4095b8ed19da0</id>
     <title>DeepSeek 出现服务故障，官方补偿 1 周 Token 消耗；库克：苹果智能月底在华发测试版；特斯拉、SpaceX 最快年底合并｜极客早知道</title>
-    <updated>2026-10-22T14:56:24+08:00</updated>
+    <updated>2026-10-22T22:47:53+08:00</updated>
     <published>2026-10-16T14:37:42+08:00</published>
     <link rel="alternate" href="http://www.geekpark.net/news/372430"/>
     <author><name>资讯·极客公园</name></author>
@@ -27,8 +27,46 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：赠金&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-16T14:37:42+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-22T14:56:24+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-22T22:47:53+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;http://www.geekpark.net/news/372430&#34;&gt;http://www.geekpark.net/news/372430&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:975b6d2868576069</id>
+    <title>为什么 Anthropic 不做 Personal AI</title>
+    <updated>2026-10-22T22:47:53+08:00</updated>
+    <published>2026-10-16T22:27:05+08:00</published>
+    <link rel="alternate" href="http://www.geekpark.net/news/372461"/>
+    <author><name>资讯·极客公园</name></author>
+    <category term="资讯·极客公园"/>
+    <summary type="text">…整的 agent 回合，每天光输入 token 就能累积到约 480 万， 按 Claude Opus 5.5 的标价算，一个用户一天大约 19 美元 。 Meta 可以用广告利润去补贴 Muse 的免费额度，OpenAI 可以把 dots 锁在高价的 Pro 和 Business Premium 套餐里。而对算力一向紧张、Claude 用户也常年抱怨额度不够的 Anthropic 来说， 把宝贵的算力投…</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·极客公园&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：为什么 Anthropic 不做 Personal AI&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…整的 agent 回合，每天光输入 token 就能累积到约 480 万， 按 Claude Opus 5.5 的标价算，一个用户一天大约 19 美元 。 Meta 可以用广告利润去补贴 Muse 的免费额度，OpenAI 可以把 dots 锁在高价的 Pro 和 Business Premium 套餐里。而对算力一向紧张、Claude 用户也常年抱怨额度不够的 Anthropic 来说， 把宝贵的算力投…&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：免费额度&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-16T22:27:05+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-22T22:47:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;http://www.geekpark.net/news/372461&#34;&gt;http://www.geekpark.net/news/372461&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:55df8be201ccf828</id>
+    <title>大模型内卷之后，AI 竞争进入搜索基础设施时代</title>
+    <updated>2026-10-22T22:47:53+08:00</updated>
+    <published>2026-10-22T22:47:53+08:00</published>
+    <link rel="alternate" href="http://www.geekpark.net/news/372743"/>
+    <author><name>资讯·极客公园</name></author>
+    <category term="资讯·极客公园"/>
+    <summary type="text">…具备了生产级服务的稳定性与适配性。 在实际使用中，官方一共提供了直接 API、MCP 以及 SkillHub 三种模式。 使用的第一步，开发者只要在腾讯云开通元宝搜索，就能直接获得每月 2000 次的免费额度。 对于习惯使用 API 直连的开发者来说，只要在腾讯云控制台的「服务 API KEY」页面中创建并复制明文 Key，将其配置到本地环境变量（export TENCENTCLOUD_WSA_APIKE…</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·极客公园&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：大模型内卷之后，AI 竞争进入搜索基础设施时代&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…具备了生产级服务的稳定性与适配性。 在实际使用中，官方一共提供了直接 API、MCP 以及 SkillHub 三种模式。 使用的第一步，开发者只要在腾讯云开通元宝搜索，就能直接获得每月 2000 次的免费额度。 对于习惯使用 API 直连的开发者来说，只要在腾讯云控制台的「服务 API KEY」页面中创建并复制明文 Key，将其配置到本地环境变量（export TENCENTCLOUD_WSA_APIKE…&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：免费额度&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-22T22:47:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-22T22:47:53+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;http://www.geekpark.net/news/372743&#34;&gt;http://www.geekpark.net/news/372743&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:6ab8143684faa409</id>
@@ -48,25 +86,6 @@
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-14T14:58:16+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-22T14:56:24+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;http://www.geekpark.net/news/372304&#34;&gt;http://www.geekpark.net/news/372304&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:ai-egg-monitor,2026:activity:975b6d2868576069</id>
-    <title>为什么 Anthropic 不做 Personal AI</title>
-    <updated>2026-10-22T14:56:24+08:00</updated>
-    <published>2026-10-16T22:27:05+08:00</published>
-    <link rel="alternate" href="http://www.geekpark.net/news/372461"/>
-    <author><name>资讯·极客公园</name></author>
-    <category term="资讯·极客公园"/>
-    <summary type="text">…整的 agent 回合，每天光输入 token 就能累积到约 480 万， 按 Claude Opus 5.5 的标价算，一个用户一天大约 19 美元 。 Meta 可以用广告利润去补贴 Muse 的免费额度，OpenAI 可以把 dots 锁在高价的 Pro 和 Business Premium 套餐里。而对算力一向紧张、Claude 用户也常年抱怨额度不够的 Anthropic 来说， 把宝贵的算力投…</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·极客公园&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：为什么 Anthropic 不做 Personal AI&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…整的 agent 回合，每天光输入 token 就能累积到约 480 万， 按 Claude Opus 5.5 的标价算，一个用户一天大约 19 美元 。 Meta 可以用广告利润去补贴 Muse 的免费额度，OpenAI 可以把 dots 锁在高价的 Pro 和 Business Premium 套餐里。而对算力一向紧张、Claude 用户也常年抱怨额度不够的 Anthropic 来说， 把宝贵的算力投…&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：免费额度&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-16T22:27:05+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-22T14:56:24+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;http://www.geekpark.net/news/372461&#34;&gt;http://www.geekpark.net/news/372461&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:33ffb560de13e9e1</id>
