@@ -5,7 +5,7 @@
     <link>https://ikeng.github.io/model-egg-monitor/</link>
     <description>每日两次监控大模型厂商活动，提供 Atom / JSON Feed 订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 21 Oct 2026 22:48:04 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 14:56:44 +0800</lastBuildDate>
     <generator>ai-egg-monitor</generator>
     <item>
       <title>大模型 API 价格方案</title>
@@ -96,28 +96,12 @@
       <category>智谱 GLM</category>
     </item>
     <item>
-      <title>双11 iPhone Duo货源大战：苹果为什么把更多货交给天猫？</title>
-      <link>https://www.leiphone.com/category/industrynews/1kN394wi9h0iFG43.html</link>
-      <description>…26年的市场背景来看，更能体会其含金量。IDC数据显示，今年中国智能手机市场大盘已连续五个季度下滑；但在天猫，一部起售价接近万元的高端手机，反而卖得更快、更好了。这证明了在确定的经营环境下，品牌无需靠降价换销量，依然能实现高质量的逆势增长。第三，全网最具购买力的高净值用户都在天猫。高端新品的首发，流量规模不等于高客单转化，精准的高购买力人群才是关键。最新数据显示，截至2026年6月底，淘宝天猫88VI…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:266ceaf916c19ebe</guid>
-      <pubDate>Tue, 20 Oct 2026 22:36:20 +0800</pubDate>
-      <category>资讯·雷锋网</category>
-    </item>
-    <item>
       <title>Different Types of API Keys and Rate Limits</title>
       <link>https://docs.cohere.com/docs/rate-limits</link>
       <description>…- v1 API: https://docs.cohere.com/v1/llms.txt Cohere offers two kinds of API keys: evaluation keys (free but limited in usage), and production keys (paid and much less limited in usage). You can create a…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:325373ce89188f63</guid>
       <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
       <category>Cohere</category>
-    </item>
-    <item>
-      <title>曝梁文锋密集见机器人创业者；影石出货量累计突破1000万台；Meta发布Muse Wonder模型｜极客早知道</title>
-      <link>http://www.geekpark.net/news/372264</link>
-      <description>…2 周 10 月 12 日下午消息，腾讯旗下全场景 AI 办公工作台 WorkBuddy 已接入阶跃最新旗舰模型 Step 5 Preview。即日起，该模型在 WorkBuddy 独家限时免费开放两周。凭借推理与 Agent 能力，Step 5 Preview 将帮 WorkBuddy 用户处理深度研究、信息检索、数据分析、文档与 PPT 生成等办公任务，并支持多步骤复杂任务的持续执行。…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:33ffb560de13e9e1</guid>
-      <pubDate>Tue, 13 Oct 2026 16:49:32 +0800</pubDate>
-      <category>资讯·极客公园</category>
     </item>
     <item>
       <title>DeepSeek 出现服务故障，官方补偿 1 周 Token 消耗；库克：苹果智能月底在华发测试版；特斯拉、SpaceX 最快年底合并｜极客早知道</title>
@@ -192,6 +176,14 @@
       <category>Ollama</category>
     </item>
     <item>
+      <title>双11大促火热开局，千川多重产品助力生意爆发</title>
+      <link>https://www.leiphone.com/category/industrynews/WA7ddFac1GqlW4Hi.html</link>
+      <description>双11大促火热开局，抖音电商千川阶段性投放数据正式出炉！平台加码流量扶持，乘方星选、达人营销、智能优惠券等多款产品协同发力，助力商家抢抓大促红利，迎来生意爆发。破百万、破千万商品与店铺规模大幅走高，多重补贴权益持续释放增量空间，为商家带来确定性增长机遇！</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:679dc792aaecce98</guid>
+      <pubDate>Wed, 21 Oct 2026 22:47:42 +0800</pubDate>
+      <category>资讯·雷锋网</category>
+    </item>
+    <item>
       <title>超越抖音，传红果短剧日均时长 125 分钟；299 美元，苹果推 Siri AI 带屏音箱；谷歌最强模型 Gemini 4 正式上线</title>
       <link>http://www.geekpark.net/news/372304</link>
       <description>…千问是全球首个能为用户办事的个人 AI 助理，基于阿里生态和开放平台，已实现购物、打车、快递、理财等相关能力。 从用户分享的实测案例来看，该助理可查询对应延误航班信息后对接客服，拒绝代金券赔偿方案，为用户争取到 70 元现金赔偿；也可找到淘宝价保入口，核查用户所有订单，识别到相关炒锅订单可赔付，为用户退回 52 元差价。升级后的千问可自主查询操作各类授权平台，比对方案、联系服务方完成目…</description>
@@ -206,14 +198,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:6cec0a5b4127f767</guid>
       <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
       <category>Baseten</category>
-    </item>
-    <item>
-      <title>Models &amp; Pricing</title>
-      <link>https://api-docs.deepseek.com/quick_start/pricing</link>
-      <description>…, or Codex, server-side tool calls already hit the Search and Fetch APIs. These calls are currently free of charge; per-request billing starts at 00:00 Beijing time on November 1, 2026. See the Search &amp; F…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:711aaf63478ae2f0</guid>
-      <pubDate>Sat, 17 Oct 2026 14:26:40 +0800</pubDate>
-      <category>DeepSeek</category>
     </item>
     <item>
       <title>Plans and Pricing | Devin</title>
@@ -312,14 +296,6 @@
       <category>Together AI</category>
     </item>
     <item>
-      <title>喊出300万张订单，英伟达RTX PRO 5500为何遭到提前疯抢？</title>
-      <link>https://www.leiphone.com/category/chips/STx9ZzfDNh5W80Bm.html</link>
-      <description>…AI计算精度下，这款特供产品的算力仅占RTX PRO 6000服务器版的三至四成。 有RTX PRO 6000D的性能大幅缩水在前，目前暂未声明有特供型号的RTX PRO 5500算力表现是否也会大打折扣，自然备受关注。结合官方理论参数和夏寅卿给到的数据，在FP4、FP8等精度下， RTX PRO 5500的理论算力较RTX PRO 6000D提升约一倍。 除此之外，接近英伟达的算力服务从业者秦宇还关…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:c6f292f030eab0d1</guid>
-      <pubDate>Tue, 20 Oct 2026 22:36:20 +0800</pubDate>
-      <category>资讯·雷锋网</category>
-    </item>
-    <item>
       <title>Cursor · Pricing</title>
       <link>https://cursor.com/pricing</link>
       <description>Pricing Individual Teams Free $0 /month Get started Get started with: Limited AI usage AI Features Limited agent requests Limited…</description>
@@ -346,7 +322,7 @@
     <item>
       <title>面壁智能</title>
       <link>https://modelbest.cn/</link>
-      <description>…VoxCPM2 后，VoxCPM2 作为国产语音大模型的一股新势力，迅速在海内外引起了广泛关注 MiniCPM‑V 4.6 开源即爆火！登顶 Hugging Face Trending Top 2，免费 API 开放 5月11日，面壁智能联合清华大学、OpenBMB 一同发布并开源了 MiniCPM-V 4.6，一经开源便点燃了全球开发者的热情！ 开源后迅速登顶 Hugging Face 的趋势榜单…</description>
+      <description>…为每位开发者用户节省年费 264 美元（ElevenLabs 年费，接近 1800 元人民币）！ MiniCPM‑V 4.6 开源即爆火！登顶 Hugging Face Trending Top 2，免费 API 开放 5月11日，面壁智能联合清华大学、OpenBMB一同发布并开源了MiniCPM-V 4.6，一经开源便点燃了全球开发者的热情！开源后迅速登顶Hugging Face的趋势榜单Top 2…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:da510d5207ae5f08</guid>
       <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
       <category>面壁智能</category>
@@ -424,11 +400,59 @@
       <category>Google Gemini</category>
     </item>
     <item>
-      <title>双11大促火热开局，千川多重产品助力生意爆发</title>
-      <link>https://www.leiphone.com/category/industrynews/WA7ddFac1GqlW4Hi.html</link>
-      <description>双11大促火热开局，抖音电商千川阶段性投放数据正式出炉！平台加码流量扶持，乘方星选、达人营销、智能优惠券等多款产品协同发力，助力商家抢抓大促红利，迎来生意爆发。破百万、破千万商品与店铺规模大幅走高，多重补贴权益持续释放增量空间，为商家带来确定性增长机遇！</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:679dc792aaecce98</guid>
-      <pubDate>Wed, 21 Oct 2026 22:47:42 +0800</pubDate>
+      <title>好逛又好买！抖音商城双11热卖商品榜发布</title>
+      <link>https://www.leiphone.com/category/industrynews/9TqjQQrteJeqc2IN.html</link>
+      <description>10月15日，2026抖音商城双11好物节正式开启，横跨秋冬换季、囤货等消费节点，平台以消费券、立减折扣等多重优惠叠加发力，为用户带来好逛又好买的双11好物节。截止10月18日，消费券带动成交额破亿商家数同比增长200%，店播成交额破千万新商数量同比增长133%。 亮眼数据背后，手机、护肤、运动户外、家…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:bf50faca4cbd7bdf</guid>
+      <pubDate>Thu, 22 Oct 2026 14:56:24 +0800</pubDate>
+      <category>资讯·雷锋网</category>
+    </item>
+    <item>
+      <title>讯飞星火 X2.6 端云一体大模型发布，首次基于全国产算力实现代码和智能体能力突破</title>
+      <link>https://www.ithome.com/1/016/403.htm</link>
+      <description>…元 / 百万 tokens 讯飞星火 X2.6-4B 开源端侧大模型在代码、智能体、长文本及多语言能力上实现大幅提升，新增三档推理模式，自研推理框架下的推理效率较 ollama 有所提升， 推理定价限时免费 。</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:e7db75e8d7dc1988</guid>
+      <pubDate>Thu, 22 Oct 2026 14:56:24 +0800</pubDate>
+      <category>资讯·IT之家</category>
+    </item>
+    <item>
+      <title>原生 3DoF 防抖不易晕：雷鸟 AR 眼镜 GT 京东 1391 元新低，配镜后也支持 7 天免费试用</title>
+      <link>https://www.ithome.com/1/016/363.htm</link>
+      <description>…返 100 元 直达链接 京东 11.11 红包至高 26888 元无门槛可用，每天可抽一次： 点此抽取 。 折合仅需 1391 元，另外加赠敦煌联名 IP 周边礼包。 免费配镜后，支持 7 天无理由免费试用。 支持保价 11.11，支持 11 月 13 日前如果降价，可联系客服保价。 京东免费配镜 活动时间：10 月 22 日付款的订单 参与商品：雷鸟 GT Max、GT 参与方式：拍下主机订单后联系客…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:37cd5cd684bfd4be</guid>
+      <pubDate>Thu, 22 Oct 2026 14:56:24 +0800</pubDate>
+      <category>资讯·IT之家</category>
+    </item>
+    <item>
+      <title>双11 iPhone Duo货源大战：苹果为什么把更多货交给天猫？</title>
+      <link>https://www.leiphone.com/category/industrynews/1kN394wi9h0iFG43.html</link>
+      <description>…26年的市场背景来看，更能体会其含金量。IDC数据显示，今年中国智能手机市场大盘已连续五个季度下滑；但在天猫，一部起售价接近万元的高端手机，反而卖得更快、更好了。这证明了在确定的经营环境下，品牌无需靠降价换销量，依然能实现高质量的逆势增长。第三，全网最具购买力的高净值用户都在天猫。高端新品的首发，流量规模不等于高客单转化，精准的高购买力人群才是关键。最新数据显示，截至2026年6月底，淘宝天猫88VI…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:266ceaf916c19ebe</guid>
+      <pubDate>Tue, 20 Oct 2026 22:36:20 +0800</pubDate>
+      <category>资讯·雷锋网</category>
+    </item>
+    <item>
+      <title>曝梁文锋密集见机器人创业者；影石出货量累计突破1000万台；Meta发布Muse Wonder模型｜极客早知道</title>
+      <link>http://www.geekpark.net/news/372264</link>
+      <description>…2 周 10 月 12 日下午消息，腾讯旗下全场景 AI 办公工作台 WorkBuddy 已接入阶跃最新旗舰模型 Step 5 Preview。即日起，该模型在 WorkBuddy 独家限时免费开放两周。凭借推理与 Agent 能力，Step 5 Preview 将帮 WorkBuddy 用户处理深度研究、信息检索、数据分析、文档与 PPT 生成等办公任务，并支持多步骤复杂任务的持续执行。…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:33ffb560de13e9e1</guid>
+      <pubDate>Tue, 13 Oct 2026 16:49:32 +0800</pubDate>
+      <category>资讯·极客公园</category>
+    </item>
+    <item>
+      <title>Models &amp; Pricing</title>
+      <link>https://api-docs.deepseek.com/quick_start/pricing</link>
+      <description>…, or Codex, server-side tool calls already hit the Search and Fetch APIs. These calls are currently free of charge; per-request billing starts at 00:00 Beijing time on November 1, 2026. See the Search &amp; F…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:711aaf63478ae2f0</guid>
+      <pubDate>Sat, 17 Oct 2026 14:26:40 +0800</pubDate>
+      <category>DeepSeek</category>
+    </item>
+    <item>
+      <title>喊出300万张订单，英伟达RTX PRO 5500为何遭到提前疯抢？</title>
+      <link>https://www.leiphone.com/category/chips/STx9ZzfDNh5W80Bm.html</link>
+      <description>…AI计算精度下，这款特供产品的算力仅占RTX PRO 6000服务器版的三至四成。 有RTX PRO 6000D的性能大幅缩水在前，目前暂未声明有特供型号的RTX PRO 5500算力表现是否也会大打折扣，自然备受关注。结合官方理论参数和夏寅卿给到的数据，在FP4、FP8等精度下， RTX PRO 5500的理论算力较RTX PRO 6000D提升约一倍。 除此之外，接近英伟达的算力服务从业者秦宇还关…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:c6f292f030eab0d1</guid>
+      <pubDate>Tue, 20 Oct 2026 22:36:20 +0800</pubDate>
       <category>资讯·雷锋网</category>
     </item>
     <item>
@@ -782,30 +806,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:e82c8a882c5a1012</guid>
       <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
       <category>xAI Grok</category>
-    </item>
-    <item>
-      <title>再裁员5000人！保时捷明确回归燃油车，高端车型计划涨价20%；腾讯拟发行50亿美元离岸债券，或筹钱加码AI；OpenAI全面上线GPT-6</title>
-      <link>https://www.leiphone.com/category/zaobao/GGmq1RiBgXY2GSVL.html</link>
-      <description>…8日消息，小鹏集团Robotaxi业务正式启用中文名称“小鹏悠游”，英文名为“XPENG YOYO”。同日，小鹏集团官网上线Robotaxi页面，小鹏YOYO自动驾驶打车小程序同步上线，后续将通过发放邀请码的方式面向公众开放体验。这标志着小鹏Robotaxi业务正式从技术验证，迈入用户开放运营和商业化探索新阶段。（新浪科技） 融资近7亿！前百度大牛创业自动驾驶，顺丰连投三次 10月8日消息，L4级自动驾…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:aee1f94546fcd3e1</guid>
-      <pubDate>Fri, 09 Oct 2026 16:17:00 +0800</pubDate>
-      <category>资讯·雷锋网</category>
-    </item>
-    <item>
-      <title>漫威新剧《幻视任务》首曝中字片段：奥创以人类形态回归，10 月 14 日 Disney+ 开播</title>
-      <link>https://www.ithome.com/1/011/154.htm</link>
-      <description>…手持摄像机，全程拍摄托尼在车库里的各项战甲测试和实验 Vlog。除了拍照摄影，小 U 也具备基础的抓取和递送功能，会在托尼组装战甲时在旁边递送关键零件。 IT之家小伙伴记得用 最会买购买电影票 ，享受折扣价的同时还可以获得返利，预计每张票可以节省 5~15 元！</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:59682ce01204c281</guid>
-      <pubDate>Sat, 10 Oct 2026 00:45:07 +0800</pubDate>
-      <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>小米发布 MiMo-V2.5-Pro 模型下线通知，可替换为 V2.6 版本</title>
-      <link>https://www.ithome.com/1/011/146.htm</link>
-      <description>…两个原生全模态模型 。 MiMo-V2.6 系列沿用 V2.5 系列的 API 定价：Flash 为每百万词元输入 1 元、每百万输出 2 元；Pro 为 3 元和 6 元，并提供 99% 缓存折扣。在同等智能水平下，价格仅为海外模型的 1/20 至 1/60。 相关阅读： 《 小米 MiMo-V2.6 发布：Pro 与 Flash 双版本价格不变，超越 Kimi K3、GLM-5.3 成为当前…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:90edc1cfbe0cc006</guid>
-      <pubDate>Sat, 10 Oct 2026 00:45:07 +0800</pubDate>
-      <category>资讯·IT之家</category>
     </item>
   </channel>
 </rss>
