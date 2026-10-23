@@ -5,7 +5,7 @@
     <link>https://ikeng.github.io/model-egg-monitor/</link>
     <description>每日两次监控大模型厂商活动，提供 Atom / JSON Feed 订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 22 Oct 2026 22:48:36 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 14:49:38 +0800</lastBuildDate>
     <generator>ai-egg-monitor</generator>
     <item>
       <title>大模型 API 价格方案</title>
@@ -96,6 +96,14 @@
       <category>智谱 GLM</category>
     </item>
     <item>
+      <title>《2026千川乘方投放宝典》出炉！助力商家迎战双11</title>
+      <link>https://www.leiphone.com/category/industrynews/P3ZLYakqA47kD3S2.html</link>
+      <description>…一笔营销成本，商家仅需设置一个综合营销ROI目标。系统自动识别低佣金、高转化素材并优先分配流量；同步邀约高佣金达人开启「合力推」，系统将达人让利转化为商家投放，商达协同助力增量订单成交。 04依托智能优惠券，打通用户决策最后一环 流量成功获取之后，价格顾虑往往成为阻碍用户下单的核心卡点。这一现象在日常经营中普遍存在，在节点大促比价氛围下会表现得更加突出。 乘方提供智能优惠券、智能运费险、智能分期免息三类…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:2c6f9038b30a642d</guid>
+      <pubDate>Thu, 22 Oct 2026 22:47:53 +0800</pubDate>
+      <category>资讯·雷锋网</category>
+    </item>
+    <item>
       <title>Different Types of API Keys and Rate Limits</title>
       <link>https://docs.cohere.com/docs/rate-limits</link>
       <description>…- v1 API: https://docs.cohere.com/v1/llms.txt Cohere offers two kinds of API keys: evaluation keys (free but limited in usage), and production keys (paid and much less limited in usage). You can create a…</description>
@@ -104,20 +112,20 @@
       <category>Cohere</category>
     </item>
     <item>
-      <title>DeepSeek 出现服务故障，官方补偿 1 周 Token 消耗；库克：苹果智能月底在华发测试版；特斯拉、SpaceX 最快年底合并｜极客早知道</title>
-      <link>http://www.geekpark.net/news/372430</link>
-      <description>…扰，我们深表歉意。 我们已第一时间启动针对服务稳定性的全面排查和彻底整改，全面梳理并剥离单点依赖 ，坚决杜绝同类问题再次发生。 作为补偿， 我们将按您账号 7 日内（10.8-10.14）的消耗金额以赠金形式全额返还 ，赠金自动到账，API 计费扣款先从赠金账户扣除。此次故障对您造成了影响，我们再次致歉，感谢您一直以来的信任与支持。 这是 DeepSeek 本月以来遇到的最大规模服务问题，网友今早在…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:3cd4095b8ed19da0</guid>
-      <pubDate>Fri, 16 Oct 2026 14:37:42 +0800</pubDate>
-      <category>资讯·极客公园</category>
-    </item>
-    <item>
       <title>Google Beam expands with new regions, partners, and customers</title>
       <link>https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/</link>
       <description>Google Beam promotional animation</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:3f41d9118eb4ec42</guid>
       <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
       <category>Google Gemini</category>
+    </item>
+    <item>
+      <title>火山方舟 模型计费说明</title>
+      <link>https://www.volcengine.com/docs/82379/1099320</link>
+      <description>…的单价 × 视频时长（秒）） ​ 图片生成模型 ​ 模型名称 ​ 输入图单价（元/张） ​ 输出图单价（元/张） ​ doubao-seedream-5-0-pro ​ 按生图场景区分定价 ​ 首张免费 ​ 第 2 张起：0.02 ​ 单图生成场景： ​ ≤ 261 万像素：0.30 ​ &gt; 261 万像素：0.60 ​ 图层拆分场景： ​ ≤ 261 万像素：0.15 ​ &gt; 261 万像素：0.…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:3f9515c4e7efd405</guid>
+      <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
+      <category>火山方舟·豆包</category>
     </item>
     <item>
       <title>Pricing</title>
@@ -142,6 +150,14 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:50e017209458414f</guid>
       <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
       <category>RunPod</category>
+    </item>
+    <item>
+      <title>大模型内卷之后，AI 竞争进入搜索基础设施时代</title>
+      <link>http://www.geekpark.net/news/372743</link>
+      <description>…具备了生产级服务的稳定性与适配性。 在实际使用中，官方一共提供了直接 API、MCP 以及 SkillHub 三种模式。 使用的第一步，开发者只要在腾讯云开通元宝搜索，就能直接获得每月 2000 次的免费额度。 对于习惯使用 API 直连的开发者来说，只要在腾讯云控制台的「服务 API KEY」页面中创建并复制明文 Key，将其配置到本地环境变量（export TENCENTCLOUD_WSA_APIKE…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:55df8be201ccf828</guid>
+      <pubDate>Thu, 22 Oct 2026 22:47:53 +0800</pubDate>
+      <category>资讯·极客公园</category>
     </item>
     <item>
       <title>Pricing: Pay per second for GPUs and CPUs</title>
@@ -182,14 +198,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:6cec0a5b4127f767</guid>
       <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
       <category>Baseten</category>
-    </item>
-    <item>
-      <title>Models &amp; Pricing</title>
-      <link>https://api-docs.deepseek.com/quick_start/pricing</link>
-      <description>…, or Codex, server-side tool calls already hit the Search and Fetch APIs. These calls are currently free of charge; per-request billing starts at 00:00 Beijing time on November 1, 2026. See the Search &amp; F…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:711aaf63478ae2f0</guid>
-      <pubDate>Sat, 17 Oct 2026 14:26:40 +0800</pubDate>
-      <category>DeepSeek</category>
     </item>
     <item>
       <title>Plans and Pricing | Devin</title>
@@ -264,14 +272,6 @@
       <category>Cerebras</category>
     </item>
     <item>
-      <title>Newsroom \ Anthropic</title>
-      <link>https://www.anthropic.com/news</link>
-      <description>…qualify for a Claude Team subscription plan and then add their research team to Standard seats for free, or Premium seats for $15 per month, for up to a year. Announcements Aug 27, 2026 Aug 27, 2026 Anno…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:b15c32a87bcd99dd</guid>
-      <pubDate>Wed, 21 Oct 2026 14:52:38 +0800</pubDate>
-      <category>Anthropic</category>
-    </item>
-    <item>
       <title>Hallo, Deutschland!</title>
       <link>https://mistral.ai/news/hallo-deutschland/</link>
       <description>Mistral opens a Munich hub for Physics AI and Industrial AI research, partnering with German industry.</description>
@@ -282,18 +282,10 @@
     <item>
       <title>Pricing</title>
       <link>https://www.together.ai/pricing</link>
-      <description>…$0.30 $0.006 (cached) $1.20 Muse Spark Open $1.25 $0.15 (cached) $4.25 Tev1 4B Experimental $0.04 Free Reflection Beam $0.40 $0.04 (cached) $1.20 DeepSeek V4.1 Flash 1017 $0.30 $0.006 (cached) $1.20 Gem…</description>
+      <description>…$0.15 $0.03 (cached) $0.50 Muse Spark Open $1.25 $0.15 (cached) $4.25 Tev1 4B Experimental $0.04 Free Reflection Beam $0.40 $0.04 (cached) $1.20 MiniMax M3.1 Flash $0.15 $0.015 (cached) $0.60 DeepSeek…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:b99574d412655a47</guid>
       <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
       <category>Together AI</category>
-    </item>
-    <item>
-      <title>好逛又好买！抖音商城双11热卖商品榜发布</title>
-      <link>https://www.leiphone.com/category/industrynews/9TqjQQrteJeqc2IN.html</link>
-      <description>10月15日，2026抖音商城双11好物节正式开启，横跨秋冬换季、囤货等消费节点，平台以消费券、立减折扣等多重优惠叠加发力，为用户带来好逛又好买的双11好物节。截止10月18日，消费券带动成交额破亿商家数同比增长200%，店播成交额破千万新商数量同比增长133%。 亮眼数据背后，手机、护肤、运动户外、家…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:bf50faca4cbd7bdf</guid>
-      <pubDate>Thu, 22 Oct 2026 14:56:24 +0800</pubDate>
-      <category>资讯·雷锋网</category>
     </item>
     <item>
       <title>Cursor · Pricing</title>
@@ -326,6 +318,14 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:da510d5207ae5f08</guid>
       <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
       <category>面壁智能</category>
+    </item>
+    <item>
+      <title>又一国产决策模型发布！准确率超过微软和Jev等决策模型</title>
+      <link>https://www.leiphone.com/category/industrynews/IshbO1ikAgjvB6G9.html</link>
+      <description>…时，具备准确率更高、响应更快、Token成本更低等优势，尤其适合产业AI场景。LingDT-Decision-1.0提供4B和27B两个版本，目前，模型已经在蚂蚁数科 DTMaaS 平台上线，开发者可限时免费体验。 蚂蚁数科团队在客服、风控、金融等真实业务场景测试显示，在处理同样任务时，LingDT-Decision-1.0相比于大语言模型，可将Token消耗降低超90%，响应时效提升10倍，并且性能表现…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:dd27af75fb1e3324</guid>
+      <pubDate>Thu, 22 Oct 2026 22:47:53 +0800</pubDate>
+      <category>资讯·雷锋网</category>
     </item>
     <item>
       <title>Pricing</title>
@@ -376,14 +376,6 @@
       <category>Replicate</category>
     </item>
     <item>
-      <title>Developers can now access SageMaker Studio through the new AWS experience</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/developers-can-now-access-sagemaker-studio-through-the-new-aws-experience/</link>
-      <description>…Google, with no advanced AWS account or credit card required for most customers, plus $100 in AWS Free Tier credits.</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:fdf3caa51f8f33cc</guid>
-      <pubDate>Tue, 20 Oct 2026 14:58:40 +0800</pubDate>
-      <category>AWS Bedrock</category>
-    </item>
-    <item>
       <title>Claude Code by Anthropic</title>
       <link>https://www.anthropic.com/claude-code</link>
       <description>…Export to various formats (PNG, SVG, JSON) - Customizable drawing tools (rectangle, circle, arrows, freehand) - Dark mode support - Localization - Library of shapes and components - Arrow bindings and lab…</description>
@@ -400,20 +392,20 @@
       <category>Google Gemini</category>
     </item>
     <item>
-      <title>又一国产决策模型发布！准确率超过微软和Jev等决策模型</title>
-      <link>https://www.leiphone.com/category/industrynews/IshbO1ikAgjvB6G9.html</link>
-      <description>…时，具备准确率更高、响应更快、Token成本更低等优势，尤其适合产业AI场景。LingDT-Decision-1.0提供4B和27B两个版本，目前，模型已经在蚂蚁数科 DTMaaS 平台上线，开发者可限时免费体验。 蚂蚁数科团队在客服、风控、金融等真实业务场景测试显示，在处理同样任务时，LingDT-Decision-1.0相比于大语言模型，可将Token消耗降低超90%，响应时效提升10倍，并且性能表现…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:dd27af75fb1e3324</guid>
-      <pubDate>Thu, 22 Oct 2026 22:47:53 +0800</pubDate>
-      <category>资讯·雷锋网</category>
+      <title>Epic 喜加一：太空生存策略游戏《Terraspace》免费领</title>
+      <link>https://www.ithome.com/1/017/005.htm</link>
+      <description>…日消息，开发商 Black Apple 宣布旗下太空生存策略游戏《Terraspace》即日起在 Epic 游戏商城开启限时免费“喜加一”活动，玩家可以在北京时间 10 月 28 日凌晨 4 点前免费领取。 需要注意的是，本次限免并非 Epic 官方活动，而是由开发团队自行发起的特别促销，IT之家附游戏商品页（ https://store.epicgames.com/p/dimond-hunt-03a…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:b01aa0cf40ec76c1</guid>
+      <pubDate>Fri, 23 Oct 2026 14:49:18 +0800</pubDate>
+      <category>资讯·IT之家</category>
     </item>
     <item>
-      <title>《2026千川乘方投放宝典》出炉！助力商家迎战双11</title>
-      <link>https://www.leiphone.com/category/industrynews/P3ZLYakqA47kD3S2.html</link>
-      <description>…一笔营销成本，商家仅需设置一个综合营销ROI目标。系统自动识别低佣金、高转化素材并优先分配流量；同步邀约高佣金达人开启「合力推」，系统将达人让利转化为商家投放，商达协同助力增量订单成交。 04依托智能优惠券，打通用户决策最后一环 流量成功获取之后，价格顾虑往往成为阻碍用户下单的核心卡点。这一现象在日常经营中普遍存在，在节点大促比价氛围下会表现得更加突出。 乘方提供智能优惠券、智能运费险、智能分期免息三类…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:2c6f9038b30a642d</guid>
-      <pubDate>Thu, 22 Oct 2026 22:47:53 +0800</pubDate>
-      <category>资讯·雷锋网</category>
+      <title>中国 AI 硬件的下一个爆款，可能生在「网球场」</title>
+      <link>http://www.geekpark.net/news/372807</link>
+      <description>…从不真正回击你那颗球，但一来一回之间，回合感确实成立。 预测用户击球落点位置｜来源：AceiiLab 不过，这既考验用户的适应能力，也考验机器能否快速到位、精准发球。如果中间卡顿明显，对拉体验就会大打折扣。我们花了至少几十分钟，才慢慢适应和机器打球的节奏。 120 颗球，按正常 3.0 水平的对打节奏，大概能打 30 分钟左右。由于每一颗球都是新球，整体消耗速度也会比较快。「不管是新手还是熟手，都能获…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:e19b176216415324</guid>
+      <pubDate>Fri, 23 Oct 2026 14:49:18 +0800</pubDate>
+      <category>资讯·极客公园</category>
     </item>
     <item>
       <title>苹果宣布为 Apple TV 上的 F1 赛事支持杜比全景声，美国大奖赛率先上线</title>
@@ -424,12 +416,44 @@
       <category>资讯·IT之家</category>
     </item>
     <item>
-      <title>大模型内卷之后，AI 竞争进入搜索基础设施时代</title>
-      <link>http://www.geekpark.net/news/372743</link>
-      <description>…具备了生产级服务的稳定性与适配性。 在实际使用中，官方一共提供了直接 API、MCP 以及 SkillHub 三种模式。 使用的第一步，开发者只要在腾讯云开通元宝搜索，就能直接获得每月 2000 次的免费额度。 对于习惯使用 API 直连的开发者来说，只要在腾讯云控制台的「服务 API KEY」页面中创建并复制明文 Key，将其配置到本地环境变量（export TENCENTCLOUD_WSA_APIKE…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:55df8be201ccf828</guid>
-      <pubDate>Thu, 22 Oct 2026 22:47:53 +0800</pubDate>
+      <title>DeepSeek 出现服务故障，官方补偿 1 周 Token 消耗；库克：苹果智能月底在华发测试版；特斯拉、SpaceX 最快年底合并｜极客早知道</title>
+      <link>http://www.geekpark.net/news/372430</link>
+      <description>…扰，我们深表歉意。 我们已第一时间启动针对服务稳定性的全面排查和彻底整改，全面梳理并剥离单点依赖 ，坚决杜绝同类问题再次发生。 作为补偿， 我们将按您账号 7 日内（10.8-10.14）的消耗金额以赠金形式全额返还 ，赠金自动到账，API 计费扣款先从赠金账户扣除。此次故障对您造成了影响，我们再次致歉，感谢您一直以来的信任与支持。 这是 DeepSeek 本月以来遇到的最大规模服务问题，网友今早在…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:3cd4095b8ed19da0</guid>
+      <pubDate>Fri, 16 Oct 2026 14:37:42 +0800</pubDate>
       <category>资讯·极客公园</category>
+    </item>
+    <item>
+      <title>Models &amp; Pricing</title>
+      <link>https://api-docs.deepseek.com/quick_start/pricing</link>
+      <description>…, or Codex, server-side tool calls already hit the Search and Fetch APIs. These calls are currently free of charge; per-request billing starts at 00:00 Beijing time on November 1, 2026. See the Search &amp; F…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:711aaf63478ae2f0</guid>
+      <pubDate>Sat, 17 Oct 2026 14:26:40 +0800</pubDate>
+      <category>DeepSeek</category>
+    </item>
+    <item>
+      <title>Newsroom \ Anthropic</title>
+      <link>https://www.anthropic.com/news</link>
+      <description>…qualify for a Claude Team subscription plan and then add their research team to Standard seats for free, or Premium seats for $15 per month, for up to a year. Announcements Aug 27, 2026 Aug 27, 2026 Anno…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:b15c32a87bcd99dd</guid>
+      <pubDate>Wed, 21 Oct 2026 14:52:38 +0800</pubDate>
+      <category>Anthropic</category>
+    </item>
+    <item>
+      <title>好逛又好买！抖音商城双11热卖商品榜发布</title>
+      <link>https://www.leiphone.com/category/industrynews/9TqjQQrteJeqc2IN.html</link>
+      <description>10月15日，2026抖音商城双11好物节正式开启，横跨秋冬换季、囤货等消费节点，平台以消费券、立减折扣等多重优惠叠加发力，为用户带来好逛又好买的双11好物节。截止10月18日，消费券带动成交额破亿商家数同比增长200%，店播成交额破千万新商数量同比增长133%。 亮眼数据背后，手机、护肤、运动户外、家…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:bf50faca4cbd7bdf</guid>
+      <pubDate>Thu, 22 Oct 2026 14:56:24 +0800</pubDate>
+      <category>资讯·雷锋网</category>
+    </item>
+    <item>
+      <title>Developers can now access SageMaker Studio through the new AWS experience</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/developers-can-now-access-sagemaker-studio-through-the-new-aws-experience/</link>
+      <description>…Google, with no advanced AWS account or credit card required for most customers, plus $100 in AWS Free Tier credits.</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:fdf3caa51f8f33cc</guid>
+      <pubDate>Tue, 20 Oct 2026 14:58:40 +0800</pubDate>
+      <category>AWS Bedrock</category>
     </item>
     <item>
       <title>原生 3DoF 防抖不易晕：雷鸟 AR 眼镜 GT 京东 1391 元新低，配镜后也支持 7 天免费试用</title>
@@ -494,14 +518,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:3d693e2d5ba65123</guid>
       <pubDate>Wed, 21 Oct 2026 14:52:38 +0800</pubDate>
       <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>火山方舟 模型计费说明</title>
-      <link>https://www.volcengine.com/docs/82379/1099320</link>
-      <description>…的单价 × 视频时长（秒）） ​ 图片生成模型 ​ 模型名称 ​ 输入图单价（元/张） ​ 输出图单价（元/张） ​ doubao-seedream-5-0-pro ​ 按生图场景区分定价 ​ 首张免费 ​ 第 2 张起：0.02 ​ 单图生成场景： ​ ≤ 261 万像素（分辨率 1.5K 及以下）：0.30 ​ &gt; 261 万像素（分辨率 1.5K 以上）：0.60 ​ 图层拆分场景： ​ ≤…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:3f9515c4e7efd405</guid>
-      <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
-      <category>火山方舟·豆包</category>
     </item>
     <item>
       <title>京东左琦的惊艳出道：最强公关，竟在采销</title>
@@ -790,22 +806,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:5b2e89aa12e03d93</guid>
       <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
       <category>AWS Bedrock</category>
-    </item>
-    <item>
-      <title>Manus 正式发布 2.0！个人 AI 助手、云电脑、远程控制，Manus 想做 AI 时代全家桶</title>
-      <link>http://www.geekpark.net/news/371493</link>
-      <description>…选名单，另一个起草演示文稿，用户只负责定方向和最后拍板 。 Cue 还能对接线下的日常服务，比如在餐厅扫一下二维码，就让 Agent 帮忙点餐，或者排队取号。不过目前 Cue 目前处于抢先体验阶段，凭邀请码免费使用。Manus 放出的邀请码 MEETCUE 限前 1000 位用户，拿到资格的用户还会额外收到可以分享给别人的邀请码。 从 Agent 到个人 AI Manus 2.0 中最值得关注的新产品之…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:305ee28d03780da2</guid>
-      <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
-      <category>资讯·极客公园</category>
-    </item>
-    <item>
-      <title>PPIO - 中国领先的分布式云计算服务商</title>
-      <link>https://ppio.com/</link>
-      <description>模型服务 Agent 云服务 GPU 云服务 即将下线 边缘云计算 新闻资讯 关于我们 文档 控制台 登录 立即注册 登录/注册 免费注册 登录 模型服务 Agent 云服务 GPU 云服务 即将下线 边缘云计算 新闻资讯 关于我们 文档 控制台 安装 Skills › npx skills add PPIO/ppio-skills…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:48e3941064854c6c</guid>
-      <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
-      <category>PPIO 派欧云</category>
     </item>
   </channel>
 </rss>
