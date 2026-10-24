@@ -5,7 +5,7 @@
     <link>https://ikeng.github.io/model-egg-monitor/</link>
     <description>每日两次监控大模型厂商活动，提供 Atom / JSON Feed 订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 23 Oct 2026 22:34:51 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 14:45:42 +0800</lastBuildDate>
     <generator>ai-egg-monitor</generator>
     <item>
       <title>大模型 API 价格方案</title>
@@ -112,14 +112,6 @@
       <category>Google Gemini</category>
     </item>
     <item>
-      <title>火山方舟 模型计费说明</title>
-      <link>https://www.volcengine.com/docs/82379/1099320</link>
-      <description>…的单价 × 视频时长（秒）） ​ 图片生成模型 ​ 模型名称 ​ 输入图单价（元/张） ​ 输出图单价（元/张） ​ doubao-seedream-5-0-pro ​ 按生图场景区分定价 ​ 首张免费 ​ 第 2 张起：0.02 ​ 单图生成场景： ​ ≤ 261 万像素：0.30 ​ &gt; 261 万像素：0.60 ​ 图层拆分场景： ​ ≤ 261 万像素：0.15 ​ &gt; 261 万像素：0.…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:3f9515c4e7efd405</guid>
-      <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
-      <category>火山方舟·豆包</category>
-    </item>
-    <item>
       <title>Pricing</title>
       <link>https://docs.perplexity.ai/getting-started/pricing</link>
       <description>…Model Price ($/1M input tokens) Output tokens Per-request fee pplx-decider-v1.2 $0.02 Free None pplx-decider-flash-v1.2 $0.01 Free None Aliases: pplx-decider-latest and perplexity/pplx-decid…</description>
@@ -158,6 +150,14 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:573469f2620924c1</guid>
       <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
       <category>Modal</category>
+    </item>
+    <item>
+      <title>从“算力”到“Token 生产力”，硅基流动助力央国企大模型规模化落地</title>
+      <link>https://www.leiphone.com/category/industrynews/DVoE94j80j6cboxE.html</link>
+      <description>…至过载；完全按白天峰值配置，又会在其他时段造成资源浪费。因此，既需要弹性扩缩容策略，也需要运营手段配合。 例如，央国企面向各分子公司提供模型服务时，可在内部结算中采用分时定价：白天按常规定价，夜间给予折扣，引导部分业务在夜间运行。各业务可能使用不同模型，这就要求平台能够基于请求队列、性能等多维度指标动态调整模型实例。 央国企案例：从“租机器”转向“调用模型服务” 我们服务过一家央国企集团，原来有大约…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:5adf337bd9597b20</guid>
+      <pubDate>Fri, 23 Oct 2026 22:34:32 +0800</pubDate>
+      <category>资讯·雷锋网</category>
     </item>
     <item>
       <title>Gemini Developer API pricing</title>
@@ -226,7 +226,7 @@
     <item>
       <title>Try NVIDIA NIM APIs</title>
       <link>https://build.nvidia.com/explore/discover</link>
-      <description>…Climate &amp; Weather Safety &amp; Moderation Industries Automotive Financial Services Healthcare Industrial Robotics Start Building with your DGX Spark Explore step-by-step playbooks, including setting up Ne…</description>
+      <description>…by the community, optimized and accelerated by NVIDIA&#39;s enterprise-ready inference runtime. NVIDIA Free Endpoint nemotron-3.5-super-vl-120b-a12b Nemotron 3.5 Super early-access reasoning model for agenti…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:8a143abe5f3a9d8b</guid>
       <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
       <category>NVIDIA NIM</category>
@@ -238,6 +238,14 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:8fd93e908672e965</guid>
       <pubDate>Sun, 11 Oct 2026 16:06:47 +0800</pubDate>
       <category>xAI Grok</category>
+    </item>
+    <item>
+      <title>宁德时代董秘被打？知情人士回应；怕担责先跑路？娃哈哈集团董事长许思敏离职；DeepSeek完成近1000亿元融资，宁德时代、腾讯参投</title>
+      <link>https://www.leiphone.com/category/zaobao/IlrVRbBiK9Klcuj1.html</link>
+      <description>…年第三季度财报。其中数据显示，截至第三季度末，特斯拉活跃FSD付费用户规模达到174万，同比增长67%，较第一季度末的128万增加46万。根据财报统计口径，该数据包括一次性购买和按月订阅的用户，不包含免费试用用户。 特斯拉方面表示，第三季度FSD监督版在北美新车交付中的搭载率超过75%，较第二季度提高近20个百分点。欧洲市场方面，自第二季度末以来，FSD又获得克罗地亚等四个欧盟国家的批准，目前已在九个欧盟…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:93867ccc61e7ed78</guid>
+      <pubDate>Fri, 23 Oct 2026 22:34:32 +0800</pubDate>
+      <category>资讯·雷锋网</category>
     </item>
     <item>
       <title>Fastest AI Inference Cloud and API</title>
@@ -392,20 +400,20 @@
       <category>Google Gemini</category>
     </item>
     <item>
-      <title>宁德时代董秘被打？知情人士回应；怕担责先跑路？娃哈哈集团董事长许思敏离职；DeepSeek完成近1000亿元融资，宁德时代、腾讯参投</title>
-      <link>https://www.leiphone.com/category/zaobao/IlrVRbBiK9Klcuj1.html</link>
-      <description>…年第三季度财报。其中数据显示，截至第三季度末，特斯拉活跃FSD付费用户规模达到174万，同比增长67%，较第一季度末的128万增加46万。根据财报统计口径，该数据包括一次性购买和按月订阅的用户，不包含免费试用用户。 特斯拉方面表示，第三季度FSD监督版在北美新车交付中的搭载率超过75%，较第二季度提高近20个百分点。欧洲市场方面，自第二季度末以来，FSD又获得克罗地亚等四个欧盟国家的批准，目前已在九个欧盟…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:93867ccc61e7ed78</guid>
-      <pubDate>Fri, 23 Oct 2026 22:34:32 +0800</pubDate>
-      <category>资讯·雷锋网</category>
+      <title>降价换不来增长，沃尔沃在中国卖不动了</title>
+      <link>https://www.tmtpost.com/8179937.html</link>
+      <description>大中华区新帅开局不利。</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:fd68b5e4bb10abea</guid>
+      <pubDate>Sat, 24 Oct 2026 14:45:23 +0800</pubDate>
+      <category>资讯·钛媒体</category>
     </item>
     <item>
-      <title>从“算力”到“Token 生产力”，硅基流动助力央国企大模型规模化落地</title>
-      <link>https://www.leiphone.com/category/industrynews/DVoE94j80j6cboxE.html</link>
-      <description>…至过载；完全按白天峰值配置，又会在其他时段造成资源浪费。因此，既需要弹性扩缩容策略，也需要运营手段配合。 例如，央国企面向各分子公司提供模型服务时，可在内部结算中采用分时定价：白天按常规定价，夜间给予折扣，引导部分业务在夜间运行。各业务可能使用不同模型，这就要求平台能够基于请求队列、性能等多维度指标动态调整模型实例。 央国企案例：从“租机器”转向“调用模型服务” 我们服务过一家央国企集团，原来有大约…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:5adf337bd9597b20</guid>
-      <pubDate>Fri, 23 Oct 2026 22:34:32 +0800</pubDate>
-      <category>资讯·雷锋网</category>
+      <title>火山方舟 模型计费说明</title>
+      <link>https://www.volcengine.com/docs/82379/1099320</link>
+      <description>…的单价 × 视频时长（秒）） ​ 图片生成模型 ​ 模型名称 ​ 输入图单价（元/张） ​ 输出图单价（元/张） ​ doubao-seedream-5-0-pro ​ 按生图场景区分定价 ​ 首张免费 ​ 第 2 张起：0.02 ​ 单图生成场景： ​ ≤ 261 万像素：0.30 ​ &gt; 261 万像素：0.60 ​ 图层拆分场景： ​ ≤ 261 万像素：0.15 ​ &gt; 261 万像素：0.…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:3f9515c4e7efd405</guid>
+      <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
+      <category>火山方舟·豆包</category>
     </item>
     <item>
       <title>《2026千川乘方投放宝典》出炉！助力商家迎战双11</title>
@@ -796,14 +804,6 @@
       <link>https://www.leiphone.com/category/transportation/N2Mpq4po8AjIzd1T.html</link>
       <description>…准备干那个活，但我想一下……算了。” 他的理由很简单：复制别人，可能短期有效，但无法建立一个长期品牌。这也是智界和V9之间最重要的一次互相成就。 V9没有选择进入20多万元MPV市场，也没有简单地通过降价去扩大市场。它的价格区间被锁定在40万—50万元。最终，V9的成交均价达到50万元左右，7月单月交付超过1万辆。 这说明一个问题：用户并不是不能接受高价，只是高价必须对应新的价值。 所以赵长江并不把V…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:23b5e61748a783cd</guid>
-      <pubDate>Sat, 10 Oct 2026 23:39:10 +0800</pubDate>
-      <category>资讯·雷锋网</category>
-    </item>
-    <item>
-      <title>对话蔚来创始人李斌：蔚来单车均价比奥迪贵18万，比宝马贵七八万，比奔驰贵数万</title>
-      <link>https://www.leiphone.com/category/transportation/AZ0KUba2gFI5kSB4.html</link>
-      <description>…了大部分。下半年虽然还会继续涨一点，但我们会通过供应链成本优化，以及和合作伙伴一起提效，消化额外的涨价成本。 所以总体来看，我们有信心保持一个合理的毛利率水平，基本和二季度接近。只要价格不乱动、不主动降价，毛利率还是可以稳住的。 问：二季度整车毛利率18.5%，下半年单车成本还会上涨，蔚来到底是保销量还是保毛利？ 李斌： 我们最终看的是毛利总额，毛利总额优先。内部做量价关系测算的时候，也是以毛利总额最…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:2f61a9a5b7e9f637</guid>
       <pubDate>Sat, 10 Oct 2026 23:39:10 +0800</pubDate>
       <category>资讯·雷锋网</category>
     </item>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://ikeng.github.io/model-egg-monitor/atom-资讯-雷锋网.xml</id>
   <title>赛博鸡蛋 · 资讯·雷锋网</title>
-  <updated>2026-10-23T22:34:53+08:00</updated>
+  <updated>2026-10-24T14:45:43+08:00</updated>
   <subtitle>大模型厂商活动监控</subtitle>
   <link rel="self" href="https://ikeng.github.io/model-egg-monitor/atom-资讯-雷锋网.xml"/>
   <link rel="alternate" href="https://ikeng.github.io/model-egg-monitor/"/>
@@ -12,28 +12,9 @@
     <name>ai-egg-monitor</name>
   </author>
   <entry>
-    <id>tag:ai-egg-monitor,2026:activity:93867ccc61e7ed78</id>
-    <title>宁德时代董秘被打？知情人士回应；怕担责先跑路？娃哈哈集团董事长许思敏离职；DeepSeek完成近1000亿元融资，宁德时代、腾讯参投</title>
-    <updated>2026-10-23T22:34:32+08:00</updated>
-    <published>2026-10-23T22:34:32+08:00</published>
-    <link rel="alternate" href="https://www.leiphone.com/category/zaobao/IlrVRbBiK9Klcuj1.html"/>
-    <author><name>资讯·雷锋网</name></author>
-    <category term="资讯·雷锋网"/>
-    <summary type="text">…年第三季度财报。其中数据显示，截至第三季度末，特斯拉活跃FSD付费用户规模达到174万，同比增长67%，较第一季度末的128万增加46万。根据财报统计口径，该数据包括一次性购买和按月订阅的用户，不包含免费试用用户。 特斯拉方面表示，第三季度FSD监督版在北美新车交付中的搭载率超过75%，较第二季度提高近20个百分点。欧洲市场方面，自第二季度末以来，FSD又获得克罗地亚等四个欧盟国家的批准，目前已在九个欧盟…</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·雷锋网&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：宁德时代董秘被打？知情人士回应；怕担责先跑路？娃哈哈集团董事长许思敏离职；DeepSeek完成近1000亿元融资，宁德时代、腾讯参投&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…年第三季度财报。其中数据显示，截至第三季度末，特斯拉活跃FSD付费用户规模达到174万，同比增长67%，较第一季度末的128万增加46万。根据财报统计口径，该数据包括一次性购买和按月订阅的用户，不包含免费试用用户。 特斯拉方面表示，第三季度FSD监督版在北美新车交付中的搭载率超过75%，较第二季度提高近20个百分点。欧洲市场方面，自第二季度末以来，FSD又获得克罗地亚等四个欧盟国家的批准，目前已在九个欧盟…&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：免费试用&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-23T22:34:32+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-23T22:34:32+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.leiphone.com/category/zaobao/IlrVRbBiK9Klcuj1.html&#34;&gt;https://www.leiphone.com/category/zaobao/IlrVRbBiK9Klcuj1.html&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
     <id>tag:ai-egg-monitor,2026:activity:5adf337bd9597b20</id>
     <title>从“算力”到“Token 生产力”，硅基流动助力央国企大模型规模化落地</title>
-    <updated>2026-10-23T22:34:32+08:00</updated>
+    <updated>2026-10-24T14:45:23+08:00</updated>
     <published>2026-10-23T22:34:32+08:00</published>
     <link rel="alternate" href="https://www.leiphone.com/category/industrynews/DVoE94j80j6cboxE.html"/>
     <author><name>资讯·雷锋网</name></author>
@@ -46,8 +27,27 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：折扣&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-23T22:34:32+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-23T22:34:32+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-24T14:45:23+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.leiphone.com/category/industrynews/DVoE94j80j6cboxE.html&#34;&gt;https://www.leiphone.com/category/industrynews/DVoE94j80j6cboxE.html&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:93867ccc61e7ed78</id>
+    <title>宁德时代董秘被打？知情人士回应；怕担责先跑路？娃哈哈集团董事长许思敏离职；DeepSeek完成近1000亿元融资，宁德时代、腾讯参投</title>
+    <updated>2026-10-24T14:45:23+08:00</updated>
+    <published>2026-10-23T22:34:32+08:00</published>
+    <link rel="alternate" href="https://www.leiphone.com/category/zaobao/IlrVRbBiK9Klcuj1.html"/>
+    <author><name>资讯·雷锋网</name></author>
+    <category term="资讯·雷锋网"/>
+    <summary type="text">…年第三季度财报。其中数据显示，截至第三季度末，特斯拉活跃FSD付费用户规模达到174万，同比增长67%，较第一季度末的128万增加46万。根据财报统计口径，该数据包括一次性购买和按月订阅的用户，不包含免费试用用户。 特斯拉方面表示，第三季度FSD监督版在北美新车交付中的搭载率超过75%，较第二季度提高近20个百分点。欧洲市场方面，自第二季度末以来，FSD又获得克罗地亚等四个欧盟国家的批准，目前已在九个欧盟…</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·雷锋网&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：宁德时代董秘被打？知情人士回应；怕担责先跑路？娃哈哈集团董事长许思敏离职；DeepSeek完成近1000亿元融资，宁德时代、腾讯参投&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…年第三季度财报。其中数据显示，截至第三季度末，特斯拉活跃FSD付费用户规模达到174万，同比增长67%，较第一季度末的128万增加46万。根据财报统计口径，该数据包括一次性购买和按月订阅的用户，不包含免费试用用户。 特斯拉方面表示，第三季度FSD监督版在北美新车交付中的搭载率超过75%，较第二季度提高近20个百分点。欧洲市场方面，自第二季度末以来，FSD又获得克罗地亚等四个欧盟国家的批准，目前已在九个欧盟…&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：免费试用&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-23T22:34:32+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-24T14:45:23+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.leiphone.com/category/zaobao/IlrVRbBiK9Klcuj1.html&#34;&gt;https://www.leiphone.com/category/zaobao/IlrVRbBiK9Klcuj1.html&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:2c6f9038b30a642d</id>
