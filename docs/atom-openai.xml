@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://ikeng.github.io/model-egg-monitor/atom-openai.xml</id>
   <title>赛博鸡蛋 · OpenAI</title>
-  <updated>2026-10-24T14:45:43+08:00</updated>
+  <updated>2026-10-24T21:47:03+08:00</updated>
   <subtitle>大模型厂商活动监控</subtitle>
   <link rel="self" href="https://ikeng.github.io/model-egg-monitor/atom-openai.xml"/>
   <link rel="alternate" href="https://ikeng.github.io/model-egg-monitor/"/>
@@ -14,7 +14,7 @@
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:88c116a2c62e573c</id>
     <title>Franchisee reconciles cash in 94% less time with ChatGPT Work</title>
-    <updated>2026-10-24T14:45:23+08:00</updated>
+    <updated>2026-10-24T21:46:43+08:00</updated>
     <published>2026-10-21T14:52:38+08:00</published>
     <link rel="alternate" href="https://openai.com/index/ted-taylor-restaurant"/>
     <author><name>OpenAI</name></author>
@@ -27,13 +27,13 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：free&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-21T14:52:38+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-24T14:45:23+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-24T21:46:43+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://openai.com/index/ted-taylor-restaurant&#34;&gt;https://openai.com/index/ted-taylor-restaurant&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:de76b49c9d692247</id>
     <title>Pricing</title>
-    <updated>2026-10-24T14:45:23+08:00</updated>
+    <updated>2026-10-24T21:46:43+08:00</updated>
     <published>2026-10-08T18:27:38+08:00</published>
     <link rel="alternate" href="https://platform.openai.com/docs/pricing"/>
     <author><name>OpenAI</name></author>
@@ -46,13 +46,13 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：free&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:27:38+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-24T14:45:23+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-24T21:46:43+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://platform.openai.com/docs/pricing&#34;&gt;https://platform.openai.com/docs/pricing&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:f35ff89bf357650c</id>
     <title>Benefit Street Partners answers questions faster with Codex</title>
-    <updated>2026-10-24T14:45:23+08:00</updated>
+    <updated>2026-10-24T21:46:43+08:00</updated>
     <published>2026-10-17T14:26:40+08:00</published>
     <link rel="alternate" href="https://openai.com/index/benefit-street-partners"/>
     <author><name>OpenAI</name></author>
@@ -65,7 +65,7 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：credit&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-17T14:26:40+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-24T14:45:23+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-24T21:46:43+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://openai.com/index/benefit-street-partners&#34;&gt;https://openai.com/index/benefit-street-partners&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>

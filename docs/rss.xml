@@ -5,7 +5,7 @@
     <link>https://ikeng.github.io/model-egg-monitor/</link>
     <description>每日两次监控大模型厂商活动，提供 Atom / JSON Feed 订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 24 Oct 2026 14:45:42 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 21:47:03 +0800</lastBuildDate>
     <generator>ai-egg-monitor</generator>
     <item>
       <title>大模型 API 价格方案</title>
@@ -226,7 +226,7 @@
     <item>
       <title>Try NVIDIA NIM APIs</title>
       <link>https://build.nvidia.com/explore/discover</link>
-      <description>…by the community, optimized and accelerated by NVIDIA&#39;s enterprise-ready inference runtime. NVIDIA Free Endpoint nemotron-3.5-super-vl-120b-a12b Nemotron 3.5 Super early-access reasoning model for agenti…</description>
+      <description>…Climate &amp; Weather Safety &amp; Moderation Industries Automotive Financial Services Healthcare Industrial Robotics Start Building with your DGX Spark Explore step-by-step playbooks, including setting up Ne…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:8a143abe5f3a9d8b</guid>
       <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
       <category>NVIDIA NIM</category>
@@ -398,6 +398,14 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:ff49e507d89b30cd</guid>
       <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
       <category>Google Gemini</category>
+    </item>
+    <item>
+      <title>行业第一！百度健康AI服务MAU超5000万，发布好医矩阵和健康相机</title>
+      <link>https://www.leiphone.com/category/industrynews/RRFr9U8GKWjNNxfH.html</link>
+      <description>…势，同时引入真人医生的专业能力，使健康回答更加权威可信、有据可依。不仅是让用户得到回答，而是让每个问题，都得到负责任的解决。 目前，好医答已经全部覆盖皮肤科、内科、中医科、妇科等四大主流科室，全部能力限时免费开放体验。 打通就医最后一公里！把患者从对话框带进医生诊室 从用户健康信息检索的基本需求，到生成式AI的健康问答，再到真人医生在线问诊和线下就医服务的连接，百度健康致力于让用户就诊的全流程都有真人医生…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:6b824f9e05378918</guid>
+      <pubDate>Sat, 24 Oct 2026 21:46:43 +0800</pubDate>
+      <category>资讯·雷锋网</category>
     </item>
     <item>
       <title>降价换不来增长，沃尔沃在中国卖不动了</title>
@@ -798,14 +806,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:913fb8e3d5a644f1</guid>
       <pubDate>Tue, 13 Oct 2026 16:49:32 +0800</pubDate>
       <category>资讯·钛媒体</category>
-    </item>
-    <item>
-      <title>对话赵长江：智界RX要成为华为的「Pura X」</title>
-      <link>https://www.leiphone.com/category/transportation/N2Mpq4po8AjIzd1T.html</link>
-      <description>…准备干那个活，但我想一下……算了。” 他的理由很简单：复制别人，可能短期有效，但无法建立一个长期品牌。这也是智界和V9之间最重要的一次互相成就。 V9没有选择进入20多万元MPV市场，也没有简单地通过降价去扩大市场。它的价格区间被锁定在40万—50万元。最终，V9的成交均价达到50万元左右，7月单月交付超过1万辆。 这说明一个问题：用户并不是不能接受高价，只是高价必须对应新的价值。 所以赵长江并不把V…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:23b5e61748a783cd</guid>
-      <pubDate>Sat, 10 Oct 2026 23:39:10 +0800</pubDate>
-      <category>资讯·雷锋网</category>
     </item>
   </channel>
 </rss>
