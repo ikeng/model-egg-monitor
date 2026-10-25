@@ -5,7 +5,7 @@
     <link>https://ikeng.github.io/model-egg-monitor/</link>
     <description>每日两次监控大模型厂商活动，提供 Atom / JSON Feed 订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 25 Oct 2026 15:10:31 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 22:03:12 +0800</lastBuildDate>
     <generator>ai-egg-monitor</generator>
     <item>
       <title>大模型 API 价格方案</title>
@@ -408,6 +408,22 @@
       <category>Google Gemini</category>
     </item>
     <item>
+      <title>韩 KRAFTON AI 预览 Raon</title>
+      <link>https://www.ithome.com/1/017/695.htm</link>
+      <description>…mini 采用混合专家架构，导入线性注意力，支持推测解码，整体体量为 30B-A4B。该模型聚焦韩语的同时兼顾英语性能， 以 Apache 2.0 许可开源 。KRAFTON AI 还在官网提供限时免费 API 试用。 KRAFTON AI 表示，预览版的 Raon-1 mini 在编程与智能体任务上与 Meta 的 Muse Glimmer 30B 相当 ，同时速度更快、内存效率更高；此外其能进行自然的对…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:829587bcfc557c26</guid>
+      <pubDate>Sun, 25 Oct 2026 22:02:54 +0800</pubDate>
+      <category>资讯·IT之家</category>
+    </item>
+    <item>
+      <title>《流浪地球 3（上）》电影全新物料即将发布，2027 年春节档上映</title>
+      <link>https://www.ithome.com/1/017/693.htm</link>
+      <description>…新的家园。然而宇宙之路危机四伏，为了拯救地球，为了人类能在漫长的 2500 年后抵达新家园，最终，流浪地球时代的年轻人挺身而出，展开争分夺秒的生死之战。 IT之家小伙伴记得用 最会买购买电影票 ，享受折扣价的同时还可以获得返利，预计每张票可以节省 5~15 元！</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:4c79b8c23e1b6292</guid>
+      <pubDate>Sun, 25 Oct 2026 22:02:54 +0800</pubDate>
+      <category>资讯·IT之家</category>
+    </item>
+    <item>
       <title>降价换不来增长，沃尔沃在中国卖不动了</title>
       <link>https://www.tmtpost.com/8179937.html</link>
       <description>大中华区新帅开局不利。</description>
@@ -790,22 +806,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:64312ce9c985773e</guid>
       <pubDate>Wed, 14 Oct 2026 01:17:12 +0800</pubDate>
       <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>再发断轴事件！奇瑞官宣召回马来西亚市场OMODA 5；汽车坠百米悬崖车主奇迹生还！车企回应；曝梁文锋密集接触具身智能创业者丨雷峰早报</title>
-      <link>https://www.leiphone.com/category/zaobao/sVMq5cHa4c52VolM.html</link>
-      <description>…新旗舰模型接入腾讯WorkBuddy 10月12日消息，据媒体报道，腾讯旗下AI办公工作台WorkBuddy已接入阶跃最新旗舰模型Step 5 Preview。 即日起，该模型在WorkBuddy独家限时免费开放两周。Step 5 Preview将助力WorkBuddy用户处理深度研究、信息检索、数据分析、文档与 PPT 生成等办公任务，并支持多步骤复杂任务的持续执行。 离谱！女子3个月在盒马对399件商…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:84b16a5badcbcbc1</guid>
-      <pubDate>Tue, 13 Oct 2026 16:49:32 +0800</pubDate>
-      <category>资讯·雷锋网</category>
-    </item>
-    <item>
-      <title>传统豪华车降价，中国新豪华向上，阿维塔T09想争的不只是50万元市场</title>
-      <link>https://www.tmtpost.com/8165939.html</link>
-      <description>阿维塔T09冲击50万元以上市场，也进一步抬高了品牌向上与全球化的想象空间。</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:913fb8e3d5a644f1</guid>
-      <pubDate>Tue, 13 Oct 2026 16:49:32 +0800</pubDate>
-      <category>资讯·钛媒体</category>
     </item>
   </channel>
 </rss>
