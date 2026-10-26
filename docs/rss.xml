@@ -5,7 +5,7 @@
     <link>https://ikeng.github.io/model-egg-monitor/</link>
     <description>每日两次监控大模型厂商活动，提供 Atom / JSON Feed 订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 26 Oct 2026 15:17:42 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 00:24:33 +0800</lastBuildDate>
     <generator>ai-egg-monitor</generator>
     <item>
       <title>大模型 API 价格方案</title>
@@ -200,6 +200,14 @@
       <category>Baseten</category>
     </item>
     <item>
+      <title>苹果发 iPhone 折叠屏官方文档，排查铰链故障；触屏 MacBook 或周三发布；《流浪地球 3》将曝光，春节上映｜极客早知道</title>
+      <link>http://www.geekpark.net/news/372863</link>
+      <description>…。 苹果未立即回应置评请求。（来源：cnBeta） 长鑫存储拒绝苹果低价采购要求，优先推进中国内存自主化布局 10 月 25 日，此前有报道称，苹果希望从长鑫获得比现有供应商更低的报价，但长鑫没有接受降价要求。最新报道提到，一家台湾服务器厂商寻求采购长鑫的 DDR5 内存，同样未能达成合作。 在消费电子行业，供应商通常愿意通过降价换取苹果长期且规模可观的订单。然而在 DRAM 领域，长鑫存储却选择了另…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:6de552bf8b0c481a</guid>
+      <pubDate>Mon, 26 Oct 2026 15:17:24 +0800</pubDate>
+      <category>资讯·极客公园</category>
+    </item>
+    <item>
       <title>Plans and Pricing | Devin</title>
       <link>https://windsurf.com/pricing</link>
       <description>…the perfect plan for your journey SWE-2, our latest model, is now available → INDIVIDUAL PLANS Free $0 Download Light quota to code with agents Limited model availability Unlimited inline edits Unlim…</description>
@@ -254,14 +262,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:95b83aca5ff8baff</guid>
       <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
       <category>Cerebras</category>
-    </item>
-    <item>
-      <title>为什么 Anthropic 不做 Personal AI</title>
-      <link>http://www.geekpark.net/news/372461</link>
-      <description>…整的 agent 回合，每天光输入 token 就能累积到约 480 万， 按 Claude Opus 5.5 的标价算，一个用户一天大约 19 美元 。 Meta 可以用广告利润去补贴 Muse 的免费额度，OpenAI 可以把 dots 锁在高价的 Pro 和 Business Premium 套餐里。而对算力一向紧张、Claude 用户也常年抱怨额度不够的 Anthropic 来说， 把宝贵的算力投…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:975b6d2868576069</guid>
-      <pubDate>Fri, 16 Oct 2026 22:27:05 +0800</pubDate>
-      <category>资讯·极客公园</category>
     </item>
     <item>
       <title>新人免费额度获取及用完即停开关规则</title>
@@ -400,19 +400,11 @@
       <category>Google Gemini</category>
     </item>
     <item>
-      <title>Epic 喜加一：狼人杀推理游戏《MAFIA HOTEL》免费领</title>
-      <link>https://www.ithome.com/1/017/899.htm</link>
-      <description>IT之家 10 月 26 日消息，由独立开发商 ALMNHALI 开发并发行的狼人杀推理游戏《MAFIA HOTEL》即日起在 Epic Games Store 开放限时免费领取“喜加一”活动， 本作在 Epic 国区定价为 6 元，玩家可以在北京时间 11 月 2 日 01:02 前免费领取 。 需要注意的是，本次限免并非 Epic 官方活动，而是由开发团队自行发起的特别促…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:db04d2505b80a820</guid>
-      <pubDate>Mon, 26 Oct 2026 15:17:24 +0800</pubDate>
-      <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>苹果发 iPhone 折叠屏官方文档，排查铰链故障；触屏 MacBook 或周三发布；《流浪地球 3》将曝光，春节上映｜极客早知道</title>
-      <link>http://www.geekpark.net/news/372863</link>
-      <description>…。 苹果未立即回应置评请求。（来源：cnBeta） 长鑫存储拒绝苹果低价采购要求，优先推进中国内存自主化布局 10 月 25 日，此前有报道称，苹果希望从长鑫获得比现有供应商更低的报价，但长鑫没有接受降价要求。最新报道提到，一家台湾服务器厂商寻求采购长鑫的 DDR5 内存，同样未能达成合作。 在消费电子行业，供应商通常愿意通过降价换取苹果长期且规模可观的订单。然而在 DRAM 领域，长鑫存储却选择了另…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:6de552bf8b0c481a</guid>
-      <pubDate>Mon, 26 Oct 2026 15:17:24 +0800</pubDate>
+      <title>Kimi 发布 K3.1 Pro，加量降价挑战 Opus 5.5</title>
+      <link>http://www.geekpark.net/news/372943</link>
+      <description>….1 Pro 审查一个小游戏就烧掉了 5 小时额度的 13%，同样的任务交给 Opus 只用了 3%。还有人说 Highspeed 版用起来「真的很舒服」，但 5 小时的额度撑不到 2 小时。API 降价了三分之一，订阅用户却没有明显感受到。 测试进行到第三版时，199 元套餐触发 5 小时用量上限｜图片来源：大佬说论坛网友 NightRain 这其实是 K3 时代就留下的老问题。7 月 K3 发布后…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:31415d98f1871448</guid>
+      <pubDate>Tue, 27 Oct 2026 00:24:14 +0800</pubDate>
       <category>资讯·极客公园</category>
     </item>
     <item>
@@ -422,6 +414,22 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:335d5409b2d4d482</guid>
       <pubDate>Mon, 26 Oct 2026 15:17:24 +0800</pubDate>
       <category>资讯·钛媒体</category>
+    </item>
+    <item>
+      <title>为什么 Anthropic 不做 Personal AI</title>
+      <link>http://www.geekpark.net/news/372461</link>
+      <description>…整的 agent 回合，每天光输入 token 就能累积到约 480 万， 按 Claude Opus 5.5 的标价算，一个用户一天大约 19 美元 。 Meta 可以用广告利润去补贴 Muse 的免费额度，OpenAI 可以把 dots 锁在高价的 Pro 和 Business Premium 套餐里。而对算力一向紧张、Claude 用户也常年抱怨额度不够的 Anthropic 来说， 把宝贵的算力投…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:975b6d2868576069</guid>
+      <pubDate>Fri, 16 Oct 2026 22:27:05 +0800</pubDate>
+      <category>资讯·极客公园</category>
+    </item>
+    <item>
+      <title>Epic 喜加一：狼人杀推理游戏《MAFIA HOTEL》免费领</title>
+      <link>https://www.ithome.com/1/017/899.htm</link>
+      <description>IT之家 10 月 26 日消息，由独立开发商 ALMNHALI 开发并发行的狼人杀推理游戏《MAFIA HOTEL》即日起在 Epic Games Store 开放限时免费领取“喜加一”活动， 本作在 Epic 国区定价为 6 元，玩家可以在北京时间 11 月 2 日 01:02 前免费领取 。 需要注意的是，本次限免并非 Epic 官方活动，而是由开发团队自行发起的特别促…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:db04d2505b80a820</guid>
+      <pubDate>Mon, 26 Oct 2026 15:17:24 +0800</pubDate>
+      <category>资讯·IT之家</category>
     </item>
     <item>
       <title>《流浪地球 3（上）》电影全新物料即将发布，2027 年春节档上映</title>
@@ -798,14 +806,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:4935578386852c47</guid>
       <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
       <category>MiniMax</category>
-    </item>
-    <item>
-      <title>苹果交出第一份折叠作业，华为已经把答案写了八年</title>
-      <link>https://www.leiphone.com/category/industrynews/PtbASm1JWY99NTou.html</link>
-      <description>…： 八 年积累，换门槛往下走 创新的账，最终要算到价格上才算数。华为Mate X7 11999元起，定价已经低于iPhone Duo；华为Mate X6如今来到8999元起（9999元+1000元官网优惠券），直接下探到苹果直板机的价格带，还限时赠送价值999元HUAWEI Care+意外无忧（一年期）。 八年的技术积累，换来的不是更高的溢价，而是更低的准入——当折叠形态的创新能被更多人真正用上，这件事…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:493e54e0f04508a1</guid>
-      <pubDate>Tue, 13 Oct 2026 03:33:12 +0800</pubDate>
-      <category>资讯·雷锋网</category>
     </item>
   </channel>
 </rss>
