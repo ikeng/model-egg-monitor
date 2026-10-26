@@ -5,7 +5,7 @@
     <link>https://ikeng.github.io/model-egg-monitor/</link>
     <description>每日两次监控大模型厂商活动，提供 Atom / JSON Feed 订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 25 Oct 2026 22:03:12 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 15:17:42 +0800</lastBuildDate>
     <generator>ai-egg-monitor</generator>
     <item>
       <title>大模型 API 价格方案</title>
@@ -198,14 +198,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:6cec0a5b4127f767</guid>
       <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
       <category>Baseten</category>
-    </item>
-    <item>
-      <title>Models &amp; Pricing</title>
-      <link>https://api-docs.deepseek.com/quick_start/pricing</link>
-      <description>…, or Codex, server-side tool calls already hit the Search and Fetch APIs. These calls are currently free of charge; per-request billing starts at 00:00 Beijing time on November 1, 2026. See the Search &amp; F…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:711aaf63478ae2f0</guid>
-      <pubDate>Sat, 17 Oct 2026 14:26:40 +0800</pubDate>
-      <category>DeepSeek</category>
     </item>
     <item>
       <title>Plans and Pricing | Devin</title>
@@ -408,18 +400,50 @@
       <category>Google Gemini</category>
     </item>
     <item>
-      <title>韩 KRAFTON AI 预览 Raon</title>
-      <link>https://www.ithome.com/1/017/695.htm</link>
-      <description>…mini 采用混合专家架构，导入线性注意力，支持推测解码，整体体量为 30B-A4B。该模型聚焦韩语的同时兼顾英语性能， 以 Apache 2.0 许可开源 。KRAFTON AI 还在官网提供限时免费 API 试用。 KRAFTON AI 表示，预览版的 Raon-1 mini 在编程与智能体任务上与 Meta 的 Muse Glimmer 30B 相当 ，同时速度更快、内存效率更高；此外其能进行自然的对…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:829587bcfc557c26</guid>
-      <pubDate>Sun, 25 Oct 2026 22:02:54 +0800</pubDate>
+      <title>Epic 喜加一：狼人杀推理游戏《MAFIA HOTEL》免费领</title>
+      <link>https://www.ithome.com/1/017/899.htm</link>
+      <description>IT之家 10 月 26 日消息，由独立开发商 ALMNHALI 开发并发行的狼人杀推理游戏《MAFIA HOTEL》即日起在 Epic Games Store 开放限时免费领取“喜加一”活动， 本作在 Epic 国区定价为 6 元，玩家可以在北京时间 11 月 2 日 01:02 前免费领取 。 需要注意的是，本次限免并非 Epic 官方活动，而是由开发团队自行发起的特别促…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:db04d2505b80a820</guid>
+      <pubDate>Mon, 26 Oct 2026 15:17:24 +0800</pubDate>
       <category>资讯·IT之家</category>
+    </item>
+    <item>
+      <title>苹果发 iPhone 折叠屏官方文档，排查铰链故障；触屏 MacBook 或周三发布；《流浪地球 3》将曝光，春节上映｜极客早知道</title>
+      <link>http://www.geekpark.net/news/372863</link>
+      <description>…。 苹果未立即回应置评请求。（来源：cnBeta） 长鑫存储拒绝苹果低价采购要求，优先推进中国内存自主化布局 10 月 25 日，此前有报道称，苹果希望从长鑫获得比现有供应商更低的报价，但长鑫没有接受降价要求。最新报道提到，一家台湾服务器厂商寻求采购长鑫的 DDR5 内存，同样未能达成合作。 在消费电子行业，供应商通常愿意通过降价换取苹果长期且规模可观的订单。然而在 DRAM 领域，长鑫存储却选择了另…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:6de552bf8b0c481a</guid>
+      <pubDate>Mon, 26 Oct 2026 15:17:24 +0800</pubDate>
+      <category>资讯·极客公园</category>
+    </item>
+    <item>
+      <title>超充越来越快，车企为何盯上换电？</title>
+      <link>https://www.tmtpost.com/8181565.html</link>
+      <description>换电翻红，车企寻找降价新解。</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:335d5409b2d4d482</guid>
+      <pubDate>Mon, 26 Oct 2026 15:17:24 +0800</pubDate>
+      <category>资讯·钛媒体</category>
     </item>
     <item>
       <title>《流浪地球 3（上）》电影全新物料即将发布，2027 年春节档上映</title>
       <link>https://www.ithome.com/1/017/693.htm</link>
       <description>…新的家园。然而宇宙之路危机四伏，为了拯救地球，为了人类能在漫长的 2500 年后抵达新家园，最终，流浪地球时代的年轻人挺身而出，展开争分夺秒的生死之战。 IT之家小伙伴记得用 最会买购买电影票 ，享受折扣价的同时还可以获得返利，预计每张票可以节省 5~15 元！</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:4c79b8c23e1b6292</guid>
+      <pubDate>Sun, 25 Oct 2026 22:02:54 +0800</pubDate>
+      <category>资讯·IT之家</category>
+    </item>
+    <item>
+      <title>Models &amp; Pricing</title>
+      <link>https://api-docs.deepseek.com/quick_start/pricing</link>
+      <description>…, or Codex, server-side tool calls already hit the Search and Fetch APIs. These calls are currently free of charge; per-request billing starts at 00:00 Beijing time on November 1, 2026. See the Search &amp; F…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:711aaf63478ae2f0</guid>
+      <pubDate>Sat, 17 Oct 2026 14:26:40 +0800</pubDate>
+      <category>DeepSeek</category>
+    </item>
+    <item>
+      <title>韩 KRAFTON AI 预览 Raon</title>
+      <link>https://www.ithome.com/1/017/695.htm</link>
+      <description>…mini 采用混合专家架构，导入线性注意力，支持推测解码，整体体量为 30B-A4B。该模型聚焦韩语的同时兼顾英语性能， 以 Apache 2.0 许可开源 。KRAFTON AI 还在官网提供限时免费 API 试用。 KRAFTON AI 表示，预览版的 Raon-1 mini 在编程与智能体任务上与 Meta 的 Muse Glimmer 30B 相当 ，同时速度更快、内存效率更高；此外其能进行自然的对…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:829587bcfc557c26</guid>
       <pubDate>Sun, 25 Oct 2026 22:02:54 +0800</pubDate>
       <category>资讯·IT之家</category>
     </item>
@@ -782,30 +806,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:493e54e0f04508a1</guid>
       <pubDate>Tue, 13 Oct 2026 03:33:12 +0800</pubDate>
       <category>资讯·雷锋网</category>
-    </item>
-    <item>
-      <title>2026 双 11 装机最优解：5 大于 4，选对平台少花冤枉钱</title>
-      <link>https://www.ithome.com/1/012/817.htm</link>
-      <description>…平台兼容性极好，从 X870 到 B650 主板都能用，老主板刷个 BIOS 就能直接换新 CPU，不需要平台大换血。在显卡预算受限、暂时只能用中低端卡过渡的阶段，先上一颗 X3D 处理器，等未来显卡降价补货再升级，平台不用动，预算省一半。 由于 X3D 处理器有着更高的游戏性能上限，因此如果你打算上 RTX 5070 Ti 或更高端的游戏显卡， 没有大缓存加持的非 X3D CPU 反而会成为瓶颈，将…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:86c56defc20e1d4b</guid>
-      <pubDate>Wed, 14 Oct 2026 14:58:16 +0800</pubDate>
-      <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>阶跃 Step 5 Preview 接入腾讯 WorkBuddy，独家限免 2 周！</title>
-      <link>https://www.leiphone.com/category/industrynews/J5Gvtdeng3EAvjmF.html</link>
-      <description>10 月 12 日消息，腾讯旗下全场景 AI 办公工作台 WorkBuddy 已接入阶跃最新旗舰模型 Step 5 Preview。即日起，该模型在 WorkBuddy 独家限时免费开放两周。凭借推理与 Agent 能力，Step 5 Preview 将助力 WorkBuddy 用户处理深度研究、信息检索、数据分析、文档与 PPT 生成等办公任务，并支持多步骤复杂任务的持续执行。…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:0c13404112733757</guid>
-      <pubDate>Mon, 12 Oct 2026 16:24:02 +0800</pubDate>
-      <category>资讯·雷锋网</category>
-    </item>
-    <item>
-      <title>Steam 新一周游戏销量榜公布：《AION 2》继续领跑全球榜首</title>
-      <link>https://www.ithome.com/1/012/580.htm</link>
-      <description>…，Steam 平台现已公布了最新一周游戏销量排行榜（2026 年 10 月 6 日 - 2026 年 10 月 13 日，无免费游戏），《AION 2（〈永恒之塔 2〉国际服）》继续占据全球榜首，多款降价及新游戏上榜，《影之刃零》预购登顶国区榜单。 全球榜单： AION 2 《星球大战：银河赛车手™》 EA SPORTS FC™ 27 Gears of War: E-Day 《雨中冒险 2》 ARC…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:64312ce9c985773e</guid>
-      <pubDate>Wed, 14 Oct 2026 01:17:12 +0800</pubDate>
-      <category>资讯·IT之家</category>
     </item>
   </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://ikeng.github.io/model-egg-monitor/atom-资讯-极客公园.xml</id>
   <title>赛博鸡蛋 · 资讯·极客公园</title>
-  <updated>2026-10-25T22:03:12+08:00</updated>
+  <updated>2026-10-26T15:17:43+08:00</updated>
   <subtitle>大模型厂商活动监控</subtitle>
   <link rel="self" href="https://ikeng.github.io/model-egg-monitor/atom-资讯-极客公园.xml"/>
   <link rel="alternate" href="https://ikeng.github.io/model-egg-monitor/"/>
@@ -14,7 +14,7 @@
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:55df8be201ccf828</id>
     <title>大模型内卷之后，AI 竞争进入搜索基础设施时代</title>
-    <updated>2026-10-25T22:02:54+08:00</updated>
+    <updated>2026-10-26T15:17:24+08:00</updated>
     <published>2026-10-22T22:47:53+08:00</published>
     <link rel="alternate" href="http://www.geekpark.net/news/372743"/>
     <author><name>资讯·极客公园</name></author>
@@ -27,13 +27,13 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：免费额度&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-22T22:47:53+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-25T22:02:54+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-26T15:17:24+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;http://www.geekpark.net/news/372743&#34;&gt;http://www.geekpark.net/news/372743&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:975b6d2868576069</id>
     <title>为什么 Anthropic 不做 Personal AI</title>
-    <updated>2026-10-25T22:02:54+08:00</updated>
+    <updated>2026-10-26T15:17:24+08:00</updated>
     <published>2026-10-16T22:27:05+08:00</published>
     <link rel="alternate" href="http://www.geekpark.net/news/372461"/>
     <author><name>资讯·极客公园</name></author>
@@ -46,13 +46,13 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：免费额度&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-16T22:27:05+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-25T22:02:54+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-26T15:17:24+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;http://www.geekpark.net/news/372461&#34;&gt;http://www.geekpark.net/news/372461&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:e19b176216415324</id>
     <title>中国 AI 硬件的下一个爆款，可能生在「网球场」</title>
-    <updated>2026-10-25T22:02:54+08:00</updated>
+    <updated>2026-10-26T15:17:24+08:00</updated>
     <published>2026-10-23T14:49:18+08:00</published>
     <link rel="alternate" href="http://www.geekpark.net/news/372807"/>
     <author><name>资讯·极客公园</name></author>
@@ -65,8 +65,27 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：折扣&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-23T14:49:18+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-25T22:02:54+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-26T15:17:24+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;http://www.geekpark.net/news/372807&#34;&gt;http://www.geekpark.net/news/372807&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:6de552bf8b0c481a</id>
+    <title>苹果发 iPhone 折叠屏官方文档，排查铰链故障；触屏 MacBook 或周三发布；《流浪地球 3》将曝光，春节上映｜极客早知道</title>
+    <updated>2026-10-26T15:17:24+08:00</updated>
+    <published>2026-10-26T15:17:24+08:00</published>
+    <link rel="alternate" href="http://www.geekpark.net/news/372863"/>
+    <author><name>资讯·极客公园</name></author>
+    <category term="资讯·极客公园"/>
+    <summary type="text">…。 苹果未立即回应置评请求。（来源：cnBeta） 长鑫存储拒绝苹果低价采购要求，优先推进中国内存自主化布局 10 月 25 日，此前有报道称，苹果希望从长鑫获得比现有供应商更低的报价，但长鑫没有接受降价要求。最新报道提到，一家台湾服务器厂商寻求采购长鑫的 DDR5 内存，同样未能达成合作。 在消费电子行业，供应商通常愿意通过降价换取苹果长期且规模可观的订单。然而在 DRAM 领域，长鑫存储却选择了另…</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·极客公园&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：苹果发 iPhone 折叠屏官方文档，排查铰链故障；触屏 MacBook 或周三发布；《流浪地球 3》将曝光，春节上映｜极客早知道&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…。 苹果未立即回应置评请求。（来源：cnBeta） 长鑫存储拒绝苹果低价采购要求，优先推进中国内存自主化布局 10 月 25 日，此前有报道称，苹果希望从长鑫获得比现有供应商更低的报价，但长鑫没有接受降价要求。最新报道提到，一家台湾服务器厂商寻求采购长鑫的 DDR5 内存，同样未能达成合作。 在消费电子行业，供应商通常愿意通过降价换取苹果长期且规模可观的订单。然而在 DRAM 领域，长鑫存储却选择了另…&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：降价&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-26T15:17:24+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-26T15:17:24+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;http://www.geekpark.net/news/372863&#34;&gt;http://www.geekpark.net/news/372863&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:3cd4095b8ed19da0</id>
