@@ -12,13 +12,27 @@
   ],
   "items": [
     {
+      "id": "tag:ai-egg-monitor,2026:activity:31415d98f1871448",
+      "url": "http://www.geekpark.net/news/372943",
+      "title": "Kimi 发布 K3.1 Pro，加量降价挑战 Opus 5.5",
+      "content_html": "<p><strong>厂商</strong>：资讯·极客公园</p>\n<p><strong>标题</strong>：Kimi 发布 K3.1 Pro，加量降价挑战 Opus 5.5</p>\n<p><strong>福利摘要</strong>：….1 Pro 审查一个小游戏就烧掉了 5 小时额度的 13%，同样的任务交给 Opus 只用了 3%。还有人说 Highspeed 版用起来「真的很舒服」，但 5 小时的额度撑不到 2 小时。API 降价了三分之一，订阅用户却没有明显感受到。 测试进行到第三版时，199 元套餐触发 5 小时用量上限｜图片来源：大佬说论坛网友 NightRain 这其实是 K3 时代就留下的老问题。7 月 K3 发布后…</p>\n<p><strong>需登录</strong>：否</p>\n<p><strong>来源类型</strong>：rss</p>\n<p><strong>命中关键词</strong>：降价</p>\n<p><strong>首次发现</strong>：2026-10-27T00:24:14+08:00</p>\n<p><strong>最后更新</strong>：2026-10-27T15:09:37+08:00</p>\n<p><strong>原始链接</strong>：<a href=\"http://www.geekpark.net/news/372943\">http://www.geekpark.net/news/372943</a></p>",
+      "summary": "….1 Pro 审查一个小游戏就烧掉了 5 小时额度的 13%，同样的任务交给 Opus 只用了 3%。还有人说 Highspeed 版用起来「真的很舒服」，但 5 小时的额度撑不到 2 小时。API 降价了三分之一，订阅用户却没有明显感受到。 测试进行到第三版时，199 元套餐触发 5 小时用量上限｜图片来源：大佬说论坛网友 NightRain 这其实是 K3 时代就留下的老问题。7 月 K3 发布后…",
+      "date_published": "2026-10-27T00:24:14+08:00",
+      "date_modified": "2026-10-27T15:09:37+08:00",
+      "tags": [
+        "资讯·极客公园",
+        "rss",
+        "降价"
+      ]
+    },
+    {
       "id": "tag:ai-egg-monitor,2026:activity:55df8be201ccf828",
       "url": "http://www.geekpark.net/news/372743",
       "title": "大模型内卷之后，AI 竞争进入搜索基础设施时代",
-      "content_html": "<p><strong>厂商</strong>：资讯·极客公园</p>\n<p><strong>标题</strong>：大模型内卷之后，AI 竞争进入搜索基础设施时代</p>\n<p><strong>福利摘要</strong>：…具备了生产级服务的稳定性与适配性。 在实际使用中，官方一共提供了直接 API、MCP 以及 SkillHub 三种模式。 使用的第一步，开发者只要在腾讯云开通元宝搜索，就能直接获得每月 2000 次的免费额度。 对于习惯使用 API 直连的开发者来说，只要在腾讯云控制台的「服务 API KEY」页面中创建并复制明文 Key，将其配置到本地环境变量（export TENCENTCLOUD_WSA_APIKE…</p>\n<p><strong>需登录</strong>：否</p>\n<p><strong>来源类型</strong>：rss</p>\n<p><strong>命中关键词</strong>：免费额度</p>\n<p><strong>首次发现</strong>：2026-10-22T22:47:53+08:00</p>\n<p><strong>最后更新</strong>：2026-10-27T00:24:14+08:00</p>\n<p><strong>原始链接</strong>：<a href=\"http://www.geekpark.net/news/372743\">http://www.geekpark.net/news/372743</a></p>",
+      "content_html": "<p><strong>厂商</strong>：资讯·极客公园</p>\n<p><strong>标题</strong>：大模型内卷之后，AI 竞争进入搜索基础设施时代</p>\n<p><strong>福利摘要</strong>：…具备了生产级服务的稳定性与适配性。 在实际使用中，官方一共提供了直接 API、MCP 以及 SkillHub 三种模式。 使用的第一步，开发者只要在腾讯云开通元宝搜索，就能直接获得每月 2000 次的免费额度。 对于习惯使用 API 直连的开发者来说，只要在腾讯云控制台的「服务 API KEY」页面中创建并复制明文 Key，将其配置到本地环境变量（export TENCENTCLOUD_WSA_APIKE…</p>\n<p><strong>需登录</strong>：否</p>\n<p><strong>来源类型</strong>：rss</p>\n<p><strong>命中关键词</strong>：免费额度</p>\n<p><strong>首次发现</strong>：2026-10-22T22:47:53+08:00</p>\n<p><strong>最后更新</strong>：2026-10-27T15:09:37+08:00</p>\n<p><strong>原始链接</strong>：<a href=\"http://www.geekpark.net/news/372743\">http://www.geekpark.net/news/372743</a></p>",
       "summary": "…具备了生产级服务的稳定性与适配性。 在实际使用中，官方一共提供了直接 API、MCP 以及 SkillHub 三种模式。 使用的第一步，开发者只要在腾讯云开通元宝搜索，就能直接获得每月 2000 次的免费额度。 对于习惯使用 API 直连的开发者来说，只要在腾讯云控制台的「服务 API KEY」页面中创建并复制明文 Key，将其配置到本地环境变量（export TENCENTCLOUD_WSA_APIKE…",
       "date_published": "2026-10-22T22:47:53+08:00",
-      "date_modified": "2026-10-27T00:24:14+08:00",
+      "date_modified": "2026-10-27T15:09:37+08:00",
       "tags": [
         "资讯·极客公园",
         "rss",
@@ -29,10 +43,10 @@
       "id": "tag:ai-egg-monitor,2026:activity:6de552bf8b0c481a",
       "url": "http://www.geekpark.net/news/372863",
       "title": "苹果发 iPhone 折叠屏官方文档，排查铰链故障；触屏 MacBook 或周三发布；《流浪地球 3》将曝光，春节上映｜极客早知道",
-      "content_html": "<p><strong>厂商</strong>：资讯·极客公园</p>\n<p><strong>标题</strong>：苹果发 iPhone 折叠屏官方文档，排查铰链故障；触屏 MacBook 或周三发布；《流浪地球 3》将曝光，春节上映｜极客早知道</p>\n<p><strong>福利摘要</strong>：…。 苹果未立即回应置评请求。（来源：cnBeta） 长鑫存储拒绝苹果低价采购要求，优先推进中国内存自主化布局 10 月 25 日，此前有报道称，苹果希望从长鑫获得比现有供应商更低的报价，但长鑫没有接受降价要求。最新报道提到，一家台湾服务器厂商寻求采购长鑫的 DDR5 内存，同样未能达成合作。 在消费电子行业，供应商通常愿意通过降价换取苹果长期且规模可观的订单。然而在 DRAM 领域，长鑫存储却选择了另…</p>\n<p><strong>需登录</strong>：否</p>\n<p><strong>来源类型</strong>：rss</p>\n<p><strong>命中关键词</strong>：降价</p>\n<p><strong>首次发现</strong>：2026-10-26T15:17:24+08:00</p>\n<p><strong>最后更新</strong>：2026-10-27T00:24:14+08:00</p>\n<p><strong>原始链接</strong>：<a href=\"http://www.geekpark.net/news/372863\">http://www.geekpark.net/news/372863</a></p>",
+      "content_html": "<p><strong>厂商</strong>：资讯·极客公园</p>\n<p><strong>标题</strong>：苹果发 iPhone 折叠屏官方文档，排查铰链故障；触屏 MacBook 或周三发布；《流浪地球 3》将曝光，春节上映｜极客早知道</p>\n<p><strong>福利摘要</strong>：…。 苹果未立即回应置评请求。（来源：cnBeta） 长鑫存储拒绝苹果低价采购要求，优先推进中国内存自主化布局 10 月 25 日，此前有报道称，苹果希望从长鑫获得比现有供应商更低的报价，但长鑫没有接受降价要求。最新报道提到，一家台湾服务器厂商寻求采购长鑫的 DDR5 内存，同样未能达成合作。 在消费电子行业，供应商通常愿意通过降价换取苹果长期且规模可观的订单。然而在 DRAM 领域，长鑫存储却选择了另…</p>\n<p><strong>需登录</strong>：否</p>\n<p><strong>来源类型</strong>：rss</p>\n<p><strong>命中关键词</strong>：降价</p>\n<p><strong>首次发现</strong>：2026-10-26T15:17:24+08:00</p>\n<p><strong>最后更新</strong>：2026-10-27T15:09:37+08:00</p>\n<p><strong>原始链接</strong>：<a href=\"http://www.geekpark.net/news/372863\">http://www.geekpark.net/news/372863</a></p>",
       "summary": "…。 苹果未立即回应置评请求。（来源：cnBeta） 长鑫存储拒绝苹果低价采购要求，优先推进中国内存自主化布局 10 月 25 日，此前有报道称，苹果希望从长鑫获得比现有供应商更低的报价，但长鑫没有接受降价要求。最新报道提到，一家台湾服务器厂商寻求采购长鑫的 DDR5 内存，同样未能达成合作。 在消费电子行业，供应商通常愿意通过降价换取苹果长期且规模可观的订单。然而在 DRAM 领域，长鑫存储却选择了另…",
       "date_published": "2026-10-26T15:17:24+08:00",
-      "date_modified": "2026-10-27T00:24:14+08:00",
+      "date_modified": "2026-10-27T15:09:37+08:00",
       "tags": [
         "资讯·极客公园",
         "rss",
@@ -43,28 +57,14 @@
       "id": "tag:ai-egg-monitor,2026:activity:e19b176216415324",
       "url": "http://www.geekpark.net/news/372807",
       "title": "中国 AI 硬件的下一个爆款，可能生在「网球场」",
-      "content_html": "<p><strong>厂商</strong>：资讯·极客公园</p>\n<p><strong>标题</strong>：中国 AI 硬件的下一个爆款，可能生在「网球场」</p>\n<p><strong>福利摘要</strong>：…从不真正回击你那颗球，但一来一回之间，回合感确实成立。 预测用户击球落点位置｜来源：AceiiLab 不过，这既考验用户的适应能力，也考验机器能否快速到位、精准发球。如果中间卡顿明显，对拉体验就会大打折扣。我们花了至少几十分钟，才慢慢适应和机器打球的节奏。 120 颗球，按正常 3.0 水平的对打节奏，大概能打 30 分钟左右。由于每一颗球都是新球，整体消耗速度也会比较快。「不管是新手还是熟手，都能获…</p>\n<p><strong>需登录</strong>：否</p>\n<p><strong>来源类型</strong>：rss</p>\n<p><strong>命中关键词</strong>：折扣</p>\n<p><strong>首次发现</strong>：2026-10-23T14:49:18+08:00</p>\n<p><strong>最后更新</strong>：2026-10-27T00:24:14+08:00</p>\n<p><strong>原始链接</strong>：<a href=\"http://www.geekpark.net/news/372807\">http://www.geekpark.net/news/372807</a></p>",
+      "content_html": "<p><strong>厂商</strong>：资讯·极客公园</p>\n<p><strong>标题</strong>：中国 AI 硬件的下一个爆款，可能生在「网球场」</p>\n<p><strong>福利摘要</strong>：…从不真正回击你那颗球，但一来一回之间，回合感确实成立。 预测用户击球落点位置｜来源：AceiiLab 不过，这既考验用户的适应能力，也考验机器能否快速到位、精准发球。如果中间卡顿明显，对拉体验就会大打折扣。我们花了至少几十分钟，才慢慢适应和机器打球的节奏。 120 颗球，按正常 3.0 水平的对打节奏，大概能打 30 分钟左右。由于每一颗球都是新球，整体消耗速度也会比较快。「不管是新手还是熟手，都能获…</p>\n<p><strong>需登录</strong>：否</p>\n<p><strong>来源类型</strong>：rss</p>\n<p><strong>命中关键词</strong>：折扣</p>\n<p><strong>首次发现</strong>：2026-10-23T14:49:18+08:00</p>\n<p><strong>最后更新</strong>：2026-10-27T15:09:37+08:00</p>\n<p><strong>原始链接</strong>：<a href=\"http://www.geekpark.net/news/372807\">http://www.geekpark.net/news/372807</a></p>",
       "summary": "…从不真正回击你那颗球，但一来一回之间，回合感确实成立。 预测用户击球落点位置｜来源：AceiiLab 不过，这既考验用户的适应能力，也考验机器能否快速到位、精准发球。如果中间卡顿明显，对拉体验就会大打折扣。我们花了至少几十分钟，才慢慢适应和机器打球的节奏。 120 颗球，按正常 3.0 水平的对打节奏，大概能打 30 分钟左右。由于每一颗球都是新球，整体消耗速度也会比较快。「不管是新手还是熟手，都能获…",
       "date_published": "2026-10-23T14:49:18+08:00",
-      "date_modified": "2026-10-27T00:24:14+08:00",
+      "date_modified": "2026-10-27T15:09:37+08:00",
       "tags": [
         "资讯·极客公园",
         "rss",
         "折扣"
-      ]
-    },
-    {
-      "id": "tag:ai-egg-monitor,2026:activity:31415d98f1871448",
-      "url": "http://www.geekpark.net/news/372943",
-      "title": "Kimi 发布 K3.1 Pro，加量降价挑战 Opus 5.5",
-      "content_html": "<p><strong>厂商</strong>：资讯·极客公园</p>\n<p><strong>标题</strong>：Kimi 发布 K3.1 Pro，加量降价挑战 Opus 5.5</p>\n<p><strong>福利摘要</strong>：….1 Pro 审查一个小游戏就烧掉了 5 小时额度的 13%，同样的任务交给 Opus 只用了 3%。还有人说 Highspeed 版用起来「真的很舒服」，但 5 小时的额度撑不到 2 小时。API 降价了三分之一，订阅用户却没有明显感受到。 测试进行到第三版时，199 元套餐触发 5 小时用量上限｜图片来源：大佬说论坛网友 NightRain 这其实是 K3 时代就留下的老问题。7 月 K3 发布后…</p>\n<p><strong>需登录</strong>：否</p>\n<p><strong>来源类型</strong>：rss</p>\n<p><strong>命中关键词</strong>：降价</p>\n<p><strong>首次发现</strong>：2026-10-27T00:24:14+08:00</p>\n<p><strong>最后更新</strong>：2026-10-27T00:24:14+08:00</p>\n<p><strong>原始链接</strong>：<a href=\"http://www.geekpark.net/news/372943\">http://www.geekpark.net/news/372943</a></p>",
-      "summary": "….1 Pro 审查一个小游戏就烧掉了 5 小时额度的 13%，同样的任务交给 Opus 只用了 3%。还有人说 Highspeed 版用起来「真的很舒服」，但 5 小时的额度撑不到 2 小时。API 降价了三分之一，订阅用户却没有明显感受到。 测试进行到第三版时，199 元套餐触发 5 小时用量上限｜图片来源：大佬说论坛网友 NightRain 这其实是 K3 时代就留下的老问题。7 月 K3 发布后…",
-      "date_published": "2026-10-27T00:24:14+08:00",
-      "date_modified": "2026-10-27T00:24:14+08:00",
-      "tags": [
-        "资讯·极客公园",
-        "rss",
-        "降价"
       ]
     },
     {

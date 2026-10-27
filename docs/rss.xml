@@ -5,7 +5,7 @@
     <link>https://ikeng.github.io/model-egg-monitor/</link>
     <description>每日两次监控大模型厂商活动，提供 Atom / JSON Feed 订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 27 Oct 2026 00:24:33 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 15:09:55 +0800</lastBuildDate>
     <generator>ai-egg-monitor</generator>
     <item>
       <title>大模型 API 价格方案</title>
@@ -96,6 +96,14 @@
       <category>智谱 GLM</category>
     </item>
     <item>
+      <title>Kimi 发布 K3.1 Pro，加量降价挑战 Opus 5.5</title>
+      <link>http://www.geekpark.net/news/372943</link>
+      <description>….1 Pro 审查一个小游戏就烧掉了 5 小时额度的 13%，同样的任务交给 Opus 只用了 3%。还有人说 Highspeed 版用起来「真的很舒服」，但 5 小时的额度撑不到 2 小时。API 降价了三分之一，订阅用户却没有明显感受到。 测试进行到第三版时，199 元套餐触发 5 小时用量上限｜图片来源：大佬说论坛网友 NightRain 这其实是 K3 时代就留下的老问题。7 月 K3 发布后…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:31415d98f1871448</guid>
+      <pubDate>Tue, 27 Oct 2026 00:24:14 +0800</pubDate>
+      <category>资讯·极客公园</category>
+    </item>
+    <item>
       <title>Different Types of API Keys and Rate Limits</title>
       <link>https://docs.cohere.com/docs/rate-limits</link>
       <description>…- v1 API: https://docs.cohere.com/v1/llms.txt Cohere offers two kinds of API keys: evaluation keys (free but limited in usage), and production keys (paid and much less limited in usage). You can create a…</description>
@@ -150,14 +158,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:573469f2620924c1</guid>
       <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
       <category>Modal</category>
-    </item>
-    <item>
-      <title>从“算力”到“Token 生产力”，硅基流动助力央国企大模型规模化落地</title>
-      <link>https://www.leiphone.com/category/industrynews/DVoE94j80j6cboxE.html</link>
-      <description>…至过载；完全按白天峰值配置，又会在其他时段造成资源浪费。因此，既需要弹性扩缩容策略，也需要运营手段配合。 例如，央国企面向各分子公司提供模型服务时，可在内部结算中采用分时定价：白天按常规定价，夜间给予折扣，引导部分业务在夜间运行。各业务可能使用不同模型，这就要求平台能够基于请求队列、性能等多维度指标动态调整模型实例。 央国企案例：从“租机器”转向“调用模型服务” 我们服务过一家央国企集团，原来有大约…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:5adf337bd9597b20</guid>
-      <pubDate>Fri, 23 Oct 2026 22:34:32 +0800</pubDate>
-      <category>资讯·雷锋网</category>
     </item>
     <item>
       <title>Gemini Developer API pricing</title>
@@ -400,12 +400,36 @@
       <category>Google Gemini</category>
     </item>
     <item>
-      <title>Kimi 发布 K3.1 Pro，加量降价挑战 Opus 5.5</title>
-      <link>http://www.geekpark.net/news/372943</link>
-      <description>….1 Pro 审查一个小游戏就烧掉了 5 小时额度的 13%，同样的任务交给 Opus 只用了 3%。还有人说 Highspeed 版用起来「真的很舒服」，但 5 小时的额度撑不到 2 小时。API 降价了三分之一，订阅用户却没有明显感受到。 测试进行到第三版时，199 元套餐触发 5 小时用量上限｜图片来源：大佬说论坛网友 NightRain 这其实是 K3 时代就留下的老问题。7 月 K3 发布后…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:31415d98f1871448</guid>
-      <pubDate>Tue, 27 Oct 2026 00:24:14 +0800</pubDate>
-      <category>资讯·极客公园</category>
+      <title>How to teach with Databricks Free Edition</title>
+      <link>https://www.databricks.com/blog/how-teach-databricks-free-edition</link>
+      <description>You can run a full data or AI course on the same platform enterprises use in production - for free...</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:d173f0dade7f4cc1</guid>
+      <pubDate>Tue, 27 Oct 2026 15:09:37 +0800</pubDate>
+      <category>Databricks</category>
+    </item>
+    <item>
+      <title>蚂蚁灵光2.0发布：从能聊会做，到记得住、盯得牢、办得了</title>
+      <link>https://www.leiphone.com/category/industrynews/IxG2F47VLIt3uTOW.html</link>
+      <description>机票订完后，AI 24小时盯价，发现降价及时提醒；翻看日常账单，AI识别可能闲置的续费订阅，帮你省钱；家长顾不上查看班级群，AI也能梳理老师通知、提取待办事项……这些过去需要用户自己发现、记住和安排的生活琐事，如今正开始由AI主动接手。 1…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:140654225d3ebb93</guid>
+      <pubDate>Tue, 27 Oct 2026 15:09:37 +0800</pubDate>
+      <category>资讯·雷锋网</category>
+    </item>
+    <item>
+      <title>华强北商家称近期内存价格回调但仍居高位，市场“有价无市”、10 月销量普遍下滑 20% 至 30%</title>
+      <link>https://www.ithome.com/1/018/384.htm</link>
+      <description>…道甚至出现了价格倒挂的情况。 目前内存出厂价仍然在涨，但是由于不少渠道商前期囤了很多货，而大部分消费者在内存价格高企的时刻选择观望，整个市场需求下滑，为了迅速回笼资金减轻库存压力，不少渠道商还是会选择降价出货。 业内人士表示，内存市场价格出现小幅下调， 主要是有些渠道商资金压力大，必须出货回笼资金，但大家都是高成本进货，谁也不敢降太多 ，于是市场出现了报价坚挺、成交冷清、局部倒挂的现象，整个渠道库存和…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:8f7ec23a6778f033</guid>
+      <pubDate>Tue, 27 Oct 2026 15:09:37 +0800</pubDate>
+      <category>资讯·IT之家</category>
+    </item>
+    <item>
+      <title>从“算力”到“Token 生产力”，硅基流动助力央国企大模型规模化落地</title>
+      <link>https://www.leiphone.com/category/industrynews/DVoE94j80j6cboxE.html</link>
+      <description>…至过载；完全按白天峰值配置，又会在其他时段造成资源浪费。因此，既需要弹性扩缩容策略，也需要运营手段配合。 例如，央国企面向各分子公司提供模型服务时，可在内部结算中采用分时定价：白天按常规定价，夜间给予折扣，引导部分业务在夜间运行。各业务可能使用不同模型，这就要求平台能够基于请求队列、性能等多维度指标动态调整模型实例。 央国企案例：从“租机器”转向“调用模型服务” 我们服务过一家央国企集团，原来有大约…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:5adf337bd9597b20</guid>
+      <pubDate>Fri, 23 Oct 2026 22:34:32 +0800</pubDate>
+      <category>资讯·雷锋网</category>
     </item>
     <item>
       <title>超充越来越快，车企为何盯上换电？</title>
@@ -782,30 +806,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:1a487eae5d13e635</guid>
       <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
       <category>资讯·极客公园</category>
-    </item>
-    <item>
-      <title>The Lenfest Institute grows landmark program with expanded OpenAI support</title>
-      <link>https://openai.com/index/lenfest-ai-collaborative-expansion</link>
-      <description>…AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:5737732c967f40f2</guid>
-      <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
-      <category>OpenAI</category>
-    </item>
-    <item>
-      <title>1688全面接入AI电商工作台Accio</title>
-      <link>https://www.leiphone.com/category/industrynews/geJK2UpprDrFwEMI.html</link>
-      <description>…一个工作台内闭环完成，无需再来回切换。 值得关注的是，此次1688全面接入Accio正值双11备战期。每逢大促，中小商家每天要应对一连串充满不确定性的决策——哪个广告计划在烧钱？哪个商品可能断货？竞品降价了要不要跟？与此同时，多平台数据“各说各话”，往往等问题汇总出来，最佳处理时机已经过去。此外，大促期间素材需求集中爆发，主图、详情页、海报、短视频要在预热、开门红、高潮、返场各阶段同步更新，团队节奏根…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:e2502adef35618e2</guid>
-      <pubDate>Tue, 13 Oct 2026 16:49:32 +0800</pubDate>
-      <category>资讯·雷锋网</category>
-    </item>
-    <item>
-      <title>语音资源包</title>
-      <link>https://platform.minimaxi.com/document/price</link>
-      <description>…价格 语音资源包 复制页面 MiniMax语音资源包定价 复制页面 ​ HD 系列 立即购买 分类 语音套餐一 （节省 10%） 语音套餐二 （节省 15%） 语音套餐三 （节省 20%） 商务定制 折扣价 ¥630 ¥5,950 ¥56,000 基于量级的额外折扣 原价 ¥700 ¥7,000 ¥70,000 —— 有效期 1 个月 3 个月 1 年 —— 总字符数量 2,000,000 字符 20…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:4935578386852c47</guid>
-      <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
-      <category>MiniMax</category>
     </item>
   </channel>
 </rss>
