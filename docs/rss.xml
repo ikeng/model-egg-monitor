@@ -5,7 +5,7 @@
     <link>https://ikeng.github.io/model-egg-monitor/</link>
     <description>每日两次监控大模型厂商活动，提供 Atom / JSON Feed 订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 27 Oct 2026 15:09:55 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 23:40:23 +0800</lastBuildDate>
     <generator>ai-egg-monitor</generator>
     <item>
       <title>大模型 API 价格方案</title>
@@ -46,6 +46,14 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:0d2c4df3ac601949</guid>
       <pubDate>Mon, 12 Oct 2026 16:24:02 +0800</pubDate>
       <category>PPIO 派欧云</category>
+    </item>
+    <item>
+      <title>蚂蚁灵光2.0发布：从能聊会做，到记得住、盯得牢、办得了</title>
+      <link>https://www.leiphone.com/category/industrynews/IxG2F47VLIt3uTOW.html</link>
+      <description>机票订完后，AI 24小时盯价，发现降价及时提醒；翻看日常账单，AI识别可能闲置的续费订阅，帮你省钱；家长顾不上查看班级群，AI也能梳理老师通知、提取待办事项……这些过去需要用户自己发现、记住和安排的生活琐事，如今正开始由AI主动接手。 1…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:140654225d3ebb93</guid>
+      <pubDate>Tue, 27 Oct 2026 15:09:37 +0800</pubDate>
+      <category>资讯·雷锋网</category>
     </item>
     <item>
       <title>Latest news</title>
@@ -126,14 +134,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:454f941d51e15f39</guid>
       <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
       <category>Perplexity</category>
-    </item>
-    <item>
-      <title>Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Global Industrial AIoT Platforms</title>
-      <link>https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-global-industrial-aiot-platforms/</link>
-      <description>…share that Microsoft has been named a Leader in the 2026 Gartner® Magic Quadrant™ for Global Industrial AIoT Platforms. The post Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Global I…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:471b7b657ecfc70e</guid>
-      <pubDate>Thu, 08 Oct 2026 18:12:53 +0800</pubDate>
-      <category>Azure AI</category>
     </item>
     <item>
       <title>GPU Cloud Pricing</title>
@@ -234,7 +234,7 @@
     <item>
       <title>Try NVIDIA NIM APIs</title>
       <link>https://build.nvidia.com/explore/discover</link>
-      <description>…Climate &amp; Weather Safety &amp; Moderation Industries Automotive Financial Services Healthcare Industrial Robotics Start Building with your DGX Spark Explore step-by-step playbooks, including setting up Ne…</description>
+      <description>…by the community, optimized and accelerated by NVIDIA&#39;s enterprise-ready inference runtime. NVIDIA Free Endpoint nemotron-3.5-super-vl-120b-a12b Nemotron 3.5 Super early-access reasoning model for agenti…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:8a143abe5f3a9d8b</guid>
       <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
       <category>NVIDIA NIM</category>
@@ -246,14 +246,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:8fd93e908672e965</guid>
       <pubDate>Sun, 11 Oct 2026 16:06:47 +0800</pubDate>
       <category>xAI Grok</category>
-    </item>
-    <item>
-      <title>宁德时代董秘被打？知情人士回应；怕担责先跑路？娃哈哈集团董事长许思敏离职；DeepSeek完成近1000亿元融资，宁德时代、腾讯参投</title>
-      <link>https://www.leiphone.com/category/zaobao/IlrVRbBiK9Klcuj1.html</link>
-      <description>…年第三季度财报。其中数据显示，截至第三季度末，特斯拉活跃FSD付费用户规模达到174万，同比增长67%，较第一季度末的128万增加46万。根据财报统计口径，该数据包括一次性购买和按月订阅的用户，不包含免费试用用户。 特斯拉方面表示，第三季度FSD监督版在北美新车交付中的搭载率超过75%，较第二季度提高近20个百分点。欧洲市场方面，自第二季度末以来，FSD又获得克罗地亚等四个欧盟国家的批准，目前已在九个欧盟…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:93867ccc61e7ed78</guid>
-      <pubDate>Fri, 23 Oct 2026 22:34:32 +0800</pubDate>
-      <category>资讯·雷锋网</category>
     </item>
     <item>
       <title>Fastest AI Inference Cloud and API</title>
@@ -310,6 +302,14 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:cb7b29bd71a9e5c3</guid>
       <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
       <category>通义千问</category>
+    </item>
+    <item>
+      <title>How to teach with Databricks Free Edition</title>
+      <link>https://www.databricks.com/blog/how-teach-databricks-free-edition</link>
+      <description>You can run a full data or AI course on the same platform enterprises use in production - for free...</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:d173f0dade7f4cc1</guid>
+      <pubDate>Tue, 27 Oct 2026 15:09:37 +0800</pubDate>
+      <category>Databricks</category>
     </item>
     <item>
       <title>OpenRouter Models</title>
@@ -378,7 +378,7 @@
     <item>
       <title>Pricing</title>
       <link>https://replicate.com/pricing</link>
-      <description>…Wan 3.0 is 30% off this week Replicate glyph Explore Pricing Enterprise Docs Blog Sign in Try for free Menu Explore Pricing Enterprise Docs Blog Sign in Try for free Compare models in the Playground Pri…</description>
+      <description>…Try Kling 4.0 from Kuaishou Replicate glyph Explore Pricing Enterprise Docs Blog Sign in Try for free Menu Explore Pricing Enterprise Docs Blog Sign in Try for free Compare models in the Playground Pri…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:fa59899fb80cc144</guid>
       <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
       <category>Replicate</category>
@@ -400,20 +400,36 @@
       <category>Google Gemini</category>
     </item>
     <item>
-      <title>How to teach with Databricks Free Edition</title>
-      <link>https://www.databricks.com/blog/how-teach-databricks-free-edition</link>
-      <description>You can run a full data or AI course on the same platform enterprises use in production - for free...</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:d173f0dade7f4cc1</guid>
-      <pubDate>Tue, 27 Oct 2026 15:09:37 +0800</pubDate>
-      <category>Databricks</category>
+      <title>京东 1 号会员店 10 月 28 日起调整会员权益：尊享卡返 2% 赠金，每月权益需消费解锁</title>
+      <link>https://www.ithome.com/1/018/698.htm</link>
+      <description>IT之家 10 月 27 日消息，京东旗下 1 号会员店宣布将于 10 月 28 日起调整会员权益体系。 根据 官方公告 ，此次调整的核心变化是购物返利从“满 200 元返券”改为按订单金额比例返还“赠金”，尊享卡会员返 2%、普通卡会员返 1%，每月赠金上限分别为 500 元和 200 元。1 元赠金可抵扣 1 元人民币，特殊商品不参与返金也不支持赠金抵扣。 新老用户按续费渠道和时效分流。10 月…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:d317df5d53054771</guid>
+      <pubDate>Tue, 27 Oct 2026 23:40:03 +0800</pubDate>
+      <category>资讯·IT之家</category>
     </item>
     <item>
-      <title>蚂蚁灵光2.0发布：从能聊会做，到记得住、盯得牢、办得了</title>
-      <link>https://www.leiphone.com/category/industrynews/IxG2F47VLIt3uTOW.html</link>
-      <description>机票订完后，AI 24小时盯价，发现降价及时提醒；翻看日常账单，AI识别可能闲置的续费订阅，帮你省钱；家长顾不上查看班级群，AI也能梳理老师通知、提取待办事项……这些过去需要用户自己发现、记住和安排的生活琐事，如今正开始由AI主动接手。 1…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:140654225d3ebb93</guid>
-      <pubDate>Tue, 27 Oct 2026 15:09:37 +0800</pubDate>
-      <category>资讯·雷锋网</category>
+      <title>苹果 Apple 创作坊新增 AI 功能和更多创意工具，11 月免费更新上线</title>
+      <link>https://www.ithome.com/1/018/666.htm</link>
+      <description>…的功能（将于 12 月推出）。 价格与上市时间 Apple 创作坊将于今年 11 月通过 App Store 发布免费更新。新订阅用户每月付费 38 元 ，或每年付费 380 元 。所有新订阅用户均可免费试用 Apple 创作坊一个月；购买新 Mac 或符合条件的 iPad 的顾客可享受三个月免费试用。 高校学生与教职员工可享受教育优惠价，价格为每月 18 元 或每年 180 元 。 Apple 创作坊在…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:be58ef7c3ecf99a2</guid>
+      <pubDate>Tue, 27 Oct 2026 23:40:03 +0800</pubDate>
+      <category>资讯·IT之家</category>
+    </item>
+    <item>
+      <title>帮用户抢 iPhone 折叠屏的 Agent，正在塑造 AI 时代电商的形状</title>
+      <link>http://www.geekpark.net/news/373002</link>
+      <description>…线 。UCP 背后的机构引用的市场预测认为，到 2030 年，Agent 购物可能占到美国电商消费的 10% 到 20%，规模在 1900 亿到 3850 亿美元之间。这个数字来自利益相关方，需要打个折扣，但方向不难判断。 问题在于，开放并不等于没有代价。 图片来源：Ignitiv 对商家来说，当 Agent 替消费者做选择，精心设计的店铺页面、多年积累的品牌心智，作用都会被削弱，商家可能从「门店」退…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:eb754ed5af39677a</guid>
+      <pubDate>Tue, 27 Oct 2026 23:40:03 +0800</pubDate>
+      <category>资讯·极客公园</category>
+    </item>
+    <item>
+      <title>Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Global Industrial AIoT Platforms</title>
+      <link>https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-global-industrial-aiot-platforms/</link>
+      <description>…share that Microsoft has been named a Leader in the 2026 Gartner® Magic Quadrant™ for Global Industrial AIoT Platforms. The post Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Global I…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:471b7b657ecfc70e</guid>
+      <pubDate>Thu, 08 Oct 2026 18:12:53 +0800</pubDate>
+      <category>Azure AI</category>
     </item>
     <item>
       <title>华强北商家称近期内存价格回调但仍居高位，市场“有价无市”、10 月销量普遍下滑 20% 至 30%</title>
@@ -422,6 +438,14 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:8f7ec23a6778f033</guid>
       <pubDate>Tue, 27 Oct 2026 15:09:37 +0800</pubDate>
       <category>资讯·IT之家</category>
+    </item>
+    <item>
+      <title>宁德时代董秘被打？知情人士回应；怕担责先跑路？娃哈哈集团董事长许思敏离职；DeepSeek完成近1000亿元融资，宁德时代、腾讯参投</title>
+      <link>https://www.leiphone.com/category/zaobao/IlrVRbBiK9Klcuj1.html</link>
+      <description>…年第三季度财报。其中数据显示，截至第三季度末，特斯拉活跃FSD付费用户规模达到174万，同比增长67%，较第一季度末的128万增加46万。根据财报统计口径，该数据包括一次性购买和按月订阅的用户，不包含免费试用用户。 特斯拉方面表示，第三季度FSD监督版在北美新车交付中的搭载率超过75%，较第二季度提高近20个百分点。欧洲市场方面，自第二季度末以来，FSD又获得克罗地亚等四个欧盟国家的批准，目前已在九个欧盟…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:93867ccc61e7ed78</guid>
+      <pubDate>Fri, 23 Oct 2026 22:34:32 +0800</pubDate>
+      <category>资讯·雷锋网</category>
     </item>
     <item>
       <title>从“算力”到“Token 生产力”，硅基流动助力央国企大模型规模化落地</title>
@@ -782,30 +806,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:83d1b39edfc8580d</guid>
       <pubDate>Thu, 15 Oct 2026 22:36:15 +0800</pubDate>
       <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>2598 元 → 1664 元国补直降：大疆 Osmo Action 5 Pro 破冰新低</title>
-      <link>https://www.ithome.com/1/013/660.htm</link>
-      <description>…活动可能随时变更，需以实付款为准】 大疆 Osmo Action 5 Pro 运动相机发布于 2024 年 9 月 19 日，标准套装售价 2598 元。 京东 11.11 大促期间，领取 240 元优惠券，叠加 15% 国补（立减 293.7 元）后仅需 1664.3 元： 京东 大疆 Osmo Action 5 Pro 标准套装 国补后 1664.3 元 领 240 元券 京东 11.11 红包至高…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:9ee0bd4f9cfc6a0a</guid>
-      <pubDate>Thu, 15 Oct 2026 22:36:15 +0800</pubDate>
-      <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>英伟达股价创新高，逼近 6 万亿美元；限制 AI 助手，苹果收紧 MacOS 磁盘访问权限；arXiv 每人每月仅允许投递 2 篇论文</title>
-      <link>http://www.geekpark.net/news/372070</link>
-      <description>…大模型，具备极速推理、强大的编码能力，原生支持文本、图像、视频输入，思考深度可调，上下文长达 1M。WorkBuddy 国内独家接入，2026 年 10 月 2 日至 10 月 7 日间可享限时折扣。 2026 年 9 月 27 日，Space Bunny 在 OpenRouter 的 Token 调用量约 3.99 万亿，在 OpenCode 约 8.3 万亿，均位居第一，连续霸榜三天。（来源…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:0a02cf04f0132a7a</guid>
-      <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
-      <category>资讯·极客公园</category>
-    </item>
-    <item>
-      <title>苹果首款触屏 Macbook 或 10 月发布；AI 能力成本三年下降数千倍创纪录；美人形机器人跳入熔炉，致敬《终结者 2》</title>
-      <link>http://www.geekpark.net/news/372069</link>
-      <description>…为人工智能的四分之一，计算性能成本下降速度约为人工智能的六分之一，而锂电池成本下降速度则更慢。研究人员认为，在所有已知的通用技术中，人工智能可能是价格下降最快的一项。 研究发现，不同领域的 AI 能力降价速度存在差异。在数学推理领域，相关能力成本每季度下降约 50%至 52%；在游戏和谜题等任务中，成本降幅则略低，约为 39%至 43%。（来源：cnBeta） 亚马逊发布全新 Kindle，取消传统边…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:1a487eae5d13e635</guid>
-      <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
-      <category>资讯·极客公园</category>
     </item>
   </channel>
 </rss>
