@@ -5,7 +5,7 @@
     <link>https://ikeng.github.io/model-egg-monitor/</link>
     <description>每日两次监控大模型厂商活动，提供 Atom / JSON Feed 订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 27 Oct 2026 23:40:23 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 15:48:51 +0800</lastBuildDate>
     <generator>ai-egg-monitor</generator>
     <item>
       <title>大模型 API 价格方案</title>
@@ -184,14 +184,6 @@
       <category>Ollama</category>
     </item>
     <item>
-      <title>行业第一！百度健康AI服务MAU超5000万，发布好医矩阵和健康相机</title>
-      <link>https://www.leiphone.com/category/industrynews/RRFr9U8GKWjNNxfH.html</link>
-      <description>…势，同时引入真人医生的专业能力，使健康回答更加权威可信、有据可依。不仅是让用户得到回答，而是让每个问题，都得到负责任的解决。 目前，好医答已经全部覆盖皮肤科、内科、中医科、妇科等四大主流科室，全部能力限时免费开放体验。 打通就医最后一公里！把患者从对话框带进医生诊室 从用户健康信息检索的基本需求，到生成式AI的健康问答，再到真人医生在线问诊和线下就医服务的连接，百度健康致力于让用户就诊的全流程都有真人医生…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:6b824f9e05378918</guid>
-      <pubDate>Sat, 24 Oct 2026 21:46:43 +0800</pubDate>
-      <category>资讯·雷锋网</category>
-    </item>
-    <item>
       <title>Cloud Pricing</title>
       <link>https://www.baseten.co/pricing/</link>
       <description>…GPUs currently available on Baseten. Reach out to us to request additional GPU types. Do you offer free credits to get started? Yes, new Baseten accounts come with credits so you can get to know the UI a…</description>
@@ -234,7 +226,7 @@
     <item>
       <title>Try NVIDIA NIM APIs</title>
       <link>https://build.nvidia.com/explore/discover</link>
-      <description>…by the community, optimized and accelerated by NVIDIA&#39;s enterprise-ready inference runtime. NVIDIA Free Endpoint nemotron-3.5-super-vl-120b-a12b Nemotron 3.5 Super early-access reasoning model for agenti…</description>
+      <description>…Climate &amp; Weather Safety &amp; Moderation Industries Automotive Financial Services Healthcare Industrial Robotics Start Building with your DGX Spark Explore step-by-step playbooks, including setting up Ne…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:8a143abe5f3a9d8b</guid>
       <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
       <category>NVIDIA NIM</category>
@@ -270,6 +262,14 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:a3169b683b57358b</guid>
       <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
       <category>Cerebras</category>
+    </item>
+    <item>
+      <title>Newsroom \ Anthropic</title>
+      <link>https://www.anthropic.com/news</link>
+      <description>…General Services Administration (GSA) through a new agreement that gives government partners a 40% discount on Claude Enterprise, Claude for Government, and the Claude API. Partnerships Oct 27, 2026 Oct 27,…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:b15c32a87bcd99dd</guid>
+      <pubDate>Wed, 21 Oct 2026 14:52:38 +0800</pubDate>
+      <category>Anthropic</category>
     </item>
     <item>
       <title>Hallo, Deutschland!</title>
@@ -352,20 +352,20 @@
       <category>百度文心</category>
     </item>
     <item>
+      <title>帮用户抢 iPhone 折叠屏的 Agent，正在塑造 AI 时代电商的形状</title>
+      <link>http://www.geekpark.net/news/373002</link>
+      <description>…线 。UCP 背后的机构引用的市场预测认为，到 2030 年，Agent 购物可能占到美国电商消费的 10% 到 20%，规模在 1900 亿到 3850 亿美元之间。这个数字来自利益相关方，需要打个折扣，但方向不难判断。 问题在于，开放并不等于没有代价。 图片来源：Ignitiv 对商家来说，当 Agent 替消费者做选择，精心设计的店铺页面、多年积累的品牌心智，作用都会被削弱，商家可能从「门店」退…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:eb754ed5af39677a</guid>
+      <pubDate>Tue, 27 Oct 2026 23:40:03 +0800</pubDate>
+      <category>资讯·极客公园</category>
+    </item>
+    <item>
       <title>定价概览</title>
       <link>https://platform.minimaxi.com/document/price</link>
       <description>…标点等 Token与字符比（估算）：1600 中文字符约消耗 1000 tokens ​ 视频 立即充值 ​ H3 系列旗舰模型 模型 输出分辨率 输出视频 每秒 输入视频 每秒 输入图片 每张 超出免费额度后 MiniMax-H3 画质优先，适合高品质视频创作 2K ¥0.80 ¥0.20 768P ¥0.50 ¥0.20 MiniMax-H3-Highspeed 兼顾质量与速度，适合日常内容创作…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:efff6cc6ac0e23bf</guid>
       <pubDate>Wed, 14 Oct 2026 22:49:18 +0800</pubDate>
       <category>MiniMax</category>
-    </item>
-    <item>
-      <title>Benefit Street Partners answers questions faster with Codex</title>
-      <link>https://openai.com/index/benefit-street-partners</link>
-      <description>Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:f35ff89bf357650c</guid>
-      <pubDate>Sat, 17 Oct 2026 14:26:40 +0800</pubDate>
-      <category>OpenAI</category>
     </item>
     <item>
       <title>Fireworks - Pricing</title>
@@ -400,12 +400,20 @@
       <category>Google Gemini</category>
     </item>
     <item>
-      <title>京东 1 号会员店 10 月 28 日起调整会员权益：尊享卡返 2% 赠金，每月权益需消费解锁</title>
-      <link>https://www.ithome.com/1/018/698.htm</link>
-      <description>IT之家 10 月 27 日消息，京东旗下 1 号会员店宣布将于 10 月 28 日起调整会员权益体系。 根据 官方公告 ，此次调整的核心变化是购物返利从“满 200 元返券”改为按订单金额比例返还“赠金”，尊享卡会员返 2%、普通卡会员返 1%，每月赠金上限分别为 500 元和 200 元。1 元赠金可抵扣 1 元人民币，特殊商品不参与返金也不支持赠金抵扣。 新老用户按续费渠道和时效分流。10 月…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:d317df5d53054771</guid>
-      <pubDate>Tue, 27 Oct 2026 23:40:03 +0800</pubDate>
-      <category>资讯·IT之家</category>
+      <title>微软向6万员工发出自愿离职邀请，补偿至少N+2；身家2800亿的梁文锋，被曝长期在北京租房；苹果否认iPhone Duo为赶产能放宽质检</title>
+      <link>https://www.leiphone.com/category/zaobao/SXb4aJpFWlpTjfkN.html</link>
+      <description>…为0.05美元。相较GPT-6 Astra，其输入、输出token单价均为十分之一；相较GPT-5.6 Terra，标准价格则下降50%。 报道称，自2025年至今，由于开源模型的冲击，OpenAI的降价策略变得更加激进和直接，目标明确指向抢占调用量和生态。降价背后是公司对更大规模调用量的期许。OpenAI CEO山姆·奥尔特曼对Terra 6.1所谓“开启计算机使用时代”的前景颇为看重。（第一财经）…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:dc6f8f361a2a8b62</guid>
+      <pubDate>Wed, 28 Oct 2026 15:48:31 +0800</pubDate>
+      <category>资讯·雷锋网</category>
+    </item>
+    <item>
+      <title>行业第一！百度健康AI服务MAU超5000万，发布好医矩阵和健康相机</title>
+      <link>https://www.leiphone.com/category/industrynews/RRFr9U8GKWjNNxfH.html</link>
+      <description>…势，同时引入真人医生的专业能力，使健康回答更加权威可信、有据可依。不仅是让用户得到回答，而是让每个问题，都得到负责任的解决。 目前，好医答已经全部覆盖皮肤科、内科、中医科、妇科等四大主流科室，全部能力限时免费开放体验。 打通就医最后一公里！把患者从对话框带进医生诊室 从用户健康信息检索的基本需求，到生成式AI的健康问答，再到真人医生在线问诊和线下就医服务的连接，百度健康致力于让用户就诊的全流程都有真人医生…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:6b824f9e05378918</guid>
+      <pubDate>Sat, 24 Oct 2026 21:46:43 +0800</pubDate>
+      <category>资讯·雷锋网</category>
     </item>
     <item>
       <title>苹果 Apple 创作坊新增 AI 功能和更多创意工具，11 月免费更新上线</title>
@@ -416,12 +424,20 @@
       <category>资讯·IT之家</category>
     </item>
     <item>
-      <title>帮用户抢 iPhone 折叠屏的 Agent，正在塑造 AI 时代电商的形状</title>
-      <link>http://www.geekpark.net/news/373002</link>
-      <description>…线 。UCP 背后的机构引用的市场预测认为，到 2030 年，Agent 购物可能占到美国电商消费的 10% 到 20%，规模在 1900 亿到 3850 亿美元之间。这个数字来自利益相关方，需要打个折扣，但方向不难判断。 问题在于，开放并不等于没有代价。 图片来源：Ignitiv 对商家来说，当 Agent 替消费者做选择，精心设计的店铺页面、多年积累的品牌心智，作用都会被削弱，商家可能从「门店」退…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:eb754ed5af39677a</guid>
+      <title>京东 1 号会员店 10 月 28 日起调整会员权益：尊享卡返 2% 赠金，每月权益需消费解锁</title>
+      <link>https://www.ithome.com/1/018/698.htm</link>
+      <description>IT之家 10 月 27 日消息，京东旗下 1 号会员店宣布将于 10 月 28 日起调整会员权益体系。 根据 官方公告 ，此次调整的核心变化是购物返利从“满 200 元返券”改为按订单金额比例返还“赠金”，尊享卡会员返 2%、普通卡会员返 1%，每月赠金上限分别为 500 元和 200 元。1 元赠金可抵扣 1 元人民币，特殊商品不参与返金也不支持赠金抵扣。 新老用户按续费渠道和时效分流。10 月…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:d317df5d53054771</guid>
       <pubDate>Tue, 27 Oct 2026 23:40:03 +0800</pubDate>
-      <category>资讯·极客公园</category>
+      <category>资讯·IT之家</category>
+    </item>
+    <item>
+      <title>Benefit Street Partners answers questions faster with Codex</title>
+      <link>https://openai.com/index/benefit-street-partners</link>
+      <description>Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:f35ff89bf357650c</guid>
+      <pubDate>Sat, 17 Oct 2026 14:26:40 +0800</pubDate>
+      <category>OpenAI</category>
     </item>
     <item>
       <title>Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Global Industrial AIoT Platforms</title>
@@ -558,14 +574,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:3cd4095b8ed19da0</guid>
       <pubDate>Fri, 16 Oct 2026 14:37:42 +0800</pubDate>
       <category>资讯·极客公园</category>
-    </item>
-    <item>
-      <title>Newsroom \ Anthropic</title>
-      <link>https://www.anthropic.com/news</link>
-      <description>…qualify for a Claude Team subscription plan and then add their research team to Standard seats for free, or Premium seats for $15 per month, for up to a year. Announcements Aug 27, 2026 Aug 27, 2026 Anno…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:b15c32a87bcd99dd</guid>
-      <pubDate>Wed, 21 Oct 2026 14:52:38 +0800</pubDate>
-      <category>Anthropic</category>
     </item>
     <item>
       <title>好逛又好买！抖音商城双11热卖商品榜发布</title>
@@ -798,14 +806,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:64ed0a74f24eb683</guid>
       <pubDate>Thu, 15 Oct 2026 14:49:42 +0800</pubDate>
       <category>资讯·雷锋网</category>
-    </item>
-    <item>
-      <title>5999 → 1494 元：石头 H1 分子筛洗烘一体机新低，12kg 一键洗完烘干直接穿</title>
-      <link>https://www.ithome.com/1/013/425.htm</link>
-      <description>石头分子筛洗烘一体机 H1 12kg，定价 5999 元，今日标价 4299 元： 下单立减 1419 元； PLUS 会员立减 128.97 元； 领取 8 折优惠券： 点此领取 ； 以旧换新立减 132.32 元； 国补立减 263.69 元； 到手价为 1494.27 元： 京东 石头 分子筛洗烘一体机 H1 12kg 券后 1494.27 元 领 8 折券…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:83d1b39edfc8580d</guid>
-      <pubDate>Thu, 15 Oct 2026 22:36:15 +0800</pubDate>
-      <category>资讯·IT之家</category>
     </item>
   </channel>
 </rss>
