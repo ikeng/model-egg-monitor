@@ -5,7 +5,7 @@
     <link>https://ikeng.github.io/model-egg-monitor/</link>
     <description>每日两次监控大模型厂商活动，提供 Atom / JSON Feed 订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 28 Oct 2026 15:48:51 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 00:23:40 +0800</lastBuildDate>
     <generator>ai-egg-monitor</generator>
     <item>
       <title>大模型 API 价格方案</title>
@@ -46,14 +46,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:0d2c4df3ac601949</guid>
       <pubDate>Mon, 12 Oct 2026 16:24:02 +0800</pubDate>
       <category>PPIO 派欧云</category>
-    </item>
-    <item>
-      <title>蚂蚁灵光2.0发布：从能聊会做，到记得住、盯得牢、办得了</title>
-      <link>https://www.leiphone.com/category/industrynews/IxG2F47VLIt3uTOW.html</link>
-      <description>机票订完后，AI 24小时盯价，发现降价及时提醒；翻看日常账单，AI识别可能闲置的续费订阅，帮你省钱；家长顾不上查看班级群，AI也能梳理老师通知、提取待办事项……这些过去需要用户自己发现、记住和安排的生活琐事，如今正开始由AI主动接手。 1…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:140654225d3ebb93</guid>
-      <pubDate>Tue, 27 Oct 2026 15:09:37 +0800</pubDate>
-      <category>资讯·雷锋网</category>
     </item>
     <item>
       <title>Latest news</title>
@@ -328,6 +320,14 @@
       <category>面壁智能</category>
     </item>
     <item>
+      <title>微软向6万员工发出自愿离职邀请，补偿至少N+2；身家2800亿的梁文锋，被曝长期在北京租房；苹果否认iPhone Duo为赶产能放宽质检</title>
+      <link>https://www.leiphone.com/category/zaobao/SXb4aJpFWlpTjfkN.html</link>
+      <description>…为0.05美元。相较GPT-6 Astra，其输入、输出token单价均为十分之一；相较GPT-5.6 Terra，标准价格则下降50%。 报道称，自2025年至今，由于开源模型的冲击，OpenAI的降价策略变得更加激进和直接，目标明确指向抢占调用量和生态。降价背后是公司对更大规模调用量的期许。OpenAI CEO山姆·奥尔特曼对Terra 6.1所谓“开启计算机使用时代”的前景颇为看重。（第一财经）…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:dc6f8f361a2a8b62</guid>
+      <pubDate>Wed, 28 Oct 2026 15:48:31 +0800</pubDate>
+      <category>资讯·雷锋网</category>
+    </item>
+    <item>
       <title>Pricing</title>
       <link>https://platform.openai.com/docs/pricing</link>
       <description>…rates. Web search preview (non-reasoning models) $25.00 / 1k calls + Search content tokens are free. Containers Hosted Shell and Code Interpreter 1 GB $0.03, 4 GB $0.12, 16 GB $0.48, 64 GB $1.92 per…</description>
@@ -400,11 +400,51 @@
       <category>Google Gemini</category>
     </item>
     <item>
-      <title>微软向6万员工发出自愿离职邀请，补偿至少N+2；身家2800亿的梁文锋，被曝长期在北京租房；苹果否认iPhone Duo为赶产能放宽质检</title>
-      <link>https://www.leiphone.com/category/zaobao/SXb4aJpFWlpTjfkN.html</link>
-      <description>…为0.05美元。相较GPT-6 Astra，其输入、输出token单价均为十分之一；相较GPT-5.6 Terra，标准价格则下降50%。 报道称，自2025年至今，由于开源模型的冲击，OpenAI的降价策略变得更加激进和直接，目标明确指向抢占调用量和生态。降价背后是公司对更大规模调用量的期许。OpenAI CEO山姆·奥尔特曼对Terra 6.1所谓“开启计算机使用时代”的前景颇为看重。（第一财经）…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:dc6f8f361a2a8b62</guid>
-      <pubDate>Wed, 28 Oct 2026 15:48:31 +0800</pubDate>
+      <title>Legora is building the agentic operating system for legal work</title>
+      <link>https://openai.com/index/legora-agentic-operating-system-for-legal-work</link>
+      <description>…uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:169e86f0790d0191</guid>
+      <pubDate>Thu, 29 Oct 2026 00:23:22 +0800</pubDate>
+      <category>OpenAI</category>
+    </item>
+    <item>
+      <title>Legora is building the agentic operating system for legal work</title>
+      <link>https://openai.com/index/legora</link>
+      <description>…uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:626181b6556ece9b</guid>
+      <pubDate>Thu, 29 Oct 2026 00:23:22 +0800</pubDate>
+      <category>OpenAI</category>
+    </item>
+    <item>
+      <title>内存涨价致旧手机价格坚挺：99 新二手机成华强北抢手货，苹果 iPhone 15 Pro Max 从去年 3000 多元回涨至 4300 元以上</title>
+      <link>https://www.ithome.com/1/019/231.htm</link>
+      <description>IT之家 10 月 28 日消息，据央视财经今日报道，深圳华强北二手手机市场均价 4000 元以上产品的占比已超过 68%。 一位业内人士对央视记者表示，热销机型一年内降价 20% 本是常态，但受内存涨价影响，今年二手手机价格普遍坚挺，部分热门机型甚至出现加价。他以 iPhone 15 Pro Max 举例：这款机型去年在二手市场的价格一度跌至 3000 多元，目前回涨…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:7a7eb92889b8c598</guid>
+      <pubDate>Thu, 29 Oct 2026 00:23:22 +0800</pubDate>
+      <category>资讯·IT之家</category>
+    </item>
+    <item>
+      <title>599 美元 → 649 美元，苹果 MacBook Neo 在美国官网教育商店涨价</title>
+      <link>https://www.ithome.com/1/019/203.htm</link>
+      <description>…4,002 元人民币） 涨到 649 美元 （现汇率约合 4,336 元人民币） 。 IT之家注意到，美国高校生、教职人员现在购买这款笔记本仅可享受 50 美元 （现汇率约合 334.1 元人民币） 折扣，低于此前的 100 美元 （现汇率约合 668.1 元人民币） 。 此外，苹果于今年 6 月调整多款笔记本、平板产品定价，MacBook Neo 从 599 美元 （现汇率约合 4,002 元人民币…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:5eea25e444fd060d</guid>
+      <pubDate>Thu, 29 Oct 2026 00:23:22 +0800</pubDate>
+      <category>资讯·IT之家</category>
+    </item>
+    <item>
+      <title>大客户直接打1折、模型四个月降价80%：大模型价格战没有退路</title>
+      <link>https://www.infoq.cn/article/ejtljxPixrIuUsGYi5xa?utm_source=rss&amp;utm_medium=article</link>
+      <description>点击查看原文&gt;</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:356225415b19d458</guid>
+      <pubDate>Thu, 29 Oct 2026 00:23:22 +0800</pubDate>
+      <category>资讯·InfoQ 中文</category>
+    </item>
+    <item>
+      <title>蚂蚁灵光2.0发布：从能聊会做，到记得住、盯得牢、办得了</title>
+      <link>https://www.leiphone.com/category/industrynews/IxG2F47VLIt3uTOW.html</link>
+      <description>机票订完后，AI 24小时盯价，发现降价及时提醒；翻看日常账单，AI识别可能闲置的续费订阅，帮你省钱；家长顾不上查看班级群，AI也能梳理老师通知、提取待办事项……这些过去需要用户自己发现、记住和安排的生活琐事，如今正开始由AI主动接手。 1…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:140654225d3ebb93</guid>
+      <pubDate>Tue, 27 Oct 2026 15:09:37 +0800</pubDate>
       <category>资讯·雷锋网</category>
     </item>
     <item>
@@ -766,46 +806,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:844b5095ee73f394</guid>
       <pubDate>Sat, 17 Oct 2026 21:24:25 +0800</pubDate>
       <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>京东采销员工发布谣言诋毁其他平台被起诉，法院已立案</title>
-      <link>https://www.leiphone.com/category/industrynews/3pF2gUvuBewkORgl.html</link>
-      <description>…监督报道，名为“知名电商平台陷乱价风波：同款电器差价超千元，市监部门要求落实内卷式竞争整治”，该报道从未登上过今日头条热榜。 该报道指出，京东平台往往会在大促期间要求平台内商家必须提供“全网最低价”、降价成本主要由商家承担，同时通过“毛利保护”条款保障自身利润；为了竞争，京东有时还会针对自己几乎无货的其他平台专供品，故意标一个很低的价格来“乱价”，同款电器有时和其他平台差价上千元，“本质上是用一个假的…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:2237522a5325cac0</guid>
-      <pubDate>Thu, 15 Oct 2026 22:36:15 +0800</pubDate>
-      <category>资讯·雷锋网</category>
-    </item>
-    <item>
-      <title>The Den frees up 10</title>
-      <link>https://openai.com/index/the-den-family-social</link>
-      <description>As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:b3064618fbca75d9</guid>
-      <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
-      <category>OpenAI</category>
-    </item>
-    <item>
-      <title>3299 → 1982 元：石头洗地机 A30 Pro Steam 3.0 国补新低，32000Pa 吸力 + 蒸汽热水混洗</title>
-      <link>https://www.ithome.com/1/013/800.htm</link>
-      <description>…8 月开售，该产品号称首次实现了 180℃ 活性蒸汽与 90℃ 高温热水的一键混洗，可在重度油污环境使用，首发价 3299 元。 京东 11.11 大促期间，活动价 2592 元； 下单领取 9 折优惠券； 国家补贴立减 349.92 元； 到手价为 1982.88 元： 京东 石头 A30 Pro Steam 3.0 洗地机 180° 蒸汽 + 90° 热水 券后 1982.88 元 领 9 折券…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:f69c397d2180640c</guid>
-      <pubDate>Fri, 16 Oct 2026 22:27:05 +0800</pubDate>
-      <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>【钛晨报】潘功胜：全球失衡不能依靠汇率调节；DeepSeek发布补偿通知：将按账号7日内的消耗金额以赠金形式全额返还；工信部等三部门联合调查有关车辆刹车踏板支架断裂问题</title>
-      <link>https://www.tmtpost.com/8170437.html</link>
-      <description>Tim之父、圆通总裁潘水苗出任影视飓风董事长，持股25.65%为第二大股东；腾讯上线“绿泡泡短剧”对标红果，采用IAA模式；台积电第三季度净利润7631亿元台币；OpenAI据报洽购Trail of Bits，拓展网络安全版图；苹果AI国内采用双合作伙伴：阿里提供模型能力，百度负责Siri和视觉智能；马斯克旗下Terafab项目或在明年年中迎来首台EUV光刻设备；四部门公布婴幼儿纸尿裤甲酰胺问题调…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:97645315a3f75624</guid>
-      <pubDate>Fri, 16 Oct 2026 14:37:42 +0800</pubDate>
-      <category>资讯·钛媒体</category>
-    </item>
-    <item>
-      <title>短视频、联盟营销与本地化履约，家居卖家如何撑起一场大促增长？</title>
-      <link>https://www.leiphone.com/category/industrynews/v2QysI05W4eMciQG.html</link>
-      <description>…订单，后端能不能跟得上？ 平时相对稳定的订单一旦在短时间内集中增加，备货、出库和配送都会面临更大的压力。对于中小卖家而言，如果等到订单涌入后再临时调整，前端好不容易获得的增长机会，也可能在后续交付中打折扣。 在这件事上，周扬没有等到大促当天才做准备。 店铺已经将海外仓作为日常经营中的重要履约方式，将商品提前备至当地。到了大促期间，这套本地化履约能力也自然成为承接订单的后端支撑，店铺绝大多数订单都通过海…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:64ed0a74f24eb683</guid>
-      <pubDate>Thu, 15 Oct 2026 14:49:42 +0800</pubDate>
-      <category>资讯·雷锋网</category>
     </item>
   </channel>
 </rss>

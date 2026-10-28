@@ -1,14 +1,18 @@
-# 赛博鸡蛋日报 2026-10-28 15:48
+# 赛博鸡蛋日报 2026-10-29 00:23
 
 > 每日两次监控大模型厂商公开活动，发现"赛博鸡蛋"。
 > 仅做提醒与资讯，不自动领取，不登录，不绕过风控。
 
-今日新增：1
+今日新增：5
 需登录确认：0
 失败源：0
 
 ## 新增
-- [资讯·雷锋网] 微软向6万员工发出自愿离职邀请，补偿至少N+2；身家2800亿的梁文锋，被曝长期在北京租房；苹果否认iPhone Duo为赶产能放宽质检 | …为0.05美元。相较GPT-6 Astra，其输入、输出token单价均为十分之一；相较GPT-5.6 Terra，标准价格则下降50%。 报道称，自2025年至今，由于开源模型的冲击，OpenAI的降价策略变得更加激进和直接，目标明确指向抢占调用量和生态。降价背后是公司对更大规模调用量的期许。OpenAI CEO山姆·奥尔特曼对Terra 6.1所谓“开启计算机使用时代”的前景颇为看重。（第一财经）… | 状态：待领取 | 需登录：否 | [链接](https://www.leiphone.com/category/zaobao/SXb4aJpFWlpTjfkN.html)
+- [OpenAI] Legora is building the agentic operating system for legal work | …uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work. | 状态：待领取 | 需登录：否 | [链接](https://openai.com/index/legora-agentic-operating-system-for-legal-work)
+- [OpenAI] Legora is building the agentic operating system for legal work | …uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work. | 状态：待领取 | 需登录：否 | [链接](https://openai.com/index/legora)
+- [资讯·IT之家] 内存涨价致旧手机价格坚挺：99 新二手机成华强北抢手货，苹果 iPhone 15 Pro Max 从去年 3000 多元回涨至 4300 元以上 | IT之家 10 月 28 日消息，据央视财经今日报道，深圳华强北二手手机市场均价 4000 元以上产品的占比已超过 68%。 一位业内人士对央视记者表示，热销机型一年内降价 20% 本是常态，但受内存涨价影响，今年二手手机价格普遍坚挺，部分热门机型甚至出现加价。他以 iPhone 15 Pro Max 举例：这款机型去年在二手市场的价格一度跌至 3000 多元，目前回涨… | 状态：待领取 | 需登录：否 | [链接](https://www.ithome.com/1/019/231.htm)
+- [资讯·IT之家] 599 美元 → 649 美元，苹果 MacBook Neo 在美国官网教育商店涨价 | …4,002 元人民币） 涨到 649 美元 （现汇率约合 4,336 元人民币） 。 IT之家注意到，美国高校生、教职人员现在购买这款笔记本仅可享受 50 美元 （现汇率约合 334.1 元人民币） 折扣，低于此前的 100 美元 （现汇率约合 668.1 元人民币） 。 此外，苹果于今年 6 月调整多款笔记本、平板产品定价，MacBook Neo 从 599 美元 （现汇率约合 4,002 元人民币… | 状态：待领取 | 需登录：否 | [链接](https://www.ithome.com/1/019/203.htm)
+- [资讯·InfoQ 中文] 大客户直接打1折、模型四个月降价80%：大模型价格战没有退路 | 点击查看原文> | 状态：待领取 | 需登录：否 | [链接](https://www.infoq.cn/article/ejtljxPixrIuUsGYi5xa?utm_source=rss&utm_medium=article)
 
 ## 订阅
 - Atom: [atom.xml](https://ikeng.github.io/model-egg-monitor/atom.xml)
