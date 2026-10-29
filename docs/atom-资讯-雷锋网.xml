@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://ikeng.github.io/model-egg-monitor/atom-资讯-雷锋网.xml</id>
   <title>赛博鸡蛋 · 资讯·雷锋网</title>
-  <updated>2026-10-29T15:54:22+08:00</updated>
+  <updated>2026-10-30T00:32:42+08:00</updated>
   <subtitle>大模型厂商活动监控</subtitle>
   <link rel="self" href="https://ikeng.github.io/model-egg-monitor/atom-资讯-雷锋网.xml"/>
   <link rel="alternate" href="https://ikeng.github.io/model-egg-monitor/"/>
@@ -11,6 +11,25 @@
   <author>
     <name>ai-egg-monitor</name>
   </author>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:1ef47109f00e9eb8</id>
+    <title>国家超算互联网调价：降低AI研发、调试成本</title>
+    <updated>2026-10-30T00:32:23+08:00</updated>
+    <published>2026-10-30T00:32:23+08:00</published>
+    <link rel="alternate" href="https://www.leiphone.com/category/industrynews/tZQilZ5sagKCk1Sm.html"/>
+    <author><name>资讯·雷锋网</name></author>
+    <category term="资讯·雷锋网"/>
+    <summary type="text">…ens限时秒杀特惠；同时，多款新主流模型已纳入TokenPlan套餐池。此外，订阅TokenPlan用户还可享限时夜间免费模型权益：10月21日至30日，每晚21:00至次日09:00，Auto模型可免费调用。 据悉，此次推出的“MaaS（智能体）特惠活动”是国家超算互联网为降低大模型与智能体调用门槛、扩容AI生产力供给推出的算力普惠活动。活动自今年8月上线以来，已有大量用户参与，并获得中科星图、Chat…</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·雷锋网&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：国家超算互联网调价：降低AI研发、调试成本&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…ens限时秒杀特惠；同时，多款新主流模型已纳入TokenPlan套餐池。此外，订阅TokenPlan用户还可享限时夜间免费模型权益：10月21日至30日，每晚21:00至次日09:00，Auto模型可免费调用。 据悉，此次推出的“MaaS（智能体）特惠活动”是国家超算互联网为降低大模型与智能体调用门槛、扩容AI生产力供给推出的算力普惠活动。活动自今年8月上线以来，已有大量用户参与，并获得中科星图、Chat…&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：免费调用&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-30T00:32:23+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-30T00:32:23+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.leiphone.com/category/industrynews/tZQilZ5sagKCk1Sm.html&#34;&gt;https://www.leiphone.com/category/industrynews/tZQilZ5sagKCk1Sm.html&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:dc6f8f361a2a8b62</id>
     <title>微软向6万员工发出自愿离职邀请，补偿至少N+2；身家2800亿的梁文锋，被曝长期在北京租房；苹果否认iPhone Duo为赶产能放宽质检</title>

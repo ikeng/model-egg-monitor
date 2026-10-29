@@ -5,7 +5,7 @@
     <link>https://ikeng.github.io/model-egg-monitor/</link>
     <description>每日两次监控大模型厂商活动，提供 Atom / JSON Feed 订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 29 Oct 2026 15:54:22 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 00:32:41 +0800</lastBuildDate>
     <generator>ai-egg-monitor</generator>
     <item>
       <title>大模型 API 价格方案</title>
@@ -50,7 +50,7 @@
     <item>
       <title>Latest news</title>
       <link>https://mistral.ai/news</link>
-      <description>…15, 2026 By Mistral Company Hallo, Deutschland! Mistral Opens German Hub in Munich to Advance Industrial AI in Europe’s Largest Economy September 28, 2026 By Mistral Company Mistral and Mozilla are bringi…</description>
+      <description>…6, 2026 By Mistral Company Hallo, Deutschland! Mistral Opens German Hub in Munich to Advance Industrial AI in Europe’s Largest Economy September 28, 2026 By Mistral Company Mistral and Mozilla are bringi…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:17fe1240de605060</guid>
       <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
       <category>Mistral</category>
@@ -112,20 +112,20 @@
       <category>Cohere</category>
     </item>
     <item>
-      <title>大客户直接打1折、模型四个月降价80%：大模型价格战没有退路</title>
-      <link>https://www.infoq.cn/article/ejtljxPixrIuUsGYi5xa?utm_source=rss&amp;utm_medium=article</link>
-      <description>点击查看原文&gt;</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:356225415b19d458</guid>
-      <pubDate>Thu, 29 Oct 2026 00:23:22 +0800</pubDate>
-      <category>资讯·InfoQ 中文</category>
-    </item>
-    <item>
       <title>Google Beam expands with new regions, partners, and customers</title>
       <link>https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/</link>
       <description>Google Beam promotional animation</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:3f41d9118eb4ec42</guid>
       <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
       <category>Google Gemini</category>
+    </item>
+    <item>
+      <title>火山方舟 模型计费说明</title>
+      <link>https://www.volcengine.com/docs/82379/1099320</link>
+      <description>…输入图单价（元/张） ​ 输出图单价（元/张） ​ 模型名称 ​ 输入图单价（元/张） ​ 输出图单价（元/张） ​ doubao-seedream-5-0-pro ​ 按生图场景区分定价 ​ 首张免费 ​ 第 2 张起：0.02 ​ 单图生成场景： ​ ≤ 261 万像素：0.30 ​ &gt; 261 万像素：0.60 ​ 图层拆分场景： ​ ≤ 261 万像素：0.15 ​ &gt; 261 万像素：0.…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:3f9515c4e7efd405</guid>
+      <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
+      <category>火山方舟·豆包</category>
     </item>
     <item>
       <title>Pricing</title>
@@ -240,6 +240,14 @@
       <category>NVIDIA NIM</category>
     </item>
     <item>
+      <title>「推翻」乔布斯的触屏 MacBook 来了，22999 元起</title>
+      <link>http://www.geekpark.net/news/373084</link>
+      <description>…让它成为聚焦搜索、实时活动和 Siri AI 的新位置，来电、隔空投送请求、正在播放的音乐都在这里，手指点一下就能接电话。 隔空投送请求出现在灵动岛里，点一下就能接收｜图片来源：Apple 国行要打个折扣。苹果的脚注写明，聚焦搜索只有在 Siri AI 可用并打开时才会搬进灵动岛；Siri AI 测试版目前只支持英、法、日、韩、葡、西六种语言，而国行页面上 Apple 智能的写法是「推出时间依监管部门…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:8bc3904f96ea0d35</guid>
+      <pubDate>Thu, 29 Oct 2026 15:54:02 +0800</pubDate>
+      <category>资讯·极客公园</category>
+    </item>
+    <item>
       <title>API Pricing</title>
       <link>https://docs.x.ai/docs/pricing</link>
       <description>…and is billed through your plan there. It is not available on the public xAI API, and Grok Build&#39;s free tier does not include it. Prompt tokens Input Cached input Output Below 200k $4.00 / 1M $1.00 / 1M…</description>
@@ -336,14 +344,6 @@
       <category>面壁智能</category>
     </item>
     <item>
-      <title>微软向6万员工发出自愿离职邀请，补偿至少N+2；身家2800亿的梁文锋，被曝长期在北京租房；苹果否认iPhone Duo为赶产能放宽质检</title>
-      <link>https://www.leiphone.com/category/zaobao/SXb4aJpFWlpTjfkN.html</link>
-      <description>…为0.05美元。相较GPT-6 Astra，其输入、输出token单价均为十分之一；相较GPT-5.6 Terra，标准价格则下降50%。 报道称，自2025年至今，由于开源模型的冲击，OpenAI的降价策略变得更加激进和直接，目标明确指向抢占调用量和生态。降价背后是公司对更大规模调用量的期许。OpenAI CEO山姆·奥尔特曼对Terra 6.1所谓“开启计算机使用时代”的前景颇为看重。（第一财经）…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:dc6f8f361a2a8b62</guid>
-      <pubDate>Wed, 28 Oct 2026 15:48:31 +0800</pubDate>
-      <category>资讯·雷锋网</category>
-    </item>
-    <item>
       <title>Pricing</title>
       <link>https://platform.openai.com/docs/pricing</link>
       <description>…rates. Web search preview (non-reasoning models) $25.00 / 1k calls + Search content tokens are free. Containers Hosted Shell and Code Interpreter 1 GB $0.03, 4 GB $0.12, 16 GB $0.48, 64 GB $1.92 per…</description>
@@ -408,12 +408,36 @@
       <category>Anthropic</category>
     </item>
     <item>
-      <title>「推翻」乔布斯的触屏 MacBook 来了，22999 元起</title>
-      <link>http://www.geekpark.net/news/373084</link>
-      <description>…让它成为聚焦搜索、实时活动和 Siri AI 的新位置，来电、隔空投送请求、正在播放的音乐都在这里，手指点一下就能接电话。 隔空投送请求出现在灵动岛里，点一下就能接收｜图片来源：Apple 国行要打个折扣。苹果的脚注写明，聚焦搜索只有在 Siri AI 可用并打开时才会搬进灵动岛；Siri AI 测试版目前只支持英、法、日、韩、葡、西六种语言，而国行页面上 Apple 智能的写法是「推出时间依监管部门…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:8bc3904f96ea0d35</guid>
-      <pubDate>Thu, 29 Oct 2026 15:54:02 +0800</pubDate>
-      <category>资讯·极客公园</category>
+      <title>国家超算互联网调价：降低AI研发、调试成本</title>
+      <link>https://www.leiphone.com/category/industrynews/tZQilZ5sagKCk1Sm.html</link>
+      <description>…ens限时秒杀特惠；同时，多款新主流模型已纳入TokenPlan套餐池。此外，订阅TokenPlan用户还可享限时夜间免费模型权益：10月21日至30日，每晚21:00至次日09:00，Auto模型可免费调用。 据悉，此次推出的“MaaS（智能体）特惠活动”是国家超算互联网为降低大模型与智能体调用门槛、扩容AI生产力供给推出的算力普惠活动。活动自今年8月上线以来，已有大量用户参与，并获得中科星图、Chat…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:1ef47109f00e9eb8</guid>
+      <pubDate>Fri, 30 Oct 2026 00:32:23 +0800</pubDate>
+      <category>资讯·雷锋网</category>
+    </item>
+    <item>
+      <title>Epic 喜加一：《抱歉我们打烊了》游戏免费领取</title>
+      <link>https://www.ithome.com/1/019/789.htm</link>
+      <description>IT之家 10 月 29 日消息，Epic 本周送出的游戏是《Sorry We&#39;re Closed - 抱歉我们打烊了》，下周送出的游戏是《Idle Champions of the Forgotten Realms》，《浮游世界》。 领取链接： 《抱歉我们打烊了》 需要注意的是， 这款游戏 Epic 已经在去年 12 月送过 ， 已经领过的小伙伴们可以不用点开链接了 。 同时本作去年免费送的时候…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:f9ed67d60e9b8c0f</guid>
+      <pubDate>Fri, 30 Oct 2026 00:32:23 +0800</pubDate>
+      <category>资讯·IT之家</category>
+    </item>
+    <item>
+      <title>大客户直接打1折、模型四个月降价80%：大模型价格战没有退路</title>
+      <link>https://www.infoq.cn/article/ejtljxPixrIuUsGYi5xa?utm_source=rss&amp;utm_medium=article</link>
+      <description>点击查看原文&gt;</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:356225415b19d458</guid>
+      <pubDate>Thu, 29 Oct 2026 00:23:22 +0800</pubDate>
+      <category>资讯·InfoQ 中文</category>
+    </item>
+    <item>
+      <title>微软向6万员工发出自愿离职邀请，补偿至少N+2；身家2800亿的梁文锋，被曝长期在北京租房；苹果否认iPhone Duo为赶产能放宽质检</title>
+      <link>https://www.leiphone.com/category/zaobao/SXb4aJpFWlpTjfkN.html</link>
+      <description>…为0.05美元。相较GPT-6 Astra，其输入、输出token单价均为十分之一；相较GPT-5.6 Terra，标准价格则下降50%。 报道称，自2025年至今，由于开源模型的冲击，OpenAI的降价策略变得更加激进和直接，目标明确指向抢占调用量和生态。降价背后是公司对更大规模调用量的期许。OpenAI CEO山姆·奥尔特曼对Terra 6.1所谓“开启计算机使用时代”的前景颇为看重。（第一财经）…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:dc6f8f361a2a8b62</guid>
+      <pubDate>Wed, 28 Oct 2026 15:48:31 +0800</pubDate>
+      <category>资讯·雷锋网</category>
     </item>
     <item>
       <title>谁都想做硬折扣</title>
@@ -582,14 +606,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:fd68b5e4bb10abea</guid>
       <pubDate>Sat, 24 Oct 2026 14:45:23 +0800</pubDate>
       <category>资讯·钛媒体</category>
-    </item>
-    <item>
-      <title>火山方舟 模型计费说明</title>
-      <link>https://www.volcengine.com/docs/82379/1099320</link>
-      <description>…的单价 × 视频时长（秒）） ​ 图片生成模型 ​ 模型名称 ​ 输入图单价（元/张） ​ 输出图单价（元/张） ​ doubao-seedream-5-0-pro ​ 按生图场景区分定价 ​ 首张免费 ​ 第 2 张起：0.02 ​ 单图生成场景： ​ ≤ 261 万像素：0.30 ​ &gt; 261 万像素：0.60 ​ 图层拆分场景： ​ ≤ 261 万像素：0.15 ​ &gt; 261 万像素：0.…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:3f9515c4e7efd405</guid>
-      <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
-      <category>火山方舟·豆包</category>
     </item>
     <item>
       <title>《2026千川乘方投放宝典》出炉！助力商家迎战双11</title>
@@ -790,22 +806,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:74051ec8cd4f1cfb</guid>
       <pubDate>Tue, 20 Oct 2026 00:44:24 +0800</pubDate>
       <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>我使用国产「个人 AI 助手」的十天｜AI 上新</title>
-      <link>http://www.geekpark.net/news/372163</link>
-      <description>…我玩嗨了｜AI 上新 ）向栏目投稿，在极客公园公众号发布，不仅能获得相应稿费，且会为你「报销」AI 应用的订阅费用。 同时， 优秀作者还有机会进入极客公园 AI 体验群 ，获得最新 AI 应用和工具的内测资格，参加极客公园专属相关 AI 活动，和 AI 应用创始人一对一沟通。 AGI 太久，只争朝夕，让一部分人先 AI 起来吧！ 投稿、进群请扫描下方二维码添加极客小助手微信👇 01 我有常用的 AI，为什…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:65afaea0902ec53d</guid>
-      <pubDate>Fri, 09 Oct 2026 16:17:00 +0800</pubDate>
-      <category>资讯·极客公园</category>
-    </item>
-    <item>
-      <title>付费用户占比超 20%，电商商家「涌入」千问办公</title>
-      <link>https://www.leiphone.com/category/industrynews/csaOBaiXpZZLOOtp.html</link>
-      <description>…为多平台作战的“后盾”。 第二件让商家头疼的事，是要人工时刻“盯梢”，一刻都松不了。 小熊电器的运营小余，每天都要反复查询天猫、京东平台上的商品价格。最让他崩溃的是，查一次就得花15到30分钟，还得把优惠券、平台补贴都算进去，才能得出实际到手价，有时候还会遗漏短期降价、商品下架等变化。要是赶上大促，就得查得更勤。 用上千问办公后，小余轻松了不少。系统每天上午8点半和下午6点自动采集两个平台的商品到手价，…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:b64a52c937f9db59</guid>
-      <pubDate>Fri, 16 Oct 2026 14:37:42 +0800</pubDate>
-      <category>资讯·雷锋网</category>
     </item>
   </channel>
 </rss>
