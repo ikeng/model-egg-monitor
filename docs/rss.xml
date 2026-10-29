@@ -5,7 +5,7 @@
     <link>https://ikeng.github.io/model-egg-monitor/</link>
     <description>每日两次监控大模型厂商活动，提供 Atom / JSON Feed 订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 29 Oct 2026 00:23:40 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 15:54:22 +0800</lastBuildDate>
     <generator>ai-egg-monitor</generator>
     <item>
       <title>大模型 API 价格方案</title>
@@ -74,7 +74,7 @@
     <item>
       <title>Pricing</title>
       <link>https://huggingface.co/pricing</link>
-      <description>…→ Get started with Spaces Name CPU Memory Accelerator VRAM Hourly price CPU Basic 2 vCPU 16 GB - FREE CPU Upgrade 8 vCPU 32 GB - $0.03 ZeroGPU dynamic Nvidia RTX Pro 6000 Blackwell up to 96 GB FREE Nvi…</description>
+      <description>…hour per month Name CPU Memory Accelerator VRAM Hourly price Monthly price CPU Basic 2 vCPU 16 GB - FREE CPU Upgrade 8 vCPU 32 GB - $0.03 $22 ZeroGPU dynamic Nvidia RTX Pro 6000 Blackwell up to 96 GB FREE…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:222146e80f0b2614</guid>
       <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
       <category>Hugging Face</category>
@@ -110,6 +110,14 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:325373ce89188f63</guid>
       <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
       <category>Cohere</category>
+    </item>
+    <item>
+      <title>大客户直接打1折、模型四个月降价80%：大模型价格战没有退路</title>
+      <link>https://www.infoq.cn/article/ejtljxPixrIuUsGYi5xa?utm_source=rss&amp;utm_medium=article</link>
+      <description>点击查看原文&gt;</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:356225415b19d458</guid>
+      <pubDate>Thu, 29 Oct 2026 00:23:22 +0800</pubDate>
+      <category>资讯·InfoQ 中文</category>
     </item>
     <item>
       <title>Google Beam expands with new regions, partners, and customers</title>
@@ -174,6 +182,14 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:6036ae7091e69ce3</guid>
       <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
       <category>Ollama</category>
+    </item>
+    <item>
+      <title>Legora is building the agentic operating system for legal work</title>
+      <link>https://openai.com/index/legora</link>
+      <description>…uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:626181b6556ece9b</guid>
+      <pubDate>Thu, 29 Oct 2026 00:23:22 +0800</pubDate>
+      <category>OpenAI</category>
     </item>
     <item>
       <title>Cloud Pricing</title>
@@ -392,12 +408,20 @@
       <category>Anthropic</category>
     </item>
     <item>
-      <title>Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission</title>
-      <link>https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/</link>
-      <description>Google commits $40M in AI tokens and credits for the Genesis Mission</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:ff49e507d89b30cd</guid>
-      <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
-      <category>Google Gemini</category>
+      <title>「推翻」乔布斯的触屏 MacBook 来了，22999 元起</title>
+      <link>http://www.geekpark.net/news/373084</link>
+      <description>…让它成为聚焦搜索、实时活动和 Siri AI 的新位置，来电、隔空投送请求、正在播放的音乐都在这里，手指点一下就能接电话。 隔空投送请求出现在灵动岛里，点一下就能接收｜图片来源：Apple 国行要打个折扣。苹果的脚注写明，聚焦搜索只有在 Siri AI 可用并打开时才会搬进灵动岛；Siri AI 测试版目前只支持英、法、日、韩、葡、西六种语言，而国行页面上 Apple 智能的写法是「推出时间依监管部门…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:8bc3904f96ea0d35</guid>
+      <pubDate>Thu, 29 Oct 2026 15:54:02 +0800</pubDate>
+      <category>资讯·极客公园</category>
+    </item>
+    <item>
+      <title>谁都想做硬折扣</title>
+      <link>https://www.tmtpost.com/8185943.html</link>
+      <description>从社区菜摊到连锁超市，从采购办公室到生产车间，硬折扣正在改变零售行业里的每个人。</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:f8de958a3e38d3ce</guid>
+      <pubDate>Thu, 29 Oct 2026 15:54:02 +0800</pubDate>
+      <category>资讯·钛媒体</category>
     </item>
     <item>
       <title>Legora is building the agentic operating system for legal work</title>
@@ -408,12 +432,12 @@
       <category>OpenAI</category>
     </item>
     <item>
-      <title>Legora is building the agentic operating system for legal work</title>
-      <link>https://openai.com/index/legora</link>
-      <description>…uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:626181b6556ece9b</guid>
+      <title>599 美元 → 649 美元，苹果 MacBook Neo 在美国官网教育商店涨价</title>
+      <link>https://www.ithome.com/1/019/203.htm</link>
+      <description>…4,002 元人民币） 涨到 649 美元 （现汇率约合 4,336 元人民币） 。 IT之家注意到，美国高校生、教职人员现在购买这款笔记本仅可享受 50 美元 （现汇率约合 334.1 元人民币） 折扣，低于此前的 100 美元 （现汇率约合 668.1 元人民币） 。 此外，苹果于今年 6 月调整多款笔记本、平板产品定价，MacBook Neo 从 599 美元 （现汇率约合 4,002 元人民币…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:5eea25e444fd060d</guid>
       <pubDate>Thu, 29 Oct 2026 00:23:22 +0800</pubDate>
-      <category>OpenAI</category>
+      <category>资讯·IT之家</category>
     </item>
     <item>
       <title>内存涨价致旧手机价格坚挺：99 新二手机成华强北抢手货，苹果 iPhone 15 Pro Max 从去年 3000 多元回涨至 4300 元以上</title>
@@ -424,20 +448,12 @@
       <category>资讯·IT之家</category>
     </item>
     <item>
-      <title>599 美元 → 649 美元，苹果 MacBook Neo 在美国官网教育商店涨价</title>
-      <link>https://www.ithome.com/1/019/203.htm</link>
-      <description>…4,002 元人民币） 涨到 649 美元 （现汇率约合 4,336 元人民币） 。 IT之家注意到，美国高校生、教职人员现在购买这款笔记本仅可享受 50 美元 （现汇率约合 334.1 元人民币） 折扣，低于此前的 100 美元 （现汇率约合 668.1 元人民币） 。 此外，苹果于今年 6 月调整多款笔记本、平板产品定价，MacBook Neo 从 599 美元 （现汇率约合 4,002 元人民币…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:5eea25e444fd060d</guid>
-      <pubDate>Thu, 29 Oct 2026 00:23:22 +0800</pubDate>
-      <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>大客户直接打1折、模型四个月降价80%：大模型价格战没有退路</title>
-      <link>https://www.infoq.cn/article/ejtljxPixrIuUsGYi5xa?utm_source=rss&amp;utm_medium=article</link>
-      <description>点击查看原文&gt;</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:356225415b19d458</guid>
-      <pubDate>Thu, 29 Oct 2026 00:23:22 +0800</pubDate>
-      <category>资讯·InfoQ 中文</category>
+      <title>Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission</title>
+      <link>https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/</link>
+      <description>Google commits $40M in AI tokens and credits for the Genesis Mission</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:ff49e507d89b30cd</guid>
+      <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
+      <category>Google Gemini</category>
     </item>
     <item>
       <title>蚂蚁灵光2.0发布：从能聊会做，到记得住、盯得牢、办得了</title>
@@ -790,22 +806,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:b64a52c937f9db59</guid>
       <pubDate>Fri, 16 Oct 2026 14:37:42 +0800</pubDate>
       <category>资讯·雷锋网</category>
-    </item>
-    <item>
-      <title>系列最大官方地图：《DayZ》游戏地图“Badlands”扩展包发售，Steam 国区 107.10 元</title>
-      <link>https://www.ithome.com/1/014/385.htm</link>
-      <description>IT之家 10 月 17 日消息，波西米亚互动开发发行的知名生存游戏《DayZ》全新官方地图扩展《DayZ Badlands》现已登陆 Steam 平台，目前国区开启首发 10% 折扣，折后售价为 107.10 元，优惠截止至 10 月 29 日。该 DLC 需要拥有基础游戏《DayZ》才能畅玩，支持简体中文界面与字幕。 IT之家附游戏商品页（ https://store.stea…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:4a8c09456e5a8767</guid>
-      <pubDate>Sat, 17 Oct 2026 21:24:25 +0800</pubDate>
-      <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>5999 → 1598 元：石头 H1 分子筛洗烘一体机直降，12kg 一键洗完烘干直接穿</title>
-      <link>https://www.ithome.com/1/014/376.htm</link>
-      <description>…石头分子筛洗烘一体机 H1 12kg，定价 5999 元，今日标价 4299 元： 京东 11.11 大促期间，按下方步骤下单，叠加 PLUS 立减 + 15% 国补后仅需 1598 元： 领 8 折优惠券： 点此领取 下单时选择“以旧换新 → 个护健康 → 电动牙刷（无需回收）”补贴 80 元。 大多数用户可弹出限时 30 分钟的 9.4 折券。 京东 石头 分子筛洗烘一体机 H1 12kg 券后 1…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:844b5095ee73f394</guid>
-      <pubDate>Sat, 17 Oct 2026 21:24:25 +0800</pubDate>
-      <category>资讯·IT之家</category>
     </item>
   </channel>
 </rss>
