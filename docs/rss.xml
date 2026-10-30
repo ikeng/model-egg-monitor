@@ -5,7 +5,7 @@
     <link>https://ikeng.github.io/model-egg-monitor/</link>
     <description>每日两次监控大模型厂商活动，提供 Atom / JSON Feed 订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 30 Oct 2026 15:57:13 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 00:25:47 +0800</lastBuildDate>
     <generator>ai-egg-monitor</generator>
     <item>
       <title>大模型 API 价格方案</title>
@@ -14,14 +14,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:00165271027eb922</guid>
       <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
       <category>硅基流动 SiliconFlow</category>
-    </item>
-    <item>
-      <title>MiniMax</title>
-      <link>https://www.minimaxi.com/</link>
-      <description>…创作 覆盖广告、电商、品牌营销、创意后期等多个内容生产场景 开放的本地工作流 支持本地资产、本地部署与 API 调用，操作更加开放灵活自主 AI Agent 驱动的商业内容生产平台 立即体验 立即订阅会员 旗舰模型 MiniMax 最新首推模型，覆盖语言模型 / 视频生成 / 语音 &amp; 音乐 MiniMax M3.1 Flash 为专业而强，为日常而快 MiniMax H3 视频生成 MiniMax…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:00a2c75e9abfa9da</guid>
-      <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
-      <category>MiniMax</category>
     </item>
     <item>
       <title>Blog</title>
@@ -72,12 +64,12 @@
       <category>OpenRouter</category>
     </item>
     <item>
-      <title>国家超算互联网调价：降低AI研发、调试成本</title>
-      <link>https://www.leiphone.com/category/industrynews/tZQilZ5sagKCk1Sm.html</link>
-      <description>…ens限时秒杀特惠；同时，多款新主流模型已纳入TokenPlan套餐池。此外，订阅TokenPlan用户还可享限时夜间免费模型权益：10月21日至30日，每晚21:00至次日09:00，Auto模型可免费调用。 据悉，此次推出的“MaaS（智能体）特惠活动”是国家超算互联网为降低大模型与智能体调用门槛、扩容AI生产力供给推出的算力普惠活动。活动自今年8月上线以来，已有大量用户参与，并获得中科星图、Chat…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:1ef47109f00e9eb8</guid>
-      <pubDate>Fri, 30 Oct 2026 00:32:23 +0800</pubDate>
-      <category>资讯·雷锋网</category>
+      <title>Claude Code by Anthropic</title>
+      <link>https://www.anthropic.com/claude-code</link>
+      <description>…Export to various formats (PNG, SVG, JSON) - Customizable drawing tools (rectangle, circle, arrows, freehand) - Dark mode support - Localization - Library of shapes and components - Arrow bindings and lab…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:1ed4c18cc5928e80</guid>
+      <pubDate>Fri, 30 Oct 2026 15:56:54 +0800</pubDate>
+      <category>Anthropic</category>
     </item>
     <item>
       <title>Pricing</title>
@@ -216,6 +208,14 @@
       <category>资讯·极客公园</category>
     </item>
     <item>
+      <title>Models &amp; Pricing</title>
+      <link>https://api-docs.deepseek.com/quick_start/pricing</link>
+      <description>…, or Codex, server-side tool calls already hit the Search and Fetch APIs. These calls are currently free of charge; per-request billing starts at 00:00 Beijing time on November 1, 2026. See the Search &amp; F…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:711aaf63478ae2f0</guid>
+      <pubDate>Sat, 17 Oct 2026 14:26:40 +0800</pubDate>
+      <category>DeepSeek</category>
+    </item>
+    <item>
       <title>Plans and Pricing | Devin</title>
       <link>https://windsurf.com/pricing</link>
       <description>…the perfect plan for your journey SWE-2, our latest model, is now available → INDIVIDUAL PLANS Free $0 Download Light quota to code with agents Limited model availability Unlimited inline edits Unlim…</description>
@@ -234,7 +234,7 @@
     <item>
       <title>Try NVIDIA NIM APIs</title>
       <link>https://build.nvidia.com/explore/discover</link>
-      <description>…Climate &amp; Weather Safety &amp; Moderation Industries Automotive Financial Services Healthcare Industrial Robotics Start Building with your DGX Spark Explore step-by-step playbooks, including setting up Ne…</description>
+      <description>…by the community, optimized and accelerated by NVIDIA&#39;s enterprise-ready inference runtime. NVIDIA Free Endpoint nemotron-3.5-super-vl-120b-a12b Nemotron 3.5 Super early-access reasoning model for agenti…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:8a143abe5f3a9d8b</guid>
       <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
       <category>NVIDIA NIM</category>
@@ -266,7 +266,7 @@
     <item>
       <title>新人免费额度获取及用完即停开关规则</title>
       <link>https://help.aliyun.com/zh/model-studio/new-free-quota</link>
-      <description>首页 大模型服务平台百炼 用户指南（模型） 产品计费 新人免费额度 更新时间： 复制 MD 格式 产品详情 我的收藏 当您首次开通阿里云百炼时，平台会自动为您发放各模型的新人专属免费额度。 说明 仅华北 2（北京）地域模型享有免费额度，其他地域无免费额度。 未认…</description>
+      <description>首页 大模型服务平台百炼 用户指南（模型） 产品计费 新人免费额度 更新时间： 复制 MD 格式 产品详情 我的收藏 当您首次开通阿里云百炼时，平台会自动为您发放各模型的新人专属免费额度。 说明 仅华北 2（北京）地域模型享有免费额度，其他地域无免费额度。 开通…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:a2d522c721ea08c9</guid>
       <pubDate>Thu, 08 Oct 2026 17:58:35 +0800</pubDate>
       <category>通义千问</category>
@@ -384,6 +384,14 @@
       <category>MiniMax</category>
     </item>
     <item>
+      <title>Google 母集团市值蒸发 5000 亿美元创纪录；苹果高管回应新 iPad mini 60Hz 刷新率；因电池问题，理想 MEGA 退一赔一｜极客早知道</title>
+      <link>http://www.geekpark.net/news/373154</link>
+      <description>…果会要求闪存供应商为其提供「最高优惠客户」地位，让公司能够始终拿到最低价的产品。为了确保供应商履约，苹果会持续审计供应商账目， 甚至因为审计次数实在太多 ， 成功让德勤（Deloitte）谈下批量审计折扣 。 这种频繁审计的手段，让苹果直接了解供应商业务运作和工厂产出情况，从而使苹果谈判人员准确判断厂商需要多大订单。苹果还成功利用这一条款，就美光以更低价格向其他客户出售 NAND 一事提起仲裁，然后成…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:f368eba63288acba</guid>
+      <pubDate>Fri, 30 Oct 2026 15:56:54 +0800</pubDate>
+      <category>资讯·极客公园</category>
+    </item>
+    <item>
       <title>Fireworks - Pricing</title>
       <link>https://fireworks.ai/pricing</link>
       <description>…Training Pricing Serve fine-tuned models for the same price as base models. Muse Glimmer 30B SFT is free via UI and Serverless Training API until 11/30 ✨ No credit card required. Start a job Managed Train…</description>
@@ -400,19 +408,51 @@
       <category>Replicate</category>
     </item>
     <item>
-      <title>Claude Code by Anthropic</title>
-      <link>https://www.anthropic.com/claude-code</link>
-      <description>…Export to various formats (PNG, SVG, JSON) - Customizable drawing tools (rectangle, circle, arrows, freehand) - Dark mode support - Localization - Library of shapes and components - Arrow bindings and lab…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:1ed4c18cc5928e80</guid>
-      <pubDate>Fri, 30 Oct 2026 15:56:54 +0800</pubDate>
-      <category>Anthropic</category>
+      <title>Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot</title>
+      <link>https://openai.com/index/credit-saison</link>
+      <description>Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:3e182567f12e6f39</guid>
+      <pubDate>Sat, 31 Oct 2026 00:25:24 +0800</pubDate>
+      <category>OpenAI</category>
     </item>
     <item>
-      <title>阿里用速卖通把双11带到韩国，还豪送4辆特斯拉！</title>
-      <link>https://www.leiphone.com/category/industrynews/pTCNnUnvfLfUtt27.html</link>
-      <description>被韩国人实名羡慕的中国购物节，其实已经抵达韩国！ 据韩媒报道，阿里旗下跨境平台速卖通AliExpress宣布11月1日至18日开启海外双11，所有类别商品最高可享80%的折扣，还拿出4辆特斯拉Model Y做抽奖。 （韩媒报道速卖通双11送特斯拉） 韩国双11期间，速卖通将在首尔圣水洞开设快闪店，展出真实的电动汽车和产品体验区，以及“11 秒挑战”等现场活动。韩国社交媒体…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:88d46f2c4180e09a</guid>
-      <pubDate>Fri, 30 Oct 2026 15:56:54 +0800</pubDate>
+      <title>进击中的影石：攻击性强，血条太脆 ？</title>
+      <link>https://www.leiphone.com/category/weiwu/KlCbWSV85pD8wKbW.html</link>
+      <description>…求已经成立、仍在快速扩容的市场。2026年二季度，全球云台相机出货量接近280万台，同比增长87%。 Luna Ultra上市后的份额表现，证明影石可以把产品定义能力复制到第二个品类。 市场也在扩容和降价。2026年二季度，全球云台相机平均单价同比下降6%至2968元。潜在竞争者也不只有现有影像品牌。许衡对雷峰网表示：“手机厂商能不能做这个事？答案是肯定的，而且可能做得更好。做和不做不在于能不能做，而…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:a598f20959f0bdfa</guid>
+      <pubDate>Sat, 31 Oct 2026 00:25:24 +0800</pubDate>
+      <category>资讯·雷锋网</category>
+    </item>
+    <item>
+      <title>宇树最新财报：重金投入研发，上市后的考题变了</title>
+      <link>https://www.leiphone.com/category/robot/9NTmjVmWkIyllzaj.html</link>
+      <description>…值。背后的核心逻辑是高毛利人形产品占比持续提升带来的结构红利。2025年人形收入占比首次过半，直接推高了整体毛利率。 2026年毛利率回落，是多重因素叠加的结果：人形量产爬坡过程中的良率波动、部分机型降价、算力与核心硬件BOM成本上升，以及低毛利行业应用订单占比可能抬升。 简单说，靠“卖更高毛利的产品”就能自然提升毛利率的阶段结束了， 公司必须在规模化中真正把成本打下来，或者靠软件/服务提升附加值 。…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:49a28388fc3ef1f4</guid>
+      <pubDate>Sat, 31 Oct 2026 00:25:24 +0800</pubDate>
+      <category>资讯·雷锋网</category>
+    </item>
+    <item>
+      <title>3299 → 759 元享 25000Pa 大吸力：石头 A30 Max 智能洗地机直降，支持 180° 超薄躺平</title>
+      <link>https://www.ithome.com/1/020/174.htm</link>
+      <description>…右下角“ 淘金币 ”* 点击此宝贝。 售价下方选择“ 以旧换新 ” → 旧品手动更换为“ 小家电 → 数据线 → 其他 ”，实付 1457 元： 天猫 石头洗地机 A30 Max 返现后 759 元再降价 以旧换新 1457 元 直达链接 * 本次需 142 元淘金币，如果淘金币不够，目前平台可借至高 300 元淘金币： 淘宝 App 点击右上角三个点“…” → 选择右下方淘金币 → 进入淘金币页面后…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:ebb7d3f51b1198b8</guid>
+      <pubDate>Sat, 31 Oct 2026 00:25:24 +0800</pubDate>
+      <category>资讯·IT之家</category>
+    </item>
+    <item>
+      <title>MiniMax</title>
+      <link>https://www.minimaxi.com/</link>
+      <description>…创作 覆盖广告、电商、品牌营销、创意后期等多个内容生产场景 开放的本地工作流 支持本地资产、本地部署与 API 调用，操作更加开放灵活自主 AI Agent 驱动的商业内容生产平台 立即体验 立即订阅会员 旗舰模型 MiniMax 最新首推模型，覆盖语言模型 / 视频生成 / 语音 &amp; 音乐 MiniMax M3.1 Flash 为专业而强，为日常而快 MiniMax H3 视频生成 MiniMax…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:00a2c75e9abfa9da</guid>
+      <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
+      <category>MiniMax</category>
+    </item>
+    <item>
+      <title>国家超算互联网调价：降低AI研发、调试成本</title>
+      <link>https://www.leiphone.com/category/industrynews/tZQilZ5sagKCk1Sm.html</link>
+      <description>…ens限时秒杀特惠；同时，多款新主流模型已纳入TokenPlan套餐池。此外，订阅TokenPlan用户还可享限时夜间免费模型权益：10月21日至30日，每晚21:00至次日09:00，Auto模型可免费调用。 据悉，此次推出的“MaaS（智能体）特惠活动”是国家超算互联网为降低大模型与智能体调用门槛、扩容AI生产力供给推出的算力普惠活动。活动自今年8月上线以来，已有大量用户参与，并获得中科星图、Chat…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:1ef47109f00e9eb8</guid>
+      <pubDate>Fri, 30 Oct 2026 00:32:23 +0800</pubDate>
       <category>资讯·雷锋网</category>
     </item>
     <item>
@@ -424,20 +464,20 @@
       <category>资讯·IT之家</category>
     </item>
     <item>
+      <title>阿里用速卖通把双11带到韩国，还豪送4辆特斯拉！</title>
+      <link>https://www.leiphone.com/category/industrynews/pTCNnUnvfLfUtt27.html</link>
+      <description>被韩国人实名羡慕的中国购物节，其实已经抵达韩国！ 据韩媒报道，阿里旗下跨境平台速卖通AliExpress宣布11月1日至18日开启海外双11，所有类别商品最高可享80%的折扣，还拿出4辆特斯拉Model Y做抽奖。 （韩媒报道速卖通双11送特斯拉） 韩国双11期间，速卖通将在首尔圣水洞开设快闪店，展出真实的电动汽车和产品体验区，以及“11 秒挑战”等现场活动。韩国社交媒体…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:88d46f2c4180e09a</guid>
+      <pubDate>Fri, 30 Oct 2026 15:56:54 +0800</pubDate>
+      <category>资讯·雷锋网</category>
+    </item>
+    <item>
       <title>办公人用过就回不去了：罗技 MX Master 3S Lite 鼠标 699 → 287 元破冰新低</title>
       <link>https://www.ithome.com/1/019/863.htm</link>
       <description>…性手掌握持。】 罗技 Logitech MX Master 3s Lite（国行称为菁英版）在去年 10 月上市，官方定价 699 元。 今日京东超级补贴直降至 359 元； 领取满 200-20 元优惠券： 点此领取 ； PLUS 会员立减 60.01 元； 焕新补贴立减 31.9 元； 到手价为 287.09 元： 京东 罗技 MX Master 3S 菁英版 大师系列 券后 287.09 元 领…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:fe17bd452ee4f4c6</guid>
       <pubDate>Fri, 30 Oct 2026 15:56:54 +0800</pubDate>
       <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>Google 母集团市值蒸发 5000 亿美元创纪录；苹果高管回应新 iPad mini 60Hz 刷新率；因电池问题，理想 MEGA 退一赔一｜极客早知道</title>
-      <link>http://www.geekpark.net/news/373154</link>
-      <description>…果会要求闪存供应商为其提供「最高优惠客户」地位，让公司能够始终拿到最低价的产品。为了确保供应商履约，苹果会持续审计供应商账目， 甚至因为审计次数实在太多 ， 成功让德勤（Deloitte）谈下批量审计折扣 。 这种频繁审计的手段，让苹果直接了解供应商业务运作和工厂产出情况，从而使苹果谈判人员准确判断厂商需要多大订单。苹果还成功利用这一条款，就美光以更低价格向其他客户出售 NAND 一事提起仲裁，然后成…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:f368eba63288acba</guid>
-      <pubDate>Fri, 30 Oct 2026 15:56:54 +0800</pubDate>
-      <category>资讯·极客公园</category>
     </item>
     <item>
       <title>Franchisee reconciles cash in 94% less time with ChatGPT Work</title>
@@ -624,14 +664,6 @@
       <category>资讯·IT之家</category>
     </item>
     <item>
-      <title>Models &amp; Pricing</title>
-      <link>https://api-docs.deepseek.com/quick_start/pricing</link>
-      <description>…, or Codex, server-side tool calls already hit the Search and Fetch APIs. These calls are currently free of charge; per-request billing starts at 00:00 Beijing time on November 1, 2026. See the Search &amp; F…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:711aaf63478ae2f0</guid>
-      <pubDate>Sat, 17 Oct 2026 14:26:40 +0800</pubDate>
-      <category>DeepSeek</category>
-    </item>
-    <item>
       <title>韩 KRAFTON AI 预览 Raon</title>
       <link>https://www.ithome.com/1/017/695.htm</link>
       <description>…mini 采用混合专家架构，导入线性注意力，支持推测解码，整体体量为 30B-A4B。该模型聚焦韩语的同时兼顾英语性能， 以 Apache 2.0 许可开源 。KRAFTON AI 还在官网提供限时免费 API 试用。 KRAFTON AI 表示，预览版的 Raon-1 mini 在编程与智能体任务上与 Meta 的 Muse Glimmer 30B 相当 ，同时速度更快、内存效率更高；此外其能进行自然的对…</description>
@@ -774,38 +806,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:a0cc1b5c4d0b7785</guid>
       <pubDate>Tue, 20 Oct 2026 14:58:40 +0800</pubDate>
       <category>资讯·雷锋网</category>
-    </item>
-    <item>
-      <title>全年最优惠！真正的双11今晚8点天猫开卖</title>
-      <link>https://www.leiphone.com/category/industrynews/PxChMV65ai4TKgYz.html</link>
-      <description>…。 潮流、美妆和黄金同样有新品及专属优惠：ALO Accolade系列王一博同款作为全球新品在天猫首发；老铺黄金参与天猫双11优惠，首次推出“满30000减2000”、“满60000减4000”的店铺优惠券；海蓝之谜精萃水250ml为天猫独家，买正送正享同款450ml。 网友热盼双11到来，在社交媒体评论：“双11就像牛郎等织女，一年只见一次面”。今晚8点，大家一起打开购物车，把心心念念的东西一次买齐吧…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:b2039cbefbfaf4c9</guid>
-      <pubDate>Tue, 20 Oct 2026 14:58:40 +0800</pubDate>
-      <category>资讯·雷锋网</category>
-    </item>
-    <item>
-      <title>马斯克豪言 SpaceX 估值将超1000万亿美元，遭拉表打脸；传腾讯字节加速个人智能体研发；四部门拟禁止汽车采用全隐藏式门把手</title>
-      <link>http://www.geekpark.net/news/372216</link>
-      <description>…，争取尽快对外推出。 腾讯方面则已于 9 月底上线个人智能体产品 LightVela，将其定位为「云端个人助理」。该产品可以通过微信接入，全天在线处理用户的日常需求，目前仍处于开发者体验阶段，新用户可免费试用一个月。（来源：财新） 调查显示近半数美国员工夸大 AI 使用情况，只为给上司留下「懂 AI」的印象 随着企业持续加大对生成式人工智能的投入，并不断向员工强调 AI 带来的效率提升，越来越多的职场人士…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:5591687d989dd4c3</guid>
-      <pubDate>Sun, 11 Oct 2026 16:06:47 +0800</pubDate>
-      <category>资讯·极客公园</category>
-    </item>
-    <item>
-      <title>苹果 iPhone Air 京东破五千：12+256G 国补后 8799 → 4989 元，配 A19 Pro 芯片</title>
-      <link>https://www.ithome.com/1/015/580.htm</link>
-      <description>…12+256GB 京东自营 国补后 4989 元 直达链接 京东 11.11 无门槛红包支持 26888 元，支持即领即用，下单直接当钱花： 点此抽取 。 自从今年年中 iPhone Air 官方大幅降价之后，不少之家小伙伴都入手了这款机型，整体使用反馈尚可。 该机差评大多集中在电池容量偏小的问题上，不过如果手动将网络从 5G 切换至 4G，外出使用时续航则可得到明显改善。 另外横屏追剧时，单扬声器的…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:636abf2a21a60426</guid>
-      <pubDate>Tue, 20 Oct 2026 22:36:20 +0800</pubDate>
-      <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>Steam 新一周游戏销量榜公布：《使命召唤：现代战争 4》登顶全球</title>
-      <link>https://www.ithome.com/1/015/572.htm</link>
-      <description>…10 月 13 日 - 2026 年 10 月 20 日，无免费游戏），上期榜首《AION 2》未进入榜单，《使命召唤 ®：现代战争 ® 4》预购登顶全球榜首，《影之刃零》预购位居国区榜单第二，多款降价游戏和新游上榜。 全球榜单： 《使命召唤 ®：现代战争 ® 4》 《动物园之星 2》 EA SPORTS FC™ 27 《雾锁王国 (Enshrouded)》 《战地风云™ 6》 越过山丘 over…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:b6123c07a8a3f2e5</guid>
-      <pubDate>Tue, 20 Oct 2026 22:36:20 +0800</pubDate>
-      <category>资讯·IT之家</category>
     </item>
   </channel>
 </rss>

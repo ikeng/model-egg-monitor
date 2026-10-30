@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://ikeng.github.io/model-egg-monitor/atom-资讯-it之家.xml</id>
   <title>赛博鸡蛋 · 资讯·IT之家</title>
-  <updated>2026-10-30T15:57:14+08:00</updated>
+  <updated>2026-10-31T00:25:47+08:00</updated>
   <subtitle>大模型厂商活动监控</subtitle>
   <link rel="self" href="https://ikeng.github.io/model-egg-monitor/atom-资讯-it之家.xml"/>
   <link rel="alternate" href="https://ikeng.github.io/model-egg-monitor/"/>
@@ -11,6 +11,25 @@
   <author>
     <name>ai-egg-monitor</name>
   </author>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:ebb7d3f51b1198b8</id>
+    <title>3299 → 759 元享 25000Pa 大吸力：石头 A30 Max 智能洗地机直降，支持 180° 超薄躺平</title>
+    <updated>2026-10-31T00:25:24+08:00</updated>
+    <published>2026-10-31T00:25:24+08:00</published>
+    <link rel="alternate" href="https://www.ithome.com/1/020/174.htm"/>
+    <author><name>资讯·IT之家</name></author>
+    <category term="资讯·IT之家"/>
+    <summary type="text">…右下角“ 淘金币 ”* 点击此宝贝。 售价下方选择“ 以旧换新 ” → 旧品手动更换为“ 小家电 → 数据线 → 其他 ”，实付 1457 元： 天猫 石头洗地机 A30 Max 返现后 759 元再降价 以旧换新 1457 元 直达链接 * 本次需 142 元淘金币，如果淘金币不够，目前平台可借至高 300 元淘金币： 淘宝 App 点击右上角三个点“…” → 选择右下方淘金币 → 进入淘金币页面后…</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·IT之家&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：3299 → 759 元享 25000Pa 大吸力：石头 A30 Max 智能洗地机直降，支持 180° 超薄躺平&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…右下角“ 淘金币 ”* 点击此宝贝。 售价下方选择“ 以旧换新 ” → 旧品手动更换为“ 小家电 → 数据线 → 其他 ”，实付 1457 元： 天猫 石头洗地机 A30 Max 返现后 759 元再降价 以旧换新 1457 元 直达链接 * 本次需 142 元淘金币，如果淘金币不够，目前平台可借至高 300 元淘金币： 淘宝 App 点击右上角三个点“…” → 选择右下方淘金币 → 进入淘金币页面后…&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：降价&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-31T00:25:24+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-31T00:25:24+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.ithome.com/1/020/174.htm&#34;&gt;https://www.ithome.com/1/020/174.htm&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:28b77b172dc691ed</id>
     <title>小乌梅 5.0：小天鹅驭风版洗烘套装 9899 → 7999 元 24 期免息，支持 6 年质保</title>
