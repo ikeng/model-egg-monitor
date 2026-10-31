@@ -5,7 +5,7 @@
     <link>https://ikeng.github.io/model-egg-monitor/</link>
     <description>每日两次监控大模型厂商活动，提供 Atom / JSON Feed 订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 31 Oct 2026 00:25:47 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 15:52:12 +0800</lastBuildDate>
     <generator>ai-egg-monitor</generator>
     <item>
       <title>大模型 API 价格方案</title>
@@ -112,20 +112,20 @@
       <category>Cohere</category>
     </item>
     <item>
+      <title>Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot</title>
+      <link>https://openai.com/index/credit-saison</link>
+      <description>Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:3e182567f12e6f39</guid>
+      <pubDate>Sat, 31 Oct 2026 00:25:24 +0800</pubDate>
+      <category>OpenAI</category>
+    </item>
+    <item>
       <title>Google Beam expands with new regions, partners, and customers</title>
       <link>https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/</link>
       <description>Google Beam promotional animation</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:3f41d9118eb4ec42</guid>
       <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
       <category>Google Gemini</category>
-    </item>
-    <item>
-      <title>火山方舟 模型计费说明</title>
-      <link>https://www.volcengine.com/docs/82379/1099320</link>
-      <description>…输入图单价（元/张） ​ 输出图单价（元/张） ​ 模型名称 ​ 输入图单价（元/张） ​ 输出图单价（元/张） ​ doubao-seedream-5-0-pro ​ 按生图场景区分定价 ​ 首张免费 ​ 第 2 张起：0.02 ​ 单图生成场景： ​ ≤ 261 万像素：0.30 ​ &gt; 261 万像素：0.60 ​ 图层拆分场景： ​ ≤ 261 万像素：0.15 ​ &gt; 261 万像素：0.…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:3f9515c4e7efd405</guid>
-      <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
-      <category>火山方舟·豆包</category>
     </item>
     <item>
       <title>Pricing</title>
@@ -142,14 +142,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:50e017209458414f</guid>
       <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
       <category>RunPod</category>
-    </item>
-    <item>
-      <title>大模型内卷之后，AI 竞争进入搜索基础设施时代</title>
-      <link>http://www.geekpark.net/news/372743</link>
-      <description>…具备了生产级服务的稳定性与适配性。 在实际使用中，官方一共提供了直接 API、MCP 以及 SkillHub 三种模式。 使用的第一步，开发者只要在腾讯云开通元宝搜索，就能直接获得每月 2000 次的免费额度。 对于习惯使用 API 直连的开发者来说，只要在腾讯云控制台的「服务 API KEY」页面中创建并复制明文 Key，将其配置到本地环境变量（export TENCENTCLOUD_WSA_APIKE…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:55df8be201ccf828</guid>
-      <pubDate>Thu, 22 Oct 2026 22:47:53 +0800</pubDate>
-      <category>资讯·极客公园</category>
     </item>
     <item>
       <title>Pricing: Pay per second for GPUs and CPUs</title>
@@ -170,7 +162,7 @@
     <item>
       <title>Plans &amp; pricing</title>
       <link>https://www.anthropic.com/pricing</link>
-      <description>…more plans to follow. Read what changed (opens in new tab) Pricing Individual Team &amp; Enterprise API Free Try Claude $0 Free for everyone Try Claude Chat on web, desktop, and mobile Search the web, create…</description>
+      <description>Pricing Individual Team &amp; Enterprise API Free Try Claude $0 Free for everyone Try Claude Limited usage every 5 hours and every week * Chat on web…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:5f616e62c2cce744</guid>
       <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
       <category>Anthropic</category>
@@ -234,7 +226,7 @@
     <item>
       <title>Try NVIDIA NIM APIs</title>
       <link>https://build.nvidia.com/explore/discover</link>
-      <description>…by the community, optimized and accelerated by NVIDIA&#39;s enterprise-ready inference runtime. NVIDIA Free Endpoint nemotron-3.5-super-vl-120b-a12b Nemotron 3.5 Super early-access reasoning model for agenti…</description>
+      <description>…Climate &amp; Weather Safety &amp; Moderation Industries Automotive Financial Services Healthcare Industrial Robotics Start Building with your DGX Spark Explore step-by-step playbooks, including setting up Ne…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:8a143abe5f3a9d8b</guid>
       <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
       <category>NVIDIA NIM</category>
@@ -320,14 +312,6 @@
       <category>通义千问</category>
     </item>
     <item>
-      <title>How to teach with Databricks Free Edition</title>
-      <link>https://www.databricks.com/blog/how-teach-databricks-free-edition</link>
-      <description>You can run a full data or AI course on the same platform enterprises use in production - for free...</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:d173f0dade7f4cc1</guid>
-      <pubDate>Tue, 27 Oct 2026 15:09:37 +0800</pubDate>
-      <category>Databricks</category>
-    </item>
-    <item>
       <title>OpenRouter Models</title>
       <link>https://openrouter.ai/docs/overview/models</link>
       <description>…and returns its data. Variant suffixes are also supported. A catalog variant such as :free returns that variant’s own entry. A routing variant such as :nitro returns the base model’s entry,…</description>
@@ -408,12 +392,84 @@
       <category>Replicate</category>
     </item>
     <item>
-      <title>Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot</title>
-      <link>https://openai.com/index/credit-saison</link>
-      <description>Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:3e182567f12e6f39</guid>
+      <title>How Worldwide Express automated freight exceptions with Amazon Bedrock</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/how-worldwide-express-automated-freight-exceptions-with-amazon-bedrock/</link>
+      <description>…cut active exceptions by 75%, improved time-to-cash by four weeks, and unlocked $10 million in free cash flow.</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:e2fe74ec0ca71491</guid>
+      <pubDate>Sat, 31 Oct 2026 15:51:46 +0800</pubDate>
+      <category>AWS Bedrock</category>
+    </item>
+    <item>
+      <title>追光动画首部水浒传 IP 电影《林冲：风雪山神庙》公布</title>
+      <link>https://www.ithome.com/1/020/503.htm</link>
+      <description>…家电影局备案立项。IT之家附剧情梗概： 北宋年间，八十万禁军教头林冲循规蹈矩，只想在汴梁安身立命，却怎知世事多难，一系列遭遇下，林冲被一步步逼上了梁山。 IT之家小伙伴记得用 最会买购买电影票 ，享受折扣价的同时还可以获得返利，预计每张票可以节省 5~15 元！</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:d89f981ac1870b37</guid>
+      <pubDate>Sat, 31 Oct 2026 15:51:46 +0800</pubDate>
+      <category>资讯·IT之家</category>
+    </item>
+    <item>
+      <title>国产经典动画《星游记》时隔 15 年回归，前传电影官宣启动</title>
+      <link>https://www.ithome.com/1/020/500.htm</link>
+      <description>…》编剧刘北 10 月 30 日也发布文章《写给自由者的信》，表示从电影开始，直到主线剧集完结，会努力在每年 10 月 30 日，都有值得庆祝的向前一步。 IT之家小伙伴记得用 最会买购买电影票 ，享受折扣价的同时还可以获得返利，预计每张票可以节省 5~15 元！</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:e9bc6141b0749d13</guid>
+      <pubDate>Sat, 31 Oct 2026 15:51:46 +0800</pubDate>
+      <category>资讯·IT之家</category>
+    </item>
+    <item>
+      <title>40W 功率输出、20000 毫安时电芯，酷态科 CP24 电能块京东 69.4 元国补新低</title>
+      <link>https://www.ithome.com/1/020/484.htm</link>
+      <description>…东自营报价 113 元，叠加以下多重优惠，到手仅需 69.43 元。 单品满 1 件享 8.8 折； 京东潮流配件专区领券享 9 折（ 点此领券 ）； PLUS 专享 1 积分兑换满 111-11 元优惠券（ 点此兑换 ）； App 商品价格下方可领 10% 政府补贴，到手仅需 69.43 元。 京东 酷态科 CP24 电能块 40W 快充 20000mAh 自带线移动电源 券后 69.43 元 直达链…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:2461836a3397d8af</guid>
+      <pubDate>Sat, 31 Oct 2026 15:51:46 +0800</pubDate>
+      <category>资讯·IT之家</category>
+    </item>
+    <item>
+      <title>小米 120W 快充：酷态科 10 号超级电能棒 Plus 京东 149 元限时国补</title>
+      <link>https://www.ithome.com/1/020/482.htm</link>
+      <description>…东 11.11 期间，叠加以下多重优惠，到手仅需 149.35 元。 单品满 1 件享 8.8 折； 京东潮流配件专区领券享 9 折（ 点此领券 ）； PLUS 专享 1 积分兑换满 111-11 元优惠券（ 点此兑换 ）； App 进入商品页可能自动发放限时红包 / 折扣券，路飞领到 9.9 折，优惠 1.68 元； App 商品价格下方可领 10% 政府补贴，到手仅需 149.35 元。 京东 酷态…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:34ba7379e6ffe369</guid>
+      <pubDate>Sat, 31 Oct 2026 15:51:46 +0800</pubDate>
+      <category>资讯·IT之家</category>
+    </item>
+    <item>
+      <title>55W 快充 +20000mAh：酷态科 CP25 电能块自带线充电宝京东 78.8 元新低</title>
+      <link>https://www.ithome.com/1/020/477.htm</link>
+      <description>…东自营报价 132 元，叠加以下多重优惠，到手仅需 78.76 元。 单品满 1 件享 8.8 折； 京东潮流配件专区领券享 8 折（ 点此领券 ）； PLUS 专享 1 积分兑换满 111-11 元优惠券（ 点此兑换 ）； 京东 酷态科 CP25 电能块 55W 自带线 20000mAh 移动电源 券后 78.76 元 直达链接 据官方介绍，这款新品提供银滩白、海湾蓝、落日橙、星云灰四色可选， 具有…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:8bc7d3adb45fe7ef</guid>
+      <pubDate>Sat, 31 Oct 2026 15:51:46 +0800</pubDate>
+      <category>资讯·IT之家</category>
+    </item>
+    <item>
+      <title>85 英寸 10499 → 4934 元、98 英寸 13999 → 8399 元：小米电视 S Pro Mini LED 2026 再降价</title>
+      <link>https://www.ithome.com/1/020/473.htm</link>
+      <description>小米电视 S Pro Mini LED 2026 系列去年 9 月开售，今日 11.11 再次开启京东自营探底大促，各款直降至： 京东无门槛红包至高 26888 元，支持即领即用： 点此抽取 。 85 英寸 首销价 10499 元，今日国补后 5034 元。 先领电视 9.5 折加补券： 点此领券 （点击 一键领券 即可） 点击下方卡片 → 点击售价下方“ 家电家居多买多返 ”参加活动后再下单，京…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:dddba1625ec8fa4c</guid>
+      <pubDate>Sat, 31 Oct 2026 15:51:46 +0800</pubDate>
+      <category>资讯·IT之家</category>
+    </item>
+    <item>
+      <title>火山方舟 模型计费说明</title>
+      <link>https://www.volcengine.com/docs/82379/1099320</link>
+      <description>…输入图单价（元/张） ​ 输出图单价（元/张） ​ 模型名称 ​ 输入图单价（元/张） ​ 输出图单价（元/张） ​ doubao-seedream-5-0-pro ​ 按生图场景区分定价 ​ 首张免费 ​ 第 2 张起：0.02 ​ 单图生成场景： ​ ≤ 261 万像素：0.30 ​ &gt; 261 万像素：0.60 ​ 图层拆分场景： ​ ≤ 261 万像素：0.15 ​ &gt; 261 万像素：0.…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:3f9515c4e7efd405</guid>
+      <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
+      <category>火山方舟·豆包</category>
+    </item>
+    <item>
+      <title>宇树最新财报：重金投入研发，上市后的考题变了</title>
+      <link>https://www.leiphone.com/category/robot/9NTmjVmWkIyllzaj.html</link>
+      <description>…值。背后的核心逻辑是高毛利人形产品占比持续提升带来的结构红利。2025年人形收入占比首次过半，直接推高了整体毛利率。 2026年毛利率回落，是多重因素叠加的结果：人形量产爬坡过程中的良率波动、部分机型降价、算力与核心硬件BOM成本上升，以及低毛利行业应用订单占比可能抬升。 简单说，靠“卖更高毛利的产品”就能自然提升毛利率的阶段结束了， 公司必须在规模化中真正把成本打下来，或者靠软件/服务提升附加值 。…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:49a28388fc3ef1f4</guid>
       <pubDate>Sat, 31 Oct 2026 00:25:24 +0800</pubDate>
-      <category>OpenAI</category>
+      <category>资讯·雷锋网</category>
+    </item>
+    <item>
+      <title>大模型内卷之后，AI 竞争进入搜索基础设施时代</title>
+      <link>http://www.geekpark.net/news/372743</link>
+      <description>…具备了生产级服务的稳定性与适配性。 在实际使用中，官方一共提供了直接 API、MCP 以及 SkillHub 三种模式。 使用的第一步，开发者只要在腾讯云开通元宝搜索，就能直接获得每月 2000 次的免费额度。 对于习惯使用 API 直连的开发者来说，只要在腾讯云控制台的「服务 API KEY」页面中创建并复制明文 Key，将其配置到本地环境变量（export TENCENTCLOUD_WSA_APIKE…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:55df8be201ccf828</guid>
+      <pubDate>Thu, 22 Oct 2026 22:47:53 +0800</pubDate>
+      <category>资讯·极客公园</category>
     </item>
     <item>
       <title>进击中的影石：攻击性强，血条太脆 ？</title>
@@ -424,12 +480,12 @@
       <category>资讯·雷锋网</category>
     </item>
     <item>
-      <title>宇树最新财报：重金投入研发，上市后的考题变了</title>
-      <link>https://www.leiphone.com/category/robot/9NTmjVmWkIyllzaj.html</link>
-      <description>…值。背后的核心逻辑是高毛利人形产品占比持续提升带来的结构红利。2025年人形收入占比首次过半，直接推高了整体毛利率。 2026年毛利率回落，是多重因素叠加的结果：人形量产爬坡过程中的良率波动、部分机型降价、算力与核心硬件BOM成本上升，以及低毛利行业应用订单占比可能抬升。 简单说，靠“卖更高毛利的产品”就能自然提升毛利率的阶段结束了， 公司必须在规模化中真正把成本打下来，或者靠软件/服务提升附加值 。…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:49a28388fc3ef1f4</guid>
-      <pubDate>Sat, 31 Oct 2026 00:25:24 +0800</pubDate>
-      <category>资讯·雷锋网</category>
+      <title>How to teach with Databricks Free Edition</title>
+      <link>https://www.databricks.com/blog/how-teach-databricks-free-edition</link>
+      <description>You can run a full data or AI course on the same platform enterprises use in production - for free...</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:d173f0dade7f4cc1</guid>
+      <pubDate>Tue, 27 Oct 2026 15:09:37 +0800</pubDate>
+      <category>Databricks</category>
     </item>
     <item>
       <title>3299 → 759 元享 25000Pa 大吸力：石头 A30 Max 智能洗地机直降，支持 180° 超薄躺平</title>
@@ -749,62 +805,6 @@
       <description>双11大促火热开局，抖音电商千川阶段性投放数据正式出炉！平台加码流量扶持，乘方星选、达人营销、智能优惠券等多款产品协同发力，助力商家抢抓大促红利，迎来生意爆发。破百万、破千万商品与店铺规模大幅走高，多重补贴权益持续释放增量空间，为商家带来确定性增长机遇！</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:679dc792aaecce98</guid>
       <pubDate>Wed, 21 Oct 2026 22:47:42 +0800</pubDate>
-      <category>资讯·雷锋网</category>
-    </item>
-    <item>
-      <title>超越抖音，传红果短剧日均时长 125 分钟；299 美元，苹果推 Siri AI 带屏音箱；谷歌最强模型 Gemini 4 正式上线</title>
-      <link>http://www.geekpark.net/news/372304</link>
-      <description>…千问是全球首个能为用户办事的个人 AI 助理，基于阿里生态和开放平台，已实现购物、打车、快递、理财等相关能力。 从用户分享的实测案例来看，该助理可查询对应延误航班信息后对接客服，拒绝代金券赔偿方案，为用户争取到 70 元现金赔偿；也可找到淘宝价保入口，核查用户所有订单，识别到相关炒锅订单可赔付，为用户退回 52 元差价。升级后的千问可自主查询操作各类授权平台，比对方案、联系服务方完成目…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:6ab8143684faa409</guid>
-      <pubDate>Wed, 14 Oct 2026 14:58:16 +0800</pubDate>
-      <category>资讯·极客公园</category>
-    </item>
-    <item>
-      <title>讯飞星火 X2.6 端云一体大模型发布，首次基于全国产算力实现代码和智能体能力突破</title>
-      <link>https://www.ithome.com/1/016/403.htm</link>
-      <description>…元 / 百万 tokens 讯飞星火 X2.6-4B 开源端侧大模型在代码、智能体、长文本及多语言能力上实现大幅提升，新增三档推理模式，自研推理框架下的推理效率较 ollama 有所提升， 推理定价限时免费 。</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:e7db75e8d7dc1988</guid>
-      <pubDate>Thu, 22 Oct 2026 14:56:24 +0800</pubDate>
-      <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>双11 iPhone Duo货源大战：苹果为什么把更多货交给天猫？</title>
-      <link>https://www.leiphone.com/category/industrynews/1kN394wi9h0iFG43.html</link>
-      <description>…26年的市场背景来看，更能体会其含金量。IDC数据显示，今年中国智能手机市场大盘已连续五个季度下滑；但在天猫，一部起售价接近万元的高端手机，反而卖得更快、更好了。这证明了在确定的经营环境下，品牌无需靠降价换销量，依然能实现高质量的逆势增长。第三，全网最具购买力的高净值用户都在天猫。高端新品的首发，流量规模不等于高客单转化，精准的高购买力人群才是关键。最新数据显示，截至2026年6月底，淘宝天猫88VI…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:266ceaf916c19ebe</guid>
-      <pubDate>Tue, 20 Oct 2026 22:36:20 +0800</pubDate>
-      <category>资讯·雷锋网</category>
-    </item>
-    <item>
-      <title>曝梁文锋密集见机器人创业者；影石出货量累计突破1000万台；Meta发布Muse Wonder模型｜极客早知道</title>
-      <link>http://www.geekpark.net/news/372264</link>
-      <description>…2 周 10 月 12 日下午消息，腾讯旗下全场景 AI 办公工作台 WorkBuddy 已接入阶跃最新旗舰模型 Step 5 Preview。即日起，该模型在 WorkBuddy 独家限时免费开放两周。凭借推理与 Agent 能力，Step 5 Preview 将帮 WorkBuddy 用户处理深度研究、信息检索、数据分析、文档与 PPT 生成等办公任务，并支持多步骤复杂任务的持续执行。…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:33ffb560de13e9e1</guid>
-      <pubDate>Tue, 13 Oct 2026 16:49:32 +0800</pubDate>
-      <category>资讯·极客公园</category>
-    </item>
-    <item>
-      <title>喊出300万张订单，英伟达RTX PRO 5500为何遭到提前疯抢？</title>
-      <link>https://www.leiphone.com/category/chips/STx9ZzfDNh5W80Bm.html</link>
-      <description>…AI计算精度下，这款特供产品的算力仅占RTX PRO 6000服务器版的三至四成。 有RTX PRO 6000D的性能大幅缩水在前，目前暂未声明有特供型号的RTX PRO 5500算力表现是否也会大打折扣，自然备受关注。结合官方理论参数和夏寅卿给到的数据，在FP4、FP8等精度下， RTX PRO 5500的理论算力较RTX PRO 6000D提升约一倍。 除此之外，接近英伟达的算力服务从业者秦宇还关…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:c6f292f030eab0d1</guid>
-      <pubDate>Tue, 20 Oct 2026 22:36:20 +0800</pubDate>
-      <category>资讯·雷锋网</category>
-    </item>
-    <item>
-      <title>苹果 AirPods 5 全国国补 999 → 755 元，AirPods Pro 3 限地区 1178 元再降新低</title>
-      <link>https://www.ithome.com/1/015/827.htm</link>
-      <description>…直达链接 京东 Apple AirPods 5 搭配无线充电盒 增强续航 国补后 861 元 直达链接 如果有哪个地区的小伙伴发现本地无国补，可在评论区留言哦。 AirPods Pro 3 京东今日再降价，PLUS 折后仅需 1309 元 。 目前支持 广东、江苏、北京、湖南、吉林、湖北、河北、云南、四川、大连 政府补贴，国补后仅需 1178 元 破冰新低： 京东 AirPods Pro 第三代 搭配…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:3d693e2d5ba65123</guid>
-      <pubDate>Wed, 21 Oct 2026 14:52:38 +0800</pubDate>
-      <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>京东左琦的惊艳出道：最强公关，竟在采销</title>
-      <link>https://www.leiphone.com/category/industrynews/1qas4lUYu8NA19Ki.html</link>
-      <description>…论出道战就惊艳全场。 2、避实就虚：这一手，太老练了 光有影响力还不够，更绝的是他的策略。 我们把时间线往回拉一拉，左琦最初发朋友圈的背景是，有品牌方公开质疑京东——因为在其他平台销售时使用平台补贴的优惠券，比在京东上卖得更便宜，该品牌的店铺在京东就被限制，消费者搜不到、买不了了。这其实是个很严重的问题，平台为了保证自己是全网最低价，限制商家使用其他平台的优惠券。换任何一个公司都得回应改进。 图/清北道…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:a0cc1b5c4d0b7785</guid>
-      <pubDate>Tue, 20 Oct 2026 14:58:40 +0800</pubDate>
       <category>资讯·雷锋网</category>
     </item>
   </channel>

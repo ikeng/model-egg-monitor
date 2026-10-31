@@ -12,6 +12,20 @@
   ],
   "items": [
     {
+      "id": "tag:ai-egg-monitor,2026:activity:e2fe74ec0ca71491",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-worldwide-express-automated-freight-exceptions-with-amazon-bedrock/",
+      "title": "How Worldwide Express automated freight exceptions with Amazon Bedrock",
+      "content_html": "<p><strong>厂商</strong>：AWS Bedrock</p>\n<p><strong>标题</strong>：How Worldwide Express automated freight exceptions with Amazon Bedrock</p>\n<p><strong>福利摘要</strong>：…cut active exceptions by 75%, improved time-to-cash by four weeks, and unlocked $10 million in free cash flow.</p>\n<p><strong>需登录</strong>：否</p>\n<p><strong>来源类型</strong>：rss</p>\n<p><strong>命中关键词</strong>：free</p>\n<p><strong>首次发现</strong>：2026-10-31T15:51:46+08:00</p>\n<p><strong>最后更新</strong>：2026-10-31T15:51:46+08:00</p>\n<p><strong>原始链接</strong>：<a href=\"https://aws.amazon.com/blogs/machine-learning/how-worldwide-express-automated-freight-exceptions-with-amazon-bedrock/\">https://aws.amazon.com/blogs/machine-learning/how-worldwide-express-automated-freight-exceptions-with-amazon-bedrock/</a></p>",
+      "summary": "…cut active exceptions by 75%, improved time-to-cash by four weeks, and unlocked $10 million in free cash flow.",
+      "date_published": "2026-10-31T15:51:46+08:00",
+      "date_modified": "2026-10-31T15:51:46+08:00",
+      "tags": [
+        "AWS Bedrock",
+        "rss",
+        "free"
+      ]
+    },
+    {
       "id": "tag:ai-egg-monitor,2026:activity:fdf3caa51f8f33cc",
       "url": "https://aws.amazon.com/blogs/machine-learning/developers-can-now-access-sagemaker-studio-through-the-new-aws-experience/",
       "title": "Developers can now access SageMaker Studio through the new AWS experience",

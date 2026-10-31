@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://ikeng.github.io/model-egg-monitor/atom-资讯-雷锋网.xml</id>
   <title>赛博鸡蛋 · 资讯·雷锋网</title>
-  <updated>2026-10-31T00:25:47+08:00</updated>
+  <updated>2026-10-31T15:52:12+08:00</updated>
   <subtitle>大模型厂商活动监控</subtitle>
   <link rel="self" href="https://ikeng.github.io/model-egg-monitor/atom-资讯-雷锋网.xml"/>
   <link rel="alternate" href="https://ikeng.github.io/model-egg-monitor/"/>
@@ -11,25 +11,6 @@
   <author>
     <name>ai-egg-monitor</name>
   </author>
-  <entry>
-    <id>tag:ai-egg-monitor,2026:activity:a598f20959f0bdfa</id>
-    <title>进击中的影石：攻击性强，血条太脆 ？</title>
-    <updated>2026-10-31T00:25:24+08:00</updated>
-    <published>2026-10-31T00:25:24+08:00</published>
-    <link rel="alternate" href="https://www.leiphone.com/category/weiwu/KlCbWSV85pD8wKbW.html"/>
-    <author><name>资讯·雷锋网</name></author>
-    <category term="资讯·雷锋网"/>
-    <summary type="text">…求已经成立、仍在快速扩容的市场。2026年二季度，全球云台相机出货量接近280万台，同比增长87%。 Luna Ultra上市后的份额表现，证明影石可以把产品定义能力复制到第二个品类。 市场也在扩容和降价。2026年二季度，全球云台相机平均单价同比下降6%至2968元。潜在竞争者也不只有现有影像品牌。许衡对雷峰网表示：“手机厂商能不能做这个事？答案是肯定的，而且可能做得更好。做和不做不在于能不能做，而…</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·雷锋网&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：进击中的影石：攻击性强，血条太脆 ？&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…求已经成立、仍在快速扩容的市场。2026年二季度，全球云台相机出货量接近280万台，同比增长87%。 Luna Ultra上市后的份额表现，证明影石可以把产品定义能力复制到第二个品类。 市场也在扩容和降价。2026年二季度，全球云台相机平均单价同比下降6%至2968元。潜在竞争者也不只有现有影像品牌。许衡对雷峰网表示：“手机厂商能不能做这个事？答案是肯定的，而且可能做得更好。做和不做不在于能不能做，而…&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：降价&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-31T00:25:24+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-31T00:25:24+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.leiphone.com/category/weiwu/KlCbWSV85pD8wKbW.html&#34;&gt;https://www.leiphone.com/category/weiwu/KlCbWSV85pD8wKbW.html&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:49a28388fc3ef1f4</id>
     <title>宇树最新财报：重金投入研发，上市后的考题变了</title>
@@ -48,6 +29,25 @@
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-31T00:25:24+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-31T00:25:24+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.leiphone.com/category/robot/9NTmjVmWkIyllzaj.html&#34;&gt;https://www.leiphone.com/category/robot/9NTmjVmWkIyllzaj.html&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:a598f20959f0bdfa</id>
+    <title>进击中的影石：攻击性强，血条太脆 ？</title>
+    <updated>2026-10-31T00:25:24+08:00</updated>
+    <published>2026-10-31T00:25:24+08:00</published>
+    <link rel="alternate" href="https://www.leiphone.com/category/weiwu/KlCbWSV85pD8wKbW.html"/>
+    <author><name>资讯·雷锋网</name></author>
+    <category term="资讯·雷锋网"/>
+    <summary type="text">…求已经成立、仍在快速扩容的市场。2026年二季度，全球云台相机出货量接近280万台，同比增长87%。 Luna Ultra上市后的份额表现，证明影石可以把产品定义能力复制到第二个品类。 市场也在扩容和降价。2026年二季度，全球云台相机平均单价同比下降6%至2968元。潜在竞争者也不只有现有影像品牌。许衡对雷峰网表示：“手机厂商能不能做这个事？答案是肯定的，而且可能做得更好。做和不做不在于能不能做，而…</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·雷锋网&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：进击中的影石：攻击性强，血条太脆 ？&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…求已经成立、仍在快速扩容的市场。2026年二季度，全球云台相机出货量接近280万台，同比增长87%。 Luna Ultra上市后的份额表现，证明影石可以把产品定义能力复制到第二个品类。 市场也在扩容和降价。2026年二季度，全球云台相机平均单价同比下降6%至2968元。潜在竞争者也不只有现有影像品牌。许衡对雷峰网表示：“手机厂商能不能做这个事？答案是肯定的，而且可能做得更好。做和不做不在于能不能做，而…&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：降价&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-31T00:25:24+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-31T00:25:24+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.leiphone.com/category/weiwu/KlCbWSV85pD8wKbW.html&#34;&gt;https://www.leiphone.com/category/weiwu/KlCbWSV85pD8wKbW.html&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:1ef47109f00e9eb8</id>
