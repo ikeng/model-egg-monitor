@@ -5,7 +5,7 @@
     <link>https://ikeng.github.io/model-egg-monitor/</link>
     <description>每日两次监控大模型厂商活动，提供 Atom / JSON Feed 订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 31 Oct 2026 15:52:12 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 23:34:34 +0800</lastBuildDate>
     <generator>ai-egg-monitor</generator>
     <item>
       <title>大模型 API 价格方案</title>
@@ -126,6 +126,14 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:3f41d9118eb4ec42</guid>
       <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
       <category>Google Gemini</category>
+    </item>
+    <item>
+      <title>火山方舟 模型计费说明</title>
+      <link>https://www.volcengine.com/docs/82379/1099320</link>
+      <description>…输入图单价（元/张） ​ 输出图单价（元/张） ​ 模型名称 ​ 输入图单价（元/张） ​ 输出图单价（元/张） ​ doubao-seedream-5-0-pro ​ 按生图场景区分定价 ​ 首张免费 ​ 第 2 张起：0.02 ​ 单图生成场景： ​ ≤ 261 万像素：0.30 ​ &gt; 261 万像素：0.60 ​ 图层拆分场景： ​ ≤ 261 万像素：0.15 ​ &gt; 261 万像素：0.…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:3f9515c4e7efd405</guid>
+      <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
+      <category>火山方舟·豆包</category>
     </item>
     <item>
       <title>Pricing</title>
@@ -272,6 +280,14 @@
       <category>Cerebras</category>
     </item>
     <item>
+      <title>进击中的影石：攻击性强，血条太脆 ？</title>
+      <link>https://www.leiphone.com/category/weiwu/KlCbWSV85pD8wKbW.html</link>
+      <description>…求已经成立、仍在快速扩容的市场。2026年二季度，全球云台相机出货量接近280万台，同比增长87%。 Luna Ultra上市后的份额表现，证明影石可以把产品定义能力复制到第二个品类。 市场也在扩容和降价。2026年二季度，全球云台相机平均单价同比下降6%至2968元。潜在竞争者也不只有现有影像品牌。许衡对雷峰网表示：“手机厂商能不能做这个事？答案是肯定的，而且可能做得更好。做和不做不在于能不能做，而…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:a598f20959f0bdfa</guid>
+      <pubDate>Sat, 31 Oct 2026 00:25:24 +0800</pubDate>
+      <category>资讯·雷锋网</category>
+    </item>
+    <item>
       <title>Newsroom \ Anthropic</title>
       <link>https://www.anthropic.com/news</link>
       <description>…General Services Administration (GSA) through a new agreement that gives government partners a 40% discount on Claude Enterprise, Claude for Government, and the Claude API. Partnerships Oct 27, 2026 Oct 27,…</description>
@@ -328,6 +344,14 @@
       <category>面壁智能</category>
     </item>
     <item>
+      <title>85 英寸 10499 → 4934 元、98 英寸 13999 → 8399 元：小米电视 S Pro Mini LED 2026 再降价</title>
+      <link>https://www.ithome.com/1/020/473.htm</link>
+      <description>小米电视 S Pro Mini LED 2026 系列去年 9 月开售，今日 11.11 再次开启京东自营探底大促，各款直降至： 京东无门槛红包至高 26888 元，支持即领即用： 点此抽取 。 85 英寸 首销价 10499 元，今日国补后 5034 元。 先领电视 9.5 折加补券： 点此领券 （点击 一键领券 即可） 点击下方卡片 → 点击售价下方“ 家电家居多买多返 ”参加活动后再下单，京…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:dddba1625ec8fa4c</guid>
+      <pubDate>Sat, 31 Oct 2026 15:51:46 +0800</pubDate>
+      <category>资讯·IT之家</category>
+    </item>
+    <item>
       <title>Pricing</title>
       <link>https://platform.openai.com/docs/pricing</link>
       <description>…rates. Web search preview (non-reasoning models) $25.00 / 1k calls + Search content tokens are free. Containers Hosted Shell and Code Interpreter 1 GB $0.03, 4 GB $0.12, 16 GB $0.48, 64 GB $1.92 per…</description>
@@ -342,6 +366,14 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:e19b176216415324</guid>
       <pubDate>Fri, 23 Oct 2026 14:49:18 +0800</pubDate>
       <category>资讯·极客公园</category>
+    </item>
+    <item>
+      <title>How Worldwide Express automated freight exceptions with Amazon Bedrock</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/how-worldwide-express-automated-freight-exceptions-with-amazon-bedrock/</link>
+      <description>…cut active exceptions by 75%, improved time-to-cash by four weeks, and unlocked $10 million in free cash flow.</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:e2fe74ec0ca71491</guid>
+      <pubDate>Sat, 31 Oct 2026 15:51:46 +0800</pubDate>
+      <category>AWS Bedrock</category>
     </item>
     <item>
       <title>千帆大模型平台</title>
@@ -392,27 +424,19 @@
       <category>Replicate</category>
     </item>
     <item>
-      <title>How Worldwide Express automated freight exceptions with Amazon Bedrock</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/how-worldwide-express-automated-freight-exceptions-with-amazon-bedrock/</link>
-      <description>…cut active exceptions by 75%, improved time-to-cash by four weeks, and unlocked $10 million in free cash flow.</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:e2fe74ec0ca71491</guid>
-      <pubDate>Sat, 31 Oct 2026 15:51:46 +0800</pubDate>
-      <category>AWS Bedrock</category>
-    </item>
-    <item>
-      <title>追光动画首部水浒传 IP 电影《林冲：风雪山神庙》公布</title>
-      <link>https://www.ithome.com/1/020/503.htm</link>
-      <description>…家电影局备案立项。IT之家附剧情梗概： 北宋年间，八十万禁军教头林冲循规蹈矩，只想在汴梁安身立命，却怎知世事多难，一系列遭遇下，林冲被一步步逼上了梁山。 IT之家小伙伴记得用 最会买购买电影票 ，享受折扣价的同时还可以获得返利，预计每张票可以节省 5~15 元！</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:d89f981ac1870b37</guid>
-      <pubDate>Sat, 31 Oct 2026 15:51:46 +0800</pubDate>
+      <title>国补后 890 → 664 元：怒喵 Infinity.100 电竞鼠标直降，1.2 秒热插拔磁吸换电、含电池重 49g</title>
+      <link>https://www.ithome.com/1/020/621.htm</link>
+      <description>…插拔磁吸电池更换，无线模式（IT之家注：即含电池）的质量为 49g，官方定价 890 元。 京东 11.11 大促期间，按下方步骤下单，叠加国补后仅需 664.25 元： 点击下方卡片，可领 85 元优惠券。 京东 怒喵 Infinity.100 电竞鼠标 PAW3950 三模 国补后 664.25 元 领 85 元券 京东 11.11 无门槛红包至高 26888 元，支持即领即用，下单直接当钱花： 点…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:85ccb68ac175d4a9</guid>
+      <pubDate>Sat, 31 Oct 2026 23:34:14 +0800</pubDate>
       <category>资讯·IT之家</category>
     </item>
     <item>
-      <title>国产经典动画《星游记》时隔 15 年回归，前传电影官宣启动</title>
-      <link>https://www.ithome.com/1/020/500.htm</link>
-      <description>…》编剧刘北 10 月 30 日也发布文章《写给自由者的信》，表示从电影开始，直到主线剧集完结，会努力在每年 10 月 30 日，都有值得庆祝的向前一步。 IT之家小伙伴记得用 最会买购买电影票 ，享受折扣价的同时还可以获得返利，预计每张票可以节省 5~15 元！</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:e9bc6141b0749d13</guid>
-      <pubDate>Sat, 31 Oct 2026 15:51:46 +0800</pubDate>
+      <title>5000mAh 磁吸充电宝 11.11 再降：小米金沙江 299 → 202 元，安克 15W 213 元速度保价</title>
+      <link>https://www.ithome.com/1/020/602.htm</link>
+      <description>一周内在京东下单的小伙伴都可保价哦： 点此保价 。 新版小米金沙江充电宝 5000mAh 今日再降价，官方定价 299 元，今日京东 202 元。 iPhone 支持 7.5W 磁吸充电，支持 2026 新国标认证，重量 120g，厚度 6.75mm： PLUS 会员 1 积分兑换 111-11 元…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:9d1920b919e0708a</guid>
+      <pubDate>Sat, 31 Oct 2026 23:34:14 +0800</pubDate>
       <category>资讯·IT之家</category>
     </item>
     <item>
@@ -440,20 +464,20 @@
       <category>资讯·IT之家</category>
     </item>
     <item>
-      <title>85 英寸 10499 → 4934 元、98 英寸 13999 → 8399 元：小米电视 S Pro Mini LED 2026 再降价</title>
-      <link>https://www.ithome.com/1/020/473.htm</link>
-      <description>小米电视 S Pro Mini LED 2026 系列去年 9 月开售，今日 11.11 再次开启京东自营探底大促，各款直降至： 京东无门槛红包至高 26888 元，支持即领即用： 点此抽取 。 85 英寸 首销价 10499 元，今日国补后 5034 元。 先领电视 9.5 折加补券： 点此领券 （点击 一键领券 即可） 点击下方卡片 → 点击售价下方“ 家电家居多买多返 ”参加活动后再下单，京…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:dddba1625ec8fa4c</guid>
+      <title>追光动画首部水浒传 IP 电影《林冲：风雪山神庙》公布</title>
+      <link>https://www.ithome.com/1/020/503.htm</link>
+      <description>…家电影局备案立项。IT之家附剧情梗概： 北宋年间，八十万禁军教头林冲循规蹈矩，只想在汴梁安身立命，却怎知世事多难，一系列遭遇下，林冲被一步步逼上了梁山。 IT之家小伙伴记得用 最会买购买电影票 ，享受折扣价的同时还可以获得返利，预计每张票可以节省 5~15 元！</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:d89f981ac1870b37</guid>
       <pubDate>Sat, 31 Oct 2026 15:51:46 +0800</pubDate>
       <category>资讯·IT之家</category>
     </item>
     <item>
-      <title>火山方舟 模型计费说明</title>
-      <link>https://www.volcengine.com/docs/82379/1099320</link>
-      <description>…输入图单价（元/张） ​ 输出图单价（元/张） ​ 模型名称 ​ 输入图单价（元/张） ​ 输出图单价（元/张） ​ doubao-seedream-5-0-pro ​ 按生图场景区分定价 ​ 首张免费 ​ 第 2 张起：0.02 ​ 单图生成场景： ​ ≤ 261 万像素：0.30 ​ &gt; 261 万像素：0.60 ​ 图层拆分场景： ​ ≤ 261 万像素：0.15 ​ &gt; 261 万像素：0.…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:3f9515c4e7efd405</guid>
-      <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
-      <category>火山方舟·豆包</category>
+      <title>国产经典动画《星游记》时隔 15 年回归，前传电影官宣启动</title>
+      <link>https://www.ithome.com/1/020/500.htm</link>
+      <description>…》编剧刘北 10 月 30 日也发布文章《写给自由者的信》，表示从电影开始，直到主线剧集完结，会努力在每年 10 月 30 日，都有值得庆祝的向前一步。 IT之家小伙伴记得用 最会买购买电影票 ，享受折扣价的同时还可以获得返利，预计每张票可以节省 5~15 元！</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:e9bc6141b0749d13</guid>
+      <pubDate>Sat, 31 Oct 2026 15:51:46 +0800</pubDate>
+      <category>资讯·IT之家</category>
     </item>
     <item>
       <title>宇树最新财报：重金投入研发，上市后的考题变了</title>
@@ -470,14 +494,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:55df8be201ccf828</guid>
       <pubDate>Thu, 22 Oct 2026 22:47:53 +0800</pubDate>
       <category>资讯·极客公园</category>
-    </item>
-    <item>
-      <title>进击中的影石：攻击性强，血条太脆 ？</title>
-      <link>https://www.leiphone.com/category/weiwu/KlCbWSV85pD8wKbW.html</link>
-      <description>…求已经成立、仍在快速扩容的市场。2026年二季度，全球云台相机出货量接近280万台，同比增长87%。 Luna Ultra上市后的份额表现，证明影石可以把产品定义能力复制到第二个品类。 市场也在扩容和降价。2026年二季度，全球云台相机平均单价同比下降6%至2968元。潜在竞争者也不只有现有影像品牌。许衡对雷峰网表示：“手机厂商能不能做这个事？答案是肯定的，而且可能做得更好。做和不做不在于能不能做，而…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:a598f20959f0bdfa</guid>
-      <pubDate>Sat, 31 Oct 2026 00:25:24 +0800</pubDate>
-      <category>资讯·雷锋网</category>
     </item>
     <item>
       <title>How to teach with Databricks Free Edition</title>
@@ -790,22 +806,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:fdf3caa51f8f33cc</guid>
       <pubDate>Tue, 20 Oct 2026 14:58:40 +0800</pubDate>
       <category>AWS Bedrock</category>
-    </item>
-    <item>
-      <title>原生 3DoF 防抖不易晕：雷鸟 AR 眼镜 GT 京东 1391 元新低，配镜后也支持 7 天免费试用</title>
-      <link>https://www.ithome.com/1/016/363.htm</link>
-      <description>…返 100 元 直达链接 京东 11.11 红包至高 26888 元无门槛可用，每天可抽一次： 点此抽取 。 折合仅需 1391 元，另外加赠敦煌联名 IP 周边礼包。 免费配镜后，支持 7 天无理由免费试用。 支持保价 11.11，支持 11 月 13 日前如果降价，可联系客服保价。 京东免费配镜 活动时间：10 月 22 日付款的订单 参与商品：雷鸟 GT Max、GT 参与方式：拍下主机订单后联系客…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:37cd5cd684bfd4be</guid>
-      <pubDate>Thu, 22 Oct 2026 14:56:24 +0800</pubDate>
-      <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>双11大促火热开局，千川多重产品助力生意爆发</title>
-      <link>https://www.leiphone.com/category/industrynews/WA7ddFac1GqlW4Hi.html</link>
-      <description>双11大促火热开局，抖音电商千川阶段性投放数据正式出炉！平台加码流量扶持，乘方星选、达人营销、智能优惠券等多款产品协同发力，助力商家抢抓大促红利，迎来生意爆发。破百万、破千万商品与店铺规模大幅走高，多重补贴权益持续释放增量空间，为商家带来确定性增长机遇！</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:679dc792aaecce98</guid>
-      <pubDate>Wed, 21 Oct 2026 22:47:42 +0800</pubDate>
-      <category>资讯·雷锋网</category>
     </item>
   </channel>
 </rss>
