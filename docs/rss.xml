@@ -5,7 +5,7 @@
     <link>https://ikeng.github.io/model-egg-monitor/</link>
     <description>每日两次监控大模型厂商活动，提供 Atom / JSON Feed 订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 01 Nov 2026 16:32:07 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 00:32:23 +0800</lastBuildDate>
     <generator>ai-egg-monitor</generator>
     <item>
       <title>大模型 API 价格方案</title>
@@ -416,18 +416,42 @@
       <category>Replicate</category>
     </item>
     <item>
-      <title>上市两月 2068 → 1288 元：小米米家扫拖机器人 7C 新低，支持滚筒活水增压拖地</title>
-      <link>https://www.ithome.com/1/020/740.htm</link>
-      <description>小米米家扫拖机器人 7C 今年 8 月 27 日开售，京东首发国补到手价 2068 元。 今日 11.11 加码仅需 1288 元即可入手，大降价： 下单时选择“ 以旧换新 ” → 个护健康 → 电动牙刷（不回收） 京东 米家扫地机器人 7C 水箱版 券后 1299 元 领 8.8 折券 京东 11.11 红包至高 26888 元无门槛可用，每…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:8516692214892486</guid>
-      <pubDate>Sun, 01 Nov 2026 16:31:40 +0800</pubDate>
+      <title>3299 → 728 元再降价：石头 A30 Max 智能洗地机 25000Pa 大吸力 + 180° 躺平</title>
+      <link>https://www.ithome.com/1/020/786.htm</link>
+      <description>石头 A30 Max 智能洗地机官方定价 3299 元，支持 180° 躺平 + 25000Pa 大吸力，基站支持 95°C 热风自烘干 + 95°C 高温自清洁。 今日按下方步骤下单，仅需 728 元即可入手。 先领 88VIP 家电 1500-150 元消费券： 点此领券 。 下单前需咨询客服“ 返现金额 ”备注后下单，实付大于 1380 元， 晒单返 680 元 。 按下方步骤下单实付 14…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:91904e5aacba5485</guid>
+      <pubDate>Mon, 02 Nov 2026 00:32:03 +0800</pubDate>
       <category>资讯·IT之家</category>
+    </item>
+    <item>
+      <title>Epic 喜加一：益智问答游戏《Quiztopia : The Ultimate Trivia》免费领</title>
+      <link>https://www.ithome.com/1/020/810.htm</link>
+      <description>…Future Tech Solutions Pvt Ltd 制作并发行的益智问答游戏《Quiztopia：The Ultimate Trivia》即日起在 Epic Games Store 开启限时免费领取“喜加一”活动，玩家可以在 11 月 9 日凌晨 2 点 30 分前免费领取。 需要注意的是，本次限免并非 Epic 官方活动，而是由开发团队自行发起的特别促销，IT之家附游戏商品页（ https:/…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:af24daf8e23d8c71</guid>
+      <pubDate>Mon, 02 Nov 2026 00:32:03 +0800</pubDate>
+      <category>资讯·IT之家</category>
+    </item>
+    <item>
+      <title>个人灵光 2.0 实测：个人 AI 助理的机会和门槛｜AI 上新</title>
+      <link>http://www.geekpark.net/news/373249</link>
+      <description>…宝的反爬风控机制拦截在外。 米家也是类似的情况：扫码授权成功后，小米的接口连续两次触发限流，设备列表始终拉取失败。 灵光进不了淘宝的购物车，但千问却可以。 当我们把同一句指令「帮我看看淘宝购物车有什么降价幅度比较大的商品」发给千问时，两者的权限差距一目了然：千问不仅直接列出了购物车清单，甚至清楚地知道里面那把人体工学椅「已经加购快 300 天、看了几十次」。 与此同时，支付路径，阿里目前也没有向灵光…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:e3576583a2d513d3</guid>
+      <pubDate>Mon, 02 Nov 2026 00:32:03 +0800</pubDate>
+      <category>资讯·极客公园</category>
     </item>
     <item>
       <title>GOG 喜加一：点击式冒险游戏《A New Beginning: Final Cut》免费领</title>
       <link>https://www.ithome.com/1/020/738.htm</link>
       <description>IT之家 11 月 1 日消息，开发商 Daedalic Entertainment 宣布联合 GOG 平台开启新一期游戏免费领取“喜加一”活动，玩家可以在北京时间 11 月 2 日 22:00 前免费领取点击式冒险游戏《A New Beginning: Final Cut》，IT之家附游戏商品页（ https://www.go…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:44cc755647d2f752</guid>
+      <pubDate>Sun, 01 Nov 2026 16:31:40 +0800</pubDate>
+      <category>资讯·IT之家</category>
+    </item>
+    <item>
+      <title>上市两月 2068 → 1288 元：小米米家扫拖机器人 7C 新低，支持滚筒活水增压拖地</title>
+      <link>https://www.ithome.com/1/020/740.htm</link>
+      <description>小米米家扫拖机器人 7C 今年 8 月 27 日开售，京东首发国补到手价 2068 元。 今日 11.11 加码仅需 1288 元即可入手，大降价： 下单时选择“ 以旧换新 ” → 个护健康 → 电动牙刷（不回收） 京东 米家扫地机器人 7C 水箱版 券后 1299 元 领 8.8 折券 京东 11.11 红包至高 26888 元无门槛可用，每…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:8516692214892486</guid>
       <pubDate>Sun, 01 Nov 2026 16:31:40 +0800</pubDate>
       <category>资讯·IT之家</category>
     </item>
@@ -782,30 +806,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:fd68b5e4bb10abea</guid>
       <pubDate>Sat, 24 Oct 2026 14:45:23 +0800</pubDate>
       <category>资讯·钛媒体</category>
-    </item>
-    <item>
-      <title>《2026千川乘方投放宝典》出炉！助力商家迎战双11</title>
-      <link>https://www.leiphone.com/category/industrynews/P3ZLYakqA47kD3S2.html</link>
-      <description>…一笔营销成本，商家仅需设置一个综合营销ROI目标。系统自动识别低佣金、高转化素材并优先分配流量；同步邀约高佣金达人开启「合力推」，系统将达人让利转化为商家投放，商达协同助力增量订单成交。 04依托智能优惠券，打通用户决策最后一环 流量成功获取之后，价格顾虑往往成为阻碍用户下单的核心卡点。这一现象在日常经营中普遍存在，在节点大促比价氛围下会表现得更加突出。 乘方提供智能优惠券、智能运费险、智能分期免息三类…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:2c6f9038b30a642d</guid>
-      <pubDate>Thu, 22 Oct 2026 22:47:53 +0800</pubDate>
-      <category>资讯·雷锋网</category>
-    </item>
-    <item>
-      <title>Epic 喜加一：太空生存策略游戏《Terraspace》免费领</title>
-      <link>https://www.ithome.com/1/017/005.htm</link>
-      <description>…日消息，开发商 Black Apple 宣布旗下太空生存策略游戏《Terraspace》即日起在 Epic 游戏商城开启限时免费“喜加一”活动，玩家可以在北京时间 10 月 28 日凌晨 4 点前免费领取。 需要注意的是，本次限免并非 Epic 官方活动，而是由开发团队自行发起的特别促销，IT之家附游戏商品页（ https://store.epicgames.com/p/dimond-hunt-03a…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:b01aa0cf40ec76c1</guid>
-      <pubDate>Fri, 23 Oct 2026 14:49:18 +0800</pubDate>
-      <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>又一国产决策模型发布！准确率超过微软和Jev等决策模型</title>
-      <link>https://www.leiphone.com/category/industrynews/IshbO1ikAgjvB6G9.html</link>
-      <description>…时，具备准确率更高、响应更快、Token成本更低等优势，尤其适合产业AI场景。LingDT-Decision-1.0提供4B和27B两个版本，目前，模型已经在蚂蚁数科 DTMaaS 平台上线，开发者可限时免费体验。 蚂蚁数科团队在客服、风控、金融等真实业务场景测试显示，在处理同样任务时，LingDT-Decision-1.0相比于大语言模型，可将Token消耗降低超90%，响应时效提升10倍，并且性能表现…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:dd27af75fb1e3324</guid>
-      <pubDate>Thu, 22 Oct 2026 22:47:53 +0800</pubDate>
-      <category>资讯·雷锋网</category>
     </item>
   </channel>
 </rss>
