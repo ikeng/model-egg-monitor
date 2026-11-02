@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://ikeng.github.io/model-egg-monitor/atom-资讯-it之家.xml</id>
   <title>赛博鸡蛋 · 资讯·IT之家</title>
-  <updated>2026-11-02T00:32:23+08:00</updated>
+  <updated>2026-11-02T16:43:19+08:00</updated>
   <subtitle>大模型厂商活动监控</subtitle>
   <link rel="self" href="https://ikeng.github.io/model-egg-monitor/atom-资讯-it之家.xml"/>
   <link rel="alternate" href="https://ikeng.github.io/model-egg-monitor/"/>
@@ -11,6 +11,25 @@
   <author>
     <name>ai-egg-monitor</name>
   </author>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:caf5bd92e546cdec</id>
+    <title>给专业投资者配上“AI 研究员”，阿里云发布 AI 投研工作台 Qovest</title>
+    <updated>2026-11-02T16:43:00+08:00</updated>
+    <published>2026-11-02T16:43:00+08:00</published>
+    <link rel="alternate" href="https://www.ithome.com/1/021/071.htm"/>
+    <author><name>资讯·IT之家</name></author>
+    <category term="资讯·IT之家"/>
+    <summary type="text">…拿到一份可交互的产业链图谱；也可以让 Qovest 测算数据中心电力设施的投资规模，只要调整任何一个前提假设，Qovest 就会自动重新计算。 该产品已经对个人用户开放邀测，新用户注册后即获相应积分可免费试用， 后续可选择每月 99 元或 199 元的订阅套餐 。</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·IT之家&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：给专业投资者配上“AI 研究员”，阿里云发布 AI 投研工作台 Qovest&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…拿到一份可交互的产业链图谱；也可以让 Qovest 测算数据中心电力设施的投资规模，只要调整任何一个前提假设，Qovest 就会自动重新计算。 该产品已经对个人用户开放邀测，新用户注册后即获相应积分可免费试用， 后续可选择每月 99 元或 199 元的订阅套餐 。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：免费试用&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-11-02T16:43:00+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-02T16:43:00+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.ithome.com/1/021/071.htm&#34;&gt;https://www.ithome.com/1/021/071.htm&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:91904e5aacba5485</id>
     <title>3299 → 728 元再降价：石头 A30 Max 智能洗地机 25000Pa 大吸力 + 180° 躺平</title>

@@ -5,7 +5,7 @@
     <link>https://ikeng.github.io/model-egg-monitor/</link>
     <description>每日两次监控大模型厂商活动，提供 Atom / JSON Feed 订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 02 Nov 2026 00:32:23 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 16:43:19 +0800</lastBuildDate>
     <generator>ai-egg-monitor</generator>
     <item>
       <title>大模型 API 价格方案</title>
@@ -30,14 +30,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:09cec74616d2634c</guid>
       <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
       <category>GitHub Copilot</category>
-    </item>
-    <item>
-      <title>PPIO｜中国领先的独立 Agentic Cloud 服务商</title>
-      <link>https://ppio.com/</link>
-      <description>模型服务 Agent 云服务 GPU 云服务 即将下线 新闻资讯 关于我们 文档 控制台 登录 立即注册 登录/注册 免费注册 登录 模型服务 Agent 云服务 GPU 云服务 即将下线 新闻资讯 关于我们 文档 控制台 安装 Skills › npx skills add PPIO/ppio-skills --ski…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:0d2c4df3ac601949</guid>
-      <pubDate>Mon, 12 Oct 2026 16:24:02 +0800</pubDate>
-      <category>PPIO 派欧云</category>
     </item>
     <item>
       <title>Latest news</title>
@@ -368,6 +360,14 @@
       <category>AWS Bedrock</category>
     </item>
     <item>
+      <title>个人灵光 2.0 实测：个人 AI 助理的机会和门槛｜AI 上新</title>
+      <link>http://www.geekpark.net/news/373249</link>
+      <description>…宝的反爬风控机制拦截在外。 米家也是类似的情况：扫码授权成功后，小米的接口连续两次触发限流，设备列表始终拉取失败。 灵光进不了淘宝的购物车，但千问却可以。 当我们把同一句指令「帮我看看淘宝购物车有什么降价幅度比较大的商品」发给千问时，两者的权限差距一目了然：千问不仅直接列出了购物车清单，甚至清楚地知道里面那把人体工学椅「已经加购快 300 天、看了几十次」。 与此同时，支付路径，阿里目前也没有向灵光…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:e3576583a2d513d3</guid>
+      <pubDate>Mon, 02 Nov 2026 00:32:03 +0800</pubDate>
+      <category>资讯·极客公园</category>
+    </item>
+    <item>
       <title>千帆大模型平台</title>
       <link>https://cloud.baidu.com/product/wenxinworkshop</link>
       <description>…28b-a3b 上下文 32K,30K+8K 输入价格 ¥0.001/ 千tokens 输出价格 ¥0.01/ 千tokens 立即体验 探索更多大模型 独家优质Skill与精选MCP服务 百度搜索 免费试用 独家 Skill MCP 百度搜索（BaiduSearch）服务基于百度搜索能力与AI技术，专为生成式AI提供全网实时信息检索服务，具备海量内容站点、高权威性，强时效性，提供全新的搜索体验。 了…</description>
@@ -416,6 +416,22 @@
       <category>Replicate</category>
     </item>
     <item>
+      <title>给专业投资者配上“AI 研究员”，阿里云发布 AI 投研工作台 Qovest</title>
+      <link>https://www.ithome.com/1/021/071.htm</link>
+      <description>…拿到一份可交互的产业链图谱；也可以让 Qovest 测算数据中心电力设施的投资规模，只要调整任何一个前提假设，Qovest 就会自动重新计算。 该产品已经对个人用户开放邀测，新用户注册后即获相应积分可免费试用， 后续可选择每月 99 元或 199 元的订阅套餐 。</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:caf5bd92e546cdec</guid>
+      <pubDate>Mon, 02 Nov 2026 16:43:00 +0800</pubDate>
+      <category>资讯·IT之家</category>
+    </item>
+    <item>
+      <title>PPIO｜中国领先的独立 Agentic Cloud 服务商</title>
+      <link>https://ppio.com/</link>
+      <description>模型服务 Agent 云服务 GPU 云服务 即将下线 新闻资讯 关于我们 文档 控制台 登录 立即注册 登录/注册 免费注册 登录 模型服务 Agent 云服务 GPU 云服务 即将下线 新闻资讯 关于我们 文档 控制台 安装 Skills › npx skills add PPIO/ppio-skills --ski…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:0d2c4df3ac601949</guid>
+      <pubDate>Mon, 12 Oct 2026 16:24:02 +0800</pubDate>
+      <category>PPIO 派欧云</category>
+    </item>
+    <item>
       <title>3299 → 728 元再降价：石头 A30 Max 智能洗地机 25000Pa 大吸力 + 180° 躺平</title>
       <link>https://www.ithome.com/1/020/786.htm</link>
       <description>石头 A30 Max 智能洗地机官方定价 3299 元，支持 180° 躺平 + 25000Pa 大吸力，基站支持 95°C 热风自烘干 + 95°C 高温自清洁。 今日按下方步骤下单，仅需 728 元即可入手。 先领 88VIP 家电 1500-150 元消费券： 点此领券 。 下单前需咨询客服“ 返现金额 ”备注后下单，实付大于 1380 元， 晒单返 680 元 。 按下方步骤下单实付 14…</description>
@@ -430,14 +446,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:af24daf8e23d8c71</guid>
       <pubDate>Mon, 02 Nov 2026 00:32:03 +0800</pubDate>
       <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>个人灵光 2.0 实测：个人 AI 助理的机会和门槛｜AI 上新</title>
-      <link>http://www.geekpark.net/news/373249</link>
-      <description>…宝的反爬风控机制拦截在外。 米家也是类似的情况：扫码授权成功后，小米的接口连续两次触发限流，设备列表始终拉取失败。 灵光进不了淘宝的购物车，但千问却可以。 当我们把同一句指令「帮我看看淘宝购物车有什么降价幅度比较大的商品」发给千问时，两者的权限差距一目了然：千问不仅直接列出了购物车清单，甚至清楚地知道里面那把人体工学椅「已经加购快 300 天、看了几十次」。 与此同时，支付路径，阿里目前也没有向灵光…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:e3576583a2d513d3</guid>
-      <pubDate>Mon, 02 Nov 2026 00:32:03 +0800</pubDate>
-      <category>资讯·极客公园</category>
     </item>
     <item>
       <title>GOG 喜加一：点击式冒险游戏《A New Beginning: Final Cut》免费领</title>
@@ -798,14 +806,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:829587bcfc557c26</guid>
       <pubDate>Sun, 25 Oct 2026 22:02:54 +0800</pubDate>
       <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>降价换不来增长，沃尔沃在中国卖不动了</title>
-      <link>https://www.tmtpost.com/8179937.html</link>
-      <description>大中华区新帅开局不利。</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:fd68b5e4bb10abea</guid>
-      <pubDate>Sat, 24 Oct 2026 14:45:23 +0800</pubDate>
-      <category>资讯·钛媒体</category>
     </item>
   </channel>
 </rss>
