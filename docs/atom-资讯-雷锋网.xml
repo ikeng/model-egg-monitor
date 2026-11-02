@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://ikeng.github.io/model-egg-monitor/atom-资讯-雷锋网.xml</id>
   <title>赛博鸡蛋 · 资讯·雷锋网</title>
-  <updated>2026-11-02T16:43:19+08:00</updated>
+  <updated>2026-11-03T03:55:57+08:00</updated>
   <subtitle>大模型厂商活动监控</subtitle>
   <link rel="self" href="https://ikeng.github.io/model-egg-monitor/atom-资讯-雷锋网.xml"/>
   <link rel="alternate" href="https://ikeng.github.io/model-egg-monitor/"/>
@@ -11,6 +11,44 @@
   <author>
     <name>ai-egg-monitor</name>
   </author>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:3964c503e1407158</id>
+    <title>何小鹏：如果你想证明自己的智驾强，那你就应该出国；奇瑞高管回应智界独立；DeepSeek最新融资细节曝光！vivo、美团等位列投资者名单</title>
+    <updated>2026-11-03T03:55:35+08:00</updated>
+    <published>2026-11-03T03:55:35+08:00</published>
+    <link rel="alternate" href="https://www.leiphone.com/category/zaobao/hsSSzyalKJd6vnkf.html"/>
+    <author><name>资讯·雷锋网</name></author>
+    <category term="资讯·雷锋网"/>
+    <summary type="text">…猫上线Token充值中心以来，截至目前已接入DeepSeek、阿里云、智谱、Kimi等厂商；同时MiniMax开出首家品牌官方旗舰店，千问办公、阶跃星辰等均已入驻。 今年双十一大模型厂商推出Token折扣套餐，以千问AI Lite月卡为例，官网价60元，活动价39元，便宜了三成多。对于普通消费者而言，购买Token主要有两种方式：一是买按量付费的充值券，类似话费，用完再买；二是按包月包年的固定额度订阅…</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·雷锋网&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：何小鹏：如果你想证明自己的智驾强，那你就应该出国；奇瑞高管回应智界独立；DeepSeek最新融资细节曝光！vivo、美团等位列投资者名单&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…猫上线Token充值中心以来，截至目前已接入DeepSeek、阿里云、智谱、Kimi等厂商；同时MiniMax开出首家品牌官方旗舰店，千问办公、阶跃星辰等均已入驻。 今年双十一大模型厂商推出Token折扣套餐，以千问AI Lite月卡为例，官网价60元，活动价39元，便宜了三成多。对于普通消费者而言，购买Token主要有两种方式：一是买按量付费的充值券，类似话费，用完再买；二是按包月包年的固定额度订阅…&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：折扣&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-11-03T03:55:35+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-03T03:55:35+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.leiphone.com/category/zaobao/hsSSzyalKJd6vnkf.html&#34;&gt;https://www.leiphone.com/category/zaobao/hsSSzyalKJd6vnkf.html&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:a750ab09026fc50b</id>
+    <title>阿里云发布AI投研工作台Qovest，给专业投资者配一个“AI研究员”</title>
+    <updated>2026-11-03T03:55:35+08:00</updated>
+    <published>2026-11-03T03:55:35+08:00</published>
+    <link rel="alternate" href="https://www.leiphone.com/category/industrynews/MFtJXmU8YNMGMig6.html"/>
+    <author><name>资讯·雷锋网</name></author>
+    <category term="资讯·雷锋网"/>
+    <summary type="text">…人操盘笔记和待验证问题自动归档，让研究可追溯、可对比。未来在企业版中，“投研空间”会成为组织内成员协作、信息共享的研究调度中心。 目前Qovest官网已经对个人用户开放邀测，新用户注册后即获相应积分可免费试用，后续可选择每月99元或199元的订阅套餐，各套餐包含相应使用额度。</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·雷锋网&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：阿里云发布AI投研工作台Qovest，给专业投资者配一个“AI研究员”&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…人操盘笔记和待验证问题自动归档，让研究可追溯、可对比。未来在企业版中，“投研空间”会成为组织内成员协作、信息共享的研究调度中心。 目前Qovest官网已经对个人用户开放邀测，新用户注册后即获相应积分可免费试用，后续可选择每月99元或199元的订阅套餐，各套餐包含相应使用额度。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：免费试用&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-11-03T03:55:35+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-03T03:55:35+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.leiphone.com/category/industrynews/MFtJXmU8YNMGMig6.html&#34;&gt;https://www.leiphone.com/category/industrynews/MFtJXmU8YNMGMig6.html&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:a598f20959f0bdfa</id>
     <title>进击中的影石：攻击性强，血条太脆 ？</title>

@@ -5,7 +5,7 @@
     <link>https://ikeng.github.io/model-egg-monitor/</link>
     <description>每日两次监控大模型厂商活动，提供 Atom / JSON Feed 订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 02 Nov 2026 16:43:19 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 03:55:57 +0800</lastBuildDate>
     <generator>ai-egg-monitor</generator>
     <item>
       <title>大模型 API 价格方案</title>
@@ -120,14 +120,6 @@
       <category>Google Gemini</category>
     </item>
     <item>
-      <title>火山方舟 模型计费说明</title>
-      <link>https://www.volcengine.com/docs/82379/1099320</link>
-      <description>…输入图单价（元/张） ​ 输出图单价（元/张） ​ 模型名称 ​ 输入图单价（元/张） ​ 输出图单价（元/张） ​ doubao-seedream-5-0-pro ​ 按生图场景区分定价 ​ 首张免费 ​ 第 2 张起：0.02 ​ 单图生成场景： ​ ≤ 261 万像素：0.30 ​ &gt; 261 万像素：0.60 ​ 图层拆分场景： ​ ≤ 261 万像素：0.15 ​ &gt; 261 万像素：0.…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:3f9515c4e7efd405</guid>
-      <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
-      <category>火山方舟·豆包</category>
-    </item>
-    <item>
       <title>Pricing</title>
       <link>https://docs.perplexity.ai/getting-started/pricing</link>
       <description>…Model Price ($/1M input tokens) Output tokens Per-request fee pplx-decider-v1.2 $0.02 Free None pplx-decider-flash-v1.2 $0.01 Free None Aliases: pplx-decider-latest and perplexity/pplx-decid…</description>
@@ -150,14 +142,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:573469f2620924c1</guid>
       <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
       <category>Modal</category>
-    </item>
-    <item>
-      <title>Gemini Developer API pricing</title>
-      <link>https://ai.google.dev/gemini-api/docs/pricing</link>
-      <description>…is now available. Try it out . Home Gemini API Docs Gemini Developer API pricing Start building free of charge with generous limits, then scale up with prepaid and pay-as-you-go pricing for your produ…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:5f5c4c0ae520c10f</guid>
-      <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
-      <category>Google Gemini</category>
     </item>
     <item>
       <title>Plans &amp; pricing</title>
@@ -248,6 +232,14 @@
       <category>xAI Grok</category>
     </item>
     <item>
+      <title>3299 → 728 元再降价：石头 A30 Max 智能洗地机 25000Pa 大吸力 + 180° 躺平</title>
+      <link>https://www.ithome.com/1/020/786.htm</link>
+      <description>石头 A30 Max 智能洗地机官方定价 3299 元，支持 180° 躺平 + 25000Pa 大吸力，基站支持 95°C 热风自烘干 + 95°C 高温自清洁。 今日按下方步骤下单，仅需 728 元即可入手。 先领 88VIP 家电 1500-150 元消费券： 点此领券 。 下单前需咨询客服“ 返现金额 ”备注后下单，实付大于 1380 元， 晒单返 680 元 。 按下方步骤下单实付 14…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:91904e5aacba5485</guid>
+      <pubDate>Mon, 02 Nov 2026 00:32:03 +0800</pubDate>
+      <category>资讯·IT之家</category>
+    </item>
+    <item>
       <title>Fastest AI Inference Cloud and API</title>
       <link>https://www.cerebras.ai/inference</link>
       <description>…intelligent products across coding, research, voice, automation, and more agentic use cases.​ demo free trial Unmatched Speed in Action Watch Cerebras deliver top quality answers in a fraction of the tim…</description>
@@ -270,14 +262,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:a3169b683b57358b</guid>
       <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
       <category>Cerebras</category>
-    </item>
-    <item>
-      <title>进击中的影石：攻击性强，血条太脆 ？</title>
-      <link>https://www.leiphone.com/category/weiwu/KlCbWSV85pD8wKbW.html</link>
-      <description>…求已经成立、仍在快速扩容的市场。2026年二季度，全球云台相机出货量接近280万台，同比增长87%。 Luna Ultra上市后的份额表现，证明影石可以把产品定义能力复制到第二个品类。 市场也在扩容和降价。2026年二季度，全球云台相机平均单价同比下降6%至2968元。潜在竞争者也不只有现有影像品牌。许衡对雷峰网表示：“手机厂商能不能做这个事？答案是肯定的，而且可能做得更好。做和不做不在于能不能做，而…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:a598f20959f0bdfa</guid>
-      <pubDate>Sat, 31 Oct 2026 00:25:24 +0800</pubDate>
-      <category>资讯·雷锋网</category>
     </item>
     <item>
       <title>Newsroom \ Anthropic</title>
@@ -416,6 +400,62 @@
       <category>Replicate</category>
     </item>
     <item>
+      <title>千问AI双11，好价好AI</title>
+      <link>https://tongyi.aliyun.com/</link>
+      <description>双 11 热卖更优惠，多款旗舰模型、应用免费体验，Token Plan 低至5折，千问办公 29.9 元限时抢，加入OPC赢百万 AI 助力金，新认证企业至高领 2728 元 AI 礼包，年度钜惠！力度空前！ 赢百万 AI 礼包 分享赚 100…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:0689d31fc9e58be0</guid>
+      <pubDate>Tue, 03 Nov 2026 03:55:35 +0800</pubDate>
+      <category>通义千问</category>
+    </item>
+    <item>
+      <title>何小鹏：如果你想证明自己的智驾强，那你就应该出国；奇瑞高管回应智界独立；DeepSeek最新融资细节曝光！vivo、美团等位列投资者名单</title>
+      <link>https://www.leiphone.com/category/zaobao/hsSSzyalKJd6vnkf.html</link>
+      <description>…猫上线Token充值中心以来，截至目前已接入DeepSeek、阿里云、智谱、Kimi等厂商；同时MiniMax开出首家品牌官方旗舰店，千问办公、阶跃星辰等均已入驻。 今年双十一大模型厂商推出Token折扣套餐，以千问AI Lite月卡为例，官网价60元，活动价39元，便宜了三成多。对于普通消费者而言，购买Token主要有两种方式：一是买按量付费的充值券，类似话费，用完再买；二是按包月包年的固定额度订阅…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:3964c503e1407158</guid>
+      <pubDate>Tue, 03 Nov 2026 03:55:35 +0800</pubDate>
+      <category>资讯·雷锋网</category>
+    </item>
+    <item>
+      <title>阿里云发布AI投研工作台Qovest，给专业投资者配一个“AI研究员”</title>
+      <link>https://www.leiphone.com/category/industrynews/MFtJXmU8YNMGMig6.html</link>
+      <description>…人操盘笔记和待验证问题自动归档，让研究可追溯、可对比。未来在企业版中，“投研空间”会成为组织内成员协作、信息共享的研究调度中心。 目前Qovest官网已经对个人用户开放邀测，新用户注册后即获相应积分可免费试用，后续可选择每月99元或199元的订阅套餐，各套餐包含相应使用额度。</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:a750ab09026fc50b</guid>
+      <pubDate>Tue, 03 Nov 2026 03:55:35 +0800</pubDate>
+      <category>资讯·雷锋网</category>
+    </item>
+    <item>
+      <title>消息称罗马仕“重生计划”因债务搁浅，拟按三折清偿</title>
+      <link>https://www.ithome.com/1/021/264.htm</link>
+      <description>IT之家 11 月 2 日消息。近日，据蓝鲸科技从知情人士处获悉，计划搁浅的核心症结仍在于债务：投资方要等罗马仕把现有债务处理得差不多之后才会投。与此同时，罗马仕当前给供应商的债务处理方案是“按三折折扣以清偿”。 业内人士李翔向记者分析称，三折意味着债权人要先行确认超过六成的损失，而“盈利后清偿”对一家停工停产已逾一年、产品尚未恢复上架的企业而言， 更像一张兑现期限不明的远期支票 。事实上，“三折方…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:f79ca80a1eb8b35e</guid>
+      <pubDate>Tue, 03 Nov 2026 03:55:35 +0800</pubDate>
+      <category>资讯·IT之家</category>
+    </item>
+    <item>
+      <title>火山方舟 模型计费说明</title>
+      <link>https://www.volcengine.com/docs/82379/1099320</link>
+      <description>…输入图单价（元/张） ​ 输出图单价（元/张） ​ 模型名称 ​ 输入图单价（元/张） ​ 输出图单价（元/张） ​ doubao-seedream-5-0-pro ​ 按生图场景区分定价 ​ 首张免费 ​ 第 2 张起：0.02 ​ 单图生成场景： ​ ≤ 261 万像素：0.30 ​ &gt; 261 万像素：0.60 ​ 图层拆分场景： ​ ≤ 261 万像素：0.15 ​ &gt; 261 万像素：0.…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:3f9515c4e7efd405</guid>
+      <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
+      <category>火山方舟·豆包</category>
+    </item>
+    <item>
+      <title>Gemini Developer API pricing</title>
+      <link>https://ai.google.dev/gemini-api/docs/pricing</link>
+      <description>…is now available. Try it out . Home Gemini API Docs Gemini Developer API pricing Start building free of charge with generous limits, then scale up with prepaid and pay-as-you-go pricing for your produ…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:5f5c4c0ae520c10f</guid>
+      <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
+      <category>Google Gemini</category>
+    </item>
+    <item>
+      <title>进击中的影石：攻击性强，血条太脆 ？</title>
+      <link>https://www.leiphone.com/category/weiwu/KlCbWSV85pD8wKbW.html</link>
+      <description>…求已经成立、仍在快速扩容的市场。2026年二季度，全球云台相机出货量接近280万台，同比增长87%。 Luna Ultra上市后的份额表现，证明影石可以把产品定义能力复制到第二个品类。 市场也在扩容和降价。2026年二季度，全球云台相机平均单价同比下降6%至2968元。潜在竞争者也不只有现有影像品牌。许衡对雷峰网表示：“手机厂商能不能做这个事？答案是肯定的，而且可能做得更好。做和不做不在于能不能做，而…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:a598f20959f0bdfa</guid>
+      <pubDate>Sat, 31 Oct 2026 00:25:24 +0800</pubDate>
+      <category>资讯·雷锋网</category>
+    </item>
+    <item>
       <title>给专业投资者配上“AI 研究员”，阿里云发布 AI 投研工作台 Qovest</title>
       <link>https://www.ithome.com/1/021/071.htm</link>
       <description>…拿到一份可交互的产业链图谱；也可以让 Qovest 测算数据中心电力设施的投资规模，只要调整任何一个前提假设，Qovest 就会自动重新计算。 该产品已经对个人用户开放邀测，新用户注册后即获相应积分可免费试用， 后续可选择每月 99 元或 199 元的订阅套餐 。</description>
@@ -430,14 +470,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:0d2c4df3ac601949</guid>
       <pubDate>Mon, 12 Oct 2026 16:24:02 +0800</pubDate>
       <category>PPIO 派欧云</category>
-    </item>
-    <item>
-      <title>3299 → 728 元再降价：石头 A30 Max 智能洗地机 25000Pa 大吸力 + 180° 躺平</title>
-      <link>https://www.ithome.com/1/020/786.htm</link>
-      <description>石头 A30 Max 智能洗地机官方定价 3299 元，支持 180° 躺平 + 25000Pa 大吸力，基站支持 95°C 热风自烘干 + 95°C 高温自清洁。 今日按下方步骤下单，仅需 728 元即可入手。 先领 88VIP 家电 1500-150 元消费券： 点此领券 。 下单前需咨询客服“ 返现金额 ”备注后下单，实付大于 1380 元， 晒单返 680 元 。 按下方步骤下单实付 14…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:91904e5aacba5485</guid>
-      <pubDate>Mon, 02 Nov 2026 00:32:03 +0800</pubDate>
-      <category>资讯·IT之家</category>
     </item>
     <item>
       <title>Epic 喜加一：益智问答游戏《Quiztopia : The Ultimate Trivia》免费领</title>
@@ -774,38 +806,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:335d5409b2d4d482</guid>
       <pubDate>Mon, 26 Oct 2026 15:17:24 +0800</pubDate>
       <category>资讯·钛媒体</category>
-    </item>
-    <item>
-      <title>为什么 Anthropic 不做 Personal AI</title>
-      <link>http://www.geekpark.net/news/372461</link>
-      <description>…整的 agent 回合，每天光输入 token 就能累积到约 480 万， 按 Claude Opus 5.5 的标价算，一个用户一天大约 19 美元 。 Meta 可以用广告利润去补贴 Muse 的免费额度，OpenAI 可以把 dots 锁在高价的 Pro 和 Business Premium 套餐里。而对算力一向紧张、Claude 用户也常年抱怨额度不够的 Anthropic 来说， 把宝贵的算力投…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:975b6d2868576069</guid>
-      <pubDate>Fri, 16 Oct 2026 22:27:05 +0800</pubDate>
-      <category>资讯·极客公园</category>
-    </item>
-    <item>
-      <title>Epic 喜加一：狼人杀推理游戏《MAFIA HOTEL》免费领</title>
-      <link>https://www.ithome.com/1/017/899.htm</link>
-      <description>IT之家 10 月 26 日消息，由独立开发商 ALMNHALI 开发并发行的狼人杀推理游戏《MAFIA HOTEL》即日起在 Epic Games Store 开放限时免费领取“喜加一”活动， 本作在 Epic 国区定价为 6 元，玩家可以在北京时间 11 月 2 日 01:02 前免费领取 。 需要注意的是，本次限免并非 Epic 官方活动，而是由开发团队自行发起的特别促…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:db04d2505b80a820</guid>
-      <pubDate>Mon, 26 Oct 2026 15:17:24 +0800</pubDate>
-      <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>《流浪地球 3（上）》电影全新物料即将发布，2027 年春节档上映</title>
-      <link>https://www.ithome.com/1/017/693.htm</link>
-      <description>…新的家园。然而宇宙之路危机四伏，为了拯救地球，为了人类能在漫长的 2500 年后抵达新家园，最终，流浪地球时代的年轻人挺身而出，展开争分夺秒的生死之战。 IT之家小伙伴记得用 最会买购买电影票 ，享受折扣价的同时还可以获得返利，预计每张票可以节省 5~15 元！</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:4c79b8c23e1b6292</guid>
-      <pubDate>Sun, 25 Oct 2026 22:02:54 +0800</pubDate>
-      <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>韩 KRAFTON AI 预览 Raon</title>
-      <link>https://www.ithome.com/1/017/695.htm</link>
-      <description>…mini 采用混合专家架构，导入线性注意力，支持推测解码，整体体量为 30B-A4B。该模型聚焦韩语的同时兼顾英语性能， 以 Apache 2.0 许可开源 。KRAFTON AI 还在官网提供限时免费 API 试用。 KRAFTON AI 表示，预览版的 Raon-1 mini 在编程与智能体任务上与 Meta 的 Muse Glimmer 30B 相当 ，同时速度更快、内存效率更高；此外其能进行自然的对…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:829587bcfc557c26</guid>
-      <pubDate>Sun, 25 Oct 2026 22:02:54 +0800</pubDate>
-      <category>资讯·IT之家</category>
     </item>
   </channel>
 </rss>
