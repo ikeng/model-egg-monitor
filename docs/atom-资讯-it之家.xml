@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://ikeng.github.io/model-egg-monitor/atom-资讯-it之家.xml</id>
   <title>赛博鸡蛋 · 资讯·IT之家</title>
-  <updated>2026-11-03T03:55:57+08:00</updated>
+  <updated>2026-11-03T16:54:22+08:00</updated>
   <subtitle>大模型厂商活动监控</subtitle>
   <link rel="self" href="https://ikeng.github.io/model-egg-monitor/atom-资讯-it之家.xml"/>
   <link rel="alternate" href="https://ikeng.github.io/model-egg-monitor/"/>
@@ -11,6 +11,25 @@
   <author>
     <name>ai-egg-monitor</name>
   </author>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:4515435ca47afb83</id>
+    <title>消息称腾讯将推面向 C 端用户的 AI 搜索引擎：极简设计、强化权威信源排序</title>
+    <updated>2026-11-03T16:54:01+08:00</updated>
+    <published>2026-11-03T16:54:01+08:00</published>
+    <link rel="alternate" href="https://www.ithome.com/1/021/643.htm"/>
+    <author><name>资讯·IT之家</name></author>
+    <category term="资讯·IT之家"/>
+    <summary type="text">…内置搜索、腾讯云“元宝搜索”API 共享一套底层能力，即在面向浏览器与网页搜索场景时，三者本质是同一套能力在不同入口下的产品化呈现。 目前元宝搜索提供 Skill、MCP 和 API 三种接入方式，凭邀请码限时在 10 月、11 月最高可调用 6000 次；接入流程也简单：在腾讯云拿到 API Key，打开终端敲一条 curl 命令即可发起请求。 据悉，腾讯直到现在才把这套能力升级成云服务对外卖的原因在…</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·IT之家&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：消息称腾讯将推面向 C 端用户的 AI 搜索引擎：极简设计、强化权威信源排序&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…内置搜索、腾讯云“元宝搜索”API 共享一套底层能力，即在面向浏览器与网页搜索场景时，三者本质是同一套能力在不同入口下的产品化呈现。 目前元宝搜索提供 Skill、MCP 和 API 三种接入方式，凭邀请码限时在 10 月、11 月最高可调用 6000 次；接入流程也简单：在腾讯云拿到 API Key，打开终端敲一条 curl 命令即可发起请求。 据悉，腾讯直到现在才把这套能力升级成云服务对外卖的原因在…&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：邀请码&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-11-03T16:54:01+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-03T16:54:01+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.ithome.com/1/021/643.htm&#34;&gt;https://www.ithome.com/1/021/643.htm&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:91904e5aacba5485</id>
     <title>3299 → 728 元再降价：石头 A30 Max 智能洗地机 25000Pa 大吸力 + 180° 躺平</title>

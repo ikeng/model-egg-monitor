@@ -12,6 +12,20 @@
   ],
   "items": [
     {
+      "id": "tag:ai-egg-monitor,2026:activity:4515435ca47afb83",
+      "url": "https://www.ithome.com/1/021/643.htm",
+      "title": "消息称腾讯将推面向 C 端用户的 AI 搜索引擎：极简设计、强化权威信源排序",
+      "content_html": "<p><strong>厂商</strong>：资讯·IT之家</p>\n<p><strong>标题</strong>：消息称腾讯将推面向 C 端用户的 AI 搜索引擎：极简设计、强化权威信源排序</p>\n<p><strong>福利摘要</strong>：…内置搜索、腾讯云“元宝搜索”API 共享一套底层能力，即在面向浏览器与网页搜索场景时，三者本质是同一套能力在不同入口下的产品化呈现。 目前元宝搜索提供 Skill、MCP 和 API 三种接入方式，凭邀请码限时在 10 月、11 月最高可调用 6000 次；接入流程也简单：在腾讯云拿到 API Key，打开终端敲一条 curl 命令即可发起请求。 据悉，腾讯直到现在才把这套能力升级成云服务对外卖的原因在…</p>\n<p><strong>需登录</strong>：否</p>\n<p><strong>来源类型</strong>：rss</p>\n<p><strong>命中关键词</strong>：邀请码</p>\n<p><strong>首次发现</strong>：2026-11-03T16:54:01+08:00</p>\n<p><strong>最后更新</strong>：2026-11-03T16:54:01+08:00</p>\n<p><strong>原始链接</strong>：<a href=\"https://www.ithome.com/1/021/643.htm\">https://www.ithome.com/1/021/643.htm</a></p>",
+      "summary": "…内置搜索、腾讯云“元宝搜索”API 共享一套底层能力，即在面向浏览器与网页搜索场景时，三者本质是同一套能力在不同入口下的产品化呈现。 目前元宝搜索提供 Skill、MCP 和 API 三种接入方式，凭邀请码限时在 10 月、11 月最高可调用 6000 次；接入流程也简单：在腾讯云拿到 API Key，打开终端敲一条 curl 命令即可发起请求。 据悉，腾讯直到现在才把这套能力升级成云服务对外卖的原因在…",
+      "date_published": "2026-11-03T16:54:01+08:00",
+      "date_modified": "2026-11-03T16:54:01+08:00",
+      "tags": [
+        "资讯·IT之家",
+        "rss",
+        "邀请码"
+      ]
+    },
+    {
       "id": "tag:ai-egg-monitor,2026:activity:91904e5aacba5485",
       "url": "https://www.ithome.com/1/020/786.htm",
       "title": "3299 → 728 元再降价：石头 A30 Max 智能洗地机 25000Pa 大吸力 + 180° 躺平",
