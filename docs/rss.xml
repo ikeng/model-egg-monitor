@@ -5,7 +5,7 @@
     <link>https://ikeng.github.io/model-egg-monitor/</link>
     <description>每日两次监控大模型厂商活动，提供 Atom / JSON Feed 订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 04 Nov 2026 01:28:08 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 16:25:46 +0800</lastBuildDate>
     <generator>ai-egg-monitor</generator>
     <item>
       <title>大模型 API 价格方案</title>
@@ -46,14 +46,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:17fe1240de605060</guid>
       <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
       <category>Mistral</category>
-    </item>
-    <item>
-      <title>机器人也中暑？宇树机器人因过热退出登泰山大赛，被担架抬下山；罗技又侮辱用户像狗，「一打折就凑上来」；曝iPhone Duo国行美版存在差异</title>
-      <link>https://www.leiphone.com/category/zaobao/wXLd0iiBxf86pe0t.html</link>
-      <description>…模型？GPT-6.2 Astra曝光 今日头条 7个月内连上2次热搜！罗技广告再被指“侮辱用户像狗”，客服回应 11 月 2 日消息，今年 3 月罗技官方旗舰店在推广 GPW3 鼠标时，曾发布“当我一降价，你还不是像狗一样跑过来”的争议性宣传文案，引发大量玩家不满，官方后续致歉，运营公司也被市场监管部门罚款20万元。 不过有网友发现，“罗技 G 影音旗舰店官方号”近期的 GPW4 朱雀鼠标推广视频中又…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:18fa1d8b84f080dc</guid>
-      <pubDate>Tue, 03 Nov 2026 16:54:01 +0800</pubDate>
-      <category>资讯·雷锋网</category>
     </item>
     <item>
       <title>腾讯混元大模型 混元生文计费概述</title>
@@ -136,6 +128,14 @@
       <category>Google Gemini</category>
     </item>
     <item>
+      <title>火山方舟 模型计费说明</title>
+      <link>https://www.volcengine.com/docs/82379/1099320</link>
+      <description>…输入图单价（元/张） ​ 输出图单价（元/张） ​ 模型名称 ​ 输入图单价（元/张） ​ 输出图单价（元/张） ​ doubao-seedream-5-0-pro ​ 按生图场景区分定价 ​ 首张免费 ​ 第 2 张起：0.02 ​ 单图生成场景： ​ ≤ 261 万像素：0.30 ​ &gt; 261 万像素：0.60 ​ 图层拆分场景： ​ ≤ 261 万像素：0.15 ​ &gt; 261 万像素：0.…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:3f9515c4e7efd405</guid>
+      <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
+      <category>火山方舟·豆包</category>
+    </item>
+    <item>
       <title>Pricing</title>
       <link>https://fireworks.ai/pricing</link>
       <description>…See our inference rates or talk to us about a custom deployment. Muse Glimmer 30B SFT is free through November 30 In the UI and the Serverless Training API. No credit card required. Start a job…</description>
@@ -198,14 +198,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:6de552bf8b0c481a</guid>
       <pubDate>Mon, 26 Oct 2026 15:17:24 +0800</pubDate>
       <category>资讯·极客公园</category>
-    </item>
-    <item>
-      <title>Models &amp; Pricing</title>
-      <link>https://api-docs.deepseek.com/quick_start/pricing</link>
-      <description>…, or Codex, server-side tool calls already hit the Search and Fetch APIs. These calls are currently free of charge; per-request billing starts at 00:00 Beijing time on November 1, 2026. See the Search &amp; F…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:711aaf63478ae2f0</guid>
-      <pubDate>Sat, 17 Oct 2026 14:26:40 +0800</pubDate>
-      <category>DeepSeek</category>
     </item>
     <item>
       <title>Plans and Pricing | Devin</title>
@@ -400,6 +392,46 @@
       <category>Replicate</category>
     </item>
     <item>
+      <title>Evernote turns AI</title>
+      <link>https://openai.com/ads/customers/evernote</link>
+      <description>…ChatGPT Ads to introduce its note-taking app to people working with AI. The team tracked how often free trials led to paid subscriptions.</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:ca2ed36a104ddab0</guid>
+      <pubDate>Wed, 04 Nov 2026 16:25:24 +0800</pubDate>
+      <category>OpenAI</category>
+    </item>
+    <item>
+      <title>香港网约车平台牌照有望本月推出：逾 1.8 万人报名驾驶资格考试，车辆数量上限目前设为 1 万辆</title>
+      <link>https://www.ithome.com/1/022/242.htm</link>
+      <description>…证。持有有效的士驾驶执照的人士则无须参加考试及课程，可直接申请。香港特区政府计划于本月公布网约车车辆许可证的分配安排， 并将网约车数量上限设为 1 万辆 。 IT 之家小伙伴记得用 最会买打车 ，享受折扣价的同时还可以获得返利，单单都能省钱！</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:53d1c538b1d197dd</guid>
+      <pubDate>Wed, 04 Nov 2026 16:25:24 +0800</pubDate>
+      <category>资讯·IT之家</category>
+    </item>
+    <item>
+      <title>【随时结束】WPS 京东 PLUS 联合会员 177 元年内新低，单个会员 1 年仅需 44 元</title>
+      <link>https://www.ithome.com/1/022/180.htm</link>
+      <description>…，其中赠送的 12 积分有效期 30 天。 活动随时结束 WPS 超级会员 3 年日常 298 元，今日买超会 3 年送京东 PLUS 会员 1 年，首次购买用户叠加 25 元首购礼金，领取 30 元优惠券。 部分用户可叠加京东平台 46 元补贴（加入购物车后，京东 App 首页搜索“WPS 会员”直接下单即可） 实付 197 元，此项优惠 限账号 。 下单前加入店铺会员，付款后可兑换 20 元京东 E…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:d9b4b38eb2046962</guid>
+      <pubDate>Wed, 04 Nov 2026 16:25:24 +0800</pubDate>
+      <category>资讯·IT之家</category>
+    </item>
+    <item>
+      <title>机器人也中暑？宇树机器人因过热退出登泰山大赛，被担架抬下山；罗技又侮辱用户像狗，「一打折就凑上来」；曝iPhone Duo国行美版存在差异</title>
+      <link>https://www.leiphone.com/category/zaobao/wXLd0iiBxf86pe0t.html</link>
+      <description>…模型？GPT-6.2 Astra曝光 今日头条 7个月内连上2次热搜！罗技广告再被指“侮辱用户像狗”，客服回应 11 月 2 日消息，今年 3 月罗技官方旗舰店在推广 GPW3 鼠标时，曾发布“当我一降价，你还不是像狗一样跑过来”的争议性宣传文案，引发大量玩家不满，官方后续致歉，运营公司也被市场监管部门罚款20万元。 不过有网友发现，“罗技 G 影音旗舰店官方号”近期的 GPW4 朱雀鼠标推广视频中又…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:18fa1d8b84f080dc</guid>
+      <pubDate>Tue, 03 Nov 2026 16:54:01 +0800</pubDate>
+      <category>资讯·雷锋网</category>
+    </item>
+    <item>
+      <title>Models &amp; Pricing</title>
+      <link>https://api-docs.deepseek.com/quick_start/pricing</link>
+      <description>…, or Codex, server-side tool calls already hit the Search and Fetch APIs. These calls are currently free of charge; per-request billing starts at 00:00 Beijing time on November 1, 2026. See the Search &amp; F…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:711aaf63478ae2f0</guid>
+      <pubDate>Sat, 17 Oct 2026 14:26:40 +0800</pubDate>
+      <category>DeepSeek</category>
+    </item>
+    <item>
       <title>Steam 新一周游戏销量榜公布：《影之刃零》反超《COD：MW4》登顶双榜</title>
       <link>https://www.ithome.com/1/021/820.htm</link>
       <description>…前连冠的《Call of Duty®: Modern Warfare® 4》，同时登顶全球区与国区区榜首，新游《深空当铺：可能是偷的》首次上榜即冲入全球前 5，《足球经理 27》预购版也携 -10% 折扣进入全球榜单。 全球榜单： 影之刃零 Call of Duty®: Modern Warfare® 4 AION 2 深空当铺：可能是偷的 Moon Sweepers EA SPORTS FC™ 27…</description>
@@ -414,14 +446,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:204c993c7570598a</guid>
       <pubDate>Tue, 03 Nov 2026 16:54:01 +0800</pubDate>
       <category>资讯·雷锋网</category>
-    </item>
-    <item>
-      <title>火山方舟 模型计费说明</title>
-      <link>https://www.volcengine.com/docs/82379/1099320</link>
-      <description>…输入图单价（元/张） ​ 输出图单价（元/张） ​ 模型名称 ​ 输入图单价（元/张） ​ 输出图单价（元/张） ​ doubao-seedream-5-0-pro ​ 按生图场景区分定价 ​ 首张免费 ​ 第 2 张起：0.02 ​ 单图生成场景： ​ ≤ 261 万像素：0.30 ​ &gt; 261 万像素：0.60 ​ 图层拆分场景： ​ ≤ 261 万像素：0.15 ​ &gt; 261 万像素：0.…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:3f9515c4e7efd405</guid>
-      <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
-      <category>火山方舟·豆包</category>
     </item>
     <item>
       <title>消息称腾讯将推面向 C 端用户的 AI 搜索引擎：极简设计、强化权威信源排序</title>
@@ -782,30 +806,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:140654225d3ebb93</guid>
       <pubDate>Tue, 27 Oct 2026 15:09:37 +0800</pubDate>
       <category>资讯·雷锋网</category>
-    </item>
-    <item>
-      <title>行业第一！百度健康AI服务MAU超5000万，发布好医矩阵和健康相机</title>
-      <link>https://www.leiphone.com/category/industrynews/RRFr9U8GKWjNNxfH.html</link>
-      <description>…势，同时引入真人医生的专业能力，使健康回答更加权威可信、有据可依。不仅是让用户得到回答，而是让每个问题，都得到负责任的解决。 目前，好医答已经全部覆盖皮肤科、内科、中医科、妇科等四大主流科室，全部能力限时免费开放体验。 打通就医最后一公里！把患者从对话框带进医生诊室 从用户健康信息检索的基本需求，到生成式AI的健康问答，再到真人医生在线问诊和线下就医服务的连接，百度健康致力于让用户就诊的全流程都有真人医生…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:6b824f9e05378918</guid>
-      <pubDate>Sat, 24 Oct 2026 21:46:43 +0800</pubDate>
-      <category>资讯·雷锋网</category>
-    </item>
-    <item>
-      <title>苹果 Apple 创作坊新增 AI 功能和更多创意工具，11 月免费更新上线</title>
-      <link>https://www.ithome.com/1/018/666.htm</link>
-      <description>…的功能（将于 12 月推出）。 价格与上市时间 Apple 创作坊将于今年 11 月通过 App Store 发布免费更新。新订阅用户每月付费 38 元 ，或每年付费 380 元 。所有新订阅用户均可免费试用 Apple 创作坊一个月；购买新 Mac 或符合条件的 iPad 的顾客可享受三个月免费试用。 高校学生与教职员工可享受教育优惠价，价格为每月 18 元 或每年 180 元 。 Apple 创作坊在…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:be58ef7c3ecf99a2</guid>
-      <pubDate>Tue, 27 Oct 2026 23:40:03 +0800</pubDate>
-      <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>京东 1 号会员店 10 月 28 日起调整会员权益：尊享卡返 2% 赠金，每月权益需消费解锁</title>
-      <link>https://www.ithome.com/1/018/698.htm</link>
-      <description>IT之家 10 月 27 日消息，京东旗下 1 号会员店宣布将于 10 月 28 日起调整会员权益体系。 根据 官方公告 ，此次调整的核心变化是购物返利从“满 200 元返券”改为按订单金额比例返还“赠金”，尊享卡会员返 2%、普通卡会员返 1%，每月赠金上限分别为 500 元和 200 元。1 元赠金可抵扣 1 元人民币，特殊商品不参与返金也不支持赠金抵扣。 新老用户按续费渠道和时效分流。10 月…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:d317df5d53054771</guid>
-      <pubDate>Tue, 27 Oct 2026 23:40:03 +0800</pubDate>
-      <category>资讯·IT之家</category>
     </item>
   </channel>
 </rss>
