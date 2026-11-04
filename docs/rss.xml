@@ -5,7 +5,7 @@
     <link>https://ikeng.github.io/model-egg-monitor/</link>
     <description>每日两次监控大模型厂商活动，提供 Atom / JSON Feed 订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 04 Nov 2026 16:25:46 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 01:41:22 +0800</lastBuildDate>
     <generator>ai-egg-monitor</generator>
     <item>
       <title>大模型 API 价格方案</title>
@@ -296,6 +296,14 @@
       <category>Cursor</category>
     </item>
     <item>
+      <title>Evernote turns AI</title>
+      <link>https://openai.com/ads/customers/evernote</link>
+      <description>…ChatGPT Ads to introduce its note-taking app to people working with AI. The team tracked how often free trials led to paid subscriptions.</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:ca2ed36a104ddab0</guid>
+      <pubDate>Wed, 04 Nov 2026 16:25:24 +0800</pubDate>
+      <category>OpenAI</category>
+    </item>
+    <item>
       <title>阿里云百炼模型价格</title>
       <link>https://help.aliyun.com/zh/model-studio/billing-for-model-studio</link>
       <description>…Batch 调用 ，其输入和输出 Token 单价均按实时推理价格的 50%计费；若模型支持 上下文缓存 ，仅输入 Token 享有折扣。两者不能同时生效。 说明 以下模型仅在华北 2（北京）地域下有免费额度，其他地域均无免费额度。 华北 2（北京） 模型 ID（Model ID） 模式 单次请求的输入 Token 数 输入单价（每百万 Token） 输出单价（每百万 Token） 思维链+回答 免费…</description>
@@ -392,12 +400,28 @@
       <category>Replicate</category>
     </item>
     <item>
-      <title>Evernote turns AI</title>
-      <link>https://openai.com/ads/customers/evernote</link>
-      <description>…ChatGPT Ads to introduce its note-taking app to people working with AI. The team tracked how often free trials led to paid subscriptions.</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:ca2ed36a104ddab0</guid>
-      <pubDate>Wed, 04 Nov 2026 16:25:24 +0800</pubDate>
-      <category>OpenAI</category>
+      <title>华为小艺 Work 率先上线 openPangu</title>
+      <link>https://www.ithome.com/1/022/472.htm</link>
+      <description>…也尚无公开资料。这说明 2.1-Pro 是非常新且尚未对外公开发布的型号，目前仅在小艺 Work 中提供支持。 需要注意的是，小艺 Work 目前仍为 Beta 版，且需要付费使用（首次使用 31 天限时免费享 1000 AI 点），体验包连续包月优惠价 49 元、标准包连续包月价格 199 元，支持市场调研、文档处理、PPT 制作、数据分析、内容创作、代码开发等。</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:768a92549d9b734e</guid>
+      <pubDate>Thu, 05 Nov 2026 01:40:49 +0800</pubDate>
+      <category>资讯·IT之家</category>
+    </item>
+    <item>
+      <title>3299 → 688 元再三降价：石头 A30 Max 智能洗地机 25000Pa 大吸力 + 180° 躺平</title>
+      <link>https://www.ithome.com/1/022/366.htm</link>
+      <description>石头 A30 Max 智能洗地机官方定价 3299 元，今日按下方步骤下单，仅需 688 元即可入手： 点击下方卡片享智能单品补贴 915 元 + 闪电加补 90 元 + 可领 97.49 元淘礼金红包（每日 10~24 点可领）； App 商品价格下方可领 15% 政府补贴； 点击下方卡片可享淘金币抵扣 142.48 元（如果淘金币不够的话在商品详情页有借币教程）； * 88VIP 加入购物车后…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:0e6b95d9fa4a33af</guid>
+      <pubDate>Thu, 05 Nov 2026 01:40:49 +0800</pubDate>
+      <category>资讯·IT之家</category>
+    </item>
+    <item>
+      <title>蔚来李斌：智能驾驶最大意义应是解放精力，不该让出租车 / 网约车司机丢工作</title>
+      <link>https://www.ithome.com/1/022/419.htm</link>
+      <description>…为下半场的核心指标之一，意味着自动驾驶的竞争正在从功能展示转向可持续的商业验证。李斌直言， 如果用户不愿意付钱，自动驾驶讲得再好，也没有真正创造用户价值 。 IT 之家小伙伴记得用 最会买打车 ，享受折扣价的同时还可以获得返利，单单都能省钱！</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:0cfc5f290acd9b3f</guid>
+      <pubDate>Thu, 05 Nov 2026 01:40:49 +0800</pubDate>
+      <category>资讯·IT之家</category>
     </item>
     <item>
       <title>香港网约车平台牌照有望本月推出：逾 1.8 万人报名驾驶资格考试，车辆数量上限目前设为 1 万辆</title>
@@ -782,30 +806,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:5eea25e444fd060d</guid>
       <pubDate>Thu, 29 Oct 2026 00:23:22 +0800</pubDate>
       <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>内存涨价致旧手机价格坚挺：99 新二手机成华强北抢手货，苹果 iPhone 15 Pro Max 从去年 3000 多元回涨至 4300 元以上</title>
-      <link>https://www.ithome.com/1/019/231.htm</link>
-      <description>IT之家 10 月 28 日消息，据央视财经今日报道，深圳华强北二手手机市场均价 4000 元以上产品的占比已超过 68%。 一位业内人士对央视记者表示，热销机型一年内降价 20% 本是常态，但受内存涨价影响，今年二手手机价格普遍坚挺，部分热门机型甚至出现加价。他以 iPhone 15 Pro Max 举例：这款机型去年在二手市场的价格一度跌至 3000 多元，目前回涨…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:7a7eb92889b8c598</guid>
-      <pubDate>Thu, 29 Oct 2026 00:23:22 +0800</pubDate>
-      <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission</title>
-      <link>https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/</link>
-      <description>Google commits $40M in AI tokens and credits for the Genesis Mission</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:ff49e507d89b30cd</guid>
-      <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
-      <category>Google Gemini</category>
-    </item>
-    <item>
-      <title>蚂蚁灵光2.0发布：从能聊会做，到记得住、盯得牢、办得了</title>
-      <link>https://www.leiphone.com/category/industrynews/IxG2F47VLIt3uTOW.html</link>
-      <description>机票订完后，AI 24小时盯价，发现降价及时提醒；翻看日常账单，AI识别可能闲置的续费订阅，帮你省钱；家长顾不上查看班级群，AI也能梳理老师通知、提取待办事项……这些过去需要用户自己发现、记住和安排的生活琐事，如今正开始由AI主动接手。 1…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:140654225d3ebb93</guid>
-      <pubDate>Tue, 27 Oct 2026 15:09:37 +0800</pubDate>
-      <category>资讯·雷锋网</category>
     </item>
   </channel>
 </rss>
