@@ -5,7 +5,7 @@
     <link>https://ikeng.github.io/model-egg-monitor/</link>
     <description>每日两次监控大模型厂商活动，提供 Atom / JSON Feed 订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 05 Nov 2026 01:41:22 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 16:51:08 +0800</lastBuildDate>
     <generator>ai-egg-monitor</generator>
     <item>
       <title>大模型 API 价格方案</title>
@@ -250,7 +250,7 @@
     <item>
       <title>新人免费额度获取及用完即停开关规则</title>
       <link>https://help.aliyun.com/zh/model-studio/new-free-quota</link>
-      <description>首页 大模型服务平台百炼 模型 产品计费 新人免费额度 更新时间： 复制 MD 格式 产品详情 我的收藏 当您首次开通阿里云百炼时，平台会自动为您发放各模型的新人专属免费额度。 说明 仅华北 2（北京）地域模型享有免费额度，其他地域无免费额度。 开通…</description>
+      <description>首页 大模型服务平台百炼 模型 模型计费 新人免费额度 更新时间： 复制 MD 格式 产品详情 我的收藏 当您首次开通阿里云百炼时，平台会自动为您发放各模型的新人专属免费额度。 说明 仅华北 2（北京）地域模型享有免费额度，其他地域无免费额度。 开通…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:a2d522c721ea08c9</guid>
       <pubDate>Thu, 08 Oct 2026 17:58:35 +0800</pubDate>
       <category>通义千问</category>
@@ -336,14 +336,6 @@
       <category>OpenAI</category>
     </item>
     <item>
-      <title>中国 AI 硬件的下一个爆款，可能生在「网球场」</title>
-      <link>http://www.geekpark.net/news/372807</link>
-      <description>…从不真正回击你那颗球，但一来一回之间，回合感确实成立。 预测用户击球落点位置｜来源：AceiiLab 不过，这既考验用户的适应能力，也考验机器能否快速到位、精准发球。如果中间卡顿明显，对拉体验就会大打折扣。我们花了至少几十分钟，才慢慢适应和机器打球的节奏。 120 颗球，按正常 3.0 水平的对打节奏，大概能打 30 分钟左右。由于每一颗球都是新球，整体消耗速度也会比较快。「不管是新手还是熟手，都能获…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:e19b176216415324</guid>
-      <pubDate>Fri, 23 Oct 2026 14:49:18 +0800</pubDate>
-      <category>资讯·极客公园</category>
-    </item>
-    <item>
       <title>How Worldwide Express automated freight exceptions with Amazon Bedrock</title>
       <link>https://aws.amazon.com/blogs/machine-learning/how-worldwide-express-automated-freight-exceptions-with-amazon-bedrock/</link>
       <description>…cut active exceptions by 75%, improved time-to-cash by four weeks, and unlocked $10 million in free cash flow.</description>
@@ -400,10 +392,34 @@
       <category>Replicate</category>
     </item>
     <item>
-      <title>华为小艺 Work 率先上线 openPangu</title>
-      <link>https://www.ithome.com/1/022/472.htm</link>
-      <description>…也尚无公开资料。这说明 2.1-Pro 是非常新且尚未对外公开发布的型号，目前仅在小艺 Work 中提供支持。 需要注意的是，小艺 Work 目前仍为 Beta 版，且需要付费使用（首次使用 31 天限时免费享 1000 AI 点），体验包连续包月优惠价 49 元、标准包连续包月价格 199 元，支持市场调研、文档处理、PPT 制作、数据分析、内容创作、代码开发等。</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:768a92549d9b734e</guid>
+      <title>清洁机器人出海患上「三高」：高库存、高税率、高门槛</title>
+      <link>https://www.leiphone.com/category/weiwu/DGcLJU9RgJPPzGhP.html</link>
+      <description>…者手里？ 一条产品链路，从工厂出货、进渠道仓库，到零售上架、消费者购买，有四段路要走，如今行业里传来传去的那些漂亮数字，大多只走了前两段。 而真正决定公司成色的，是后面两段，包括渠道库存是否上升、终端折扣是否扩大、退货率是否增加、经销商还愿不愿意补货、用户有没有复购和转介绍。 出货量说明货被卖给了渠道，动销才说明市场真正接受了产品。 在行业的深水区里，数据可以买来，信任无法买卖。 本文作者长期关注智能…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:12f9ce39ad944d3a</guid>
+      <pubDate>Thu, 05 Nov 2026 16:50:46 +0800</pubDate>
+      <category>资讯·雷锋网</category>
+    </item>
+    <item>
+      <title>双十一购机观察：从参数回到场景，华为Mate 90系列重新定义旗舰体验</title>
+      <link>https://www.leiphone.com/category/industrynews/xPIqScmZequRUOUt.html</link>
+      <description>…8万台，领先目前同期已发售的国产新旗舰，并成为多数人选择的原因所在。 双十一活动期间入手华为Mate 90系列，在国补加持下最低5499元可到手，同时还可参加至高24期免息、以旧换新至高补贴800元、免费领取一年200G云空间等活动，进一步降低旗舰换机门槛。 此外，选择华为Mate 90系列的用户还可搭配选购HUAWEI Care+意外无忧服务，享受意外损坏保障与免费电池焕新，以及限时叠加保值焕新权益，后…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:ecc02ec6d957120e</guid>
+      <pubDate>Thu, 05 Nov 2026 16:50:46 +0800</pubDate>
+      <category>资讯·雷锋网</category>
+    </item>
+    <item>
+      <title>Qwen3.8 27B Q4 on my low</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xnzo38/qwen38_27b_q4_on_my_lowend_laptop_and_it_became/</link>
+      <description>…0.67 - 0.77 token per second yes, extremely slow, most of you won&#39;t even like it, or use it but free APIs these days are rare, and extremely limited usage, and my country has banned worldwide transactions…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:7aa764b1f65d40e7</guid>
+      <pubDate>Thu, 05 Nov 2026 16:50:46 +0800</pubDate>
+      <category>资讯·Reddit LocalLLaMA</category>
+    </item>
+    <item>
+      <title>蔚来李斌：智能驾驶最大意义应是解放精力，不该让出租车 / 网约车司机丢工作</title>
+      <link>https://www.ithome.com/1/022/419.htm</link>
+      <description>…为下半场的核心指标之一，意味着自动驾驶的竞争正在从功能展示转向可持续的商业验证。李斌直言， 如果用户不愿意付钱，自动驾驶讲得再好，也没有真正创造用户价值 。 IT 之家小伙伴记得用 最会买打车 ，享受折扣价的同时还可以获得返利，单单都能省钱！</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:0cfc5f290acd9b3f</guid>
       <pubDate>Thu, 05 Nov 2026 01:40:49 +0800</pubDate>
       <category>资讯·IT之家</category>
     </item>
@@ -416,12 +432,20 @@
       <category>资讯·IT之家</category>
     </item>
     <item>
-      <title>蔚来李斌：智能驾驶最大意义应是解放精力，不该让出租车 / 网约车司机丢工作</title>
-      <link>https://www.ithome.com/1/022/419.htm</link>
-      <description>…为下半场的核心指标之一，意味着自动驾驶的竞争正在从功能展示转向可持续的商业验证。李斌直言， 如果用户不愿意付钱，自动驾驶讲得再好，也没有真正创造用户价值 。 IT 之家小伙伴记得用 最会买打车 ，享受折扣价的同时还可以获得返利，单单都能省钱！</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:0cfc5f290acd9b3f</guid>
+      <title>华为小艺 Work 率先上线 openPangu</title>
+      <link>https://www.ithome.com/1/022/472.htm</link>
+      <description>…也尚无公开资料。这说明 2.1-Pro 是非常新且尚未对外公开发布的型号，目前仅在小艺 Work 中提供支持。 需要注意的是，小艺 Work 目前仍为 Beta 版，且需要付费使用（首次使用 31 天限时免费享 1000 AI 点），体验包连续包月优惠价 49 元、标准包连续包月价格 199 元，支持市场调研、文档处理、PPT 制作、数据分析、内容创作、代码开发等。</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:768a92549d9b734e</guid>
       <pubDate>Thu, 05 Nov 2026 01:40:49 +0800</pubDate>
       <category>资讯·IT之家</category>
+    </item>
+    <item>
+      <title>中国 AI 硬件的下一个爆款，可能生在「网球场」</title>
+      <link>http://www.geekpark.net/news/372807</link>
+      <description>…从不真正回击你那颗球，但一来一回之间，回合感确实成立。 预测用户击球落点位置｜来源：AceiiLab 不过，这既考验用户的适应能力，也考验机器能否快速到位、精准发球。如果中间卡顿明显，对拉体验就会大打折扣。我们花了至少几十分钟，才慢慢适应和机器打球的节奏。 120 颗球，按正常 3.0 水平的对打节奏，大概能打 30 分钟左右。由于每一颗球都是新球，整体消耗速度也会比较快。「不管是新手还是熟手，都能获…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:e19b176216415324</guid>
+      <pubDate>Fri, 23 Oct 2026 14:49:18 +0800</pubDate>
+      <category>资讯·极客公园</category>
     </item>
     <item>
       <title>香港网约车平台牌照有望本月推出：逾 1.8 万人报名驾驶资格考试，车辆数量上限目前设为 1 万辆</title>
@@ -782,30 +806,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:dc6f8f361a2a8b62</guid>
       <pubDate>Wed, 28 Oct 2026 15:48:31 +0800</pubDate>
       <category>资讯·雷锋网</category>
-    </item>
-    <item>
-      <title>谁都想做硬折扣</title>
-      <link>https://www.tmtpost.com/8185943.html</link>
-      <description>从社区菜摊到连锁超市，从采购办公室到生产车间，硬折扣正在改变零售行业里的每个人。</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:f8de958a3e38d3ce</guid>
-      <pubDate>Thu, 29 Oct 2026 15:54:02 +0800</pubDate>
-      <category>资讯·钛媒体</category>
-    </item>
-    <item>
-      <title>Legora is building the agentic operating system for legal work</title>
-      <link>https://openai.com/index/legora-agentic-operating-system-for-legal-work</link>
-      <description>…uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:169e86f0790d0191</guid>
-      <pubDate>Thu, 29 Oct 2026 00:23:22 +0800</pubDate>
-      <category>OpenAI</category>
-    </item>
-    <item>
-      <title>599 美元 → 649 美元，苹果 MacBook Neo 在美国官网教育商店涨价</title>
-      <link>https://www.ithome.com/1/019/203.htm</link>
-      <description>…4,002 元人民币） 涨到 649 美元 （现汇率约合 4,336 元人民币） 。 IT之家注意到，美国高校生、教职人员现在购买这款笔记本仅可享受 50 美元 （现汇率约合 334.1 元人民币） 折扣，低于此前的 100 美元 （现汇率约合 668.1 元人民币） 。 此外，苹果于今年 6 月调整多款笔记本、平板产品定价，MacBook Neo 从 599 美元 （现汇率约合 4,002 元人民币…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:5eea25e444fd060d</guid>
-      <pubDate>Thu, 29 Oct 2026 00:23:22 +0800</pubDate>
-      <category>资讯·IT之家</category>
     </item>
   </channel>
 </rss>
