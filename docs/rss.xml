@@ -5,7 +5,7 @@
     <link>https://ikeng.github.io/model-egg-monitor/</link>
     <description>每日两次监控大模型厂商活动，提供 Atom / JSON Feed 订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 05 Nov 2026 16:51:08 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 01:48:40 +0800</lastBuildDate>
     <generator>ai-egg-monitor</generator>
     <item>
       <title>大模型 API 价格方案</title>
@@ -38,6 +38,14 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:09cec74616d2634c</guid>
       <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
       <category>GitHub Copilot</category>
+    </item>
+    <item>
+      <title>清洁机器人出海患上「三高」：高库存、高税率、高门槛</title>
+      <link>https://www.leiphone.com/category/weiwu/DGcLJU9RgJPPzGhP.html</link>
+      <description>…者手里？ 一条产品链路，从工厂出货、进渠道仓库，到零售上架、消费者购买，有四段路要走，如今行业里传来传去的那些漂亮数字，大多只走了前两段。 而真正决定公司成色的，是后面两段，包括渠道库存是否上升、终端折扣是否扩大、退货率是否增加、经销商还愿不愿意补货、用户有没有复购和转介绍。 出货量说明货被卖给了渠道，动销才说明市场真正接受了产品。 在行业的深水区里，数据可以买来，信任无法买卖。 本文作者长期关注智能…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:12f9ce39ad944d3a</guid>
+      <pubDate>Thu, 05 Nov 2026 16:50:46 +0800</pubDate>
+      <category>资讯·雷锋网</category>
     </item>
     <item>
       <title>Latest news</title>
@@ -190,14 +198,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:626181b6556ece9b</guid>
       <pubDate>Thu, 29 Oct 2026 00:23:22 +0800</pubDate>
       <category>OpenAI</category>
-    </item>
-    <item>
-      <title>苹果发 iPhone 折叠屏官方文档，排查铰链故障；触屏 MacBook 或周三发布；《流浪地球 3》将曝光，春节上映｜极客早知道</title>
-      <link>http://www.geekpark.net/news/372863</link>
-      <description>…。 苹果未立即回应置评请求。（来源：cnBeta） 长鑫存储拒绝苹果低价采购要求，优先推进中国内存自主化布局 10 月 25 日，此前有报道称，苹果希望从长鑫获得比现有供应商更低的报价，但长鑫没有接受降价要求。最新报道提到，一家台湾服务器厂商寻求采购长鑫的 DDR5 内存，同样未能达成合作。 在消费电子行业，供应商通常愿意通过降价换取苹果长期且规模可观的订单。然而在 DRAM 领域，长鑫存储却选择了另…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:6de552bf8b0c481a</guid>
-      <pubDate>Mon, 26 Oct 2026 15:17:24 +0800</pubDate>
-      <category>资讯·极客公园</category>
     </item>
     <item>
       <title>Plans and Pricing | Devin</title>
@@ -368,6 +368,14 @@
       <category>资讯·极客公园</category>
     </item>
     <item>
+      <title>双十一购机观察：从参数回到场景，华为Mate 90系列重新定义旗舰体验</title>
+      <link>https://www.leiphone.com/category/industrynews/xPIqScmZequRUOUt.html</link>
+      <description>…8万台，领先目前同期已发售的国产新旗舰，并成为多数人选择的原因所在。 双十一活动期间入手华为Mate 90系列，在国补加持下最低5499元可到手，同时还可参加至高24期免息、以旧换新至高补贴800元、免费领取一年200G云空间等活动，进一步降低旗舰换机门槛。 此外，选择华为Mate 90系列的用户还可搭配选购HUAWEI Care+意外无忧服务，享受意外损坏保障与免费电池焕新，以及限时叠加保值焕新权益，后…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:ecc02ec6d957120e</guid>
+      <pubDate>Thu, 05 Nov 2026 16:50:46 +0800</pubDate>
+      <category>资讯·雷锋网</category>
+    </item>
+    <item>
       <title>定价概览</title>
       <link>https://platform.minimaxi.com/document/price</link>
       <description>…标点等 Token与字符比（估算）：1600 中文字符约消耗 1000 tokens ​ 视频 立即充值 ​ H3 系列旗舰模型 模型 输出分辨率 输出视频 每秒 输入视频 每秒 输入图片 每张 超出免费额度后 MiniMax-H3 画质优先，适合高品质视频创作 2K ¥0.80 ¥0.20 768P ¥0.50 ¥0.20 MiniMax-H3-Highspeed 兼顾质量与速度，适合日常内容创作…</description>
@@ -392,20 +400,20 @@
       <category>Replicate</category>
     </item>
     <item>
-      <title>清洁机器人出海患上「三高」：高库存、高税率、高门槛</title>
-      <link>https://www.leiphone.com/category/weiwu/DGcLJU9RgJPPzGhP.html</link>
-      <description>…者手里？ 一条产品链路，从工厂出货、进渠道仓库，到零售上架、消费者购买，有四段路要走，如今行业里传来传去的那些漂亮数字，大多只走了前两段。 而真正决定公司成色的，是后面两段，包括渠道库存是否上升、终端折扣是否扩大、退货率是否增加、经销商还愿不愿意补货、用户有没有复购和转介绍。 出货量说明货被卖给了渠道，动销才说明市场真正接受了产品。 在行业的深水区里，数据可以买来，信任无法买卖。 本文作者长期关注智能…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:12f9ce39ad944d3a</guid>
-      <pubDate>Thu, 05 Nov 2026 16:50:46 +0800</pubDate>
-      <category>资讯·雷锋网</category>
+      <title>Epic 喜加一：《浮游世界》游戏免费领取</title>
+      <link>https://www.ithome.com/1/023/023.htm</link>
+      <description>IT之家 11 月 6 日消息，Epic 本周送出的游戏是《浮游世界》，下周送出的游戏是《斗阵骑士 Knightica》。 领取链接： 《浮游世界》 IT之家附《浮游世界》游戏简介： 这是一款漂浮垃圾城生存游戏！从海洋表面尽可能搜集珍贵的垃圾，发展你的城市，同时努力在这个色彩斑斓的后末日世界中生存下去。 本作最初发售于 2025 年 12 月 5 日， Steam 售价 80 元 。游戏兼容 XB…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:19ea1e61092963d1</guid>
+      <pubDate>Fri, 06 Nov 2026 01:48:20 +0800</pubDate>
+      <category>资讯·IT之家</category>
     </item>
     <item>
-      <title>双十一购机观察：从参数回到场景，华为Mate 90系列重新定义旗舰体验</title>
-      <link>https://www.leiphone.com/category/industrynews/xPIqScmZequRUOUt.html</link>
-      <description>…8万台，领先目前同期已发售的国产新旗舰，并成为多数人选择的原因所在。 双十一活动期间入手华为Mate 90系列，在国补加持下最低5499元可到手，同时还可参加至高24期免息、以旧换新至高补贴800元、免费领取一年200G云空间等活动，进一步降低旗舰换机门槛。 此外，选择华为Mate 90系列的用户还可搭配选购HUAWEI Care+意外无忧服务，享受意外损坏保障与免费电池焕新，以及限时叠加保值焕新权益，后…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:ecc02ec6d957120e</guid>
-      <pubDate>Thu, 05 Nov 2026 16:50:46 +0800</pubDate>
-      <category>资讯·雷锋网</category>
+      <title>苹果发 iPhone 折叠屏官方文档，排查铰链故障；触屏 MacBook 或周三发布；《流浪地球 3》将曝光，春节上映｜极客早知道</title>
+      <link>http://www.geekpark.net/news/372863</link>
+      <description>…。 苹果未立即回应置评请求。（来源：cnBeta） 长鑫存储拒绝苹果低价采购要求，优先推进中国内存自主化布局 10 月 25 日，此前有报道称，苹果希望从长鑫获得比现有供应商更低的报价，但长鑫没有接受降价要求。最新报道提到，一家台湾服务器厂商寻求采购长鑫的 DDR5 内存，同样未能达成合作。 在消费电子行业，供应商通常愿意通过降价换取苹果长期且规模可观的订单。然而在 DRAM 领域，长鑫存储却选择了另…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:6de552bf8b0c481a</guid>
+      <pubDate>Mon, 26 Oct 2026 15:17:24 +0800</pubDate>
+      <category>资讯·极客公园</category>
     </item>
     <item>
       <title>Qwen3.8 27B Q4 on my low</title>
@@ -798,14 +806,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:356225415b19d458</guid>
       <pubDate>Thu, 29 Oct 2026 00:23:22 +0800</pubDate>
       <category>资讯·InfoQ 中文</category>
-    </item>
-    <item>
-      <title>微软向6万员工发出自愿离职邀请，补偿至少N+2；身家2800亿的梁文锋，被曝长期在北京租房；苹果否认iPhone Duo为赶产能放宽质检</title>
-      <link>https://www.leiphone.com/category/zaobao/SXb4aJpFWlpTjfkN.html</link>
-      <description>…为0.05美元。相较GPT-6 Astra，其输入、输出token单价均为十分之一；相较GPT-5.6 Terra，标准价格则下降50%。 报道称，自2025年至今，由于开源模型的冲击，OpenAI的降价策略变得更加激进和直接，目标明确指向抢占调用量和生态。降价背后是公司对更大规模调用量的期许。OpenAI CEO山姆·奥尔特曼对Terra 6.1所谓“开启计算机使用时代”的前景颇为看重。（第一财经）…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:dc6f8f361a2a8b62</guid>
-      <pubDate>Wed, 28 Oct 2026 15:48:31 +0800</pubDate>
-      <category>资讯·雷锋网</category>
     </item>
   </channel>
 </rss>
