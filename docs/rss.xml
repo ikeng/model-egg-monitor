@@ -5,7 +5,7 @@
     <link>https://ikeng.github.io/model-egg-monitor/</link>
     <description>每日两次监控大模型厂商活动，提供 Atom / JSON Feed 订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 06 Nov 2026 16:50:07 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 01:05:05 +0800</lastBuildDate>
     <generator>ai-egg-monitor</generator>
     <item>
       <title>大模型 API 价格方案</title>
@@ -38,14 +38,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:09cec74616d2634c</guid>
       <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
       <category>GitHub Copilot</category>
-    </item>
-    <item>
-      <title>清洁机器人出海患上「三高」：高库存、高税率、高门槛</title>
-      <link>https://www.leiphone.com/category/weiwu/DGcLJU9RgJPPzGhP.html</link>
-      <description>…者手里？ 一条产品链路，从工厂出货、进渠道仓库，到零售上架、消费者购买，有四段路要走，如今行业里传来传去的那些漂亮数字，大多只走了前两段。 而真正决定公司成色的，是后面两段，包括渠道库存是否上升、终端折扣是否扩大、退货率是否增加、经销商还愿不愿意补货、用户有没有复购和转介绍。 出货量说明货被卖给了渠道，动销才说明市场真正接受了产品。 在行业的深水区里，数据可以买来，信任无法买卖。 本文作者长期关注智能…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:12f9ce39ad944d3a</guid>
-      <pubDate>Thu, 05 Nov 2026 16:50:46 +0800</pubDate>
-      <category>资讯·雷锋网</category>
     </item>
     <item>
       <title>Latest news</title>
@@ -202,7 +194,7 @@
     <item>
       <title>Try NVIDIA NIM APIs</title>
       <link>https://build.nvidia.com/explore/discover</link>
-      <description>…by the community, optimized and accelerated by NVIDIA&#39;s enterprise-ready inference runtime. NVIDIA Free Endpoint nemotron-3.5-super-vl-120b-a12b Nemotron 3.5 Super early-access reasoning model for agenti…</description>
+      <description>…Climate &amp; Weather Safety &amp; Moderation Industries Automotive Financial Services Healthcare Industrial Robotics Start Building with your DGX Spark Explore step-by-step playbooks, including setting up Ne…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:8a143abe5f3a9d8b</guid>
       <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
       <category>NVIDIA NIM</category>
@@ -312,14 +304,6 @@
       <category>OpenAI</category>
     </item>
     <item>
-      <title>How Worldwide Express automated freight exceptions with Amazon Bedrock</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/how-worldwide-express-automated-freight-exceptions-with-amazon-bedrock/</link>
-      <description>…cut active exceptions by 75%, improved time-to-cash by four weeks, and unlocked $10 million in free cash flow.</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:e2fe74ec0ca71491</guid>
-      <pubDate>Sat, 31 Oct 2026 15:51:46 +0800</pubDate>
-      <category>AWS Bedrock</category>
-    </item>
-    <item>
       <title>个人灵光 2.0 实测：个人 AI 助理的机会和门槛｜AI 上新</title>
       <link>http://www.geekpark.net/news/373249</link>
       <description>…宝的反爬风控机制拦截在外。 米家也是类似的情况：扫码授权成功后，小米的接口连续两次触发限流，设备列表始终拉取失败。 灵光进不了淘宝的购物车，但千问却可以。 当我们把同一句指令「帮我看看淘宝购物车有什么降价幅度比较大的商品」发给千问时，两者的权限差距一目了然：千问不仅直接列出了购物车清单，甚至清楚地知道里面那把人体工学椅「已经加购快 300 天、看了几十次」。 与此同时，支付路径，阿里目前也没有向灵光…</description>
@@ -368,12 +352,44 @@
       <category>Replicate</category>
     </item>
     <item>
+      <title>李佳琦卖出万份Token，天猫的AI生意才刚开场</title>
+      <link>https://www.leiphone.com/category/industrynews/h454rlPtg41JIuFd.html</link>
+      <description>…电商平台流量与大模型Token捆绑销售：商家不买Token，就不优先推荐商品。 这个做法在内部引发过争议，有人担心商家会转投其他平台，但决策层认为，这是当时风险最低、见效最快的变现路径。 等到一个月后免费额度用尽，调用量和收入双双下跌，内部才意识到，高用量不等于真实需求。 这套做法未必能代表电商平台的普遍策略，却说明了平台的一种想法：AI可以成为经营商家、提高流量变现效率的新工具。 一位大厂的电商从业者谈…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:901a0238012a2303</guid>
+      <pubDate>Sat, 07 Nov 2026 01:04:42 +0800</pubDate>
+      <category>资讯·雷锋网</category>
+    </item>
+    <item>
+      <title>2026 年中国金鸡百花电影节开幕短片《完美婚礼》首播，使用华为 Mate 90 系列拍摄</title>
+      <link>https://www.ithome.com/1/023/559.htm</link>
+      <description>…赴光影》由 Mate 80 系列拍摄。《奔赴光影》首播时，华为官方并未公布拍摄机型， 直到 Mate 80 系列官宣、预热，短片的拍摄机型才得以揭秘 。 IT之家小伙伴记得用 最会买购买电影票 ，享受折扣价的同时还可以获得返利，预计每张票可以节省 5~15 元！</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:e9d4ad456a1a917f</guid>
+      <pubDate>Sat, 07 Nov 2026 01:04:42 +0800</pubDate>
+      <category>资讯·IT之家</category>
+    </item>
+    <item>
+      <title>清洁机器人出海患上「三高」：高库存、高税率、高门槛</title>
+      <link>https://www.leiphone.com/category/weiwu/DGcLJU9RgJPPzGhP.html</link>
+      <description>…者手里？ 一条产品链路，从工厂出货、进渠道仓库，到零售上架、消费者购买，有四段路要走，如今行业里传来传去的那些漂亮数字，大多只走了前两段。 而真正决定公司成色的，是后面两段，包括渠道库存是否上升、终端折扣是否扩大、退货率是否增加、经销商还愿不愿意补货、用户有没有复购和转介绍。 出货量说明货被卖给了渠道，动销才说明市场真正接受了产品。 在行业的深水区里，数据可以买来，信任无法买卖。 本文作者长期关注智能…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:12f9ce39ad944d3a</guid>
+      <pubDate>Thu, 05 Nov 2026 16:50:46 +0800</pubDate>
+      <category>资讯·雷锋网</category>
+    </item>
+    <item>
       <title>电影《愤怒的小鸟 3》确认引进中国内地，上映时间未定</title>
       <link>https://www.ithome.com/1/023/372.htm</link>
       <description>…还包括艾玛 · 迈尔斯（《星期三》）、沃克 · 斯科贝尔（《波西 · 杰克逊与奥林匹亚众神》）、柯柯 · 帕尔莫、莉莉 · 詹姆斯、蒂姆 · 罗宾逊等。 IT之家小伙伴记得用 最会买购买电影票 ，享受折扣价的同时还可以获得返利，预计每张票可以节省 5~15 元！</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:5dd81f66fecbd730</guid>
       <pubDate>Fri, 06 Nov 2026 16:49:47 +0800</pubDate>
       <category>资讯·IT之家</category>
+    </item>
+    <item>
+      <title>How Worldwide Express automated freight exceptions with Amazon Bedrock</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/how-worldwide-express-automated-freight-exceptions-with-amazon-bedrock/</link>
+      <description>…cut active exceptions by 75%, improved time-to-cash by four weeks, and unlocked $10 million in free cash flow.</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:e2fe74ec0ca71491</guid>
+      <pubDate>Sat, 31 Oct 2026 15:51:46 +0800</pubDate>
+      <category>AWS Bedrock</category>
     </item>
     <item>
       <title>Epic 喜加一：《浮游世界》游戏免费领取</title>
@@ -790,22 +806,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:88c116a2c62e573c</guid>
       <pubDate>Wed, 21 Oct 2026 14:52:38 +0800</pubDate>
       <category>OpenAI</category>
-    </item>
-    <item>
-      <title>Epic 喜加一：《抱歉我们打烊了》游戏免费领取</title>
-      <link>https://www.ithome.com/1/019/789.htm</link>
-      <description>IT之家 10 月 29 日消息，Epic 本周送出的游戏是《Sorry We&#39;re Closed - 抱歉我们打烊了》，下周送出的游戏是《Idle Champions of the Forgotten Realms》，《浮游世界》。 领取链接： 《抱歉我们打烊了》 需要注意的是， 这款游戏 Epic 已经在去年 12 月送过 ， 已经领过的小伙伴们可以不用点开链接了 。 同时本作去年免费送的时候…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:f9ed67d60e9b8c0f</guid>
-      <pubDate>Fri, 30 Oct 2026 00:32:23 +0800</pubDate>
-      <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>Claude Code by Anthropic</title>
-      <link>https://www.anthropic.com/claude-code</link>
-      <description>…Export to various formats (PNG, SVG, JSON) - Customizable drawing tools (rectangle, circle, arrows, freehand) - Dark mode support - Localization - Library of shapes and components - Arrow bindings and lab…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:fe5ab79de351cc77</guid>
-      <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
-      <category>Anthropic</category>
     </item>
   </channel>
 </rss>
