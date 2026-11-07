@@ -5,7 +5,7 @@
     <link>https://ikeng.github.io/model-egg-monitor/</link>
     <description>每日两次监控大模型厂商活动，提供 Atom / JSON Feed 订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 07 Nov 2026 16:07:09 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 00:01:47 +0800</lastBuildDate>
     <generator>ai-egg-monitor</generator>
     <item>
       <title>大模型 API 价格方案</title>
@@ -110,6 +110,14 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:3f41d9118eb4ec42</guid>
       <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
       <category>Google Gemini</category>
+    </item>
+    <item>
+      <title>火山方舟 模型计费说明</title>
+      <link>https://www.volcengine.com/docs/82379/1099320</link>
+      <description>…输入图单价（元/张） ​ 输出图单价（元/张） ​ 模型名称 ​ 输入图单价（元/张） ​ 输出图单价（元/张） ​ doubao-seedream-5-0-pro ​ 按生图场景区分定价 ​ 首张免费 ​ 第 2 张起：0.02 ​ 单图生成场景： ​ ≤ 261 万像素：0.30 ​ &gt; 261 万像素：0.60 ​ 图层拆分场景： ​ ≤ 261 万像素：0.15 ​ &gt; 261 万像素：0.…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:3f9515c4e7efd405</guid>
+      <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
+      <category>火山方舟·豆包</category>
     </item>
     <item>
       <title>Pricing</title>
@@ -350,14 +358,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:3e182567f12e6f39</guid>
       <pubDate>Sat, 31 Oct 2026 00:25:24 +0800</pubDate>
       <category>OpenAI</category>
-    </item>
-    <item>
-      <title>火山方舟 模型计费说明</title>
-      <link>https://www.volcengine.com/docs/82379/1099320</link>
-      <description>…输入图单价（元/张） ​ 输出图单价（元/张） ​ 模型名称 ​ 输入图单价（元/张） ​ 输出图单价（元/张） ​ doubao-seedream-5-0-pro ​ 按生图场景区分定价 ​ 首张免费 ​ 第 2 张起：0.02 ​ 单图生成场景： ​ ≤ 261 万像素：0.30 ​ &gt; 261 万像素：0.60 ​ 图层拆分场景： ​ ≤ 261 万像素：0.15 ​ &gt; 261 万像素：0.…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:3f9515c4e7efd405</guid>
-      <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
-      <category>火山方舟·豆包</category>
     </item>
     <item>
       <title>2026 年中国金鸡百花电影节开幕短片《完美婚礼》首播，使用华为 Mate 90 系列拍摄</title>
