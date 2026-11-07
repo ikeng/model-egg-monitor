@@ -5,7 +5,7 @@
     <link>https://ikeng.github.io/model-egg-monitor/</link>
     <description>每日两次监控大模型厂商活动，提供 Atom / JSON Feed 订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 07 Nov 2026 01:05:05 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 16:07:09 +0800</lastBuildDate>
     <generator>ai-egg-monitor</generator>
     <item>
       <title>大模型 API 价格方案</title>
@@ -104,28 +104,12 @@
       <category>Cohere</category>
     </item>
     <item>
-      <title>Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot</title>
-      <link>https://openai.com/index/credit-saison</link>
-      <description>Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:3e182567f12e6f39</guid>
-      <pubDate>Sat, 31 Oct 2026 00:25:24 +0800</pubDate>
-      <category>OpenAI</category>
-    </item>
-    <item>
       <title>Google Beam expands with new regions, partners, and customers</title>
       <link>https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/</link>
       <description>Google Beam promotional animation</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:3f41d9118eb4ec42</guid>
       <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
       <category>Google Gemini</category>
-    </item>
-    <item>
-      <title>火山方舟 模型计费说明</title>
-      <link>https://www.volcengine.com/docs/82379/1099320</link>
-      <description>…输入图单价（元/张） ​ 输出图单价（元/张） ​ 模型名称 ​ 输入图单价（元/张） ​ 输出图单价（元/张） ​ doubao-seedream-5-0-pro ​ 按生图场景区分定价 ​ 首张免费 ​ 第 2 张起：0.02 ​ 单图生成场景： ​ ≤ 261 万像素：0.30 ​ &gt; 261 万像素：0.60 ​ 图层拆分场景： ​ ≤ 261 万像素：0.15 ​ &gt; 261 万像素：0.…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:3f9515c4e7efd405</guid>
-      <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
-      <category>火山方舟·豆包</category>
     </item>
     <item>
       <title>Pricing</title>
@@ -216,6 +200,14 @@
       <category>xAI Grok</category>
     </item>
     <item>
+      <title>李佳琦卖出万份Token，天猫的AI生意才刚开场</title>
+      <link>https://www.leiphone.com/category/industrynews/h454rlPtg41JIuFd.html</link>
+      <description>…电商平台流量与大模型Token捆绑销售：商家不买Token，就不优先推荐商品。 这个做法在内部引发过争议，有人担心商家会转投其他平台，但决策层认为，这是当时风险最低、见效最快的变现路径。 等到一个月后免费额度用尽，调用量和收入双双下跌，内部才意识到，高用量不等于真实需求。 这套做法未必能代表电商平台的普遍策略，却说明了平台的一种想法：AI可以成为经营商家、提高流量变现效率的新工具。 一位大厂的电商从业者谈…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:901a0238012a2303</guid>
+      <pubDate>Sat, 07 Nov 2026 01:04:42 +0800</pubDate>
+      <category>资讯·雷锋网</category>
+    </item>
+    <item>
       <title>Fastest AI Inference Cloud and API</title>
       <link>https://www.cerebras.ai/inference</link>
       <description>…intelligent products across coding, research, voice, automation, and more agentic use cases.​ demo free trial Unmatched Speed in Action Watch Cerebras deliver top quality answers in a fraction of the tim…</description>
@@ -258,7 +250,7 @@
     <item>
       <title>Pricing</title>
       <link>https://www.together.ai/pricing</link>
-      <description>…$0.15 $0.03 (cached) $0.50 Muse Spark Open $1.25 $0.15 (cached) $4.25 Tev1 4B Experimental $0.04 Free Reflection Beam $0.40 $0.04 (cached) $1.20 MiniMax M3.1 Flash $0.15 $0.015 (cached) $0.60 DeepSeek…</description>
+      <description>…0.03 (cached) $0.50 Muse Spark Open 816B A42B $1.25 $0.15 (cached) $4.25 Tev1 4B Experimental $0.04 Free Beam 1.0 501B A23B $0.40 $0.04 (cached) $1.20 MiniMax M3.1 Flash $0.15 $0.015 (cached) $0.60 DeepSe…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:b99574d412655a47</guid>
       <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
       <category>Together AI</category>
@@ -320,14 +312,6 @@
       <category>百度文心</category>
     </item>
     <item>
-      <title>帮用户抢 iPhone 折叠屏的 Agent，正在塑造 AI 时代电商的形状</title>
-      <link>http://www.geekpark.net/news/373002</link>
-      <description>…线 。UCP 背后的机构引用的市场预测认为，到 2030 年，Agent 购物可能占到美国电商消费的 10% 到 20%，规模在 1900 亿到 3850 亿美元之间。这个数字来自利益相关方，需要打个折扣，但方向不难判断。 问题在于，开放并不等于没有代价。 图片来源：Ignitiv 对商家来说，当 Agent 替消费者做选择，精心设计的店铺页面、多年积累的品牌心智，作用都会被削弱，商家可能从「门店」退…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:eb754ed5af39677a</guid>
-      <pubDate>Tue, 27 Oct 2026 23:40:03 +0800</pubDate>
-      <category>资讯·极客公园</category>
-    </item>
-    <item>
       <title>定价概览</title>
       <link>https://platform.minimaxi.com/document/price</link>
       <description>…标点等 Token与字符比（估算）：1600 中文字符约消耗 1000 tokens ​ 视频 立即充值 ​ H3 系列旗舰模型 模型 输出分辨率 输出视频 每秒 输入视频 每秒 输入图片 每张 超出免费额度后 MiniMax-H3 画质优先，适合高品质视频创作 2K ¥0.80 ¥0.20 768P ¥0.50 ¥0.20 MiniMax-H3-Highspeed 兼顾质量与速度，适合日常内容创作…</description>
@@ -352,12 +336,28 @@
       <category>Replicate</category>
     </item>
     <item>
-      <title>李佳琦卖出万份Token，天猫的AI生意才刚开场</title>
-      <link>https://www.leiphone.com/category/industrynews/h454rlPtg41JIuFd.html</link>
-      <description>…电商平台流量与大模型Token捆绑销售：商家不买Token，就不优先推荐商品。 这个做法在内部引发过争议，有人担心商家会转投其他平台，但决策层认为，这是当时风险最低、见效最快的变现路径。 等到一个月后免费额度用尽，调用量和收入双双下跌，内部才意识到，高用量不等于真实需求。 这套做法未必能代表电商平台的普遍策略，却说明了平台的一种想法：AI可以成为经营商家、提高流量变现效率的新工具。 一位大厂的电商从业者谈…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:901a0238012a2303</guid>
-      <pubDate>Sat, 07 Nov 2026 01:04:42 +0800</pubDate>
-      <category>资讯·雷锋网</category>
+      <title>2598 元 → 1598 元直降千元：大疆 Osmo Action 5 Pro 运动相机破冰新低</title>
+      <link>https://www.ithome.com/1/023/686.htm</link>
+      <description>…活动可能随时变更，需以实付款为准】 大疆 Osmo Action 5 Pro 运动相机发布于 2024 年 9 月 19 日，标准套装售价 2598 元。 京东 11.11 大促期间，领取 100 元优惠券，叠加 15% 国补后仅需 1598 元 xixnd ： 京东 大疆 Osmo Action 5 Pro 标准套装 国补后 1598 元 领 100 元券 京东 11.11 红包至高 26888 元无…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:0e65c3be0f6902ac</guid>
+      <pubDate>Sat, 07 Nov 2026 16:06:49 +0800</pubDate>
+      <category>资讯·IT之家</category>
+    </item>
+    <item>
+      <title>Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot</title>
+      <link>https://openai.com/index/credit-saison</link>
+      <description>Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:3e182567f12e6f39</guid>
+      <pubDate>Sat, 31 Oct 2026 00:25:24 +0800</pubDate>
+      <category>OpenAI</category>
+    </item>
+    <item>
+      <title>火山方舟 模型计费说明</title>
+      <link>https://www.volcengine.com/docs/82379/1099320</link>
+      <description>…输入图单价（元/张） ​ 输出图单价（元/张） ​ 模型名称 ​ 输入图单价（元/张） ​ 输出图单价（元/张） ​ doubao-seedream-5-0-pro ​ 按生图场景区分定价 ​ 首张免费 ​ 第 2 张起：0.02 ​ 单图生成场景： ​ ≤ 261 万像素：0.30 ​ &gt; 261 万像素：0.60 ​ 图层拆分场景： ​ ≤ 261 万像素：0.15 ​ &gt; 261 万像素：0.…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:3f9515c4e7efd405</guid>
+      <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
+      <category>火山方舟·豆包</category>
     </item>
     <item>
       <title>2026 年中国金鸡百花电影节开幕短片《完美婚礼》首播，使用华为 Mate 90 系列拍摄</title>
@@ -366,6 +366,14 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:e9d4ad456a1a917f</guid>
       <pubDate>Sat, 07 Nov 2026 01:04:42 +0800</pubDate>
       <category>资讯·IT之家</category>
+    </item>
+    <item>
+      <title>帮用户抢 iPhone 折叠屏的 Agent，正在塑造 AI 时代电商的形状</title>
+      <link>http://www.geekpark.net/news/373002</link>
+      <description>…线 。UCP 背后的机构引用的市场预测认为，到 2030 年，Agent 购物可能占到美国电商消费的 10% 到 20%，规模在 1900 亿到 3850 亿美元之间。这个数字来自利益相关方，需要打个折扣，但方向不难判断。 问题在于，开放并不等于没有代价。 图片来源：Ignitiv 对商家来说，当 Agent 替消费者做选择，精心设计的店铺页面、多年积累的品牌心智，作用都会被削弱，商家可能从「门店」退…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:eb754ed5af39677a</guid>
+      <pubDate>Tue, 27 Oct 2026 23:40:03 +0800</pubDate>
+      <category>资讯·极客公园</category>
     </item>
     <item>
       <title>清洁机器人出海患上「三高」：高库存、高税率、高门槛</title>
@@ -798,14 +806,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:fe17bd452ee4f4c6</guid>
       <pubDate>Fri, 30 Oct 2026 15:56:54 +0800</pubDate>
       <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>Franchisee reconciles cash in 94% less time with ChatGPT Work</title>
-      <link>https://openai.com/index/ted-taylor-restaurant</link>
-      <description>…Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:88c116a2c62e573c</guid>
-      <pubDate>Wed, 21 Oct 2026 14:52:38 +0800</pubDate>
-      <category>OpenAI</category>
     </item>
   </channel>
 </rss>
