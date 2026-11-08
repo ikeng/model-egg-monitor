@@ -15,14 +15,28 @@
       "id": "tag:ai-egg-monitor,2026:activity:901a0238012a2303",
       "url": "https://www.leiphone.com/category/industrynews/h454rlPtg41JIuFd.html",
       "title": "李佳琦卖出万份Token，天猫的AI生意才刚开场",
-      "content_html": "<p><strong>厂商</strong>：资讯·雷锋网</p>\n<p><strong>标题</strong>：李佳琦卖出万份Token，天猫的AI生意才刚开场</p>\n<p><strong>福利摘要</strong>：…电商平台流量与大模型Token捆绑销售：商家不买Token，就不优先推荐商品。 这个做法在内部引发过争议，有人担心商家会转投其他平台，但决策层认为，这是当时风险最低、见效最快的变现路径。 等到一个月后免费额度用尽，调用量和收入双双下跌，内部才意识到，高用量不等于真实需求。 这套做法未必能代表电商平台的普遍策略，却说明了平台的一种想法：AI可以成为经营商家、提高流量变现效率的新工具。 一位大厂的电商从业者谈…</p>\n<p><strong>需登录</strong>：否</p>\n<p><strong>来源类型</strong>：rss</p>\n<p><strong>命中关键词</strong>：免费额度</p>\n<p><strong>首次发现</strong>：2026-11-07T01:04:42+08:00</p>\n<p><strong>最后更新</strong>：2026-11-08T16:25:55+08:00</p>\n<p><strong>原始链接</strong>：<a href=\"https://www.leiphone.com/category/industrynews/h454rlPtg41JIuFd.html\">https://www.leiphone.com/category/industrynews/h454rlPtg41JIuFd.html</a></p>",
+      "content_html": "<p><strong>厂商</strong>：资讯·雷锋网</p>\n<p><strong>标题</strong>：李佳琦卖出万份Token，天猫的AI生意才刚开场</p>\n<p><strong>福利摘要</strong>：…电商平台流量与大模型Token捆绑销售：商家不买Token，就不优先推荐商品。 这个做法在内部引发过争议，有人担心商家会转投其他平台，但决策层认为，这是当时风险最低、见效最快的变现路径。 等到一个月后免费额度用尽，调用量和收入双双下跌，内部才意识到，高用量不等于真实需求。 这套做法未必能代表电商平台的普遍策略，却说明了平台的一种想法：AI可以成为经营商家、提高流量变现效率的新工具。 一位大厂的电商从业者谈…</p>\n<p><strong>需登录</strong>：否</p>\n<p><strong>来源类型</strong>：rss</p>\n<p><strong>命中关键词</strong>：免费额度</p>\n<p><strong>首次发现</strong>：2026-11-07T01:04:42+08:00</p>\n<p><strong>最后更新</strong>：2026-11-09T00:28:29+08:00</p>\n<p><strong>原始链接</strong>：<a href=\"https://www.leiphone.com/category/industrynews/h454rlPtg41JIuFd.html\">https://www.leiphone.com/category/industrynews/h454rlPtg41JIuFd.html</a></p>",
       "summary": "…电商平台流量与大模型Token捆绑销售：商家不买Token，就不优先推荐商品。 这个做法在内部引发过争议，有人担心商家会转投其他平台，但决策层认为，这是当时风险最低、见效最快的变现路径。 等到一个月后免费额度用尽，调用量和收入双双下跌，内部才意识到，高用量不等于真实需求。 这套做法未必能代表电商平台的普遍策略，却说明了平台的一种想法：AI可以成为经营商家、提高流量变现效率的新工具。 一位大厂的电商从业者谈…",
       "date_published": "2026-11-07T01:04:42+08:00",
-      "date_modified": "2026-11-08T16:25:55+08:00",
+      "date_modified": "2026-11-09T00:28:29+08:00",
       "tags": [
         "资讯·雷锋网",
         "rss",
         "免费额度"
+      ]
+    },
+    {
+      "id": "tag:ai-egg-monitor,2026:activity:a5b665c444899ec4",
+      "url": "https://www.leiphone.com/category/industrynews/oxR5pn9S7tI1IfF5.html",
+      "title": "腾讯的 Agent 布局，不止 WorkBuddy",
+      "content_html": "<p><strong>厂商</strong>：资讯·雷锋网</p>\n<p><strong>标题</strong>：腾讯的 Agent 布局，不止 WorkBuddy</p>\n<p><strong>福利摘要</strong>：…，AWS 和 dbt Labs 分享了一个案例：他们让一个 AI Agent 自行写 SQL 查营收，实际是 1136 万美元，结果Agent多算了 350 万，而后他们排查才发现原因，Agent用了折扣和退款前的金额，没有关联退款表，已取消和待处理的订单也算进去了，内部测试账号也没排除。 Agent答错， 问题 常 出现 在数据 层 而不在模型。 所以要想 Agent 能准确回答企业问题，数据地基一…</p>\n<p><strong>需登录</strong>：否</p>\n<p><strong>来源类型</strong>：rss</p>\n<p><strong>命中关键词</strong>：折扣</p>\n<p><strong>首次发现</strong>：2026-11-09T00:28:29+08:00</p>\n<p><strong>最后更新</strong>：2026-11-09T00:28:29+08:00</p>\n<p><strong>原始链接</strong>：<a href=\"https://www.leiphone.com/category/industrynews/oxR5pn9S7tI1IfF5.html\">https://www.leiphone.com/category/industrynews/oxR5pn9S7tI1IfF5.html</a></p>",
+      "summary": "…，AWS 和 dbt Labs 分享了一个案例：他们让一个 AI Agent 自行写 SQL 查营收，实际是 1136 万美元，结果Agent多算了 350 万，而后他们排查才发现原因，Agent用了折扣和退款前的金额，没有关联退款表，已取消和待处理的订单也算进去了，内部测试账号也没排除。 Agent答错， 问题 常 出现 在数据 层 而不在模型。 所以要想 Agent 能准确回答企业问题，数据地基一…",
+      "date_published": "2026-11-09T00:28:29+08:00",
+      "date_modified": "2026-11-09T00:28:29+08:00",
+      "tags": [
+        "资讯·雷锋网",
+        "rss",
+        "折扣"
       ]
     },
     {

@@ -5,7 +5,7 @@
     <link>https://ikeng.github.io/model-egg-monitor/</link>
     <description>每日两次监控大模型厂商活动，提供 Atom / JSON Feed 订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 08 Nov 2026 16:26:15 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 00:28:51 +0800</lastBuildDate>
     <generator>ai-egg-monitor</generator>
     <item>
       <title>大模型 API 价格方案</title>
@@ -312,6 +312,14 @@
       <category>资讯·极客公园</category>
     </item>
     <item>
+      <title>创业者做 Personal Agent，有没有一线生机？</title>
+      <link>http://www.geekpark.net/news/373650</link>
+      <description>…。 大厂为什么下场？创业者又在面对什么难题？ 看看各家科技巨头的打法：Anthropic 把 Claude 的订阅定价压得远低于同等额度 API 的成本，时不时还刷新一次额度。各家也在客户端里纷纷推出免费额度吸引用户，还将免费时效一延再延。马斯克都忍不住在 X 上感慨，Grok Bot 的服务成本相对于其收入而言高得不可持续。 把用户吸引到自己的应用里跑任务，可以看得到用户设置了什么任务、如何分段提问、如…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:e55dbcf6e9fdc20b</guid>
+      <pubDate>Sun, 08 Nov 2026 16:25:55 +0800</pubDate>
+      <category>资讯·极客公园</category>
+    </item>
+    <item>
       <title>千帆大模型平台</title>
       <link>https://cloud.baidu.com/product/wenxinworkshop</link>
       <description>…28b-a3b 上下文 32K,30K+8K 输入价格 ¥0.001/ 千tokens 输出价格 ¥0.01/ 千tokens 立即体验 探索更多大模型 独家优质Skill与精选MCP服务 百度搜索 免费试用 独家 Skill MCP 百度搜索（BaiduSearch）服务基于百度搜索能力与AI技术，专为生成式AI提供全网实时信息检索服务，具备海量内容站点、高权威性，强时效性，提供全新的搜索体验。 了…</description>
@@ -344,6 +352,46 @@
       <category>Replicate</category>
     </item>
     <item>
+      <title>腾讯的 Agent 布局，不止 WorkBuddy</title>
+      <link>https://www.leiphone.com/category/industrynews/oxR5pn9S7tI1IfF5.html</link>
+      <description>…，AWS 和 dbt Labs 分享了一个案例：他们让一个 AI Agent 自行写 SQL 查营收，实际是 1136 万美元，结果Agent多算了 350 万，而后他们排查才发现原因，Agent用了折扣和退款前的金额，没有关联退款表，已取消和待处理的订单也算进去了，内部测试账号也没排除。 Agent答错， 问题 常 出现 在数据 层 而不在模型。 所以要想 Agent 能准确回答企业问题，数据地基一…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:a5b665c444899ec4</guid>
+      <pubDate>Mon, 09 Nov 2026 00:28:29 +0800</pubDate>
+      <category>资讯·雷锋网</category>
+    </item>
+    <item>
+      <title>央视曝光二手交易“到手刀”乱象，有快递员每月拿 4000 元好处费配合诈骗</title>
+      <link>https://www.ithome.com/1/023/996.htm</link>
+      <description>…宜一些。考虑到时间成本和往返的运费，李先生不得不接受了三百元的损失。 记者调查二手交易平台乱象时，发现不少人有过类似遭遇。因维权麻烦，且担心商品寄回时损坏、得不偿失，大部分卖家都会选择自认倒霉，给对方降价。 一些不法分子利用“到手刀”，虚构商品瑕疵，伪装成交易纠纷实施诈骗，通过低买高卖来赚取差价 。 IT之家从报道获悉，今年 3 月，北京市丰台区人民法院对一起二手奢侈品“到手刀”诈骗案作出一审判决，揭…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:971e1ce5b1e305d7</guid>
+      <pubDate>Mon, 09 Nov 2026 00:28:29 +0800</pubDate>
+      <category>资讯·IT之家</category>
+    </item>
+    <item>
+      <title>Epic 喜加一：游戏《GMH</title>
+      <link>https://www.ithome.com/1/023/990.htm</link>
+      <description>…Studio 开发的复古风格竞速动作游戏《GMH - Good Morning Human》目前正在 Epic 游戏商品开启限时免费“喜加一”活动，玩家可以在北京时间 11 月 9 日 7:00 前免费领取。 需要注意的是，本次限免并非 Epic 官方活动，而是由开发团队自行发起的特别促销，IT之家附游戏商品页（ https://store.epicgames.com/p/good-morning-hu…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:e3965566da7403a6</guid>
+      <pubDate>Mon, 09 Nov 2026 00:28:29 +0800</pubDate>
+      <category>资讯·IT之家</category>
+    </item>
+    <item>
+      <title>再破五千大关：苹果 Mac mini M6 国补后京东 4799 元再降价</title>
+      <link>https://www.ithome.com/1/023/979.htm</link>
+      <description>苹果 8 月 25 日发布全新 Mac mini 便携式主机 ，搭载全新 M6 芯片与此前已经推出的 M5 Pro 芯片，6999 元起售。 今日叠加国补后（M6 版国补限地区），京东自营仅需 4799 元起（教育优惠版 4777 元），较上市初期直降千元，再破五千大关： PLUS 会员 20:00 2 积分抢 800-80 元： 点此兑券 京东 苹果 Mac mini M6 还有教育优惠版可选 …</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:c95b6dd02ddfe30b</guid>
+      <pubDate>Mon, 09 Nov 2026 00:28:29 +0800</pubDate>
+      <category>资讯·IT之家</category>
+    </item>
+    <item>
+      <title>微软移除了 PC 到 PC 的迁移功能</title>
+      <link>https://www.solidot.org/story?sid=85827</link>
+      <description>…Documents、Pictures、Videos 和 Music 备份到 OneDrive。免费版 OneDrive 账户仅提供 5GB 存储空间。如果用户积累了多年的照片和文档，存储空间很快会超出免费额度。Windows Backup 还会记录已安装的应用、Wi-Fi 网络、密码及部分系统设置，有助于加快新设备上的配置过程。需要注意的是，应用仍需重新安装，而受支持的文件则会从云端恢复。</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:ba1d5ad8322797a4</guid>
+      <pubDate>Mon, 09 Nov 2026 00:28:29 +0800</pubDate>
+      <category>资讯·Solidot</category>
+    </item>
+    <item>
       <title>Epic 公布《堡垒之夜》游戏海盗代币掉落概率，此前曾有玩家试图向美国 FTC 举报</title>
       <link>https://www.ithome.com/1/023/909.htm</link>
       <description>…员会（IT之家注：FTC）举报 Epic 。 据报道，Epic 上周末推出“寻宝猎人”迷你赛季，彻底改变了游戏道具商店的运营方式。在本赛季，海盗代币极其稀有，玩家获得后可以进入海盗商店，在 14 天内免费领取商店几乎所有物品。 由于这种代币价值非凡，玩家们争相竞逐。为了找到代币，他们不断在游戏里开宝箱。不过有玩家发现，Epic 并没有公布宝箱的掉落率信息。 数千名玩家投入大量时间寻找海盗代币，却始终不知道…</description>
@@ -358,14 +406,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:4ae409a105ae1d22</guid>
       <pubDate>Sun, 08 Nov 2026 16:25:55 +0800</pubDate>
       <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>创业者做 Personal Agent，有没有一线生机？</title>
-      <link>http://www.geekpark.net/news/373650</link>
-      <description>…。 大厂为什么下场？创业者又在面对什么难题？ 看看各家科技巨头的打法：Anthropic 把 Claude 的订阅定价压得远低于同等额度 API 的成本，时不时还刷新一次额度。各家也在客户端里纷纷推出免费额度吸引用户，还将免费时效一延再延。马斯克都忍不住在 X 上感慨，Grok Bot 的服务成本相对于其收入而言高得不可持续。 把用户吸引到自己的应用里跑任务，可以看得到用户设置了什么任务、如何分段提问、如…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:e55dbcf6e9fdc20b</guid>
-      <pubDate>Sun, 08 Nov 2026 16:25:55 +0800</pubDate>
-      <category>资讯·极客公园</category>
     </item>
     <item>
       <title>苹果史上最好财报，却被内存拖住了后腿</title>
@@ -766,46 +806,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:e9bc6141b0749d13</guid>
       <pubDate>Sat, 31 Oct 2026 15:51:46 +0800</pubDate>
       <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>宇树最新财报：重金投入研发，上市后的考题变了</title>
-      <link>https://www.leiphone.com/category/robot/9NTmjVmWkIyllzaj.html</link>
-      <description>…值。背后的核心逻辑是高毛利人形产品占比持续提升带来的结构红利。2025年人形收入占比首次过半，直接推高了整体毛利率。 2026年毛利率回落，是多重因素叠加的结果：人形量产爬坡过程中的良率波动、部分机型降价、算力与核心硬件BOM成本上升，以及低毛利行业应用订单占比可能抬升。 简单说，靠“卖更高毛利的产品”就能自然提升毛利率的阶段结束了， 公司必须在规模化中真正把成本打下来，或者靠软件/服务提升附加值 。…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:49a28388fc3ef1f4</guid>
-      <pubDate>Sat, 31 Oct 2026 00:25:24 +0800</pubDate>
-      <category>资讯·雷锋网</category>
-    </item>
-    <item>
-      <title>大模型内卷之后，AI 竞争进入搜索基础设施时代</title>
-      <link>http://www.geekpark.net/news/372743</link>
-      <description>…具备了生产级服务的稳定性与适配性。 在实际使用中，官方一共提供了直接 API、MCP 以及 SkillHub 三种模式。 使用的第一步，开发者只要在腾讯云开通元宝搜索，就能直接获得每月 2000 次的免费额度。 对于习惯使用 API 直连的开发者来说，只要在腾讯云控制台的「服务 API KEY」页面中创建并复制明文 Key，将其配置到本地环境变量（export TENCENTCLOUD_WSA_APIKE…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:55df8be201ccf828</guid>
-      <pubDate>Thu, 22 Oct 2026 22:47:53 +0800</pubDate>
-      <category>资讯·极客公园</category>
-    </item>
-    <item>
-      <title>How to teach with Databricks Free Edition</title>
-      <link>https://www.databricks.com/blog/how-teach-databricks-free-edition</link>
-      <description>You can run a full data or AI course on the same platform enterprises use in production - for free...</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:d173f0dade7f4cc1</guid>
-      <pubDate>Tue, 27 Oct 2026 15:09:37 +0800</pubDate>
-      <category>Databricks</category>
-    </item>
-    <item>
-      <title>3299 → 759 元享 25000Pa 大吸力：石头 A30 Max 智能洗地机直降，支持 180° 超薄躺平</title>
-      <link>https://www.ithome.com/1/020/174.htm</link>
-      <description>…右下角“ 淘金币 ”* 点击此宝贝。 售价下方选择“ 以旧换新 ” → 旧品手动更换为“ 小家电 → 数据线 → 其他 ”，实付 1457 元： 天猫 石头洗地机 A30 Max 返现后 759 元再降价 以旧换新 1457 元 直达链接 * 本次需 142 元淘金币，如果淘金币不够，目前平台可借至高 300 元淘金币： 淘宝 App 点击右上角三个点“…” → 选择右下方淘金币 → 进入淘金币页面后…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:ebb7d3f51b1198b8</guid>
-      <pubDate>Sat, 31 Oct 2026 00:25:24 +0800</pubDate>
-      <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>MiniMax</title>
-      <link>https://www.minimaxi.com/</link>
-      <description>…创作 覆盖广告、电商、品牌营销、创意后期等多个内容生产场景 开放的本地工作流 支持本地资产、本地部署与 API 调用，操作更加开放灵活自主 AI Agent 驱动的商业内容生产平台 立即体验 立即订阅会员 旗舰模型 MiniMax 最新首推模型，覆盖语言模型 / 视频生成 / 语音 &amp; 音乐 MiniMax M3.1 Flash 为专业而强，为日常而快 MiniMax H3 视频生成 MiniMax…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:00a2c75e9abfa9da</guid>
-      <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
-      <category>MiniMax</category>
     </item>
   </channel>
 </rss>
