@@ -5,7 +5,7 @@
     <link>https://ikeng.github.io/model-egg-monitor/</link>
     <description>每日两次监控大模型厂商活动，提供 Atom / JSON Feed 订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 09 Nov 2026 00:28:51 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 16:56:24 +0800</lastBuildDate>
     <generator>ai-egg-monitor</generator>
     <item>
       <title>大模型 API 价格方案</title>
@@ -192,14 +192,6 @@
       <category>NVIDIA NIM</category>
     </item>
     <item>
-      <title>「推翻」乔布斯的触屏 MacBook 来了，22999 元起</title>
-      <link>http://www.geekpark.net/news/373084</link>
-      <description>…让它成为聚焦搜索、实时活动和 Siri AI 的新位置，来电、隔空投送请求、正在播放的音乐都在这里，手指点一下就能接电话。 隔空投送请求出现在灵动岛里，点一下就能接收｜图片来源：Apple 国行要打个折扣。苹果的脚注写明，聚焦搜索只有在 Siri AI 可用并打开时才会搬进灵动岛；Siri AI 测试版目前只支持英、法、日、韩、葡、西六种语言，而国行页面上 Apple 智能的写法是「推出时间依监管部门…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:8bc3904f96ea0d35</guid>
-      <pubDate>Thu, 29 Oct 2026 15:54:02 +0800</pubDate>
-      <category>资讯·极客公园</category>
-    </item>
-    <item>
       <title>API Pricing</title>
       <link>https://docs.x.ai/docs/pricing</link>
       <description>…and is billed through your plan there. It is not available on the public xAI API, and Grok Build&#39;s free tier does not include it. Prompt tokens Input Cached input Output Below 200k $4.00 / 1M $1.00 / 1M…</description>
@@ -240,6 +232,14 @@
       <category>Cerebras</category>
     </item>
     <item>
+      <title>腾讯的 Agent 布局，不止 WorkBuddy</title>
+      <link>https://www.leiphone.com/category/industrynews/oxR5pn9S7tI1IfF5.html</link>
+      <description>…，AWS 和 dbt Labs 分享了一个案例：他们让一个 AI Agent 自行写 SQL 查营收，实际是 1136 万美元，结果Agent多算了 350 万，而后他们排查才发现原因，Agent用了折扣和退款前的金额，没有关联退款表，已取消和待处理的订单也算进去了，内部测试账号也没排除。 Agent答错， 问题 常 出现 在数据 层 而不在模型。 所以要想 Agent 能准确回答企业问题，数据地基一…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:a5b665c444899ec4</guid>
+      <pubDate>Mon, 09 Nov 2026 00:28:29 +0800</pubDate>
+      <category>资讯·雷锋网</category>
+    </item>
+    <item>
       <title>Newsroom \ Anthropic</title>
       <link>https://www.anthropic.com/news</link>
       <description>…General Services Administration (GSA) through a new agreement that gives government partners a 40% discount on Claude Enterprise, Claude for Government, and the Claude API. Partnerships Oct 27, 2026 Oct 27,…</description>
@@ -262,6 +262,14 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:b99574d412655a47</guid>
       <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
       <category>Together AI</category>
+    </item>
+    <item>
+      <title>微软移除了 PC 到 PC 的迁移功能</title>
+      <link>https://www.solidot.org/story?sid=85827</link>
+      <description>…Documents、Pictures、Videos 和 Music 备份到 OneDrive。免费版 OneDrive 账户仅提供 5GB 存储空间。如果用户积累了多年的照片和文档，存储空间很快会超出免费额度。Windows Backup 还会记录已安装的应用、Wi-Fi 网络、密码及部分系统设置，有助于加快新设备上的配置过程。需要注意的是，应用仍需重新安装，而受支持的文件则会从云端恢复。</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:ba1d5ad8322797a4</guid>
+      <pubDate>Mon, 09 Nov 2026 00:28:29 +0800</pubDate>
+      <category>资讯·Solidot</category>
     </item>
     <item>
       <title>Cursor · Pricing</title>
@@ -352,26 +360,42 @@
       <category>Replicate</category>
     </item>
     <item>
-      <title>腾讯的 Agent 布局，不止 WorkBuddy</title>
-      <link>https://www.leiphone.com/category/industrynews/oxR5pn9S7tI1IfF5.html</link>
-      <description>…，AWS 和 dbt Labs 分享了一个案例：他们让一个 AI Agent 自行写 SQL 查营收，实际是 1136 万美元，结果Agent多算了 350 万，而后他们排查才发现原因，Agent用了折扣和退款前的金额，没有关联退款表，已取消和待处理的订单也算进去了，内部测试账号也没排除。 Agent答错， 问题 常 出现 在数据 层 而不在模型。 所以要想 Agent 能准确回答企业问题，数据地基一…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:a5b665c444899ec4</guid>
-      <pubDate>Mon, 09 Nov 2026 00:28:29 +0800</pubDate>
+      <title>从一笔投资到一个生态：浦东创投把AI创业者带进了“朋友圈”</title>
+      <link>https://www.leiphone.com/category/industrynews/sGptXfOtHwkxuGrm.html</link>
+      <description>…华院计算、七牛云、硅基流动等企业。对创业团队而言，走进产业现场，意味着有机会更直接地理解真实需求，了解基础设施能力，也为后续合作打开窗口。 张江人工智能创新小镇则提供了更贴近日常创业的低租金空间，以及算力券、模型券、语料券等组合安排要素支持，帮助团队降低起步成本、提高要素可得性。浦东创投此前对外提出，愿向入营团队开放“产业朋友圈”，协助对接潜在客户与合作伙伴。结营公开日上，百余位投资机构和龙头企业代表到…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:c5761f228e00a5bd</guid>
+      <pubDate>Mon, 09 Nov 2026 16:56:02 +0800</pubDate>
       <category>资讯·雷锋网</category>
+    </item>
+    <item>
+      <title>赠复古掌机保护壳：小米 17 Pro 手机 16+512G 版国补后 5599 → 4173 元</title>
+      <link>https://www.ithome.com/1/024/363.htm</link>
+      <description>…17 Pro 手机 2025 年 9 月 25 日发布，16+512G 定价 5599 元。 京东 11.11 大促期间，活动价 5199 元； PLUS 会员下单立减 25.99 元； 领取 9 折优惠券： 点此领取 ； 国家补贴立减 500 元； 商品详情页右上角直播间可领 200 元优惠券： 到手价为 4173.01 元： 京东 小米 17 Pro 手机 16GB+512GB 4173.01 元…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:8a3789887754f416</guid>
+      <pubDate>Mon, 09 Nov 2026 16:56:02 +0800</pubDate>
+      <category>资讯·IT之家</category>
+    </item>
+    <item>
+      <title>BLG 不夺冠退全款：雷鸟 GT Max 智能 AR 眼镜 2288 元 10:00 蹲点抢</title>
+      <link>https://www.ithome.com/1/024/310.htm</link>
+      <description>…眼镜本体、B站超级大会员季卡、限定版遮光罩。 活动规则显示，若 BLG 英雄联盟分部未获得 2026 英雄联盟全球总决赛（S16）冠军，符合条件的订单将获得全额退款， 退款金额为订单实付金额 （即扣除优惠券、红包、积分抵扣及平台补贴后，用户实际支付的金额）。 退款完成后， 商品归用户所有，无需退回商品 。以英雄联盟赛事官方公布并生效的 2026 英雄联盟全球总决赛最终冠军归属为准。 BLG 未晋级、被淘…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:14b5dcae5670dbb0</guid>
+      <pubDate>Mon, 09 Nov 2026 16:56:02 +0800</pubDate>
+      <category>资讯·IT之家</category>
+    </item>
+    <item>
+      <title>「推翻」乔布斯的触屏 MacBook 来了，22999 元起</title>
+      <link>http://www.geekpark.net/news/373084</link>
+      <description>…让它成为聚焦搜索、实时活动和 Siri AI 的新位置，来电、隔空投送请求、正在播放的音乐都在这里，手指点一下就能接电话。 隔空投送请求出现在灵动岛里，点一下就能接收｜图片来源：Apple 国行要打个折扣。苹果的脚注写明，聚焦搜索只有在 Siri AI 可用并打开时才会搬进灵动岛；Siri AI 测试版目前只支持英、法、日、韩、葡、西六种语言，而国行页面上 Apple 智能的写法是「推出时间依监管部门…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:8bc3904f96ea0d35</guid>
+      <pubDate>Thu, 29 Oct 2026 15:54:02 +0800</pubDate>
+      <category>资讯·极客公园</category>
     </item>
     <item>
       <title>央视曝光二手交易“到手刀”乱象，有快递员每月拿 4000 元好处费配合诈骗</title>
       <link>https://www.ithome.com/1/023/996.htm</link>
       <description>…宜一些。考虑到时间成本和往返的运费，李先生不得不接受了三百元的损失。 记者调查二手交易平台乱象时，发现不少人有过类似遭遇。因维权麻烦，且担心商品寄回时损坏、得不偿失，大部分卖家都会选择自认倒霉，给对方降价。 一些不法分子利用“到手刀”，虚构商品瑕疵，伪装成交易纠纷实施诈骗，通过低买高卖来赚取差价 。 IT之家从报道获悉，今年 3 月，北京市丰台区人民法院对一起二手奢侈品“到手刀”诈骗案作出一审判决，揭…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:971e1ce5b1e305d7</guid>
-      <pubDate>Mon, 09 Nov 2026 00:28:29 +0800</pubDate>
-      <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>Epic 喜加一：游戏《GMH</title>
-      <link>https://www.ithome.com/1/023/990.htm</link>
-      <description>…Studio 开发的复古风格竞速动作游戏《GMH - Good Morning Human》目前正在 Epic 游戏商品开启限时免费“喜加一”活动，玩家可以在北京时间 11 月 9 日 7:00 前免费领取。 需要注意的是，本次限免并非 Epic 官方活动，而是由开发团队自行发起的特别促销，IT之家附游戏商品页（ https://store.epicgames.com/p/good-morning-hu…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:e3965566da7403a6</guid>
       <pubDate>Mon, 09 Nov 2026 00:28:29 +0800</pubDate>
       <category>资讯·IT之家</category>
     </item>
@@ -384,12 +408,12 @@
       <category>资讯·IT之家</category>
     </item>
     <item>
-      <title>微软移除了 PC 到 PC 的迁移功能</title>
-      <link>https://www.solidot.org/story?sid=85827</link>
-      <description>…Documents、Pictures、Videos 和 Music 备份到 OneDrive。免费版 OneDrive 账户仅提供 5GB 存储空间。如果用户积累了多年的照片和文档，存储空间很快会超出免费额度。Windows Backup 还会记录已安装的应用、Wi-Fi 网络、密码及部分系统设置，有助于加快新设备上的配置过程。需要注意的是，应用仍需重新安装，而受支持的文件则会从云端恢复。</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:ba1d5ad8322797a4</guid>
+      <title>Epic 喜加一：游戏《GMH</title>
+      <link>https://www.ithome.com/1/023/990.htm</link>
+      <description>…Studio 开发的复古风格竞速动作游戏《GMH - Good Morning Human》目前正在 Epic 游戏商品开启限时免费“喜加一”活动，玩家可以在北京时间 11 月 9 日 7:00 前免费领取。 需要注意的是，本次限免并非 Epic 官方活动，而是由开发团队自行发起的特别促销，IT之家附游戏商品页（ https://store.epicgames.com/p/good-morning-hu…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:e3965566da7403a6</guid>
       <pubDate>Mon, 09 Nov 2026 00:28:29 +0800</pubDate>
-      <category>资讯·Solidot</category>
+      <category>资讯·IT之家</category>
     </item>
     <item>
       <title>Epic 公布《堡垒之夜》游戏海盗代币掉落概率，此前曾有玩家试图向美国 FTC 举报</title>
@@ -780,30 +804,6 @@
       <link>https://www.ithome.com/1/020/482.htm</link>
       <description>…东 11.11 期间，叠加以下多重优惠，到手仅需 149.35 元。 单品满 1 件享 8.8 折； 京东潮流配件专区领券享 9 折（ 点此领券 ）； PLUS 专享 1 积分兑换满 111-11 元优惠券（ 点此兑换 ）； App 进入商品页可能自动发放限时红包 / 折扣券，路飞领到 9.9 折，优惠 1.68 元； App 商品价格下方可领 10% 政府补贴，到手仅需 149.35 元。 京东 酷态…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:34ba7379e6ffe369</guid>
-      <pubDate>Sat, 31 Oct 2026 15:51:46 +0800</pubDate>
-      <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>55W 快充 +20000mAh：酷态科 CP25 电能块自带线充电宝京东 78.8 元新低</title>
-      <link>https://www.ithome.com/1/020/477.htm</link>
-      <description>…东自营报价 132 元，叠加以下多重优惠，到手仅需 78.76 元。 单品满 1 件享 8.8 折； 京东潮流配件专区领券享 8 折（ 点此领券 ）； PLUS 专享 1 积分兑换满 111-11 元优惠券（ 点此兑换 ）； 京东 酷态科 CP25 电能块 55W 自带线 20000mAh 移动电源 券后 78.76 元 直达链接 据官方介绍，这款新品提供银滩白、海湾蓝、落日橙、星云灰四色可选， 具有…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:8bc7d3adb45fe7ef</guid>
-      <pubDate>Sat, 31 Oct 2026 15:51:46 +0800</pubDate>
-      <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>追光动画首部水浒传 IP 电影《林冲：风雪山神庙》公布</title>
-      <link>https://www.ithome.com/1/020/503.htm</link>
-      <description>…家电影局备案立项。IT之家附剧情梗概： 北宋年间，八十万禁军教头林冲循规蹈矩，只想在汴梁安身立命，却怎知世事多难，一系列遭遇下，林冲被一步步逼上了梁山。 IT之家小伙伴记得用 最会买购买电影票 ，享受折扣价的同时还可以获得返利，预计每张票可以节省 5~15 元！</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:d89f981ac1870b37</guid>
-      <pubDate>Sat, 31 Oct 2026 15:51:46 +0800</pubDate>
-      <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>国产经典动画《星游记》时隔 15 年回归，前传电影官宣启动</title>
-      <link>https://www.ithome.com/1/020/500.htm</link>
-      <description>…》编剧刘北 10 月 30 日也发布文章《写给自由者的信》，表示从电影开始，直到主线剧集完结，会努力在每年 10 月 30 日，都有值得庆祝的向前一步。 IT之家小伙伴记得用 最会买购买电影票 ，享受折扣价的同时还可以获得返利，预计每张票可以节省 5~15 元！</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:e9bc6141b0749d13</guid>
       <pubDate>Sat, 31 Oct 2026 15:51:46 +0800</pubDate>
       <category>资讯·IT之家</category>
     </item>

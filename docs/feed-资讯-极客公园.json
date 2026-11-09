@@ -12,27 +12,13 @@
   ],
   "items": [
     {
-      "id": "tag:ai-egg-monitor,2026:activity:8bc3904f96ea0d35",
-      "url": "http://www.geekpark.net/news/373084",
-      "title": "「推翻」乔布斯的触屏 MacBook 来了，22999 元起",
-      "content_html": "<p><strong>厂商</strong>：资讯·极客公园</p>\n<p><strong>标题</strong>：「推翻」乔布斯的触屏 MacBook 来了，22999 元起</p>\n<p><strong>福利摘要</strong>：…让它成为聚焦搜索、实时活动和 Siri AI 的新位置，来电、隔空投送请求、正在播放的音乐都在这里，手指点一下就能接电话。 隔空投送请求出现在灵动岛里，点一下就能接收｜图片来源：Apple 国行要打个折扣。苹果的脚注写明，聚焦搜索只有在 Siri AI 可用并打开时才会搬进灵动岛；Siri AI 测试版目前只支持英、法、日、韩、葡、西六种语言，而国行页面上 Apple 智能的写法是「推出时间依监管部门…</p>\n<p><strong>需登录</strong>：否</p>\n<p><strong>来源类型</strong>：rss</p>\n<p><strong>命中关键词</strong>：折扣</p>\n<p><strong>首次发现</strong>：2026-10-29T15:54:02+08:00</p>\n<p><strong>最后更新</strong>：2026-11-09T00:28:29+08:00</p>\n<p><strong>原始链接</strong>：<a href=\"http://www.geekpark.net/news/373084\">http://www.geekpark.net/news/373084</a></p>",
-      "summary": "…让它成为聚焦搜索、实时活动和 Siri AI 的新位置，来电、隔空投送请求、正在播放的音乐都在这里，手指点一下就能接电话。 隔空投送请求出现在灵动岛里，点一下就能接收｜图片来源：Apple 国行要打个折扣。苹果的脚注写明，聚焦搜索只有在 Siri AI 可用并打开时才会搬进灵动岛；Siri AI 测试版目前只支持英、法、日、韩、葡、西六种语言，而国行页面上 Apple 智能的写法是「推出时间依监管部门…",
-      "date_published": "2026-10-29T15:54:02+08:00",
-      "date_modified": "2026-11-09T00:28:29+08:00",
-      "tags": [
-        "资讯·极客公园",
-        "rss",
-        "折扣"
-      ]
-    },
-    {
       "id": "tag:ai-egg-monitor,2026:activity:e3576583a2d513d3",
       "url": "http://www.geekpark.net/news/373249",
       "title": "个人灵光 2.0 实测：个人 AI 助理的机会和门槛｜AI 上新",
-      "content_html": "<p><strong>厂商</strong>：资讯·极客公园</p>\n<p><strong>标题</strong>：个人灵光 2.0 实测：个人 AI 助理的机会和门槛｜AI 上新</p>\n<p><strong>福利摘要</strong>：…宝的反爬风控机制拦截在外。 米家也是类似的情况：扫码授权成功后，小米的接口连续两次触发限流，设备列表始终拉取失败。 灵光进不了淘宝的购物车，但千问却可以。 当我们把同一句指令「帮我看看淘宝购物车有什么降价幅度比较大的商品」发给千问时，两者的权限差距一目了然：千问不仅直接列出了购物车清单，甚至清楚地知道里面那把人体工学椅「已经加购快 300 天、看了几十次」。 与此同时，支付路径，阿里目前也没有向灵光…</p>\n<p><strong>需登录</strong>：否</p>\n<p><strong>来源类型</strong>：rss</p>\n<p><strong>命中关键词</strong>：降价</p>\n<p><strong>首次发现</strong>：2026-11-02T00:32:03+08:00</p>\n<p><strong>最后更新</strong>：2026-11-09T00:28:29+08:00</p>\n<p><strong>原始链接</strong>：<a href=\"http://www.geekpark.net/news/373249\">http://www.geekpark.net/news/373249</a></p>",
+      "content_html": "<p><strong>厂商</strong>：资讯·极客公园</p>\n<p><strong>标题</strong>：个人灵光 2.0 实测：个人 AI 助理的机会和门槛｜AI 上新</p>\n<p><strong>福利摘要</strong>：…宝的反爬风控机制拦截在外。 米家也是类似的情况：扫码授权成功后，小米的接口连续两次触发限流，设备列表始终拉取失败。 灵光进不了淘宝的购物车，但千问却可以。 当我们把同一句指令「帮我看看淘宝购物车有什么降价幅度比较大的商品」发给千问时，两者的权限差距一目了然：千问不仅直接列出了购物车清单，甚至清楚地知道里面那把人体工学椅「已经加购快 300 天、看了几十次」。 与此同时，支付路径，阿里目前也没有向灵光…</p>\n<p><strong>需登录</strong>：否</p>\n<p><strong>来源类型</strong>：rss</p>\n<p><strong>命中关键词</strong>：降价</p>\n<p><strong>首次发现</strong>：2026-11-02T00:32:03+08:00</p>\n<p><strong>最后更新</strong>：2026-11-09T16:56:02+08:00</p>\n<p><strong>原始链接</strong>：<a href=\"http://www.geekpark.net/news/373249\">http://www.geekpark.net/news/373249</a></p>",
       "summary": "…宝的反爬风控机制拦截在外。 米家也是类似的情况：扫码授权成功后，小米的接口连续两次触发限流，设备列表始终拉取失败。 灵光进不了淘宝的购物车，但千问却可以。 当我们把同一句指令「帮我看看淘宝购物车有什么降价幅度比较大的商品」发给千问时，两者的权限差距一目了然：千问不仅直接列出了购物车清单，甚至清楚地知道里面那把人体工学椅「已经加购快 300 天、看了几十次」。 与此同时，支付路径，阿里目前也没有向灵光…",
       "date_published": "2026-11-02T00:32:03+08:00",
-      "date_modified": "2026-11-09T00:28:29+08:00",
+      "date_modified": "2026-11-09T16:56:02+08:00",
       "tags": [
         "资讯·极客公园",
         "rss",
@@ -43,10 +29,10 @@
       "id": "tag:ai-egg-monitor,2026:activity:e55dbcf6e9fdc20b",
       "url": "http://www.geekpark.net/news/373650",
       "title": "创业者做 Personal Agent，有没有一线生机？",
-      "content_html": "<p><strong>厂商</strong>：资讯·极客公园</p>\n<p><strong>标题</strong>：创业者做 Personal Agent，有没有一线生机？</p>\n<p><strong>福利摘要</strong>：…。 大厂为什么下场？创业者又在面对什么难题？ 看看各家科技巨头的打法：Anthropic 把 Claude 的订阅定价压得远低于同等额度 API 的成本，时不时还刷新一次额度。各家也在客户端里纷纷推出免费额度吸引用户，还将免费时效一延再延。马斯克都忍不住在 X 上感慨，Grok Bot 的服务成本相对于其收入而言高得不可持续。 把用户吸引到自己的应用里跑任务，可以看得到用户设置了什么任务、如何分段提问、如…</p>\n<p><strong>需登录</strong>：否</p>\n<p><strong>来源类型</strong>：rss</p>\n<p><strong>命中关键词</strong>：免费额度</p>\n<p><strong>首次发现</strong>：2026-11-08T16:25:55+08:00</p>\n<p><strong>最后更新</strong>：2026-11-09T00:28:29+08:00</p>\n<p><strong>原始链接</strong>：<a href=\"http://www.geekpark.net/news/373650\">http://www.geekpark.net/news/373650</a></p>",
+      "content_html": "<p><strong>厂商</strong>：资讯·极客公园</p>\n<p><strong>标题</strong>：创业者做 Personal Agent，有没有一线生机？</p>\n<p><strong>福利摘要</strong>：…。 大厂为什么下场？创业者又在面对什么难题？ 看看各家科技巨头的打法：Anthropic 把 Claude 的订阅定价压得远低于同等额度 API 的成本，时不时还刷新一次额度。各家也在客户端里纷纷推出免费额度吸引用户，还将免费时效一延再延。马斯克都忍不住在 X 上感慨，Grok Bot 的服务成本相对于其收入而言高得不可持续。 把用户吸引到自己的应用里跑任务，可以看得到用户设置了什么任务、如何分段提问、如…</p>\n<p><strong>需登录</strong>：否</p>\n<p><strong>来源类型</strong>：rss</p>\n<p><strong>命中关键词</strong>：免费额度</p>\n<p><strong>首次发现</strong>：2026-11-08T16:25:55+08:00</p>\n<p><strong>最后更新</strong>：2026-11-09T16:56:02+08:00</p>\n<p><strong>原始链接</strong>：<a href=\"http://www.geekpark.net/news/373650\">http://www.geekpark.net/news/373650</a></p>",
       "summary": "…。 大厂为什么下场？创业者又在面对什么难题？ 看看各家科技巨头的打法：Anthropic 把 Claude 的订阅定价压得远低于同等额度 API 的成本，时不时还刷新一次额度。各家也在客户端里纷纷推出免费额度吸引用户，还将免费时效一延再延。马斯克都忍不住在 X 上感慨，Grok Bot 的服务成本相对于其收入而言高得不可持续。 把用户吸引到自己的应用里跑任务，可以看得到用户设置了什么任务、如何分段提问、如…",
       "date_published": "2026-11-08T16:25:55+08:00",
-      "date_modified": "2026-11-09T00:28:29+08:00",
+      "date_modified": "2026-11-09T16:56:02+08:00",
       "tags": [
         "资讯·极客公园",
         "rss",
@@ -57,9 +43,23 @@
       "id": "tag:ai-egg-monitor,2026:activity:f368eba63288acba",
       "url": "http://www.geekpark.net/news/373154",
       "title": "Google 母集团市值蒸发 5000 亿美元创纪录；苹果高管回应新 iPad mini 60Hz 刷新率；因电池问题，理想 MEGA 退一赔一｜极客早知道",
-      "content_html": "<p><strong>厂商</strong>：资讯·极客公园</p>\n<p><strong>标题</strong>：Google 母集团市值蒸发 5000 亿美元创纪录；苹果高管回应新 iPad mini 60Hz 刷新率；因电池问题，理想 MEGA 退一赔一｜极客早知道</p>\n<p><strong>福利摘要</strong>：…果会要求闪存供应商为其提供「最高优惠客户」地位，让公司能够始终拿到最低价的产品。为了确保供应商履约，苹果会持续审计供应商账目， 甚至因为审计次数实在太多 ， 成功让德勤（Deloitte）谈下批量审计折扣 。 这种频繁审计的手段，让苹果直接了解供应商业务运作和工厂产出情况，从而使苹果谈判人员准确判断厂商需要多大订单。苹果还成功利用这一条款，就美光以更低价格向其他客户出售 NAND 一事提起仲裁，然后成…</p>\n<p><strong>需登录</strong>：否</p>\n<p><strong>来源类型</strong>：rss</p>\n<p><strong>命中关键词</strong>：折扣</p>\n<p><strong>首次发现</strong>：2026-10-30T15:56:54+08:00</p>\n<p><strong>最后更新</strong>：2026-11-09T00:28:29+08:00</p>\n<p><strong>原始链接</strong>：<a href=\"http://www.geekpark.net/news/373154\">http://www.geekpark.net/news/373154</a></p>",
+      "content_html": "<p><strong>厂商</strong>：资讯·极客公园</p>\n<p><strong>标题</strong>：Google 母集团市值蒸发 5000 亿美元创纪录；苹果高管回应新 iPad mini 60Hz 刷新率；因电池问题，理想 MEGA 退一赔一｜极客早知道</p>\n<p><strong>福利摘要</strong>：…果会要求闪存供应商为其提供「最高优惠客户」地位，让公司能够始终拿到最低价的产品。为了确保供应商履约，苹果会持续审计供应商账目， 甚至因为审计次数实在太多 ， 成功让德勤（Deloitte）谈下批量审计折扣 。 这种频繁审计的手段，让苹果直接了解供应商业务运作和工厂产出情况，从而使苹果谈判人员准确判断厂商需要多大订单。苹果还成功利用这一条款，就美光以更低价格向其他客户出售 NAND 一事提起仲裁，然后成…</p>\n<p><strong>需登录</strong>：否</p>\n<p><strong>来源类型</strong>：rss</p>\n<p><strong>命中关键词</strong>：折扣</p>\n<p><strong>首次发现</strong>：2026-10-30T15:56:54+08:00</p>\n<p><strong>最后更新</strong>：2026-11-09T16:56:02+08:00</p>\n<p><strong>原始链接</strong>：<a href=\"http://www.geekpark.net/news/373154\">http://www.geekpark.net/news/373154</a></p>",
       "summary": "…果会要求闪存供应商为其提供「最高优惠客户」地位，让公司能够始终拿到最低价的产品。为了确保供应商履约，苹果会持续审计供应商账目， 甚至因为审计次数实在太多 ， 成功让德勤（Deloitte）谈下批量审计折扣 。 这种频繁审计的手段，让苹果直接了解供应商业务运作和工厂产出情况，从而使苹果谈判人员准确判断厂商需要多大订单。苹果还成功利用这一条款，就美光以更低价格向其他客户出售 NAND 一事提起仲裁，然后成…",
       "date_published": "2026-10-30T15:56:54+08:00",
+      "date_modified": "2026-11-09T16:56:02+08:00",
+      "tags": [
+        "资讯·极客公园",
+        "rss",
+        "折扣"
+      ]
+    },
+    {
+      "id": "tag:ai-egg-monitor,2026:activity:8bc3904f96ea0d35",
+      "url": "http://www.geekpark.net/news/373084",
+      "title": "「推翻」乔布斯的触屏 MacBook 来了，22999 元起",
+      "content_html": "<p><strong>厂商</strong>：资讯·极客公园</p>\n<p><strong>标题</strong>：「推翻」乔布斯的触屏 MacBook 来了，22999 元起</p>\n<p><strong>福利摘要</strong>：…让它成为聚焦搜索、实时活动和 Siri AI 的新位置，来电、隔空投送请求、正在播放的音乐都在这里，手指点一下就能接电话。 隔空投送请求出现在灵动岛里，点一下就能接收｜图片来源：Apple 国行要打个折扣。苹果的脚注写明，聚焦搜索只有在 Siri AI 可用并打开时才会搬进灵动岛；Siri AI 测试版目前只支持英、法、日、韩、葡、西六种语言，而国行页面上 Apple 智能的写法是「推出时间依监管部门…</p>\n<p><strong>需登录</strong>：否</p>\n<p><strong>来源类型</strong>：rss</p>\n<p><strong>命中关键词</strong>：折扣</p>\n<p><strong>首次发现</strong>：2026-10-29T15:54:02+08:00</p>\n<p><strong>最后更新</strong>：2026-11-09T00:28:29+08:00</p>\n<p><strong>原始链接</strong>：<a href=\"http://www.geekpark.net/news/373084\">http://www.geekpark.net/news/373084</a></p>",
+      "summary": "…让它成为聚焦搜索、实时活动和 Siri AI 的新位置，来电、隔空投送请求、正在播放的音乐都在这里，手指点一下就能接电话。 隔空投送请求出现在灵动岛里，点一下就能接收｜图片来源：Apple 国行要打个折扣。苹果的脚注写明，聚焦搜索只有在 Siri AI 可用并打开时才会搬进灵动岛；Siri AI 测试版目前只支持英、法、日、韩、葡、西六种语言，而国行页面上 Apple 智能的写法是「推出时间依监管部门…",
+      "date_published": "2026-10-29T15:54:02+08:00",
       "date_modified": "2026-11-09T00:28:29+08:00",
       "tags": [
         "资讯·极客公园",

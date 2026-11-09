@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://ikeng.github.io/model-egg-monitor/atom.xml</id>
   <title>赛博鸡蛋</title>
-  <updated>2026-11-09T00:28:51+08:00</updated>
+  <updated>2026-11-09T16:56:24+08:00</updated>
   <subtitle>大模型厂商活动监控</subtitle>
   <link rel="self" href="https://ikeng.github.io/model-egg-monitor/atom.xml"/>
   <link rel="alternate" href="https://ikeng.github.io/model-egg-monitor/"/>
@@ -14,7 +14,7 @@
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:00165271027eb922</id>
     <title>大模型 API 价格方案</title>
-    <updated>2026-11-09T00:28:29+08:00</updated>
+    <updated>2026-11-09T16:56:02+08:00</updated>
     <published>2026-10-08T18:27:38+08:00</published>
     <link rel="alternate" href="https://siliconflow.cn/pricing"/>
     <author><name>硅基流动 SiliconFlow</name></author>
@@ -27,13 +27,13 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：免费&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:27:38+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T00:28:29+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T16:56:02+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://siliconflow.cn/pricing&#34;&gt;https://siliconflow.cn/pricing&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:0689d31fc9e58be0</id>
     <title>千问AI双11，好价好AI</title>
-    <updated>2026-11-09T00:28:29+08:00</updated>
+    <updated>2026-11-09T16:56:02+08:00</updated>
     <published>2026-11-03T03:55:35+08:00</published>
     <link rel="alternate" href="https://tongyi.aliyun.com/"/>
     <author><name>通义千问</name></author>
@@ -46,13 +46,13 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：免费&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-11-03T03:55:35+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T00:28:29+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T16:56:02+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://tongyi.aliyun.com/&#34;&gt;https://tongyi.aliyun.com/&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:087dcc668c4c8c76</id>
     <title>Blog</title>
-    <updated>2026-11-09T00:28:29+08:00</updated>
+    <updated>2026-11-09T16:56:02+08:00</updated>
     <published>2026-10-08T18:27:38+08:00</published>
     <link rel="alternate" href="https://www.together.ai/blog"/>
     <author><name>Together AI</name></author>
@@ -65,13 +65,13 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：free&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:27:38+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T00:28:29+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T16:56:02+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.together.ai/blog&#34;&gt;https://www.together.ai/blog&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:09cec74616d2634c</id>
     <title>Plans for GitHub Copilot</title>
-    <updated>2026-11-09T00:28:29+08:00</updated>
+    <updated>2026-11-09T16:56:02+08:00</updated>
     <published>2026-10-08T18:27:38+08:00</published>
     <link rel="alternate" href="https://docs.github.com/en/copilot/about-github-copilot/plans-for-github-copilot"/>
     <author><name>GitHub Copilot</name></author>
@@ -84,13 +84,13 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：free&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:27:38+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T00:28:29+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T16:56:02+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://docs.github.com/en/copilot/about-github-copilot/plans-for-github-copilot&#34;&gt;https://docs.github.com/en/copilot/about-github-copilot/plans-for-github-copilot&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:17fe1240de605060</id>
     <title>Latest news</title>
-    <updated>2026-11-09T00:28:29+08:00</updated>
+    <updated>2026-11-09T16:56:02+08:00</updated>
     <published>2026-10-08T18:27:38+08:00</published>
     <link rel="alternate" href="https://mistral.ai/news"/>
     <author><name>Mistral</name></author>
@@ -103,13 +103,13 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：trial&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:27:38+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T00:28:29+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T16:56:02+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://mistral.ai/news&#34;&gt;https://mistral.ai/news&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:1918e08679b03d3d</id>
     <title>腾讯混元大模型 混元生文计费概述</title>
-    <updated>2026-11-09T00:28:29+08:00</updated>
+    <updated>2026-11-09T16:56:02+08:00</updated>
     <published>2026-10-08T18:11:17+08:00</published>
     <link rel="alternate" href="https://cloud.tencent.com/document/product/1729/97731"/>
     <author><name>腾讯混元</name></author>
@@ -122,13 +122,13 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：免费&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T00:28:29+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T16:56:02+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://cloud.tencent.com/document/product/1729/97731&#34;&gt;https://cloud.tencent.com/document/product/1729/97731&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:1d3f6027b51f1841</id>
     <title>OpenRouter FAQ</title>
-    <updated>2026-11-09T00:28:29+08:00</updated>
+    <updated>2026-11-09T16:56:02+08:00</updated>
     <published>2026-10-08T18:11:17+08:00</published>
     <link rel="alternate" href="https://openrouter.ai/docs/faq"/>
     <author><name>OpenRouter</name></author>
@@ -141,13 +141,13 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：free&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T00:28:29+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T16:56:02+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://openrouter.ai/docs/faq&#34;&gt;https://openrouter.ai/docs/faq&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:1ed4c18cc5928e80</id>
     <title>Claude Code by Anthropic</title>
-    <updated>2026-11-09T00:28:29+08:00</updated>
+    <updated>2026-11-09T16:56:02+08:00</updated>
     <published>2026-10-30T15:56:54+08:00</published>
     <link rel="alternate" href="https://www.anthropic.com/claude-code"/>
     <author><name>Anthropic</name></author>
@@ -160,13 +160,13 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：free&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-30T15:56:54+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T00:28:29+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T16:56:02+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.anthropic.com/claude-code&#34;&gt;https://www.anthropic.com/claude-code&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:222146e80f0b2614</id>
     <title>Pricing</title>
-    <updated>2026-11-09T00:28:29+08:00</updated>
+    <updated>2026-11-09T16:56:02+08:00</updated>
     <published>2026-10-08T18:27:38+08:00</published>
     <link rel="alternate" href="https://huggingface.co/pricing"/>
     <author><name>Hugging Face</name></author>
@@ -179,13 +179,13 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：free&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:27:38+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T00:28:29+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T16:56:02+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://huggingface.co/pricing&#34;&gt;https://huggingface.co/pricing&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:232ffcd8a4c48761</id>
     <title>Pricing</title>
-    <updated>2026-11-09T00:28:29+08:00</updated>
+    <updated>2026-11-09T16:56:02+08:00</updated>
     <published>2026-10-08T18:11:17+08:00</published>
     <link rel="alternate" href="https://mistral.ai/pricing"/>
     <author><name>Mistral</name></author>
@@ -198,13 +198,13 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：free&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T00:28:29+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T16:56:02+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://mistral.ai/pricing&#34;&gt;https://mistral.ai/pricing&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:2472035a4555976f</id>
     <title>模型概览</title>
-    <updated>2026-11-09T00:28:29+08:00</updated>
+    <updated>2026-11-09T16:56:02+08:00</updated>
     <published>2026-10-08T18:27:38+08:00</published>
     <link rel="alternate" href="https://docs.bigmodel.cn/cn/guide/start/model-overview"/>
     <author><name>智谱 GLM</name></author>
@@ -217,13 +217,13 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：免费&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:27:38+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T00:28:29+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T16:56:02+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://docs.bigmodel.cn/cn/guide/start/model-overview&#34;&gt;https://docs.bigmodel.cn/cn/guide/start/model-overview&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:325373ce89188f63</id>
     <title>Different Types of API Keys and Rate Limits</title>
-    <updated>2026-11-09T00:28:29+08:00</updated>
+    <updated>2026-11-09T16:56:02+08:00</updated>
     <published>2026-10-08T18:27:38+08:00</published>
     <link rel="alternate" href="https://docs.cohere.com/docs/rate-limits"/>
     <author><name>Cohere</name></author>
@@ -236,13 +236,13 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：free&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:27:38+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T00:28:29+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T16:56:02+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://docs.cohere.com/docs/rate-limits&#34;&gt;https://docs.cohere.com/docs/rate-limits&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:3f41d9118eb4ec42</id>
     <title>Google Beam expands with new regions, partners, and customers</title>
-    <updated>2026-11-09T00:28:29+08:00</updated>
+    <updated>2026-11-09T16:56:02+08:00</updated>
     <published>2026-10-08T18:11:17+08:00</published>
     <link rel="alternate" href="https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/"/>
     <author><name>Google Gemini</name></author>
@@ -255,13 +255,13 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：promo&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T00:28:29+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T16:56:02+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/&#34;&gt;https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:3f9515c4e7efd405</id>
     <title>火山方舟 模型计费说明</title>
-    <updated>2026-11-09T00:28:29+08:00</updated>
+    <updated>2026-11-09T16:56:02+08:00</updated>
     <published>2026-10-08T18:27:38+08:00</published>
     <link rel="alternate" href="https://www.volcengine.com/docs/82379/1099320"/>
     <author><name>火山方舟·豆包</name></author>
@@ -274,13 +274,13 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：免费&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:27:38+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T00:28:29+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T16:56:02+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.volcengine.com/docs/82379/1099320&#34;&gt;https://www.volcengine.com/docs/82379/1099320&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:42ae868e6042a7ae</id>
     <title>Pricing</title>
-    <updated>2026-11-09T00:28:29+08:00</updated>
+    <updated>2026-11-09T16:56:02+08:00</updated>
     <published>2026-11-03T16:54:01+08:00</published>
     <link rel="alternate" href="https://fireworks.ai/pricing"/>
     <author><name>Fireworks AI</name></author>
@@ -293,13 +293,13 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：free&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-11-03T16:54:01+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T00:28:29+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T16:56:02+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://fireworks.ai/pricing&#34;&gt;https://fireworks.ai/pricing&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:454f941d51e15f39</id>
     <title>Pricing</title>
-    <updated>2026-11-09T00:28:29+08:00</updated>
+    <updated>2026-11-09T16:56:02+08:00</updated>
     <published>2026-10-08T18:27:38+08:00</published>
     <link rel="alternate" href="https://docs.perplexity.ai/getting-started/pricing"/>
     <author><name>Perplexity</name></author>
@@ -312,13 +312,13 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：free&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:27:38+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T00:28:29+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T16:56:02+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://docs.perplexity.ai/getting-started/pricing&#34;&gt;https://docs.perplexity.ai/getting-started/pricing&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:50e017209458414f</id>
     <title>GPU Cloud Pricing</title>
-    <updated>2026-11-09T00:28:29+08:00</updated>
+    <updated>2026-11-09T16:56:02+08:00</updated>
     <published>2026-10-08T18:27:38+08:00</published>
     <link rel="alternate" href="https://www.runpod.io/pricing"/>
     <author><name>RunPod</name></author>
@@ -331,13 +331,13 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：discount&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:27:38+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T00:28:29+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T16:56:02+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.runpod.io/pricing&#34;&gt;https://www.runpod.io/pricing&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:573469f2620924c1</id>
     <title>Pricing: Pay per second for GPUs and CPUs</title>
-    <updated>2026-11-09T00:28:29+08:00</updated>
+    <updated>2026-11-09T16:56:02+08:00</updated>
     <published>2026-10-08T18:27:38+08:00</published>
     <link rel="alternate" href="https://modal.com/pricing"/>
     <author><name>Modal</name></author>
@@ -350,13 +350,13 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：free&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:27:38+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T00:28:29+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T16:56:02+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://modal.com/pricing&#34;&gt;https://modal.com/pricing&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:5f616e62c2cce744</id>
     <title>Plans &amp; pricing</title>
-    <updated>2026-11-09T00:28:29+08:00</updated>
+    <updated>2026-11-09T16:56:02+08:00</updated>
     <published>2026-10-08T18:11:17+08:00</published>
     <link rel="alternate" href="https://www.anthropic.com/pricing"/>
     <author><name>Anthropic</name></author>
@@ -369,13 +369,13 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：free&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T00:28:29+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T16:56:02+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.anthropic.com/pricing&#34;&gt;https://www.anthropic.com/pricing&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:6036ae7091e69ce3</id>
     <title>Blog</title>
-    <updated>2026-11-09T00:28:29+08:00</updated>
+    <updated>2026-11-09T16:56:02+08:00</updated>
     <published>2026-10-08T18:27:38+08:00</published>
     <link rel="alternate" href="https://ollama.com/blog"/>
     <author><name>Ollama</name></author>
@@ -388,13 +388,13 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：free&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:27:38+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T00:28:29+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T16:56:02+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://ollama.com/blog&#34;&gt;https://ollama.com/blog&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:747206776c9a56c4</id>
     <title>Plans and Pricing | Devin</title>
-    <updated>2026-11-09T00:28:29+08:00</updated>
+    <updated>2026-11-09T16:56:02+08:00</updated>
     <published>2026-10-08T18:11:17+08:00</published>
     <link rel="alternate" href="https://windsurf.com/pricing"/>
     <author><name>Windsurf</name></author>
@@ -407,13 +407,13 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：free&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T00:28:29+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T16:56:02+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://windsurf.com/pricing&#34;&gt;https://windsurf.com/pricing&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:74b59133ae9afdfe</id>
     <title>硅基流动 SiliconFlow</title>
-    <updated>2026-11-09T00:28:29+08:00</updated>
+    <updated>2026-11-09T16:56:02+08:00</updated>
     <published>2026-10-08T18:27:38+08:00</published>
     <link rel="alternate" href="https://siliconflow.cn/"/>
     <author><name>硅基流动 SiliconFlow</name></author>
@@ -426,13 +426,13 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：学生&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:27:38+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T00:28:29+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T16:56:02+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://siliconflow.cn/&#34;&gt;https://siliconflow.cn/&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:8a143abe5f3a9d8b</id>
     <title>Try NVIDIA NIM APIs</title>
-    <updated>2026-11-09T00:28:29+08:00</updated>
+    <updated>2026-11-09T16:56:02+08:00</updated>
     <published>2026-10-08T18:11:17+08:00</published>
     <link rel="alternate" href="https://build.nvidia.com/explore/discover"/>
     <author><name>NVIDIA NIM</name></author>
@@ -445,8 +445,464 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：trial&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T00:28:29+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T16:56:02+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://build.nvidia.com/explore/discover&#34;&gt;https://build.nvidia.com/explore/discover&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:8fd93e908672e965</id>
+    <title>API Pricing</title>
+    <updated>2026-11-09T16:56:02+08:00</updated>
+    <published>2026-10-11T16:06:47+08:00</published>
+    <link rel="alternate" href="https://docs.x.ai/docs/pricing"/>
+    <author><name>xAI Grok</name></author>
+    <category term="xAI Grok"/>
+    <summary type="text">…and is billed through your plan there. It is not available on the public xAI API, and Grok Build&#39;s free tier does not include it. Prompt tokens Input Cached input Output Below 200k $4.00 / 1M $1.00 / 1M…</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：xAI Grok&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：API Pricing&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…and is billed through your plan there. It is not available on the public xAI API, and Grok Build&#39;s free tier does not include it. Prompt tokens Input Cached input Output Below 200k $4.00 / 1M $1.00 / 1M…&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：free&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-11T16:06:47+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T16:56:02+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://docs.x.ai/docs/pricing&#34;&gt;https://docs.x.ai/docs/pricing&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:901a0238012a2303</id>
+    <title>李佳琦卖出万份Token，天猫的AI生意才刚开场</title>
+    <updated>2026-11-09T16:56:02+08:00</updated>
+    <published>2026-11-07T01:04:42+08:00</published>
+    <link rel="alternate" href="https://www.leiphone.com/category/industrynews/h454rlPtg41JIuFd.html"/>
+    <author><name>资讯·雷锋网</name></author>
+    <category term="资讯·雷锋网"/>
+    <summary type="text">…电商平台流量与大模型Token捆绑销售：商家不买Token，就不优先推荐商品。 这个做法在内部引发过争议，有人担心商家会转投其他平台，但决策层认为，这是当时风险最低、见效最快的变现路径。 等到一个月后免费额度用尽，调用量和收入双双下跌，内部才意识到，高用量不等于真实需求。 这套做法未必能代表电商平台的普遍策略，却说明了平台的一种想法：AI可以成为经营商家、提高流量变现效率的新工具。 一位大厂的电商从业者谈…</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·雷锋网&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：李佳琦卖出万份Token，天猫的AI生意才刚开场&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…电商平台流量与大模型Token捆绑销售：商家不买Token，就不优先推荐商品。 这个做法在内部引发过争议，有人担心商家会转投其他平台，但决策层认为，这是当时风险最低、见效最快的变现路径。 等到一个月后免费额度用尽，调用量和收入双双下跌，内部才意识到，高用量不等于真实需求。 这套做法未必能代表电商平台的普遍策略，却说明了平台的一种想法：AI可以成为经营商家、提高流量变现效率的新工具。 一位大厂的电商从业者谈…&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：免费额度&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-11-07T01:04:42+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T16:56:02+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.leiphone.com/category/industrynews/h454rlPtg41JIuFd.html&#34;&gt;https://www.leiphone.com/category/industrynews/h454rlPtg41JIuFd.html&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:95b83aca5ff8baff</id>
+    <title>Fastest AI Inference Cloud and API</title>
+    <updated>2026-11-09T16:56:02+08:00</updated>
+    <published>2026-10-08T18:11:17+08:00</published>
+    <link rel="alternate" href="https://www.cerebras.ai/inference"/>
+    <author><name>Cerebras</name></author>
+    <category term="Cerebras"/>
+    <summary type="text">…intelligent products across coding, research, voice, automation, and more agentic use cases.​ demo free trial Unmatched Speed in Action Watch Cerebras deliver top quality answers in a fraction of the tim…</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：Cerebras&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：Fastest AI Inference Cloud and API&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…intelligent products across coding, research, voice, automation, and more agentic use cases.​ demo free trial Unmatched Speed in Action Watch Cerebras deliver top quality answers in a fraction of the tim…&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：free&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T16:56:02+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.cerebras.ai/inference&#34;&gt;https://www.cerebras.ai/inference&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:a2d522c721ea08c9</id>
+    <title>新人免费额度获取及用完即停开关规则</title>
+    <updated>2026-11-09T16:56:02+08:00</updated>
+    <published>2026-10-08T17:58:35+08:00</published>
+    <link rel="alternate" href="https://help.aliyun.com/zh/model-studio/new-free-quota"/>
+    <author><name>通义千问</name></author>
+    <category term="通义千问"/>
+    <summary type="text">首页 大模型服务平台百炼 模型 模型计费 新人免费额度 更新时间： 复制 MD 格式 产品详情 我的收藏 当您首次开通阿里云百炼时，平台会自动为您发放各模型的新人专属免费额度。 说明 仅华北 2（北京）地域模型享有免费额度，其他地域无免费额度。 开通…</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：通义千问&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：新人免费额度获取及用完即停开关规则&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：首页 大模型服务平台百炼 模型 模型计费 新人免费额度 更新时间： 复制 MD 格式 产品详情 我的收藏 当您首次开通阿里云百炼时，平台会自动为您发放各模型的新人专属免费额度。 说明 仅华北 2（北京）地域模型享有免费额度，其他地域无免费额度。 开通…&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：免费&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T17:58:35+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T16:56:02+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://help.aliyun.com/zh/model-studio/new-free-quota&#34;&gt;https://help.aliyun.com/zh/model-studio/new-free-quota&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:a3169b683b57358b</id>
+    <title>Cerebras Inference Pricing</title>
+    <updated>2026-11-09T16:56:02+08:00</updated>
+    <published>2026-10-08T18:27:38+08:00</published>
+    <link rel="alternate" href="https://www.cerebras.ai/pricing"/>
+    <author><name>Cerebras</name></author>
+    <category term="Cerebras"/>
+    <summary type="text">…use. ** Available by agreement. *** Add a valid payment method to receive a one-time $5 promotional credit. The credit expires 30 days after activation. You will not be charged or automatically enrolled in…</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：Cerebras&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：Cerebras Inference Pricing&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…use. ** Available by agreement. *** Add a valid payment method to receive a one-time $5 promotional credit. The credit expires 30 days after activation. You will not be charged or automatically enrolled in…&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：credit&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:27:38+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T16:56:02+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.cerebras.ai/pricing&#34;&gt;https://www.cerebras.ai/pricing&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:a5b665c444899ec4</id>
+    <title>腾讯的 Agent 布局，不止 WorkBuddy</title>
+    <updated>2026-11-09T16:56:02+08:00</updated>
+    <published>2026-11-09T00:28:29+08:00</published>
+    <link rel="alternate" href="https://www.leiphone.com/category/industrynews/oxR5pn9S7tI1IfF5.html"/>
+    <author><name>资讯·雷锋网</name></author>
+    <category term="资讯·雷锋网"/>
+    <summary type="text">…，AWS 和 dbt Labs 分享了一个案例：他们让一个 AI Agent 自行写 SQL 查营收，实际是 1136 万美元，结果Agent多算了 350 万，而后他们排查才发现原因，Agent用了折扣和退款前的金额，没有关联退款表，已取消和待处理的订单也算进去了，内部测试账号也没排除。 Agent答错， 问题 常 出现 在数据 层 而不在模型。 所以要想 Agent 能准确回答企业问题，数据地基一…</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·雷锋网&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：腾讯的 Agent 布局，不止 WorkBuddy&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…，AWS 和 dbt Labs 分享了一个案例：他们让一个 AI Agent 自行写 SQL 查营收，实际是 1136 万美元，结果Agent多算了 350 万，而后他们排查才发现原因，Agent用了折扣和退款前的金额，没有关联退款表，已取消和待处理的订单也算进去了，内部测试账号也没排除。 Agent答错， 问题 常 出现 在数据 层 而不在模型。 所以要想 Agent 能准确回答企业问题，数据地基一…&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：折扣&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-11-09T00:28:29+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T16:56:02+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.leiphone.com/category/industrynews/oxR5pn9S7tI1IfF5.html&#34;&gt;https://www.leiphone.com/category/industrynews/oxR5pn9S7tI1IfF5.html&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:b15c32a87bcd99dd</id>
+    <title>Newsroom \ Anthropic</title>
+    <updated>2026-11-09T16:56:02+08:00</updated>
+    <published>2026-10-21T14:52:38+08:00</published>
+    <link rel="alternate" href="https://www.anthropic.com/news"/>
+    <author><name>Anthropic</name></author>
+    <category term="Anthropic"/>
+    <summary type="text">…General Services Administration (GSA) through a new agreement that gives government partners a 40% discount on Claude Enterprise, Claude for Government, and the Claude API. Partnerships Oct 27, 2026 Oct 27,…</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：Anthropic&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：Newsroom \ Anthropic&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…General Services Administration (GSA) through a new agreement that gives government partners a 40% discount on Claude Enterprise, Claude for Government, and the Claude API. Partnerships Oct 27, 2026 Oct 27,…&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：discount&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-21T14:52:38+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T16:56:02+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.anthropic.com/news&#34;&gt;https://www.anthropic.com/news&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:b6de95598207771a</id>
+    <title>Hallo, Deutschland!</title>
+    <updated>2026-11-09T16:56:02+08:00</updated>
+    <published>2026-10-08T18:11:17+08:00</published>
+    <link rel="alternate" href="https://mistral.ai/news/hallo-deutschland/"/>
+    <author><name>Mistral</name></author>
+    <category term="Mistral"/>
+    <summary type="text">Mistral opens a Munich hub for Physics AI and Industrial AI research, partnering with German industry.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：Mistral&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：Hallo, Deutschland!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：Mistral opens a Munich hub for Physics AI and Industrial AI research, partnering with German industry.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：trial&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T16:56:02+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://mistral.ai/news/hallo-deutschland/&#34;&gt;https://mistral.ai/news/hallo-deutschland/&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:b99574d412655a47</id>
+    <title>Pricing</title>
+    <updated>2026-11-09T16:56:02+08:00</updated>
+    <published>2026-10-08T18:27:38+08:00</published>
+    <link rel="alternate" href="https://www.together.ai/pricing"/>
+    <author><name>Together AI</name></author>
+    <category term="Together AI"/>
+    <summary type="text">…0.03 (cached) $0.50 Muse Spark Open 816B A42B $1.25 $0.15 (cached) $4.25 Tev1 4B Experimental $0.04 Free Beam 1.0 501B A23B $0.40 $0.04 (cached) $1.20 MiniMax M3.1 Flash $0.15 $0.015 (cached) $0.60 DeepSe…</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：Together AI&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：Pricing&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…0.03 (cached) $0.50 Muse Spark Open 816B A42B $1.25 $0.15 (cached) $4.25 Tev1 4B Experimental $0.04 Free Beam 1.0 501B A23B $0.40 $0.04 (cached) $1.20 MiniMax M3.1 Flash $0.15 $0.015 (cached) $0.60 DeepSe…&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：free&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:27:38+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T16:56:02+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.together.ai/pricing&#34;&gt;https://www.together.ai/pricing&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:ba1d5ad8322797a4</id>
+    <title>微软移除了 PC 到 PC 的迁移功能</title>
+    <updated>2026-11-09T16:56:02+08:00</updated>
+    <published>2026-11-09T00:28:29+08:00</published>
+    <link rel="alternate" href="https://www.solidot.org/story?sid=85827"/>
+    <author><name>资讯·Solidot</name></author>
+    <category term="资讯·Solidot"/>
+    <summary type="text">…Documents、Pictures、Videos 和 Music 备份到 OneDrive。免费版 OneDrive 账户仅提供 5GB 存储空间。如果用户积累了多年的照片和文档，存储空间很快会超出免费额度。Windows Backup 还会记录已安装的应用、Wi-Fi 网络、密码及部分系统设置，有助于加快新设备上的配置过程。需要注意的是，应用仍需重新安装，而受支持的文件则会从云端恢复。</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·Solidot&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：微软移除了 PC 到 PC 的迁移功能&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…Documents、Pictures、Videos 和 Music 备份到 OneDrive。免费版 OneDrive 账户仅提供 5GB 存储空间。如果用户积累了多年的照片和文档，存储空间很快会超出免费额度。Windows Backup 还会记录已安装的应用、Wi-Fi 网络、密码及部分系统设置，有助于加快新设备上的配置过程。需要注意的是，应用仍需重新安装，而受支持的文件则会从云端恢复。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：是&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：免费额度&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-11-09T00:28:29+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T16:56:02+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.solidot.org/story?sid=85827&#34;&gt;https://www.solidot.org/story?sid=85827&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:c90cd6038f5c59f9</id>
+    <title>Cursor · Pricing</title>
+    <updated>2026-11-09T16:56:02+08:00</updated>
+    <published>2026-10-08T18:11:17+08:00</published>
+    <link rel="alternate" href="https://cursor.com/pricing"/>
+    <author><name>Cursor</name></author>
+    <category term="Cursor"/>
+    <summary type="text">Pricing Individual Teams Free $0 /month Get started Get started with: Limited AI usage AI Features Limited agent requests Limited…</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：Cursor&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：Cursor · Pricing&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：Pricing Individual Teams Free $0 /month Get started Get started with: Limited AI usage AI Features Limited agent requests Limited…&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：free&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T16:56:02+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://cursor.com/pricing&#34;&gt;https://cursor.com/pricing&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:cb7b29bd71a9e5c3</id>
+    <title>阿里云百炼模型价格</title>
+    <updated>2026-11-09T16:56:02+08:00</updated>
+    <published>2026-10-08T18:11:17+08:00</published>
+    <link rel="alternate" href="https://help.aliyun.com/zh/model-studio/billing-for-model-studio"/>
+    <author><name>通义千问</name></author>
+    <category term="通义千问"/>
+    <summary type="text">…Batch 调用 ，其输入和输出 Token 单价均按实时推理价格的 50%计费；若模型支持 上下文缓存 ，仅输入 Token 享有折扣。两者不能同时生效。 说明 以下模型仅在华北 2（北京）地域下有免费额度，其他地域均无免费额度。 华北 2（北京） 模型 ID（Model ID） 模式 单次请求的输入 Token 数 输入单价（每百万 Token） 输出单价（每百万 Token） 思维链+回答 免费…</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：通义千问&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：阿里云百炼模型价格&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…Batch 调用 ，其输入和输出 Token 单价均按实时推理价格的 50%计费；若模型支持 上下文缓存 ，仅输入 Token 享有折扣。两者不能同时生效。 说明 以下模型仅在华北 2（北京）地域下有免费额度，其他地域均无免费额度。 华北 2（北京） 模型 ID（Model ID） 模式 单次请求的输入 Token 数 输入单价（每百万 Token） 输出单价（每百万 Token） 思维链+回答 免费…&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：免费&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T16:56:02+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://help.aliyun.com/zh/model-studio/billing-for-model-studio&#34;&gt;https://help.aliyun.com/zh/model-studio/billing-for-model-studio&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:d270ab6a09f967b5</id>
+    <title>OpenRouter Models</title>
+    <updated>2026-11-09T16:56:02+08:00</updated>
+    <published>2026-10-08T18:27:38+08:00</published>
+    <link rel="alternate" href="https://openrouter.ai/docs/overview/models"/>
+    <author><name>OpenRouter</name></author>
+    <category term="OpenRouter"/>
+    <summary type="text">…and returns its data. Variant suffixes are also supported. A catalog variant such as :free returns that variant’s own entry. A routing variant such as :nitro returns the base model’s entry,…</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：OpenRouter&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：OpenRouter Models&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…and returns its data. Variant suffixes are also supported. A catalog variant such as :free returns that variant’s own entry. A routing variant such as :nitro returns the base model’s entry,…&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：free&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:27:38+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T16:56:02+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://openrouter.ai/docs/overview/models&#34;&gt;https://openrouter.ai/docs/overview/models&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:da510d5207ae5f08</id>
+    <title>面壁智能</title>
+    <updated>2026-11-09T16:56:02+08:00</updated>
+    <published>2026-10-08T18:27:38+08:00</published>
+    <link rel="alternate" href="https://modelbest.cn/"/>
+    <author><name>面壁智能</name></author>
+    <category term="面壁智能"/>
+    <summary type="text">…为每位开发者用户节省年费 264 美元（ElevenLabs 年费，接近 1800 元人民币）！ MiniCPM‑V 4.6 开源即爆火！登顶 Hugging Face Trending Top 2，免费 API 开放 5月11日，面壁智能联合清华大学、OpenBMB一同发布并开源了MiniCPM-V 4.6，一经开源便点燃了全球开发者的热情！开源后迅速登顶Hugging Face的趋势榜单Top 2…</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：面壁智能&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：面壁智能&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…为每位开发者用户节省年费 264 美元（ElevenLabs 年费，接近 1800 元人民币）！ MiniCPM‑V 4.6 开源即爆火！登顶 Hugging Face Trending Top 2，免费 API 开放 5月11日，面壁智能联合清华大学、OpenBMB一同发布并开源了MiniCPM-V 4.6，一经开源便点燃了全球开发者的热情！开源后迅速登顶Hugging Face的趋势榜单Top 2…&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：免费&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:27:38+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T16:56:02+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://modelbest.cn/&#34;&gt;https://modelbest.cn/&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:de76b49c9d692247</id>
+    <title>Pricing</title>
+    <updated>2026-11-09T16:56:02+08:00</updated>
+    <published>2026-10-08T18:27:38+08:00</published>
+    <link rel="alternate" href="https://platform.openai.com/docs/pricing"/>
+    <author><name>OpenAI</name></author>
+    <category term="OpenAI"/>
+    <summary type="text">…rates. Web search preview (non-reasoning models) $25.00 / 1k calls + Search content tokens are free. Containers Hosted Shell and Code Interpreter 1 GB $0.03, 4 GB $0.12, 16 GB $0.48, 64 GB $1.92 per…</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：OpenAI&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：Pricing&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…rates. Web search preview (non-reasoning models) $25.00 / 1k calls + Search content tokens are free. Containers Hosted Shell and Code Interpreter 1 GB $0.03, 4 GB $0.12, 16 GB $0.48, 64 GB $1.92 per…&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：free&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:27:38+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T16:56:02+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://platform.openai.com/docs/pricing&#34;&gt;https://platform.openai.com/docs/pricing&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:e3576583a2d513d3</id>
+    <title>个人灵光 2.0 实测：个人 AI 助理的机会和门槛｜AI 上新</title>
+    <updated>2026-11-09T16:56:02+08:00</updated>
+    <published>2026-11-02T00:32:03+08:00</published>
+    <link rel="alternate" href="http://www.geekpark.net/news/373249"/>
+    <author><name>资讯·极客公园</name></author>
+    <category term="资讯·极客公园"/>
+    <summary type="text">…宝的反爬风控机制拦截在外。 米家也是类似的情况：扫码授权成功后，小米的接口连续两次触发限流，设备列表始终拉取失败。 灵光进不了淘宝的购物车，但千问却可以。 当我们把同一句指令「帮我看看淘宝购物车有什么降价幅度比较大的商品」发给千问时，两者的权限差距一目了然：千问不仅直接列出了购物车清单，甚至清楚地知道里面那把人体工学椅「已经加购快 300 天、看了几十次」。 与此同时，支付路径，阿里目前也没有向灵光…</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·极客公园&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：个人灵光 2.0 实测：个人 AI 助理的机会和门槛｜AI 上新&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…宝的反爬风控机制拦截在外。 米家也是类似的情况：扫码授权成功后，小米的接口连续两次触发限流，设备列表始终拉取失败。 灵光进不了淘宝的购物车，但千问却可以。 当我们把同一句指令「帮我看看淘宝购物车有什么降价幅度比较大的商品」发给千问时，两者的权限差距一目了然：千问不仅直接列出了购物车清单，甚至清楚地知道里面那把人体工学椅「已经加购快 300 天、看了几十次」。 与此同时，支付路径，阿里目前也没有向灵光…&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：降价&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-11-02T00:32:03+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T16:56:02+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;http://www.geekpark.net/news/373249&#34;&gt;http://www.geekpark.net/news/373249&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:e55dbcf6e9fdc20b</id>
+    <title>创业者做 Personal Agent，有没有一线生机？</title>
+    <updated>2026-11-09T16:56:02+08:00</updated>
+    <published>2026-11-08T16:25:55+08:00</published>
+    <link rel="alternate" href="http://www.geekpark.net/news/373650"/>
+    <author><name>资讯·极客公园</name></author>
+    <category term="资讯·极客公园"/>
+    <summary type="text">…。 大厂为什么下场？创业者又在面对什么难题？ 看看各家科技巨头的打法：Anthropic 把 Claude 的订阅定价压得远低于同等额度 API 的成本，时不时还刷新一次额度。各家也在客户端里纷纷推出免费额度吸引用户，还将免费时效一延再延。马斯克都忍不住在 X 上感慨，Grok Bot 的服务成本相对于其收入而言高得不可持续。 把用户吸引到自己的应用里跑任务，可以看得到用户设置了什么任务、如何分段提问、如…</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·极客公园&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：创业者做 Personal Agent，有没有一线生机？&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…。 大厂为什么下场？创业者又在面对什么难题？ 看看各家科技巨头的打法：Anthropic 把 Claude 的订阅定价压得远低于同等额度 API 的成本，时不时还刷新一次额度。各家也在客户端里纷纷推出免费额度吸引用户，还将免费时效一延再延。马斯克都忍不住在 X 上感慨，Grok Bot 的服务成本相对于其收入而言高得不可持续。 把用户吸引到自己的应用里跑任务，可以看得到用户设置了什么任务、如何分段提问、如…&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：免费额度&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-11-08T16:25:55+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T16:56:02+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;http://www.geekpark.net/news/373650&#34;&gt;http://www.geekpark.net/news/373650&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:e8a5979a892b82c1</id>
+    <title>千帆大模型平台</title>
+    <updated>2026-11-09T16:56:02+08:00</updated>
+    <published>2026-10-08T18:27:38+08:00</published>
+    <link rel="alternate" href="https://cloud.baidu.com/product/wenxinworkshop"/>
+    <author><name>百度文心</name></author>
+    <category term="百度文心"/>
+    <summary type="text">…28b-a3b 上下文 32K,30K+8K 输入价格 ¥0.001/ 千tokens 输出价格 ¥0.01/ 千tokens 立即体验 探索更多大模型 独家优质Skill与精选MCP服务 百度搜索 免费试用 独家 Skill MCP 百度搜索（BaiduSearch）服务基于百度搜索能力与AI技术，专为生成式AI提供全网实时信息检索服务，具备海量内容站点、高权威性，强时效性，提供全新的搜索体验。 了…</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：百度文心&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：千帆大模型平台&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…28b-a3b 上下文 32K,30K+8K 输入价格 ¥0.001/ 千tokens 输出价格 ¥0.01/ 千tokens 立即体验 探索更多大模型 独家优质Skill与精选MCP服务 百度搜索 免费试用 独家 Skill MCP 百度搜索（BaiduSearch）服务基于百度搜索能力与AI技术，专为生成式AI提供全网实时信息检索服务，具备海量内容站点、高权威性，强时效性，提供全新的搜索体验。 了…&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：免费&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:27:38+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T16:56:02+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://cloud.baidu.com/product/wenxinworkshop&#34;&gt;https://cloud.baidu.com/product/wenxinworkshop&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:efff6cc6ac0e23bf</id>
+    <title>定价概览</title>
+    <updated>2026-11-09T16:56:02+08:00</updated>
+    <published>2026-10-14T22:49:18+08:00</published>
+    <link rel="alternate" href="https://platform.minimaxi.com/document/price"/>
+    <author><name>MiniMax</name></author>
+    <category term="MiniMax"/>
+    <summary type="text">…标点等 Token与字符比（估算）：1600 中文字符约消耗 1000 tokens ​ 视频 立即充值 ​ H3 系列旗舰模型 模型 输出分辨率 输出视频 每秒 输入视频 每秒 输入图片 每张 超出免费额度后 MiniMax-H3 画质优先，适合高品质视频创作 2K ¥0.80 ¥0.20 768P ¥0.50 ¥0.20 MiniMax-H3-Highspeed 兼顾质量与速度，适合日常内容创作…</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：MiniMax&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：定价概览&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…标点等 Token与字符比（估算）：1600 中文字符约消耗 1000 tokens ​ 视频 立即充值 ​ H3 系列旗舰模型 模型 输出分辨率 输出视频 每秒 输入视频 每秒 输入图片 每张 超出免费额度后 MiniMax-H3 画质优先，适合高品质视频创作 2K ¥0.80 ¥0.20 768P ¥0.50 ¥0.20 MiniMax-H3-Highspeed 兼顾质量与速度，适合日常内容创作…&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：免费&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-14T22:49:18+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T16:56:02+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://platform.minimaxi.com/document/price&#34;&gt;https://platform.minimaxi.com/document/price&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:f368eba63288acba</id>
+    <title>Google 母集团市值蒸发 5000 亿美元创纪录；苹果高管回应新 iPad mini 60Hz 刷新率；因电池问题，理想 MEGA 退一赔一｜极客早知道</title>
+    <updated>2026-11-09T16:56:02+08:00</updated>
+    <published>2026-10-30T15:56:54+08:00</published>
+    <link rel="alternate" href="http://www.geekpark.net/news/373154"/>
+    <author><name>资讯·极客公园</name></author>
+    <category term="资讯·极客公园"/>
+    <summary type="text">…果会要求闪存供应商为其提供「最高优惠客户」地位，让公司能够始终拿到最低价的产品。为了确保供应商履约，苹果会持续审计供应商账目， 甚至因为审计次数实在太多 ， 成功让德勤（Deloitte）谈下批量审计折扣 。 这种频繁审计的手段，让苹果直接了解供应商业务运作和工厂产出情况，从而使苹果谈判人员准确判断厂商需要多大订单。苹果还成功利用这一条款，就美光以更低价格向其他客户出售 NAND 一事提起仲裁，然后成…</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·极客公园&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：Google 母集团市值蒸发 5000 亿美元创纪录；苹果高管回应新 iPad mini 60Hz 刷新率；因电池问题，理想 MEGA 退一赔一｜极客早知道&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…果会要求闪存供应商为其提供「最高优惠客户」地位，让公司能够始终拿到最低价的产品。为了确保供应商履约，苹果会持续审计供应商账目， 甚至因为审计次数实在太多 ， 成功让德勤（Deloitte）谈下批量审计折扣 。 这种频繁审计的手段，让苹果直接了解供应商业务运作和工厂产出情况，从而使苹果谈判人员准确判断厂商需要多大订单。苹果还成功利用这一条款，就美光以更低价格向其他客户出售 NAND 一事提起仲裁，然后成…&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：折扣&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-30T15:56:54+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T16:56:02+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;http://www.geekpark.net/news/373154&#34;&gt;http://www.geekpark.net/news/373154&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:fa59899fb80cc144</id>
+    <title>Pricing</title>
+    <updated>2026-11-09T16:56:02+08:00</updated>
+    <published>2026-10-08T18:11:17+08:00</published>
+    <link rel="alternate" href="https://replicate.com/pricing"/>
+    <author><name>Replicate</name></author>
+    <category term="Replicate"/>
+    <summary type="text">…are 50% until end of year Replicate glyph Explore Pricing Enterprise Docs Blog Sign in Try for free Menu Explore Pricing Enterprise Docs Blog Sign in Try for free Compare models in the Playground Pri…</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：Replicate&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：Pricing&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…are 50% until end of year Replicate glyph Explore Pricing Enterprise Docs Blog Sign in Try for free Menu Explore Pricing Enterprise Docs Blog Sign in Try for free Compare models in the Playground Pri…&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：free&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T16:56:02+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://replicate.com/pricing&#34;&gt;https://replicate.com/pricing&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:c5761f228e00a5bd</id>
+    <title>从一笔投资到一个生态：浦东创投把AI创业者带进了“朋友圈”</title>
+    <updated>2026-11-09T16:56:02+08:00</updated>
+    <published>2026-11-09T16:56:02+08:00</published>
+    <link rel="alternate" href="https://www.leiphone.com/category/industrynews/sGptXfOtHwkxuGrm.html"/>
+    <author><name>资讯·雷锋网</name></author>
+    <category term="资讯·雷锋网"/>
+    <summary type="text">…华院计算、七牛云、硅基流动等企业。对创业团队而言，走进产业现场，意味着有机会更直接地理解真实需求，了解基础设施能力，也为后续合作打开窗口。 张江人工智能创新小镇则提供了更贴近日常创业的低租金空间，以及算力券、模型券、语料券等组合安排要素支持，帮助团队降低起步成本、提高要素可得性。浦东创投此前对外提出，愿向入营团队开放“产业朋友圈”，协助对接潜在客户与合作伙伴。结营公开日上，百余位投资机构和龙头企业代表到…</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·雷锋网&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：从一笔投资到一个生态：浦东创投把AI创业者带进了“朋友圈”&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…华院计算、七牛云、硅基流动等企业。对创业团队而言，走进产业现场，意味着有机会更直接地理解真实需求，了解基础设施能力，也为后续合作打开窗口。 张江人工智能创新小镇则提供了更贴近日常创业的低租金空间，以及算力券、模型券、语料券等组合安排要素支持，帮助团队降低起步成本、提高要素可得性。浦东创投此前对外提出，愿向入营团队开放“产业朋友圈”，协助对接潜在客户与合作伙伴。结营公开日上，百余位投资机构和龙头企业代表到…&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：算力券&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-11-09T16:56:02+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T16:56:02+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.leiphone.com/category/industrynews/sGptXfOtHwkxuGrm.html&#34;&gt;https://www.leiphone.com/category/industrynews/sGptXfOtHwkxuGrm.html&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:8a3789887754f416</id>
+    <title>赠复古掌机保护壳：小米 17 Pro 手机 16+512G 版国补后 5599 → 4173 元</title>
+    <updated>2026-11-09T16:56:02+08:00</updated>
+    <published>2026-11-09T16:56:02+08:00</published>
+    <link rel="alternate" href="https://www.ithome.com/1/024/363.htm"/>
+    <author><name>资讯·IT之家</name></author>
+    <category term="资讯·IT之家"/>
+    <summary type="text">…17 Pro 手机 2025 年 9 月 25 日发布，16+512G 定价 5599 元。 京东 11.11 大促期间，活动价 5199 元； PLUS 会员下单立减 25.99 元； 领取 9 折优惠券： 点此领取 ； 国家补贴立减 500 元； 商品详情页右上角直播间可领 200 元优惠券： 到手价为 4173.01 元： 京东 小米 17 Pro 手机 16GB+512GB 4173.01 元…</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·IT之家&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：赠复古掌机保护壳：小米 17 Pro 手机 16+512G 版国补后 5599 → 4173 元&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…17 Pro 手机 2025 年 9 月 25 日发布，16+512G 定价 5599 元。 京东 11.11 大促期间，活动价 5199 元； PLUS 会员下单立减 25.99 元； 领取 9 折优惠券： 点此领取 ； 国家补贴立减 500 元； 商品详情页右上角直播间可领 200 元优惠券： 到手价为 4173.01 元： 京东 小米 17 Pro 手机 16GB+512GB 4173.01 元…&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：优惠券&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-11-09T16:56:02+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T16:56:02+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.ithome.com/1/024/363.htm&#34;&gt;https://www.ithome.com/1/024/363.htm&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:14b5dcae5670dbb0</id>
+    <title>BLG 不夺冠退全款：雷鸟 GT Max 智能 AR 眼镜 2288 元 10:00 蹲点抢</title>
+    <updated>2026-11-09T16:56:02+08:00</updated>
+    <published>2026-11-09T16:56:02+08:00</published>
+    <link rel="alternate" href="https://www.ithome.com/1/024/310.htm"/>
+    <author><name>资讯·IT之家</name></author>
+    <category term="资讯·IT之家"/>
+    <summary type="text">…眼镜本体、B站超级大会员季卡、限定版遮光罩。 活动规则显示，若 BLG 英雄联盟分部未获得 2026 英雄联盟全球总决赛（S16）冠军，符合条件的订单将获得全额退款， 退款金额为订单实付金额 （即扣除优惠券、红包、积分抵扣及平台补贴后，用户实际支付的金额）。 退款完成后， 商品归用户所有，无需退回商品 。以英雄联盟赛事官方公布并生效的 2026 英雄联盟全球总决赛最终冠军归属为准。 BLG 未晋级、被淘…</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·IT之家&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：BLG 不夺冠退全款：雷鸟 GT Max 智能 AR 眼镜 2288 元 10:00 蹲点抢&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…眼镜本体、B站超级大会员季卡、限定版遮光罩。 活动规则显示，若 BLG 英雄联盟分部未获得 2026 英雄联盟全球总决赛（S16）冠军，符合条件的订单将获得全额退款， 退款金额为订单实付金额 （即扣除优惠券、红包、积分抵扣及平台补贴后，用户实际支付的金额）。 退款完成后， 商品归用户所有，无需退回商品 。以英雄联盟赛事官方公布并生效的 2026 英雄联盟全球总决赛最终冠军归属为准。 BLG 未晋级、被淘…&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：优惠券&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-11-09T16:56:02+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T16:56:02+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.ithome.com/1/024/310.htm&#34;&gt;https://www.ithome.com/1/024/310.htm&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:8bc3904f96ea0d35</id>
@@ -468,386 +924,6 @@
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;http://www.geekpark.net/news/373084&#34;&gt;http://www.geekpark.net/news/373084&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
-    <id>tag:ai-egg-monitor,2026:activity:8fd93e908672e965</id>
-    <title>API Pricing</title>
-    <updated>2026-11-09T00:28:29+08:00</updated>
-    <published>2026-10-11T16:06:47+08:00</published>
-    <link rel="alternate" href="https://docs.x.ai/docs/pricing"/>
-    <author><name>xAI Grok</name></author>
-    <category term="xAI Grok"/>
-    <summary type="text">…and is billed through your plan there. It is not available on the public xAI API, and Grok Build&#39;s free tier does not include it. Prompt tokens Input Cached input Output Below 200k $4.00 / 1M $1.00 / 1M…</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：xAI Grok&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：API Pricing&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…and is billed through your plan there. It is not available on the public xAI API, and Grok Build&#39;s free tier does not include it. Prompt tokens Input Cached input Output Below 200k $4.00 / 1M $1.00 / 1M…&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：free&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-11T16:06:47+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T00:28:29+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://docs.x.ai/docs/pricing&#34;&gt;https://docs.x.ai/docs/pricing&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:ai-egg-monitor,2026:activity:901a0238012a2303</id>
-    <title>李佳琦卖出万份Token，天猫的AI生意才刚开场</title>
-    <updated>2026-11-09T00:28:29+08:00</updated>
-    <published>2026-11-07T01:04:42+08:00</published>
-    <link rel="alternate" href="https://www.leiphone.com/category/industrynews/h454rlPtg41JIuFd.html"/>
-    <author><name>资讯·雷锋网</name></author>
-    <category term="资讯·雷锋网"/>
-    <summary type="text">…电商平台流量与大模型Token捆绑销售：商家不买Token，就不优先推荐商品。 这个做法在内部引发过争议，有人担心商家会转投其他平台，但决策层认为，这是当时风险最低、见效最快的变现路径。 等到一个月后免费额度用尽，调用量和收入双双下跌，内部才意识到，高用量不等于真实需求。 这套做法未必能代表电商平台的普遍策略，却说明了平台的一种想法：AI可以成为经营商家、提高流量变现效率的新工具。 一位大厂的电商从业者谈…</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·雷锋网&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：李佳琦卖出万份Token，天猫的AI生意才刚开场&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…电商平台流量与大模型Token捆绑销售：商家不买Token，就不优先推荐商品。 这个做法在内部引发过争议，有人担心商家会转投其他平台，但决策层认为，这是当时风险最低、见效最快的变现路径。 等到一个月后免费额度用尽，调用量和收入双双下跌，内部才意识到，高用量不等于真实需求。 这套做法未必能代表电商平台的普遍策略，却说明了平台的一种想法：AI可以成为经营商家、提高流量变现效率的新工具。 一位大厂的电商从业者谈…&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：免费额度&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-11-07T01:04:42+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T00:28:29+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.leiphone.com/category/industrynews/h454rlPtg41JIuFd.html&#34;&gt;https://www.leiphone.com/category/industrynews/h454rlPtg41JIuFd.html&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:ai-egg-monitor,2026:activity:95b83aca5ff8baff</id>
-    <title>Fastest AI Inference Cloud and API</title>
-    <updated>2026-11-09T00:28:29+08:00</updated>
-    <published>2026-10-08T18:11:17+08:00</published>
-    <link rel="alternate" href="https://www.cerebras.ai/inference"/>
-    <author><name>Cerebras</name></author>
-    <category term="Cerebras"/>
-    <summary type="text">…intelligent products across coding, research, voice, automation, and more agentic use cases.​ demo free trial Unmatched Speed in Action Watch Cerebras deliver top quality answers in a fraction of the tim…</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：Cerebras&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：Fastest AI Inference Cloud and API&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…intelligent products across coding, research, voice, automation, and more agentic use cases.​ demo free trial Unmatched Speed in Action Watch Cerebras deliver top quality answers in a fraction of the tim…&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：free&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T00:28:29+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.cerebras.ai/inference&#34;&gt;https://www.cerebras.ai/inference&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:ai-egg-monitor,2026:activity:a2d522c721ea08c9</id>
-    <title>新人免费额度获取及用完即停开关规则</title>
-    <updated>2026-11-09T00:28:29+08:00</updated>
-    <published>2026-10-08T17:58:35+08:00</published>
-    <link rel="alternate" href="https://help.aliyun.com/zh/model-studio/new-free-quota"/>
-    <author><name>通义千问</name></author>
-    <category term="通义千问"/>
-    <summary type="text">首页 大模型服务平台百炼 模型 模型计费 新人免费额度 更新时间： 复制 MD 格式 产品详情 我的收藏 当您首次开通阿里云百炼时，平台会自动为您发放各模型的新人专属免费额度。 说明 仅华北 2（北京）地域模型享有免费额度，其他地域无免费额度。 开通…</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：通义千问&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：新人免费额度获取及用完即停开关规则&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：首页 大模型服务平台百炼 模型 模型计费 新人免费额度 更新时间： 复制 MD 格式 产品详情 我的收藏 当您首次开通阿里云百炼时，平台会自动为您发放各模型的新人专属免费额度。 说明 仅华北 2（北京）地域模型享有免费额度，其他地域无免费额度。 开通…&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：免费&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T17:58:35+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T00:28:29+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://help.aliyun.com/zh/model-studio/new-free-quota&#34;&gt;https://help.aliyun.com/zh/model-studio/new-free-quota&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:ai-egg-monitor,2026:activity:a3169b683b57358b</id>
-    <title>Cerebras Inference Pricing</title>
-    <updated>2026-11-09T00:28:29+08:00</updated>
-    <published>2026-10-08T18:27:38+08:00</published>
-    <link rel="alternate" href="https://www.cerebras.ai/pricing"/>
-    <author><name>Cerebras</name></author>
-    <category term="Cerebras"/>
-    <summary type="text">…use. ** Available by agreement. *** Add a valid payment method to receive a one-time $5 promotional credit. The credit expires 30 days after activation. You will not be charged or automatically enrolled in…</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：Cerebras&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：Cerebras Inference Pricing&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…use. ** Available by agreement. *** Add a valid payment method to receive a one-time $5 promotional credit. The credit expires 30 days after activation. You will not be charged or automatically enrolled in…&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：credit&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:27:38+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T00:28:29+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.cerebras.ai/pricing&#34;&gt;https://www.cerebras.ai/pricing&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:ai-egg-monitor,2026:activity:b15c32a87bcd99dd</id>
-    <title>Newsroom \ Anthropic</title>
-    <updated>2026-11-09T00:28:29+08:00</updated>
-    <published>2026-10-21T14:52:38+08:00</published>
-    <link rel="alternate" href="https://www.anthropic.com/news"/>
-    <author><name>Anthropic</name></author>
-    <category term="Anthropic"/>
-    <summary type="text">…General Services Administration (GSA) through a new agreement that gives government partners a 40% discount on Claude Enterprise, Claude for Government, and the Claude API. Partnerships Oct 27, 2026 Oct 27,…</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：Anthropic&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：Newsroom \ Anthropic&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…General Services Administration (GSA) through a new agreement that gives government partners a 40% discount on Claude Enterprise, Claude for Government, and the Claude API. Partnerships Oct 27, 2026 Oct 27,…&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：discount&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-21T14:52:38+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T00:28:29+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.anthropic.com/news&#34;&gt;https://www.anthropic.com/news&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:ai-egg-monitor,2026:activity:b6de95598207771a</id>
-    <title>Hallo, Deutschland!</title>
-    <updated>2026-11-09T00:28:29+08:00</updated>
-    <published>2026-10-08T18:11:17+08:00</published>
-    <link rel="alternate" href="https://mistral.ai/news/hallo-deutschland/"/>
-    <author><name>Mistral</name></author>
-    <category term="Mistral"/>
-    <summary type="text">Mistral opens a Munich hub for Physics AI and Industrial AI research, partnering with German industry.</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：Mistral&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：Hallo, Deutschland!&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：Mistral opens a Munich hub for Physics AI and Industrial AI research, partnering with German industry.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：trial&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T00:28:29+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://mistral.ai/news/hallo-deutschland/&#34;&gt;https://mistral.ai/news/hallo-deutschland/&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:ai-egg-monitor,2026:activity:b99574d412655a47</id>
-    <title>Pricing</title>
-    <updated>2026-11-09T00:28:29+08:00</updated>
-    <published>2026-10-08T18:27:38+08:00</published>
-    <link rel="alternate" href="https://www.together.ai/pricing"/>
-    <author><name>Together AI</name></author>
-    <category term="Together AI"/>
-    <summary type="text">…0.03 (cached) $0.50 Muse Spark Open 816B A42B $1.25 $0.15 (cached) $4.25 Tev1 4B Experimental $0.04 Free Beam 1.0 501B A23B $0.40 $0.04 (cached) $1.20 MiniMax M3.1 Flash $0.15 $0.015 (cached) $0.60 DeepSe…</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：Together AI&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：Pricing&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…0.03 (cached) $0.50 Muse Spark Open 816B A42B $1.25 $0.15 (cached) $4.25 Tev1 4B Experimental $0.04 Free Beam 1.0 501B A23B $0.40 $0.04 (cached) $1.20 MiniMax M3.1 Flash $0.15 $0.015 (cached) $0.60 DeepSe…&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：free&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:27:38+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T00:28:29+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.together.ai/pricing&#34;&gt;https://www.together.ai/pricing&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:ai-egg-monitor,2026:activity:c90cd6038f5c59f9</id>
-    <title>Cursor · Pricing</title>
-    <updated>2026-11-09T00:28:29+08:00</updated>
-    <published>2026-10-08T18:11:17+08:00</published>
-    <link rel="alternate" href="https://cursor.com/pricing"/>
-    <author><name>Cursor</name></author>
-    <category term="Cursor"/>
-    <summary type="text">Pricing Individual Teams Free $0 /month Get started Get started with: Limited AI usage AI Features Limited agent requests Limited…</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：Cursor&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：Cursor · Pricing&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：Pricing Individual Teams Free $0 /month Get started Get started with: Limited AI usage AI Features Limited agent requests Limited…&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：free&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T00:28:29+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://cursor.com/pricing&#34;&gt;https://cursor.com/pricing&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:ai-egg-monitor,2026:activity:cb7b29bd71a9e5c3</id>
-    <title>阿里云百炼模型价格</title>
-    <updated>2026-11-09T00:28:29+08:00</updated>
-    <published>2026-10-08T18:11:17+08:00</published>
-    <link rel="alternate" href="https://help.aliyun.com/zh/model-studio/billing-for-model-studio"/>
-    <author><name>通义千问</name></author>
-    <category term="通义千问"/>
-    <summary type="text">…Batch 调用 ，其输入和输出 Token 单价均按实时推理价格的 50%计费；若模型支持 上下文缓存 ，仅输入 Token 享有折扣。两者不能同时生效。 说明 以下模型仅在华北 2（北京）地域下有免费额度，其他地域均无免费额度。 华北 2（北京） 模型 ID（Model ID） 模式 单次请求的输入 Token 数 输入单价（每百万 Token） 输出单价（每百万 Token） 思维链+回答 免费…</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：通义千问&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：阿里云百炼模型价格&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…Batch 调用 ，其输入和输出 Token 单价均按实时推理价格的 50%计费；若模型支持 上下文缓存 ，仅输入 Token 享有折扣。两者不能同时生效。 说明 以下模型仅在华北 2（北京）地域下有免费额度，其他地域均无免费额度。 华北 2（北京） 模型 ID（Model ID） 模式 单次请求的输入 Token 数 输入单价（每百万 Token） 输出单价（每百万 Token） 思维链+回答 免费…&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：免费&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T00:28:29+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://help.aliyun.com/zh/model-studio/billing-for-model-studio&#34;&gt;https://help.aliyun.com/zh/model-studio/billing-for-model-studio&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:ai-egg-monitor,2026:activity:d270ab6a09f967b5</id>
-    <title>OpenRouter Models</title>
-    <updated>2026-11-09T00:28:29+08:00</updated>
-    <published>2026-10-08T18:27:38+08:00</published>
-    <link rel="alternate" href="https://openrouter.ai/docs/overview/models"/>
-    <author><name>OpenRouter</name></author>
-    <category term="OpenRouter"/>
-    <summary type="text">…and returns its data. Variant suffixes are also supported. A catalog variant such as :free returns that variant’s own entry. A routing variant such as :nitro returns the base model’s entry,…</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：OpenRouter&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：OpenRouter Models&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…and returns its data. Variant suffixes are also supported. A catalog variant such as :free returns that variant’s own entry. A routing variant such as :nitro returns the base model’s entry,…&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：free&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:27:38+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T00:28:29+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://openrouter.ai/docs/overview/models&#34;&gt;https://openrouter.ai/docs/overview/models&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:ai-egg-monitor,2026:activity:da510d5207ae5f08</id>
-    <title>面壁智能</title>
-    <updated>2026-11-09T00:28:29+08:00</updated>
-    <published>2026-10-08T18:27:38+08:00</published>
-    <link rel="alternate" href="https://modelbest.cn/"/>
-    <author><name>面壁智能</name></author>
-    <category term="面壁智能"/>
-    <summary type="text">…为每位开发者用户节省年费 264 美元（ElevenLabs 年费，接近 1800 元人民币）！ MiniCPM‑V 4.6 开源即爆火！登顶 Hugging Face Trending Top 2，免费 API 开放 5月11日，面壁智能联合清华大学、OpenBMB一同发布并开源了MiniCPM-V 4.6，一经开源便点燃了全球开发者的热情！开源后迅速登顶Hugging Face的趋势榜单Top 2…</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：面壁智能&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：面壁智能&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…为每位开发者用户节省年费 264 美元（ElevenLabs 年费，接近 1800 元人民币）！ MiniCPM‑V 4.6 开源即爆火！登顶 Hugging Face Trending Top 2，免费 API 开放 5月11日，面壁智能联合清华大学、OpenBMB一同发布并开源了MiniCPM-V 4.6，一经开源便点燃了全球开发者的热情！开源后迅速登顶Hugging Face的趋势榜单Top 2…&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：免费&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:27:38+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T00:28:29+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://modelbest.cn/&#34;&gt;https://modelbest.cn/&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:ai-egg-monitor,2026:activity:de76b49c9d692247</id>
-    <title>Pricing</title>
-    <updated>2026-11-09T00:28:29+08:00</updated>
-    <published>2026-10-08T18:27:38+08:00</published>
-    <link rel="alternate" href="https://platform.openai.com/docs/pricing"/>
-    <author><name>OpenAI</name></author>
-    <category term="OpenAI"/>
-    <summary type="text">…rates. Web search preview (non-reasoning models) $25.00 / 1k calls + Search content tokens are free. Containers Hosted Shell and Code Interpreter 1 GB $0.03, 4 GB $0.12, 16 GB $0.48, 64 GB $1.92 per…</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：OpenAI&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：Pricing&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…rates. Web search preview (non-reasoning models) $25.00 / 1k calls + Search content tokens are free. Containers Hosted Shell and Code Interpreter 1 GB $0.03, 4 GB $0.12, 16 GB $0.48, 64 GB $1.92 per…&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：free&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:27:38+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T00:28:29+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://platform.openai.com/docs/pricing&#34;&gt;https://platform.openai.com/docs/pricing&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:ai-egg-monitor,2026:activity:e3576583a2d513d3</id>
-    <title>个人灵光 2.0 实测：个人 AI 助理的机会和门槛｜AI 上新</title>
-    <updated>2026-11-09T00:28:29+08:00</updated>
-    <published>2026-11-02T00:32:03+08:00</published>
-    <link rel="alternate" href="http://www.geekpark.net/news/373249"/>
-    <author><name>资讯·极客公园</name></author>
-    <category term="资讯·极客公园"/>
-    <summary type="text">…宝的反爬风控机制拦截在外。 米家也是类似的情况：扫码授权成功后，小米的接口连续两次触发限流，设备列表始终拉取失败。 灵光进不了淘宝的购物车，但千问却可以。 当我们把同一句指令「帮我看看淘宝购物车有什么降价幅度比较大的商品」发给千问时，两者的权限差距一目了然：千问不仅直接列出了购物车清单，甚至清楚地知道里面那把人体工学椅「已经加购快 300 天、看了几十次」。 与此同时，支付路径，阿里目前也没有向灵光…</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·极客公园&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：个人灵光 2.0 实测：个人 AI 助理的机会和门槛｜AI 上新&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…宝的反爬风控机制拦截在外。 米家也是类似的情况：扫码授权成功后，小米的接口连续两次触发限流，设备列表始终拉取失败。 灵光进不了淘宝的购物车，但千问却可以。 当我们把同一句指令「帮我看看淘宝购物车有什么降价幅度比较大的商品」发给千问时，两者的权限差距一目了然：千问不仅直接列出了购物车清单，甚至清楚地知道里面那把人体工学椅「已经加购快 300 天、看了几十次」。 与此同时，支付路径，阿里目前也没有向灵光…&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：降价&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-11-02T00:32:03+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T00:28:29+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;http://www.geekpark.net/news/373249&#34;&gt;http://www.geekpark.net/news/373249&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:ai-egg-monitor,2026:activity:e55dbcf6e9fdc20b</id>
-    <title>创业者做 Personal Agent，有没有一线生机？</title>
-    <updated>2026-11-09T00:28:29+08:00</updated>
-    <published>2026-11-08T16:25:55+08:00</published>
-    <link rel="alternate" href="http://www.geekpark.net/news/373650"/>
-    <author><name>资讯·极客公园</name></author>
-    <category term="资讯·极客公园"/>
-    <summary type="text">…。 大厂为什么下场？创业者又在面对什么难题？ 看看各家科技巨头的打法：Anthropic 把 Claude 的订阅定价压得远低于同等额度 API 的成本，时不时还刷新一次额度。各家也在客户端里纷纷推出免费额度吸引用户，还将免费时效一延再延。马斯克都忍不住在 X 上感慨，Grok Bot 的服务成本相对于其收入而言高得不可持续。 把用户吸引到自己的应用里跑任务，可以看得到用户设置了什么任务、如何分段提问、如…</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·极客公园&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：创业者做 Personal Agent，有没有一线生机？&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…。 大厂为什么下场？创业者又在面对什么难题？ 看看各家科技巨头的打法：Anthropic 把 Claude 的订阅定价压得远低于同等额度 API 的成本，时不时还刷新一次额度。各家也在客户端里纷纷推出免费额度吸引用户，还将免费时效一延再延。马斯克都忍不住在 X 上感慨，Grok Bot 的服务成本相对于其收入而言高得不可持续。 把用户吸引到自己的应用里跑任务，可以看得到用户设置了什么任务、如何分段提问、如…&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：免费额度&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-11-08T16:25:55+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T00:28:29+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;http://www.geekpark.net/news/373650&#34;&gt;http://www.geekpark.net/news/373650&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:ai-egg-monitor,2026:activity:e8a5979a892b82c1</id>
-    <title>千帆大模型平台</title>
-    <updated>2026-11-09T00:28:29+08:00</updated>
-    <published>2026-10-08T18:27:38+08:00</published>
-    <link rel="alternate" href="https://cloud.baidu.com/product/wenxinworkshop"/>
-    <author><name>百度文心</name></author>
-    <category term="百度文心"/>
-    <summary type="text">…28b-a3b 上下文 32K,30K+8K 输入价格 ¥0.001/ 千tokens 输出价格 ¥0.01/ 千tokens 立即体验 探索更多大模型 独家优质Skill与精选MCP服务 百度搜索 免费试用 独家 Skill MCP 百度搜索（BaiduSearch）服务基于百度搜索能力与AI技术，专为生成式AI提供全网实时信息检索服务，具备海量内容站点、高权威性，强时效性，提供全新的搜索体验。 了…</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：百度文心&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：千帆大模型平台&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…28b-a3b 上下文 32K,30K+8K 输入价格 ¥0.001/ 千tokens 输出价格 ¥0.01/ 千tokens 立即体验 探索更多大模型 独家优质Skill与精选MCP服务 百度搜索 免费试用 独家 Skill MCP 百度搜索（BaiduSearch）服务基于百度搜索能力与AI技术，专为生成式AI提供全网实时信息检索服务，具备海量内容站点、高权威性，强时效性，提供全新的搜索体验。 了…&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：免费&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:27:38+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T00:28:29+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://cloud.baidu.com/product/wenxinworkshop&#34;&gt;https://cloud.baidu.com/product/wenxinworkshop&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:ai-egg-monitor,2026:activity:efff6cc6ac0e23bf</id>
-    <title>定价概览</title>
-    <updated>2026-11-09T00:28:29+08:00</updated>
-    <published>2026-10-14T22:49:18+08:00</published>
-    <link rel="alternate" href="https://platform.minimaxi.com/document/price"/>
-    <author><name>MiniMax</name></author>
-    <category term="MiniMax"/>
-    <summary type="text">…标点等 Token与字符比（估算）：1600 中文字符约消耗 1000 tokens ​ 视频 立即充值 ​ H3 系列旗舰模型 模型 输出分辨率 输出视频 每秒 输入视频 每秒 输入图片 每张 超出免费额度后 MiniMax-H3 画质优先，适合高品质视频创作 2K ¥0.80 ¥0.20 768P ¥0.50 ¥0.20 MiniMax-H3-Highspeed 兼顾质量与速度，适合日常内容创作…</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：MiniMax&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：定价概览&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…标点等 Token与字符比（估算）：1600 中文字符约消耗 1000 tokens ​ 视频 立即充值 ​ H3 系列旗舰模型 模型 输出分辨率 输出视频 每秒 输入视频 每秒 输入图片 每张 超出免费额度后 MiniMax-H3 画质优先，适合高品质视频创作 2K ¥0.80 ¥0.20 768P ¥0.50 ¥0.20 MiniMax-H3-Highspeed 兼顾质量与速度，适合日常内容创作…&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：免费&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-14T22:49:18+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T00:28:29+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://platform.minimaxi.com/document/price&#34;&gt;https://platform.minimaxi.com/document/price&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:ai-egg-monitor,2026:activity:f368eba63288acba</id>
-    <title>Google 母集团市值蒸发 5000 亿美元创纪录；苹果高管回应新 iPad mini 60Hz 刷新率；因电池问题，理想 MEGA 退一赔一｜极客早知道</title>
-    <updated>2026-11-09T00:28:29+08:00</updated>
-    <published>2026-10-30T15:56:54+08:00</published>
-    <link rel="alternate" href="http://www.geekpark.net/news/373154"/>
-    <author><name>资讯·极客公园</name></author>
-    <category term="资讯·极客公园"/>
-    <summary type="text">…果会要求闪存供应商为其提供「最高优惠客户」地位，让公司能够始终拿到最低价的产品。为了确保供应商履约，苹果会持续审计供应商账目， 甚至因为审计次数实在太多 ， 成功让德勤（Deloitte）谈下批量审计折扣 。 这种频繁审计的手段，让苹果直接了解供应商业务运作和工厂产出情况，从而使苹果谈判人员准确判断厂商需要多大订单。苹果还成功利用这一条款，就美光以更低价格向其他客户出售 NAND 一事提起仲裁，然后成…</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·极客公园&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：Google 母集团市值蒸发 5000 亿美元创纪录；苹果高管回应新 iPad mini 60Hz 刷新率；因电池问题，理想 MEGA 退一赔一｜极客早知道&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…果会要求闪存供应商为其提供「最高优惠客户」地位，让公司能够始终拿到最低价的产品。为了确保供应商履约，苹果会持续审计供应商账目， 甚至因为审计次数实在太多 ， 成功让德勤（Deloitte）谈下批量审计折扣 。 这种频繁审计的手段，让苹果直接了解供应商业务运作和工厂产出情况，从而使苹果谈判人员准确判断厂商需要多大订单。苹果还成功利用这一条款，就美光以更低价格向其他客户出售 NAND 一事提起仲裁，然后成…&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：折扣&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-30T15:56:54+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T00:28:29+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;http://www.geekpark.net/news/373154&#34;&gt;http://www.geekpark.net/news/373154&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:ai-egg-monitor,2026:activity:fa59899fb80cc144</id>
-    <title>Pricing</title>
-    <updated>2026-11-09T00:28:29+08:00</updated>
-    <published>2026-10-08T18:11:17+08:00</published>
-    <link rel="alternate" href="https://replicate.com/pricing"/>
-    <author><name>Replicate</name></author>
-    <category term="Replicate"/>
-    <summary type="text">…are 50% until end of year Replicate glyph Explore Pricing Enterprise Docs Blog Sign in Try for free Menu Explore Pricing Enterprise Docs Blog Sign in Try for free Compare models in the Playground Pri…</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：Replicate&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：Pricing&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…are 50% until end of year Replicate glyph Explore Pricing Enterprise Docs Blog Sign in Try for free Menu Explore Pricing Enterprise Docs Blog Sign in Try for free Compare models in the Playground Pri…&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：html&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：free&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-08T18:11:17+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T00:28:29+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://replicate.com/pricing&#34;&gt;https://replicate.com/pricing&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:ai-egg-monitor,2026:activity:a5b665c444899ec4</id>
-    <title>腾讯的 Agent 布局，不止 WorkBuddy</title>
-    <updated>2026-11-09T00:28:29+08:00</updated>
-    <published>2026-11-09T00:28:29+08:00</published>
-    <link rel="alternate" href="https://www.leiphone.com/category/industrynews/oxR5pn9S7tI1IfF5.html"/>
-    <author><name>资讯·雷锋网</name></author>
-    <category term="资讯·雷锋网"/>
-    <summary type="text">…，AWS 和 dbt Labs 分享了一个案例：他们让一个 AI Agent 自行写 SQL 查营收，实际是 1136 万美元，结果Agent多算了 350 万，而后他们排查才发现原因，Agent用了折扣和退款前的金额，没有关联退款表，已取消和待处理的订单也算进去了，内部测试账号也没排除。 Agent答错， 问题 常 出现 在数据 层 而不在模型。 所以要想 Agent 能准确回答企业问题，数据地基一…</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·雷锋网&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：腾讯的 Agent 布局，不止 WorkBuddy&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…，AWS 和 dbt Labs 分享了一个案例：他们让一个 AI Agent 自行写 SQL 查营收，实际是 1136 万美元，结果Agent多算了 350 万，而后他们排查才发现原因，Agent用了折扣和退款前的金额，没有关联退款表，已取消和待处理的订单也算进去了，内部测试账号也没排除。 Agent答错， 问题 常 出现 在数据 层 而不在模型。 所以要想 Agent 能准确回答企业问题，数据地基一…&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：折扣&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-11-09T00:28:29+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T00:28:29+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.leiphone.com/category/industrynews/oxR5pn9S7tI1IfF5.html&#34;&gt;https://www.leiphone.com/category/industrynews/oxR5pn9S7tI1IfF5.html&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
     <id>tag:ai-egg-monitor,2026:activity:971e1ce5b1e305d7</id>
     <title>央视曝光二手交易“到手刀”乱象，有快递员每月拿 4000 元好处费配合诈骗</title>
     <updated>2026-11-09T00:28:29+08:00</updated>
@@ -865,25 +941,6 @@
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-11-09T00:28:29+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T00:28:29+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.ithome.com/1/023/996.htm&#34;&gt;https://www.ithome.com/1/023/996.htm&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:ai-egg-monitor,2026:activity:e3965566da7403a6</id>
-    <title>Epic 喜加一：游戏《GMH</title>
-    <updated>2026-11-09T00:28:29+08:00</updated>
-    <published>2026-11-09T00:28:29+08:00</published>
-    <link rel="alternate" href="https://www.ithome.com/1/023/990.htm"/>
-    <author><name>资讯·IT之家</name></author>
-    <category term="资讯·IT之家"/>
-    <summary type="text">…Studio 开发的复古风格竞速动作游戏《GMH - Good Morning Human》目前正在 Epic 游戏商品开启限时免费“喜加一”活动，玩家可以在北京时间 11 月 9 日 7:00 前免费领取。 需要注意的是，本次限免并非 Epic 官方活动，而是由开发团队自行发起的特别促销，IT之家附游戏商品页（ https://store.epicgames.com/p/good-morning-hu…</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·IT之家&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：Epic 喜加一：游戏《GMH&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…Studio 开发的复古风格竞速动作游戏《GMH - Good Morning Human》目前正在 Epic 游戏商品开启限时免费“喜加一”活动，玩家可以在北京时间 11 月 9 日 7:00 前免费领取。 需要注意的是，本次限免并非 Epic 官方活动，而是由开发团队自行发起的特别促销，IT之家附游戏商品页（ https://store.epicgames.com/p/good-morning-hu…&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：免费领取&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-11-09T00:28:29+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T00:28:29+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.ithome.com/1/023/990.htm&#34;&gt;https://www.ithome.com/1/023/990.htm&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:c95b6dd02ddfe30b</id>
@@ -905,23 +962,23 @@
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.ithome.com/1/023/979.htm&#34;&gt;https://www.ithome.com/1/023/979.htm&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
-    <id>tag:ai-egg-monitor,2026:activity:ba1d5ad8322797a4</id>
-    <title>微软移除了 PC 到 PC 的迁移功能</title>
+    <id>tag:ai-egg-monitor,2026:activity:e3965566da7403a6</id>
+    <title>Epic 喜加一：游戏《GMH</title>
     <updated>2026-11-09T00:28:29+08:00</updated>
     <published>2026-11-09T00:28:29+08:00</published>
-    <link rel="alternate" href="https://www.solidot.org/story?sid=85827"/>
-    <author><name>资讯·Solidot</name></author>
-    <category term="资讯·Solidot"/>
-    <summary type="text">…Documents、Pictures、Videos 和 Music 备份到 OneDrive。免费版 OneDrive 账户仅提供 5GB 存储空间。如果用户积累了多年的照片和文档，存储空间很快会超出免费额度。Windows Backup 还会记录已安装的应用、Wi-Fi 网络、密码及部分系统设置，有助于加快新设备上的配置过程。需要注意的是，应用仍需重新安装，而受支持的文件则会从云端恢复。</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·Solidot&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：微软移除了 PC 到 PC 的迁移功能&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…Documents、Pictures、Videos 和 Music 备份到 OneDrive。免费版 OneDrive 账户仅提供 5GB 存储空间。如果用户积累了多年的照片和文档，存储空间很快会超出免费额度。Windows Backup 还会记录已安装的应用、Wi-Fi 网络、密码及部分系统设置，有助于加快新设备上的配置过程。需要注意的是，应用仍需重新安装，而受支持的文件则会从云端恢复。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：是&lt;/p&gt;
+    <link rel="alternate" href="https://www.ithome.com/1/023/990.htm"/>
+    <author><name>资讯·IT之家</name></author>
+    <category term="资讯·IT之家"/>
+    <summary type="text">…Studio 开发的复古风格竞速动作游戏《GMH - Good Morning Human》目前正在 Epic 游戏商品开启限时免费“喜加一”活动，玩家可以在北京时间 11 月 9 日 7:00 前免费领取。 需要注意的是，本次限免并非 Epic 官方活动，而是由开发团队自行发起的特别促销，IT之家附游戏商品页（ https://store.epicgames.com/p/good-morning-hu…</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·IT之家&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：Epic 喜加一：游戏《GMH&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…Studio 开发的复古风格竞速动作游戏《GMH - Good Morning Human》目前正在 Epic 游戏商品开启限时免费“喜加一”活动，玩家可以在北京时间 11 月 9 日 7:00 前免费领取。 需要注意的是，本次限免并非 Epic 官方活动，而是由开发团队自行发起的特别促销，IT之家附游戏商品页（ https://store.epicgames.com/p/good-morning-hu…&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：免费额度&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：免费领取&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-11-09T00:28:29+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T00:28:29+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.solidot.org/story?sid=85827&#34;&gt;https://www.solidot.org/story?sid=85827&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.ithome.com/1/023/990.htm&#34;&gt;https://www.ithome.com/1/023/990.htm&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:4a6422ebc10d72f8</id>
@@ -1853,62 +1910,5 @@
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-31T15:51:46+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-31T15:51:46+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.ithome.com/1/020/482.htm&#34;&gt;https://www.ithome.com/1/020/482.htm&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:ai-egg-monitor,2026:activity:8bc7d3adb45fe7ef</id>
-    <title>55W 快充 +20000mAh：酷态科 CP25 电能块自带线充电宝京东 78.8 元新低</title>
-    <updated>2026-10-31T15:51:46+08:00</updated>
-    <published>2026-10-31T15:51:46+08:00</published>
-    <link rel="alternate" href="https://www.ithome.com/1/020/477.htm"/>
-    <author><name>资讯·IT之家</name></author>
-    <category term="资讯·IT之家"/>
-    <summary type="text">…东自营报价 132 元，叠加以下多重优惠，到手仅需 78.76 元。 单品满 1 件享 8.8 折； 京东潮流配件专区领券享 8 折（ 点此领券 ）； PLUS 专享 1 积分兑换满 111-11 元优惠券（ 点此兑换 ）； 京东 酷态科 CP25 电能块 55W 自带线 20000mAh 移动电源 券后 78.76 元 直达链接 据官方介绍，这款新品提供银滩白、海湾蓝、落日橙、星云灰四色可选， 具有…</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·IT之家&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：55W 快充 +20000mAh：酷态科 CP25 电能块自带线充电宝京东 78.8 元新低&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…东自营报价 132 元，叠加以下多重优惠，到手仅需 78.76 元。 单品满 1 件享 8.8 折； 京东潮流配件专区领券享 8 折（ 点此领券 ）； PLUS 专享 1 积分兑换满 111-11 元优惠券（ 点此兑换 ）； 京东 酷态科 CP25 电能块 55W 自带线 20000mAh 移动电源 券后 78.76 元 直达链接 据官方介绍，这款新品提供银滩白、海湾蓝、落日橙、星云灰四色可选， 具有…&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：优惠券&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-31T15:51:46+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-31T15:51:46+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.ithome.com/1/020/477.htm&#34;&gt;https://www.ithome.com/1/020/477.htm&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:ai-egg-monitor,2026:activity:d89f981ac1870b37</id>
-    <title>追光动画首部水浒传 IP 电影《林冲：风雪山神庙》公布</title>
-    <updated>2026-10-31T15:51:46+08:00</updated>
-    <published>2026-10-31T15:51:46+08:00</published>
-    <link rel="alternate" href="https://www.ithome.com/1/020/503.htm"/>
-    <author><name>资讯·IT之家</name></author>
-    <category term="资讯·IT之家"/>
-    <summary type="text">…家电影局备案立项。IT之家附剧情梗概： 北宋年间，八十万禁军教头林冲循规蹈矩，只想在汴梁安身立命，却怎知世事多难，一系列遭遇下，林冲被一步步逼上了梁山。 IT之家小伙伴记得用 最会买购买电影票 ，享受折扣价的同时还可以获得返利，预计每张票可以节省 5~15 元！</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·IT之家&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：追光动画首部水浒传 IP 电影《林冲：风雪山神庙》公布&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…家电影局备案立项。IT之家附剧情梗概： 北宋年间，八十万禁军教头林冲循规蹈矩，只想在汴梁安身立命，却怎知世事多难，一系列遭遇下，林冲被一步步逼上了梁山。 IT之家小伙伴记得用 最会买购买电影票 ，享受折扣价的同时还可以获得返利，预计每张票可以节省 5~15 元！&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：折扣&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-31T15:51:46+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-31T15:51:46+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.ithome.com/1/020/503.htm&#34;&gt;https://www.ithome.com/1/020/503.htm&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:ai-egg-monitor,2026:activity:e9bc6141b0749d13</id>
-    <title>国产经典动画《星游记》时隔 15 年回归，前传电影官宣启动</title>
-    <updated>2026-10-31T15:51:46+08:00</updated>
-    <published>2026-10-31T15:51:46+08:00</published>
-    <link rel="alternate" href="https://www.ithome.com/1/020/500.htm"/>
-    <author><name>资讯·IT之家</name></author>
-    <category term="资讯·IT之家"/>
-    <summary type="text">…》编剧刘北 10 月 30 日也发布文章《写给自由者的信》，表示从电影开始，直到主线剧集完结，会努力在每年 10 月 30 日，都有值得庆祝的向前一步。 IT之家小伙伴记得用 最会买购买电影票 ，享受折扣价的同时还可以获得返利，预计每张票可以节省 5~15 元！</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·IT之家&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：国产经典动画《星游记》时隔 15 年回归，前传电影官宣启动&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…》编剧刘北 10 月 30 日也发布文章《写给自由者的信》，表示从电影开始，直到主线剧集完结，会努力在每年 10 月 30 日，都有值得庆祝的向前一步。 IT之家小伙伴记得用 最会买购买电影票 ，享受折扣价的同时还可以获得返利，预计每张票可以节省 5~15 元！&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：折扣&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-10-31T15:51:46+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-10-31T15:51:46+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.ithome.com/1/020/500.htm&#34;&gt;https://www.ithome.com/1/020/500.htm&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>
