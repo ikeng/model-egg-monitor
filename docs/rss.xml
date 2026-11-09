@@ -5,7 +5,7 @@
     <link>https://ikeng.github.io/model-egg-monitor/</link>
     <description>每日两次监控大模型厂商活动，提供 Atom / JSON Feed 订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 09 Nov 2026 16:56:24 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 04:20:37 +0800</lastBuildDate>
     <generator>ai-egg-monitor</generator>
     <item>
       <title>大模型 API 价格方案</title>
@@ -18,7 +18,7 @@
     <item>
       <title>千问AI双11，好价好AI</title>
       <link>https://tongyi.aliyun.com/</link>
-      <description>双 11 热卖更优惠，多款旗舰模型、应用免费体验，Token Plan 低至5折，千问办公 29.9 元限时抢，加入OPC赢百万 AI 助力金，新认证企业至高领 2728 元 AI 礼包，年度钜惠！力度空前！ 赢百万 AI 礼包 分享赚 100…</description>
+      <description>…触手可及 AI 应用限时优惠更划算，千问办公限时抢购，从 coding 到 working 全链提效，助力 AI 创新加速。 查看规则 千问办公 专业人士都用千问办公，更专业的工作新方式 前沿模型限时免费 询价中… 立即购买 Qoder 不止编程，从想法到实现轻松搞定 Coding 首选 询价中… 立即购买 万小智 不止建站，更懂经营：一个应用，搞定建站、GEO、内容分发 下单即送1年域名 询价中……</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:0689d31fc9e58be0</guid>
       <pubDate>Tue, 03 Nov 2026 03:55:35 +0800</pubDate>
       <category>通义千问</category>
@@ -138,7 +138,7 @@
     <item>
       <title>GPU Cloud Pricing</title>
       <link>https://www.runpod.io/pricing</link>
-      <description>…Dedicated GPU clusters with guaranteed availability, custom configurations, SLA-backed uptime, and discounted rates for enterprises scaling to 10,000+ GPUs. Talk to an engineer GPU 1mo 3mo 6mo 12mo 12mo+ H20…</description>
+      <description>…Dedicated GPU clusters with guaranteed availability, custom configurations, SLA-backed uptime, and discounted rates for enterprises scaling to 10,000+ GPUs. Talk to an engineer GPU 1mo 3mo 6mo 12mo 12mo+ B20…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:50e017209458414f</guid>
       <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
       <category>RunPod</category>
@@ -200,14 +200,6 @@
       <category>xAI Grok</category>
     </item>
     <item>
-      <title>李佳琦卖出万份Token，天猫的AI生意才刚开场</title>
-      <link>https://www.leiphone.com/category/industrynews/h454rlPtg41JIuFd.html</link>
-      <description>…电商平台流量与大模型Token捆绑销售：商家不买Token，就不优先推荐商品。 这个做法在内部引发过争议，有人担心商家会转投其他平台，但决策层认为，这是当时风险最低、见效最快的变现路径。 等到一个月后免费额度用尽，调用量和收入双双下跌，内部才意识到，高用量不等于真实需求。 这套做法未必能代表电商平台的普遍策略，却说明了平台的一种想法：AI可以成为经营商家、提高流量变现效率的新工具。 一位大厂的电商从业者谈…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:901a0238012a2303</guid>
-      <pubDate>Sat, 07 Nov 2026 01:04:42 +0800</pubDate>
-      <category>资讯·雷锋网</category>
-    </item>
-    <item>
       <title>Fastest AI Inference Cloud and API</title>
       <link>https://www.cerebras.ai/inference</link>
       <description>…intelligent products across coding, research, voice, automation, and more agentic use cases.​ demo free trial Unmatched Speed in Action Watch Cerebras deliver top quality answers in a fraction of the tim…</description>
@@ -230,14 +222,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:a3169b683b57358b</guid>
       <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
       <category>Cerebras</category>
-    </item>
-    <item>
-      <title>腾讯的 Agent 布局，不止 WorkBuddy</title>
-      <link>https://www.leiphone.com/category/industrynews/oxR5pn9S7tI1IfF5.html</link>
-      <description>…，AWS 和 dbt Labs 分享了一个案例：他们让一个 AI Agent 自行写 SQL 查营收，实际是 1136 万美元，结果Agent多算了 350 万，而后他们排查才发现原因，Agent用了折扣和退款前的金额，没有关联退款表，已取消和待处理的订单也算进去了，内部测试账号也没排除。 Agent答错， 问题 常 出现 在数据 层 而不在模型。 所以要想 Agent 能准确回答企业问题，数据地基一…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:a5b665c444899ec4</guid>
-      <pubDate>Mon, 09 Nov 2026 00:28:29 +0800</pubDate>
-      <category>资讯·雷锋网</category>
     </item>
     <item>
       <title>Newsroom \ Anthropic</title>
@@ -270,6 +254,14 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:ba1d5ad8322797a4</guid>
       <pubDate>Mon, 09 Nov 2026 00:28:29 +0800</pubDate>
       <category>资讯·Solidot</category>
+    </item>
+    <item>
+      <title>从一笔投资到一个生态：浦东创投把AI创业者带进了“朋友圈”</title>
+      <link>https://www.leiphone.com/category/industrynews/sGptXfOtHwkxuGrm.html</link>
+      <description>…华院计算、七牛云、硅基流动等企业。对创业团队而言，走进产业现场，意味着有机会更直接地理解真实需求，了解基础设施能力，也为后续合作打开窗口。 张江人工智能创新小镇则提供了更贴近日常创业的低租金空间，以及算力券、模型券、语料券等组合安排要素支持，帮助团队降低起步成本、提高要素可得性。浦东创投此前对外提出，愿向入营团队开放“产业朋友圈”，协助对接潜在客户与合作伙伴。结营公开日上，百余位投资机构和龙头企业代表到…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:c5761f228e00a5bd</guid>
+      <pubDate>Mon, 09 Nov 2026 16:56:02 +0800</pubDate>
+      <category>资讯·雷锋网</category>
     </item>
     <item>
       <title>Cursor · Pricing</title>
@@ -360,12 +352,20 @@
       <category>Replicate</category>
     </item>
     <item>
-      <title>从一笔投资到一个生态：浦东创投把AI创业者带进了“朋友圈”</title>
-      <link>https://www.leiphone.com/category/industrynews/sGptXfOtHwkxuGrm.html</link>
-      <description>…华院计算、七牛云、硅基流动等企业。对创业团队而言，走进产业现场，意味着有机会更直接地理解真实需求，了解基础设施能力，也为后续合作打开窗口。 张江人工智能创新小镇则提供了更贴近日常创业的低租金空间，以及算力券、模型券、语料券等组合安排要素支持，帮助团队降低起步成本、提高要素可得性。浦东创投此前对外提出，愿向入营团队开放“产业朋友圈”，协助对接潜在客户与合作伙伴。结营公开日上，百余位投资机构和龙头企业代表到…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:c5761f228e00a5bd</guid>
+      <title>From prompt to app: Build with Google Maps in AI Studio</title>
+      <link>https://developers.googleblog.com/from-prompt-to-app-build-with-google-maps-in-ai-studio/</link>
+      <description>…providing one-click demo keys that generate instantly without requiring Cloud Console redirects or credit cards. This setup grants developers immediate access to core APIs—including Maps, Places, and Route…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:b15b0d7e8447f82d</guid>
+      <pubDate>Tue, 10 Nov 2026 04:20:11 +0800</pubDate>
+      <category>Google Gemini</category>
+    </item>
+    <item>
+      <title>BLG 不夺冠退全款：雷鸟 GT Max 智能 AR 眼镜 2288 元 10:00 蹲点抢</title>
+      <link>https://www.ithome.com/1/024/310.htm</link>
+      <description>…眼镜本体、B站超级大会员季卡、限定版遮光罩。 活动规则显示，若 BLG 英雄联盟分部未获得 2026 英雄联盟全球总决赛（S16）冠军，符合条件的订单将获得全额退款， 退款金额为订单实付金额 （即扣除优惠券、红包、积分抵扣及平台补贴后，用户实际支付的金额）。 退款完成后， 商品归用户所有，无需退回商品 。以英雄联盟赛事官方公布并生效的 2026 英雄联盟全球总决赛最终冠军归属为准。 BLG 未晋级、被淘…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:14b5dcae5670dbb0</guid>
       <pubDate>Mon, 09 Nov 2026 16:56:02 +0800</pubDate>
-      <category>资讯·雷锋网</category>
+      <category>资讯·IT之家</category>
     </item>
     <item>
       <title>赠复古掌机保护壳：小米 17 Pro 手机 16+512G 版国补后 5599 → 4173 元</title>
@@ -376,12 +376,20 @@
       <category>资讯·IT之家</category>
     </item>
     <item>
-      <title>BLG 不夺冠退全款：雷鸟 GT Max 智能 AR 眼镜 2288 元 10:00 蹲点抢</title>
-      <link>https://www.ithome.com/1/024/310.htm</link>
-      <description>…眼镜本体、B站超级大会员季卡、限定版遮光罩。 活动规则显示，若 BLG 英雄联盟分部未获得 2026 英雄联盟全球总决赛（S16）冠军，符合条件的订单将获得全额退款， 退款金额为订单实付金额 （即扣除优惠券、红包、积分抵扣及平台补贴后，用户实际支付的金额）。 退款完成后， 商品归用户所有，无需退回商品 。以英雄联盟赛事官方公布并生效的 2026 英雄联盟全球总决赛最终冠军归属为准。 BLG 未晋级、被淘…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:14b5dcae5670dbb0</guid>
-      <pubDate>Mon, 09 Nov 2026 16:56:02 +0800</pubDate>
-      <category>资讯·IT之家</category>
+      <title>李佳琦卖出万份Token，天猫的AI生意才刚开场</title>
+      <link>https://www.leiphone.com/category/industrynews/h454rlPtg41JIuFd.html</link>
+      <description>…电商平台流量与大模型Token捆绑销售：商家不买Token，就不优先推荐商品。 这个做法在内部引发过争议，有人担心商家会转投其他平台，但决策层认为，这是当时风险最低、见效最快的变现路径。 等到一个月后免费额度用尽，调用量和收入双双下跌，内部才意识到，高用量不等于真实需求。 这套做法未必能代表电商平台的普遍策略，却说明了平台的一种想法：AI可以成为经营商家、提高流量变现效率的新工具。 一位大厂的电商从业者谈…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:901a0238012a2303</guid>
+      <pubDate>Sat, 07 Nov 2026 01:04:42 +0800</pubDate>
+      <category>资讯·雷锋网</category>
+    </item>
+    <item>
+      <title>腾讯的 Agent 布局，不止 WorkBuddy</title>
+      <link>https://www.leiphone.com/category/industrynews/oxR5pn9S7tI1IfF5.html</link>
+      <description>…，AWS 和 dbt Labs 分享了一个案例：他们让一个 AI Agent 自行写 SQL 查营收，实际是 1136 万美元，结果Agent多算了 350 万，而后他们排查才发现原因，Agent用了折扣和退款前的金额，没有关联退款表，已取消和待处理的订单也算进去了，内部测试账号也没排除。 Agent答错， 问题 常 出现 在数据 层 而不在模型。 所以要想 Agent 能准确回答企业问题，数据地基一…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:a5b665c444899ec4</guid>
+      <pubDate>Mon, 09 Nov 2026 00:28:29 +0800</pubDate>
+      <category>资讯·雷锋网</category>
     </item>
     <item>
       <title>「推翻」乔布斯的触屏 MacBook 来了，22999 元起</title>
@@ -796,14 +804,6 @@
       <link>https://www.ithome.com/1/020/484.htm</link>
       <description>…东自营报价 113 元，叠加以下多重优惠，到手仅需 69.43 元。 单品满 1 件享 8.8 折； 京东潮流配件专区领券享 9 折（ 点此领券 ）； PLUS 专享 1 积分兑换满 111-11 元优惠券（ 点此兑换 ）； App 商品价格下方可领 10% 政府补贴，到手仅需 69.43 元。 京东 酷态科 CP24 电能块 40W 快充 20000mAh 自带线移动电源 券后 69.43 元 直达链…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:2461836a3397d8af</guid>
-      <pubDate>Sat, 31 Oct 2026 15:51:46 +0800</pubDate>
-      <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>小米 120W 快充：酷态科 10 号超级电能棒 Plus 京东 149 元限时国补</title>
-      <link>https://www.ithome.com/1/020/482.htm</link>
-      <description>…东 11.11 期间，叠加以下多重优惠，到手仅需 149.35 元。 单品满 1 件享 8.8 折； 京东潮流配件专区领券享 9 折（ 点此领券 ）； PLUS 专享 1 积分兑换满 111-11 元优惠券（ 点此兑换 ）； App 进入商品页可能自动发放限时红包 / 折扣券，路飞领到 9.9 折，优惠 1.68 元； App 商品价格下方可领 10% 政府补贴，到手仅需 149.35 元。 京东 酷态…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:34ba7379e6ffe369</guid>
       <pubDate>Sat, 31 Oct 2026 15:51:46 +0800</pubDate>
       <category>资讯·IT之家</category>
     </item>

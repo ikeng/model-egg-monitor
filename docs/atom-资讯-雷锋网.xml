@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://ikeng.github.io/model-egg-monitor/atom-资讯-雷锋网.xml</id>
   <title>赛博鸡蛋 · 资讯·雷锋网</title>
-  <updated>2026-11-09T16:56:24+08:00</updated>
+  <updated>2026-11-10T04:20:37+08:00</updated>
   <subtitle>大模型厂商活动监控</subtitle>
   <link rel="self" href="https://ikeng.github.io/model-egg-monitor/atom-资讯-雷锋网.xml"/>
   <link rel="alternate" href="https://ikeng.github.io/model-egg-monitor/"/>
@@ -11,6 +11,25 @@
   <author>
     <name>ai-egg-monitor</name>
   </author>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:c5761f228e00a5bd</id>
+    <title>从一笔投资到一个生态：浦东创投把AI创业者带进了“朋友圈”</title>
+    <updated>2026-11-10T04:20:11+08:00</updated>
+    <published>2026-11-09T16:56:02+08:00</published>
+    <link rel="alternate" href="https://www.leiphone.com/category/industrynews/sGptXfOtHwkxuGrm.html"/>
+    <author><name>资讯·雷锋网</name></author>
+    <category term="资讯·雷锋网"/>
+    <summary type="text">…华院计算、七牛云、硅基流动等企业。对创业团队而言，走进产业现场，意味着有机会更直接地理解真实需求，了解基础设施能力，也为后续合作打开窗口。 张江人工智能创新小镇则提供了更贴近日常创业的低租金空间，以及算力券、模型券、语料券等组合安排要素支持，帮助团队降低起步成本、提高要素可得性。浦东创投此前对外提出，愿向入营团队开放“产业朋友圈”，协助对接潜在客户与合作伙伴。结营公开日上，百余位投资机构和龙头企业代表到…</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·雷锋网&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：从一笔投资到一个生态：浦东创投把AI创业者带进了“朋友圈”&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…华院计算、七牛云、硅基流动等企业。对创业团队而言，走进产业现场，意味着有机会更直接地理解真实需求，了解基础设施能力，也为后续合作打开窗口。 张江人工智能创新小镇则提供了更贴近日常创业的低租金空间，以及算力券、模型券、语料券等组合安排要素支持，帮助团队降低起步成本、提高要素可得性。浦东创投此前对外提出，愿向入营团队开放“产业朋友圈”，协助对接潜在客户与合作伙伴。结营公开日上，百余位投资机构和龙头企业代表到…&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：算力券&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-11-09T16:56:02+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-10T04:20:11+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.leiphone.com/category/industrynews/sGptXfOtHwkxuGrm.html&#34;&gt;https://www.leiphone.com/category/industrynews/sGptXfOtHwkxuGrm.html&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:901a0238012a2303</id>
     <title>李佳琦卖出万份Token，天猫的AI生意才刚开场</title>
@@ -48,25 +67,6 @@
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-11-09T00:28:29+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T16:56:02+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.leiphone.com/category/industrynews/oxR5pn9S7tI1IfF5.html&#34;&gt;https://www.leiphone.com/category/industrynews/oxR5pn9S7tI1IfF5.html&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:ai-egg-monitor,2026:activity:c5761f228e00a5bd</id>
-    <title>从一笔投资到一个生态：浦东创投把AI创业者带进了“朋友圈”</title>
-    <updated>2026-11-09T16:56:02+08:00</updated>
-    <published>2026-11-09T16:56:02+08:00</published>
-    <link rel="alternate" href="https://www.leiphone.com/category/industrynews/sGptXfOtHwkxuGrm.html"/>
-    <author><name>资讯·雷锋网</name></author>
-    <category term="资讯·雷锋网"/>
-    <summary type="text">…华院计算、七牛云、硅基流动等企业。对创业团队而言，走进产业现场，意味着有机会更直接地理解真实需求，了解基础设施能力，也为后续合作打开窗口。 张江人工智能创新小镇则提供了更贴近日常创业的低租金空间，以及算力券、模型券、语料券等组合安排要素支持，帮助团队降低起步成本、提高要素可得性。浦东创投此前对外提出，愿向入营团队开放“产业朋友圈”，协助对接潜在客户与合作伙伴。结营公开日上，百余位投资机构和龙头企业代表到…</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·雷锋网&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：从一笔投资到一个生态：浦东创投把AI创业者带进了“朋友圈”&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…华院计算、七牛云、硅基流动等企业。对创业团队而言，走进产业现场，意味着有机会更直接地理解真实需求，了解基础设施能力，也为后续合作打开窗口。 张江人工智能创新小镇则提供了更贴近日常创业的低租金空间，以及算力券、模型券、语料券等组合安排要素支持，帮助团队降低起步成本、提高要素可得性。浦东创投此前对外提出，愿向入营团队开放“产业朋友圈”，协助对接潜在客户与合作伙伴。结营公开日上，百余位投资机构和龙头企业代表到…&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：算力券&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-11-09T16:56:02+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-09T16:56:02+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.leiphone.com/category/industrynews/sGptXfOtHwkxuGrm.html&#34;&gt;https://www.leiphone.com/category/industrynews/sGptXfOtHwkxuGrm.html&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:12f9ce39ad944d3a</id>

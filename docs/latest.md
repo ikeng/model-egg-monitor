@@ -1,16 +1,14 @@
-# 赛博鸡蛋日报 2026-11-09 16:56
+# 赛博鸡蛋日报 2026-11-10 04:20
 
 > 每日两次监控大模型厂商公开活动，发现"赛博鸡蛋"。
 > 仅做提醒与资讯，不自动领取，不登录，不绕过风控。
 
-今日新增：3
+今日新增：1
 需登录确认：0
 失败源：0
 
 ## 新增
-- [资讯·雷锋网] 从一笔投资到一个生态：浦东创投把AI创业者带进了“朋友圈” | …华院计算、七牛云、硅基流动等企业。对创业团队而言，走进产业现场，意味着有机会更直接地理解真实需求，了解基础设施能力，也为后续合作打开窗口。 张江人工智能创新小镇则提供了更贴近日常创业的低租金空间，以及算力券、模型券、语料券等组合安排要素支持，帮助团队降低起步成本、提高要素可得性。浦东创投此前对外提出，愿向入营团队开放“产业朋友圈”，协助对接潜在客户与合作伙伴。结营公开日上，百余位投资机构和龙头企业代表到… | 状态：待领取 | 需登录：否 | [链接](https://www.leiphone.com/category/industrynews/sGptXfOtHwkxuGrm.html)
-- [资讯·IT之家] 赠复古掌机保护壳：小米 17 Pro 手机 16+512G 版国补后 5599 → 4173 元 | …17 Pro 手机 2025 年 9 月 25 日发布，16+512G 定价 5599 元。 京东 11.11 大促期间，活动价 5199 元； PLUS 会员下单立减 25.99 元； 领取 9 折优惠券： 点此领取 ； 国家补贴立减 500 元； 商品详情页右上角直播间可领 200 元优惠券： 到手价为 4173.01 元： 京东 小米 17 Pro 手机 16GB+512GB 4173.01 元… | 状态：待领取 | 需登录：否 | [链接](https://www.ithome.com/1/024/363.htm)
-- [资讯·IT之家] BLG 不夺冠退全款：雷鸟 GT Max 智能 AR 眼镜 2288 元 10:00 蹲点抢 | …眼镜本体、B站超级大会员季卡、限定版遮光罩。 活动规则显示，若 BLG 英雄联盟分部未获得 2026 英雄联盟全球总决赛（S16）冠军，符合条件的订单将获得全额退款， 退款金额为订单实付金额 （即扣除优惠券、红包、积分抵扣及平台补贴后，用户实际支付的金额）。 退款完成后， 商品归用户所有，无需退回商品 。以英雄联盟赛事官方公布并生效的 2026 英雄联盟全球总决赛最终冠军归属为准。 BLG 未晋级、被淘… | 状态：待领取 | 需登录：否 | [链接](https://www.ithome.com/1/024/310.htm)
+- [Google Gemini] From prompt to app: Build with Google Maps in AI Studio | …providing one-click demo keys that generate instantly without requiring Cloud Console redirects or credit cards. This setup grants developers immediate access to core APIs—including Maps, Places, and Route… | 状态：待领取 | 需登录：否 | [链接](https://developers.googleblog.com/from-prompt-to-app-build-with-google-maps-in-ai-studio/)
 
 ## 订阅
 - Atom: [atom.xml](https://ikeng.github.io/model-egg-monitor/atom.xml)
