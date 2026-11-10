@@ -15,13 +15,41 @@
       "id": "tag:ai-egg-monitor,2026:activity:de76b49c9d692247",
       "url": "https://platform.openai.com/docs/pricing",
       "title": "Pricing",
-      "content_html": "<p><strong>厂商</strong>：OpenAI</p>\n<p><strong>标题</strong>：Pricing</p>\n<p><strong>福利摘要</strong>：…at model rates. Web search preview (other models) $25.00 / 1k calls + Search content tokens are free. Containers Hosted Shell and Code Interpreter 1 GB $0.03, 4 GB $0.12, 16 GB $0.48, 64 GB $1.92 per…</p>\n<p><strong>需登录</strong>：否</p>\n<p><strong>来源类型</strong>：html</p>\n<p><strong>命中关键词</strong>：free</p>\n<p><strong>首次发现</strong>：2026-10-08T18:27:38+08:00</p>\n<p><strong>最后更新</strong>：2026-11-10T17:02:36+08:00</p>\n<p><strong>原始链接</strong>：<a href=\"https://platform.openai.com/docs/pricing\">https://platform.openai.com/docs/pricing</a></p>",
+      "content_html": "<p><strong>厂商</strong>：OpenAI</p>\n<p><strong>标题</strong>：Pricing</p>\n<p><strong>福利摘要</strong>：…at model rates. Web search preview (other models) $25.00 / 1k calls + Search content tokens are free. Containers Hosted Shell and Code Interpreter 1 GB $0.03, 4 GB $0.12, 16 GB $0.48, 64 GB $1.92 per…</p>\n<p><strong>需登录</strong>：否</p>\n<p><strong>来源类型</strong>：html</p>\n<p><strong>命中关键词</strong>：free</p>\n<p><strong>首次发现</strong>：2026-10-08T18:27:38+08:00</p>\n<p><strong>最后更新</strong>：2026-11-11T01:24:30+08:00</p>\n<p><strong>原始链接</strong>：<a href=\"https://platform.openai.com/docs/pricing\">https://platform.openai.com/docs/pricing</a></p>",
       "summary": "…at model rates. Web search preview (other models) $25.00 / 1k calls + Search content tokens are free. Containers Hosted Shell and Code Interpreter 1 GB $0.03, 4 GB $0.12, 16 GB $0.48, 64 GB $1.92 per…",
       "date_published": "2026-10-08T18:27:38+08:00",
-      "date_modified": "2026-11-10T17:02:36+08:00",
+      "date_modified": "2026-11-11T01:24:30+08:00",
       "tags": [
         "OpenAI",
         "html",
+        "free"
+      ]
+    },
+    {
+      "id": "tag:ai-egg-monitor,2026:activity:220d70cfa2090633",
+      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "title": "Helping caregivers use AI in everyday life",
+      "content_html": "<p><strong>厂商</strong>：OpenAI</p>\n<p><strong>标题</strong>：Helping caregivers use AI in everyday life</p>\n<p><strong>福利摘要</strong>：OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skil…</p>\n<p><strong>需登录</strong>：否</p>\n<p><strong>来源类型</strong>：rss</p>\n<p><strong>命中关键词</strong>：free</p>\n<p><strong>首次发现</strong>：2026-11-11T01:24:30+08:00</p>\n<p><strong>最后更新</strong>：2026-11-11T01:24:30+08:00</p>\n<p><strong>原始链接</strong>：<a href=\"https://openai.com/index/helping-caregivers-use-ai-in-everyday-life\">https://openai.com/index/helping-caregivers-use-ai-in-everyday-life</a></p>",
+      "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skil…",
+      "date_published": "2026-11-11T01:24:30+08:00",
+      "date_modified": "2026-11-11T01:24:30+08:00",
+      "tags": [
+        "OpenAI",
+        "rss",
+        "free"
+      ]
+    },
+    {
+      "id": "tag:ai-egg-monitor,2026:activity:06fd976ba9f9eab9",
+      "url": "https://openai.com/index/ai-effect-on-freelance-work",
+      "title": "Work at the Frontier: AI’s effect on freelance work",
+      "content_html": "<p><strong>厂商</strong>：OpenAI</p>\n<p><strong>标题</strong>：Work at the Frontier: AI’s effect on freelance work</p>\n<p><strong>福利摘要</strong>：New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.</p>\n<p><strong>需登录</strong>：否</p>\n<p><strong>来源类型</strong>：rss</p>\n<p><strong>命中关键词</strong>：free</p>\n<p><strong>首次发现</strong>：2026-11-11T01:24:30+08:00</p>\n<p><strong>最后更新</strong>：2026-11-11T01:24:30+08:00</p>\n<p><strong>原始链接</strong>：<a href=\"https://openai.com/index/ai-effect-on-freelance-work\">https://openai.com/index/ai-effect-on-freelance-work</a></p>",
+      "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
+      "date_published": "2026-11-11T01:24:30+08:00",
+      "date_modified": "2026-11-11T01:24:30+08:00",
+      "tags": [
+        "OpenAI",
+        "rss",
         "free"
       ]
     },

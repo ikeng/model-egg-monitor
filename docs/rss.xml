@@ -5,7 +5,7 @@
     <link>https://ikeng.github.io/model-egg-monitor/</link>
     <description>每日两次监控大模型厂商活动，提供 Atom / JSON Feed 订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 10 Nov 2026 17:02:57 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 01:24:51 +0800</lastBuildDate>
     <generator>ai-egg-monitor</generator>
     <item>
       <title>大模型 API 价格方案</title>
@@ -176,6 +176,14 @@
       <category>硅基流动 SiliconFlow</category>
     </item>
     <item>
+      <title>41年爱妻人设崩塌！黄仁勋一夜损失3万亿，或被英伟达免职；曝一汽大众取消两年「年终奖」，有人称合计约20万；豆包新图像模型价格下降</title>
+      <link>https://www.leiphone.com/category/zaobao/zcxkdPkvpprE36Zv.html</link>
+      <description>…OpenRouter数据仅统计经由该平台转发的API流量，厂商自有API、云服务、私有化部署以及面向C端的网页应用流量都没有纳入统计，不能等同于全球大模型整体市场份额。（快科技） WorkBuddy就折扣调整未及时公告致歉，将自动返还50%积分差额 11月8日晚，腾讯旗下AI工具WorkBuddy发布《关于DeepSeek-V4.1 Flash折扣活动的说明与补偿公告》，就优惠活动调整未及时公告向用户…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:75be1ac8bb2a1fc4</guid>
+      <pubDate>Tue, 10 Nov 2026 17:02:36 +0800</pubDate>
+      <category>资讯·雷锋网</category>
+    </item>
+    <item>
       <title>Try NVIDIA NIM APIs</title>
       <link>https://build.nvidia.com/explore/discover</link>
       <description>…Climate &amp; Weather Safety &amp; Moderation Industries Automotive Financial Services Healthcare Industrial Robotics Start Building with your DGX Spark Explore step-by-step playbooks, including setting up Ne…</description>
@@ -198,6 +206,14 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:95b83aca5ff8baff</guid>
       <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
       <category>Cerebras</category>
+    </item>
+    <item>
+      <title>千问办公押注 Team Agent，企业 AI 的流水线时刻真的来了</title>
+      <link>http://www.geekpark.net/news/373760</link>
+      <description>…得完整的上下文却需要企业把完整工作流迁移过来。 甚至客户沟通、部门讨论、文档修改，最好都发生在这个新产品里。 你可以把同事拉进自己的 Agent，却很难要求客户先安装一个新的 AI 产品，才能向他发送优惠券。 对于企业来说，既有 IM 也远不只是聊天工具。人员关系、权限、审批和业务习惯，都已经形成。企业愿意为新能力付费，并不意味着它可以为新产品重新组织一遍所有人的工作。 也是因此，另一条路径选择反过来，…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:9644a871df752bbe</guid>
+      <pubDate>Tue, 10 Nov 2026 17:02:36 +0800</pubDate>
+      <category>资讯·极客公园</category>
     </item>
     <item>
       <title>新人免费额度获取及用完即停开关规则</title>
@@ -246,22 +262,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:b99574d412655a47</guid>
       <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
       <category>Together AI</category>
-    </item>
-    <item>
-      <title>微软移除了 PC 到 PC 的迁移功能</title>
-      <link>https://www.solidot.org/story?sid=85827</link>
-      <description>…Documents、Pictures、Videos 和 Music 备份到 OneDrive。免费版 OneDrive 账户仅提供 5GB 存储空间。如果用户积累了多年的照片和文档，存储空间很快会超出免费额度。Windows Backup 还会记录已安装的应用、Wi-Fi 网络、密码及部分系统设置，有助于加快新设备上的配置过程。需要注意的是，应用仍需重新安装，而受支持的文件则会从云端恢复。</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:ba1d5ad8322797a4</guid>
-      <pubDate>Mon, 09 Nov 2026 00:28:29 +0800</pubDate>
-      <category>资讯·Solidot</category>
-    </item>
-    <item>
-      <title>从一笔投资到一个生态：浦东创投把AI创业者带进了“朋友圈”</title>
-      <link>https://www.leiphone.com/category/industrynews/sGptXfOtHwkxuGrm.html</link>
-      <description>…华院计算、七牛云、硅基流动等企业。对创业团队而言，走进产业现场，意味着有机会更直接地理解真实需求，了解基础设施能力，也为后续合作打开窗口。 张江人工智能创新小镇则提供了更贴近日常创业的低租金空间，以及算力券、模型券、语料券等组合安排要素支持，帮助团队降低起步成本、提高要素可得性。浦东创投此前对外提出，愿向入营团队开放“产业朋友圈”，协助对接潜在客户与合作伙伴。结营公开日上，百余位投资机构和龙头企业代表到…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:c5761f228e00a5bd</guid>
-      <pubDate>Mon, 09 Nov 2026 16:56:02 +0800</pubDate>
-      <category>资讯·雷锋网</category>
     </item>
     <item>
       <title>Cursor · Pricing</title>
@@ -344,11 +344,123 @@
       <category>Replicate</category>
     </item>
     <item>
-      <title>41年爱妻人设崩塌！黄仁勋一夜损失3万亿，或被英伟达免职；曝一汽大众取消两年「年终奖」，有人称合计约20万；豆包新图像模型价格下降</title>
-      <link>https://www.leiphone.com/category/zaobao/zcxkdPkvpprE36Zv.html</link>
-      <description>…OpenRouter数据仅统计经由该平台转发的API流量，厂商自有API、云服务、私有化部署以及面向C端的网页应用流量都没有纳入统计，不能等同于全球大模型整体市场份额。（快科技） WorkBuddy就折扣调整未及时公告致歉，将自动返还50%积分差额 11月8日晚，腾讯旗下AI工具WorkBuddy发布《关于DeepSeek-V4.1 Flash折扣活动的说明与补偿公告》，就优惠活动调整未及时公告向用户…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:75be1ac8bb2a1fc4</guid>
-      <pubDate>Tue, 10 Nov 2026 17:02:36 +0800</pubDate>
+      <title>Helping caregivers use AI in everyday life</title>
+      <link>https://openai.com/index/helping-caregivers-use-ai-in-everyday-life</link>
+      <description>OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skil…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:220d70cfa2090633</guid>
+      <pubDate>Wed, 11 Nov 2026 01:24:30 +0800</pubDate>
+      <category>OpenAI</category>
+    </item>
+    <item>
+      <title>Work at the Frontier: AI’s effect on freelance work</title>
+      <link>https://openai.com/index/ai-effect-on-freelance-work</link>
+      <description>New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:06fd976ba9f9eab9</guid>
+      <pubDate>Wed, 11 Nov 2026 01:24:30 +0800</pubDate>
+      <category>OpenAI</category>
+    </item>
+    <item>
+      <title>吉利星愿上市两年，刷新全球最快百万销量速度纪录</title>
+      <link>https://www.leiphone.com/category/transportation/B2THcx5nSUHfjI4N.html</link>
+      <description>…全新版型的同时，吉利星愿还同步发布了“百万达成宠粉权益”：百万用户都可登录吉利银河App参与抽奖，涵盖爷爷不泡茶奶茶券、吉利星愿百万销量纪念徽章、吉利星愿车载生态精品、卡皮巴拉治愈IP周边及充电服务费折扣券等。满足个性化需求，关照日常用车点滴，已成为吉利星愿与用户长久相处的方式。 值得关注的是，围绕不断变化的审美喜好与出行场景，吉利星愿STAR限定系列将持续焕新，推出更多新版型与新体验，让每一种生活方…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:7de1be5c684e1856</guid>
+      <pubDate>Wed, 11 Nov 2026 01:24:30 +0800</pubDate>
+      <category>资讯·雷锋网</category>
+    </item>
+    <item>
+      <title>灵光接入什么值得买，AI助理开始帮用户“盯好价”</title>
+      <link>https://www.leiphone.com/category/industrynews/Z3dOHYCNYfPNwijf.html</link>
+      <description>…难题并不是下单，而是如何在海量商品、复杂促销和不断变化的价格中作出判断。以购买一台扫地机器人为例： 过去，用户通常需要在多个平台之间比较型号、配置、价格和促销活动。如果暂时不买，还需要反复查看商品是否降价、优惠如何叠加，费时费力。 现在，用户在灵光App输入“双11准备买一个扫地机器人，帮我看看哪款扫地机器人更值得买？”借助与什么值得买的服务连接，灵光会自主完成扫地机器人的优劣对比和好价监控，若用户暂…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:5608c3065837ba74</guid>
+      <pubDate>Wed, 11 Nov 2026 01:24:30 +0800</pubDate>
+      <category>资讯·雷锋网</category>
+    </item>
+    <item>
+      <title>《足球经理 27》今日发售：国区售价 268 元，首发加入 PC Game Pass</title>
+      <link>https://www.ithome.com/1/025/194.htm</link>
+      <description>…/store.steampowered.com/app/4530370/ 足球经理 27/?l=schinese&amp;cc=cn ）。 据介绍，本作国区标准版定价 268 元，预购期间曾提供 10% 首发折扣（折后 241.2 元），该促销已于发售日截止。游戏首发同步登陆 PC Game Pass 及 Xbox Game Pass Ultimate 订阅库，订阅用户可直接游玩。在语言支持方面，《FM27》…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:b7d1538f8bf91b7f</guid>
+      <pubDate>Wed, 11 Nov 2026 01:24:30 +0800</pubDate>
+      <category>资讯·IT之家</category>
+    </item>
+    <item>
+      <title>第 39 届中国电影金鸡奖全名单公布，《浪浪山小妖怪》《窗外是蓝星》《给阿嬷的情书》等获奖</title>
+      <link>https://www.ithome.com/1/025/189.htm</link>
+      <description>…妖怪〉获第 39 届中国电影金鸡奖最佳动画片奖 》 《 中国首部 8K 拍摄太空电影〈窗外是蓝星〉获第 39 届中国电影金鸡奖最佳纪录 / 科教片奖 》 IT之家小伙伴记得用 最会买购买电影票 ，享受折扣价的同时还可以获得返利，预计每张票可以节省 5~15 元！</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:36518c1754d9fea1</guid>
+      <pubDate>Wed, 11 Nov 2026 01:24:30 +0800</pubDate>
+      <category>资讯·IT之家</category>
+    </item>
+    <item>
+      <title>任天堂古川俊太郎：Switch 2 售价暂不调整，若成本实在扛不住就得涨价</title>
+      <link>https://www.ithome.com/1/025/183.htm</link>
+      <description>…和索尼 PS5。 从投资者角度来看，提高 Switch 2 售价或许有助于改善利润表现，但任天堂还必须考虑消费者的购买意愿。过高的入手门槛可能让原本打算立即购买主机的消费者转而选择观望，等待未来降价。至于这个等待期究竟有多长，目前还很难说。 前 PlayStation 高管肖恩 · 莱登（Shawn Layden）此前也曾表示，游戏行业当下真正的创新，应该是把游戏主机价格降下来，而不是一味追求更…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:d219dd371699edcf</guid>
+      <pubDate>Wed, 11 Nov 2026 01:24:30 +0800</pubDate>
+      <category>资讯·IT之家</category>
+    </item>
+    <item>
+      <title>撤档三个月后重映：国产动画电影《三国第一部：争洛阳》密钥延期至 2026 年 12 月 16 日</title>
+      <link>https://www.ithome.com/1/025/181.htm</link>
+      <description>…汉末年，危机四伏，宦官掌权，百姓困苦。黄巾军起，曹操、袁绍、袁术、吕布、孙坚、刘备等乱世英雄初露头角。各方势力争斗洛阳，惊涛骇浪中，曹操、袁绍如何应对？ IT之家小伙伴记得用 最会买购买电影票 ，享受折扣价的同时还可以获得返利，预计每张票可以节省 5~15 元！</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:70720c9137a32f98</guid>
+      <pubDate>Wed, 11 Nov 2026 01:24:30 +0800</pubDate>
+      <category>资讯·IT之家</category>
+    </item>
+    <item>
+      <title>国漫《浪浪山小妖怪》获第 39 届中国电影金鸡奖最佳动画片奖</title>
+      <link>https://www.ithome.com/1/025/178.htm</link>
+      <description>…》在去年暑期档电影中成功破圈。 该片票房已突破 17.19 亿元 ，成为中国影史二维动画电影票房冠军。截至IT之家发文，该影片的豆瓣评分为 8.5 分。 IT之家小伙伴记得用 最会买购买电影票 ，享受折扣价的同时还可以获得返利，预计每张票可以节省 5~15 元！ 延伸阅读 第 39 届中国电影金鸡奖颁奖典礼于 2026 年 11 月 10 日在福建省厦门市举行，2026 年中国金鸡百花电影节于 11…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:4dd3090d78a363f0</guid>
+      <pubDate>Wed, 11 Nov 2026 01:24:30 +0800</pubDate>
+      <category>资讯·IT之家</category>
+    </item>
+    <item>
+      <title>中国首部 8K 拍摄太空电影《窗外是蓝星》获第 39 届中国电影金鸡奖最佳纪录 / 科教片奖</title>
+      <link>https://www.ithome.com/1/025/172.htm</link>
+      <description>…存储等一系列挑战。 该电影同步制作 CINITY 巨幕 4K50 帧版、CINITY LED 版、IMAX、CGS 中国巨幕、4DX 等多格式制式版本。 IT之家小伙伴记得用 最会买购买电影票 ，享受折扣价的同时还可以获得返利，预计每张票可以节省 5~15 元！</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:b3d5dcfeb8cbf635</guid>
+      <pubDate>Wed, 11 Nov 2026 01:24:30 +0800</pubDate>
+      <category>资讯·IT之家</category>
+    </item>
+    <item>
+      <title>2499 → 449 元：格兰仕 DR 空气炸微波炉国补新低再降价</title>
+      <link>https://www.ithome.com/1/025/169.htm</link>
+      <description>格兰仕 DR 空气炸变频微波炉上市售价 2499 元，今日京东自营直降至 449 元。 先领 8 折券： 点此领券 点击下方卡片 → 点击宝贝右上方“ 直播浮窗 ”→ 进入直播间下单 下单时选择“ 以旧换新 ” → 个护健康 → 电动牙刷（不回收）实付 549 元 直播间下单返 30 元 E 卡 + 晒单返 50 元 E 卡 + 小红书种草返 20 元 E 卡（详询客服），合计返 100 元 E …</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:7db69821557470cc</guid>
+      <pubDate>Wed, 11 Nov 2026 01:24:30 +0800</pubDate>
+      <category>资讯·IT之家</category>
+    </item>
+    <item>
+      <title>11.11 就看这波：全网巅峰狂促 24 小时，iPhone 17 京东 5068 元，18 Pro/ Max 官方焕新立减 1300 元</title>
+      <link>https://www.ithome.com/1/025/164.htm</link>
+      <description>…苹果官方自营店 · 天猫 Apple Store 今日开启 iPhone 18 Pro / Max 11.11 狂促活动，下单立减 300 元。 官方渠道支持 7 天无理由退货（激活后也支持）服务， 免费试用 7 天哦 。 今日下单时选择“以旧换新”选择 任意 旧物，可享政府补贴 500 元，合计立减 800 元。 旧物估值如果超过旧机超过 1000 元，补贴 500 元红包，合计立减 1300 元。 售…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:b0f93c291045c15e</guid>
+      <pubDate>Wed, 11 Nov 2026 01:24:30 +0800</pubDate>
+      <category>资讯·IT之家</category>
+    </item>
+    <item>
+      <title>猪肉不停降价，给了“云南猪王”更多磨练二代的机会</title>
+      <link>https://www.tmtpost.com/8198696.html</link>
+      <description>二代接班会不会提速?</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:dffb738525caaa2e</guid>
+      <pubDate>Wed, 11 Nov 2026 01:24:30 +0800</pubDate>
+      <category>资讯·钛媒体</category>
+    </item>
+    <item>
+      <title>微软移除了 PC 到 PC 的迁移功能</title>
+      <link>https://www.solidot.org/story?sid=85827</link>
+      <description>…Documents、Pictures、Videos 和 Music 备份到 OneDrive。免费版 OneDrive 账户仅提供 5GB 存储空间。如果用户积累了多年的照片和文档，存储空间很快会超出免费额度。Windows Backup 还会记录已安装的应用、Wi-Fi 网络、密码及部分系统设置，有助于加快新设备上的配置过程。需要注意的是，应用仍需重新安装，而受支持的文件则会从云端恢复。</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:ba1d5ad8322797a4</guid>
+      <pubDate>Mon, 09 Nov 2026 00:28:29 +0800</pubDate>
+      <category>资讯·Solidot</category>
+    </item>
+    <item>
+      <title>从一笔投资到一个生态：浦东创投把AI创业者带进了“朋友圈”</title>
+      <link>https://www.leiphone.com/category/industrynews/sGptXfOtHwkxuGrm.html</link>
+      <description>…华院计算、七牛云、硅基流动等企业。对创业团队而言，走进产业现场，意味着有机会更直接地理解真实需求，了解基础设施能力，也为后续合作打开窗口。 张江人工智能创新小镇则提供了更贴近日常创业的低租金空间，以及算力券、模型券、语料券等组合安排要素支持，帮助团队降低起步成本、提高要素可得性。浦东创投此前对外提出，愿向入营团队开放“产业朋友圈”，协助对接潜在客户与合作伙伴。结营公开日上，百余位投资机构和龙头企业代表到…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:c5761f228e00a5bd</guid>
+      <pubDate>Mon, 09 Nov 2026 16:56:02 +0800</pubDate>
       <category>资讯·雷锋网</category>
     </item>
     <item>
@@ -358,14 +470,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:feb80c85f2657de8</guid>
       <pubDate>Tue, 10 Nov 2026 17:02:36 +0800</pubDate>
       <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>千问办公押注 Team Agent，企业 AI 的流水线时刻真的来了</title>
-      <link>http://www.geekpark.net/news/373760</link>
-      <description>…得完整的上下文却需要企业把完整工作流迁移过来。 甚至客户沟通、部门讨论、文档修改，最好都发生在这个新产品里。 你可以把同事拉进自己的 Agent，却很难要求客户先安装一个新的 AI 产品，才能向他发送优惠券。 对于企业来说，既有 IM 也远不只是聊天工具。人员关系、权限、审批和业务习惯，都已经形成。企业愿意为新能力付费，并不意味着它可以为新产品重新组织一遍所有人的工作。 也是因此，另一条路径选择反过来，…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:9644a871df752bbe</guid>
-      <pubDate>Tue, 10 Nov 2026 17:02:36 +0800</pubDate>
-      <category>资讯·极客公园</category>
     </item>
     <item>
       <title>火山方舟 模型计费说明</title>
@@ -701,110 +805,6 @@
       <description>石头 A30 Max 智能洗地机官方定价 3299 元，支持 180° 躺平 + 25000Pa 大吸力，基站支持 95°C 热风自烘干 + 95°C 高温自清洁。 今日按下方步骤下单，仅需 728 元即可入手。 先领 88VIP 家电 1500-150 元消费券： 点此领券 。 下单前需咨询客服“ 返现金额 ”备注后下单，实付大于 1380 元， 晒单返 680 元 。 按下方步骤下单实付 14…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:91904e5aacba5485</guid>
       <pubDate>Mon, 02 Nov 2026 00:32:03 +0800</pubDate>
-      <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>阿里云发布AI投研工作台Qovest，给专业投资者配一个“AI研究员”</title>
-      <link>https://www.leiphone.com/category/industrynews/MFtJXmU8YNMGMig6.html</link>
-      <description>…人操盘笔记和待验证问题自动归档，让研究可追溯、可对比。未来在企业版中，“投研空间”会成为组织内成员协作、信息共享的研究调度中心。 目前Qovest官网已经对个人用户开放邀测，新用户注册后即获相应积分可免费试用，后续可选择每月99元或199元的订阅套餐，各套餐包含相应使用额度。</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:a750ab09026fc50b</guid>
-      <pubDate>Tue, 03 Nov 2026 03:55:35 +0800</pubDate>
-      <category>资讯·雷锋网</category>
-    </item>
-    <item>
-      <title>Fireworks - Pricing</title>
-      <link>https://fireworks.ai/pricing</link>
-      <description>…Training Pricing Serve fine-tuned models for the same price as base models. Muse Glimmer 30B SFT is free via UI and Serverless Training API until 11/30 ✨ No credit card required. Start a job Managed Train…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:f47ac99038d603b1</guid>
-      <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
-      <category>Fireworks AI</category>
-    </item>
-    <item>
-      <title>消息称罗马仕“重生计划”因债务搁浅，拟按三折清偿</title>
-      <link>https://www.ithome.com/1/021/264.htm</link>
-      <description>IT之家 11 月 2 日消息。近日，据蓝鲸科技从知情人士处获悉，计划搁浅的核心症结仍在于债务：投资方要等罗马仕把现有债务处理得差不多之后才会投。与此同时，罗马仕当前给供应商的债务处理方案是“按三折折扣以清偿”。 业内人士李翔向记者分析称，三折意味着债权人要先行确认超过六成的损失，而“盈利后清偿”对一家停工停产已逾一年、产品尚未恢复上架的企业而言， 更像一张兑现期限不明的远期支票 。事实上，“三折方…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:f79ca80a1eb8b35e</guid>
-      <pubDate>Tue, 03 Nov 2026 03:55:35 +0800</pubDate>
-      <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>Gemini Developer API pricing</title>
-      <link>https://ai.google.dev/gemini-api/docs/pricing</link>
-      <description>…is now available. Try it out . Home Gemini API Docs Gemini Developer API pricing Start building free of charge with generous limits, then scale up with prepaid and pay-as-you-go pricing for your produ…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:5f5c4c0ae520c10f</guid>
-      <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
-      <category>Google Gemini</category>
-    </item>
-    <item>
-      <title>进击中的影石：攻击性强，血条太脆 ？</title>
-      <link>https://www.leiphone.com/category/weiwu/KlCbWSV85pD8wKbW.html</link>
-      <description>…求已经成立、仍在快速扩容的市场。2026年二季度，全球云台相机出货量接近280万台，同比增长87%。 Luna Ultra上市后的份额表现，证明影石可以把产品定义能力复制到第二个品类。 市场也在扩容和降价。2026年二季度，全球云台相机平均单价同比下降6%至2968元。潜在竞争者也不只有现有影像品牌。许衡对雷峰网表示：“手机厂商能不能做这个事？答案是肯定的，而且可能做得更好。做和不做不在于能不能做，而…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:a598f20959f0bdfa</guid>
-      <pubDate>Sat, 31 Oct 2026 00:25:24 +0800</pubDate>
-      <category>资讯·雷锋网</category>
-    </item>
-    <item>
-      <title>给专业投资者配上“AI 研究员”，阿里云发布 AI 投研工作台 Qovest</title>
-      <link>https://www.ithome.com/1/021/071.htm</link>
-      <description>…拿到一份可交互的产业链图谱；也可以让 Qovest 测算数据中心电力设施的投资规模，只要调整任何一个前提假设，Qovest 就会自动重新计算。 该产品已经对个人用户开放邀测，新用户注册后即获相应积分可免费试用， 后续可选择每月 99 元或 199 元的订阅套餐 。</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:caf5bd92e546cdec</guid>
-      <pubDate>Mon, 02 Nov 2026 16:43:00 +0800</pubDate>
-      <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>PPIO｜中国领先的独立 Agentic Cloud 服务商</title>
-      <link>https://ppio.com/</link>
-      <description>模型服务 Agent 云服务 GPU 云服务 即将下线 新闻资讯 关于我们 文档 控制台 登录 立即注册 登录/注册 免费注册 登录 模型服务 Agent 云服务 GPU 云服务 即将下线 新闻资讯 关于我们 文档 控制台 安装 Skills › npx skills add PPIO/ppio-skills --ski…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:0d2c4df3ac601949</guid>
-      <pubDate>Mon, 12 Oct 2026 16:24:02 +0800</pubDate>
-      <category>PPIO 派欧云</category>
-    </item>
-    <item>
-      <title>Epic 喜加一：益智问答游戏《Quiztopia : The Ultimate Trivia》免费领</title>
-      <link>https://www.ithome.com/1/020/810.htm</link>
-      <description>…Future Tech Solutions Pvt Ltd 制作并发行的益智问答游戏《Quiztopia：The Ultimate Trivia》即日起在 Epic Games Store 开启限时免费领取“喜加一”活动，玩家可以在 11 月 9 日凌晨 2 点 30 分前免费领取。 需要注意的是，本次限免并非 Epic 官方活动，而是由开发团队自行发起的特别促销，IT之家附游戏商品页（ https:/…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:af24daf8e23d8c71</guid>
-      <pubDate>Mon, 02 Nov 2026 00:32:03 +0800</pubDate>
-      <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>GOG 喜加一：点击式冒险游戏《A New Beginning: Final Cut》免费领</title>
-      <link>https://www.ithome.com/1/020/738.htm</link>
-      <description>IT之家 11 月 1 日消息，开发商 Daedalic Entertainment 宣布联合 GOG 平台开启新一期游戏免费领取“喜加一”活动，玩家可以在北京时间 11 月 2 日 22:00 前免费领取点击式冒险游戏《A New Beginning: Final Cut》，IT之家附游戏商品页（ https://www.go…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:44cc755647d2f752</guid>
-      <pubDate>Sun, 01 Nov 2026 16:31:40 +0800</pubDate>
-      <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>上市两月 2068 → 1288 元：小米米家扫拖机器人 7C 新低，支持滚筒活水增压拖地</title>
-      <link>https://www.ithome.com/1/020/740.htm</link>
-      <description>小米米家扫拖机器人 7C 今年 8 月 27 日开售，京东首发国补到手价 2068 元。 今日 11.11 加码仅需 1288 元即可入手，大降价： 下单时选择“ 以旧换新 ” → 个护健康 → 电动牙刷（不回收） 京东 米家扫地机器人 7C 水箱版 券后 1299 元 领 8.8 折券 京东 11.11 红包至高 26888 元无门槛可用，每…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:8516692214892486</guid>
-      <pubDate>Sun, 01 Nov 2026 16:31:40 +0800</pubDate>
-      <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>Steam 喜加一：原价 42 元心理恐怖冒险游戏《Asleep：Act 1》免费领</title>
-      <link>https://www.ithome.com/1/020/731.htm</link>
-      <description>…开发的像素风心理恐怖冒险游戏《Asleep: Act 1》现已在 Steam 平台开启限时免费“喜加一”活动， 本作在国区定价为 42 元，玩家可以在北京时间 11 月 3 日凌晨 2 点前免费领取 ，IT之家附游戏商品页（ https://store.steampowered.com/app/1583850/Asleep_%E6%B2%89%E7%9D%A1_Ato_1/ ）。 《Asleep…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:86a4a492777ee892</guid>
-      <pubDate>Sun, 01 Nov 2026 16:31:40 +0800</pubDate>
-      <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>个人灵光 2.0 实测：个人 AI 助理的机会和门槛｜AI 上新</title>
-      <link>http://www.geekpark.net/news/373244</link>
-      <description>…宝的反爬风控机制拦截在外。 米家也是类似的情况：扫码授权成功后，小米的接口连续两次触发限流，设备列表始终拉取失败。 灵光进不了淘宝的购物车，但千问却可以。 当我们把同一句指令「帮我看看淘宝购物车有什么降价幅度比较大的商品」发给千问时，两者的权限差距一目了然：千问不仅直接列出了购物车清单，甚至清楚地知道里面那把人体工学椅「已经加购快 300 天、看了几十次」。 与此同时，支付路径，阿里目前也没有向灵光…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:f13b9857832b553a</guid>
-      <pubDate>Sun, 01 Nov 2026 16:31:40 +0800</pubDate>
-      <category>资讯·极客公园</category>
-    </item>
-    <item>
-      <title>国补后 890 → 664 元：怒喵 Infinity.100 电竞鼠标直降，1.2 秒热插拔磁吸换电、含电池重 49g</title>
-      <link>https://www.ithome.com/1/020/621.htm</link>
-      <description>…插拔磁吸电池更换，无线模式（IT之家注：即含电池）的质量为 49g，官方定价 890 元。 京东 11.11 大促期间，按下方步骤下单，叠加国补后仅需 664.25 元： 点击下方卡片，可领 85 元优惠券。 京东 怒喵 Infinity.100 电竞鼠标 PAW3950 三模 国补后 664.25 元 领 85 元券 京东 11.11 无门槛红包至高 26888 元，支持即领即用，下单直接当钱花： 点…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:85ccb68ac175d4a9</guid>
-      <pubDate>Sat, 31 Oct 2026 23:34:14 +0800</pubDate>
       <category>资讯·IT之家</category>
     </item>
   </channel>

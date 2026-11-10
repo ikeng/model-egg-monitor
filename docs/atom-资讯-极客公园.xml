@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://ikeng.github.io/model-egg-monitor/atom-资讯-极客公园.xml</id>
   <title>赛博鸡蛋 · 资讯·极客公园</title>
-  <updated>2026-11-10T17:02:57+08:00</updated>
+  <updated>2026-11-11T01:24:51+08:00</updated>
   <subtitle>大模型厂商活动监控</subtitle>
   <link rel="self" href="https://ikeng.github.io/model-egg-monitor/atom-资讯-极客公园.xml"/>
   <link rel="alternate" href="https://ikeng.github.io/model-egg-monitor/"/>
@@ -12,47 +12,9 @@
     <name>ai-egg-monitor</name>
   </author>
   <entry>
-    <id>tag:ai-egg-monitor,2026:activity:e3576583a2d513d3</id>
-    <title>个人灵光 2.0 实测：个人 AI 助理的机会和门槛｜AI 上新</title>
-    <updated>2026-11-10T17:02:36+08:00</updated>
-    <published>2026-11-02T00:32:03+08:00</published>
-    <link rel="alternate" href="http://www.geekpark.net/news/373249"/>
-    <author><name>资讯·极客公园</name></author>
-    <category term="资讯·极客公园"/>
-    <summary type="text">…宝的反爬风控机制拦截在外。 米家也是类似的情况：扫码授权成功后，小米的接口连续两次触发限流，设备列表始终拉取失败。 灵光进不了淘宝的购物车，但千问却可以。 当我们把同一句指令「帮我看看淘宝购物车有什么降价幅度比较大的商品」发给千问时，两者的权限差距一目了然：千问不仅直接列出了购物车清单，甚至清楚地知道里面那把人体工学椅「已经加购快 300 天、看了几十次」。 与此同时，支付路径，阿里目前也没有向灵光…</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·极客公园&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：个人灵光 2.0 实测：个人 AI 助理的机会和门槛｜AI 上新&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…宝的反爬风控机制拦截在外。 米家也是类似的情况：扫码授权成功后，小米的接口连续两次触发限流，设备列表始终拉取失败。 灵光进不了淘宝的购物车，但千问却可以。 当我们把同一句指令「帮我看看淘宝购物车有什么降价幅度比较大的商品」发给千问时，两者的权限差距一目了然：千问不仅直接列出了购物车清单，甚至清楚地知道里面那把人体工学椅「已经加购快 300 天、看了几十次」。 与此同时，支付路径，阿里目前也没有向灵光…&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：降价&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-11-02T00:32:03+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-10T17:02:36+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;http://www.geekpark.net/news/373249&#34;&gt;http://www.geekpark.net/news/373249&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:ai-egg-monitor,2026:activity:e55dbcf6e9fdc20b</id>
-    <title>创业者做 Personal Agent，有没有一线生机？</title>
-    <updated>2026-11-10T17:02:36+08:00</updated>
-    <published>2026-11-08T16:25:55+08:00</published>
-    <link rel="alternate" href="http://www.geekpark.net/news/373650"/>
-    <author><name>资讯·极客公园</name></author>
-    <category term="资讯·极客公园"/>
-    <summary type="text">…。 大厂为什么下场？创业者又在面对什么难题？ 看看各家科技巨头的打法：Anthropic 把 Claude 的订阅定价压得远低于同等额度 API 的成本，时不时还刷新一次额度。各家也在客户端里纷纷推出免费额度吸引用户，还将免费时效一延再延。马斯克都忍不住在 X 上感慨，Grok Bot 的服务成本相对于其收入而言高得不可持续。 把用户吸引到自己的应用里跑任务，可以看得到用户设置了什么任务、如何分段提问、如…</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·极客公园&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：创业者做 Personal Agent，有没有一线生机？&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…。 大厂为什么下场？创业者又在面对什么难题？ 看看各家科技巨头的打法：Anthropic 把 Claude 的订阅定价压得远低于同等额度 API 的成本，时不时还刷新一次额度。各家也在客户端里纷纷推出免费额度吸引用户，还将免费时效一延再延。马斯克都忍不住在 X 上感慨，Grok Bot 的服务成本相对于其收入而言高得不可持续。 把用户吸引到自己的应用里跑任务，可以看得到用户设置了什么任务、如何分段提问、如…&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：免费额度&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-11-08T16:25:55+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-10T17:02:36+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;http://www.geekpark.net/news/373650&#34;&gt;http://www.geekpark.net/news/373650&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
     <id>tag:ai-egg-monitor,2026:activity:9644a871df752bbe</id>
     <title>千问办公押注 Team Agent，企业 AI 的流水线时刻真的来了</title>
-    <updated>2026-11-10T17:02:36+08:00</updated>
+    <updated>2026-11-11T01:24:30+08:00</updated>
     <published>2026-11-10T17:02:36+08:00</published>
     <link rel="alternate" href="http://www.geekpark.net/news/373760"/>
     <author><name>资讯·极客公园</name></author>
@@ -65,8 +27,46 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：优惠券&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-11-10T17:02:36+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-10T17:02:36+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-11T01:24:30+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;http://www.geekpark.net/news/373760&#34;&gt;http://www.geekpark.net/news/373760&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:e3576583a2d513d3</id>
+    <title>个人灵光 2.0 实测：个人 AI 助理的机会和门槛｜AI 上新</title>
+    <updated>2026-11-11T01:24:30+08:00</updated>
+    <published>2026-11-02T00:32:03+08:00</published>
+    <link rel="alternate" href="http://www.geekpark.net/news/373249"/>
+    <author><name>资讯·极客公园</name></author>
+    <category term="资讯·极客公园"/>
+    <summary type="text">…宝的反爬风控机制拦截在外。 米家也是类似的情况：扫码授权成功后，小米的接口连续两次触发限流，设备列表始终拉取失败。 灵光进不了淘宝的购物车，但千问却可以。 当我们把同一句指令「帮我看看淘宝购物车有什么降价幅度比较大的商品」发给千问时，两者的权限差距一目了然：千问不仅直接列出了购物车清单，甚至清楚地知道里面那把人体工学椅「已经加购快 300 天、看了几十次」。 与此同时，支付路径，阿里目前也没有向灵光…</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·极客公园&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：个人灵光 2.0 实测：个人 AI 助理的机会和门槛｜AI 上新&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…宝的反爬风控机制拦截在外。 米家也是类似的情况：扫码授权成功后，小米的接口连续两次触发限流，设备列表始终拉取失败。 灵光进不了淘宝的购物车，但千问却可以。 当我们把同一句指令「帮我看看淘宝购物车有什么降价幅度比较大的商品」发给千问时，两者的权限差距一目了然：千问不仅直接列出了购物车清单，甚至清楚地知道里面那把人体工学椅「已经加购快 300 天、看了几十次」。 与此同时，支付路径，阿里目前也没有向灵光…&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：降价&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-11-02T00:32:03+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-11T01:24:30+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;http://www.geekpark.net/news/373249&#34;&gt;http://www.geekpark.net/news/373249&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:e55dbcf6e9fdc20b</id>
+    <title>创业者做 Personal Agent，有没有一线生机？</title>
+    <updated>2026-11-11T01:24:30+08:00</updated>
+    <published>2026-11-08T16:25:55+08:00</published>
+    <link rel="alternate" href="http://www.geekpark.net/news/373650"/>
+    <author><name>资讯·极客公园</name></author>
+    <category term="资讯·极客公园"/>
+    <summary type="text">…。 大厂为什么下场？创业者又在面对什么难题？ 看看各家科技巨头的打法：Anthropic 把 Claude 的订阅定价压得远低于同等额度 API 的成本，时不时还刷新一次额度。各家也在客户端里纷纷推出免费额度吸引用户，还将免费时效一延再延。马斯克都忍不住在 X 上感慨，Grok Bot 的服务成本相对于其收入而言高得不可持续。 把用户吸引到自己的应用里跑任务，可以看得到用户设置了什么任务、如何分段提问、如…</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·极客公园&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：创业者做 Personal Agent，有没有一线生机？&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…。 大厂为什么下场？创业者又在面对什么难题？ 看看各家科技巨头的打法：Anthropic 把 Claude 的订阅定价压得远低于同等额度 API 的成本，时不时还刷新一次额度。各家也在客户端里纷纷推出免费额度吸引用户，还将免费时效一延再延。马斯克都忍不住在 X 上感慨，Grok Bot 的服务成本相对于其收入而言高得不可持续。 把用户吸引到自己的应用里跑任务，可以看得到用户设置了什么任务、如何分段提问、如…&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：免费额度&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-11-08T16:25:55+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-11T01:24:30+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;http://www.geekpark.net/news/373650&#34;&gt;http://www.geekpark.net/news/373650&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:f368eba63288acba</id>
