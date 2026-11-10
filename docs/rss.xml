@@ -5,7 +5,7 @@
     <link>https://ikeng.github.io/model-egg-monitor/</link>
     <description>每日两次监控大模型厂商活动，提供 Atom / JSON Feed 订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 10 Nov 2026 04:20:37 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 17:02:57 +0800</lastBuildDate>
     <generator>ai-egg-monitor</generator>
     <item>
       <title>大模型 API 价格方案</title>
@@ -112,14 +112,6 @@
       <category>Google Gemini</category>
     </item>
     <item>
-      <title>火山方舟 模型计费说明</title>
-      <link>https://www.volcengine.com/docs/82379/1099320</link>
-      <description>…输入图单价（元/张） ​ 输出图单价（元/张） ​ 模型名称 ​ 输入图单价（元/张） ​ 输出图单价（元/张） ​ doubao-seedream-5-0-pro ​ 按生图场景区分定价 ​ 首张免费 ​ 第 2 张起：0.02 ​ 单图生成场景： ​ ≤ 261 万像素：0.30 ​ &gt; 261 万像素：0.60 ​ 图层拆分场景： ​ ≤ 261 万像素：0.15 ​ &gt; 261 万像素：0.…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:3f9515c4e7efd405</guid>
-      <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
-      <category>火山方舟·豆包</category>
-    </item>
-    <item>
       <title>Pricing</title>
       <link>https://fireworks.ai/pricing</link>
       <description>…See our inference rates or talk to us about a custom deployment. Muse Glimmer 30B SFT is free through November 30 In the UI and the Serverless Training API. No credit card required. Start a job…</description>
@@ -224,6 +216,14 @@
       <category>Cerebras</category>
     </item>
     <item>
+      <title>From prompt to app: Build with Google Maps in AI Studio</title>
+      <link>https://developers.googleblog.com/from-prompt-to-app-build-with-google-maps-in-ai-studio/</link>
+      <description>…providing one-click demo keys that generate instantly without requiring Cloud Console redirects or credit cards. This setup grants developers immediate access to core APIs—including Maps, Places, and Route…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:b15b0d7e8447f82d</guid>
+      <pubDate>Tue, 10 Nov 2026 04:20:11 +0800</pubDate>
+      <category>Google Gemini</category>
+    </item>
+    <item>
       <title>Newsroom \ Anthropic</title>
       <link>https://www.anthropic.com/news</link>
       <description>…General Services Administration (GSA) through a new agreement that gives government partners a 40% discount on Claude Enterprise, Claude for Government, and the Claude API. Partnerships Oct 27, 2026 Oct 27,…</description>
@@ -298,7 +298,7 @@
     <item>
       <title>Pricing</title>
       <link>https://platform.openai.com/docs/pricing</link>
-      <description>…rates. Web search preview (non-reasoning models) $25.00 / 1k calls + Search content tokens are free. Containers Hosted Shell and Code Interpreter 1 GB $0.03, 4 GB $0.12, 16 GB $0.48, 64 GB $1.92 per…</description>
+      <description>…at model rates. Web search preview (other models) $25.00 / 1k calls + Search content tokens are free. Containers Hosted Shell and Code Interpreter 1 GB $0.03, 4 GB $0.12, 16 GB $0.48, 64 GB $1.92 per…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:de76b49c9d692247</guid>
       <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
       <category>OpenAI</category>
@@ -336,14 +336,6 @@
       <category>MiniMax</category>
     </item>
     <item>
-      <title>Google 母集团市值蒸发 5000 亿美元创纪录；苹果高管回应新 iPad mini 60Hz 刷新率；因电池问题，理想 MEGA 退一赔一｜极客早知道</title>
-      <link>http://www.geekpark.net/news/373154</link>
-      <description>…果会要求闪存供应商为其提供「最高优惠客户」地位，让公司能够始终拿到最低价的产品。为了确保供应商履约，苹果会持续审计供应商账目， 甚至因为审计次数实在太多 ， 成功让德勤（Deloitte）谈下批量审计折扣 。 这种频繁审计的手段，让苹果直接了解供应商业务运作和工厂产出情况，从而使苹果谈判人员准确判断厂商需要多大订单。苹果还成功利用这一条款，就美光以更低价格向其他客户出售 NAND 一事提起仲裁，然后成…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:f368eba63288acba</guid>
-      <pubDate>Fri, 30 Oct 2026 15:56:54 +0800</pubDate>
-      <category>资讯·极客公园</category>
-    </item>
-    <item>
       <title>Pricing</title>
       <link>https://replicate.com/pricing</link>
       <description>…are 50% until end of year Replicate glyph Explore Pricing Enterprise Docs Blog Sign in Try for free Menu Explore Pricing Enterprise Docs Blog Sign in Try for free Compare models in the Playground Pri…</description>
@@ -352,12 +344,44 @@
       <category>Replicate</category>
     </item>
     <item>
-      <title>From prompt to app: Build with Google Maps in AI Studio</title>
-      <link>https://developers.googleblog.com/from-prompt-to-app-build-with-google-maps-in-ai-studio/</link>
-      <description>…providing one-click demo keys that generate instantly without requiring Cloud Console redirects or credit cards. This setup grants developers immediate access to core APIs—including Maps, Places, and Route…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:b15b0d7e8447f82d</guid>
-      <pubDate>Tue, 10 Nov 2026 04:20:11 +0800</pubDate>
-      <category>Google Gemini</category>
+      <title>41年爱妻人设崩塌！黄仁勋一夜损失3万亿，或被英伟达免职；曝一汽大众取消两年「年终奖」，有人称合计约20万；豆包新图像模型价格下降</title>
+      <link>https://www.leiphone.com/category/zaobao/zcxkdPkvpprE36Zv.html</link>
+      <description>…OpenRouter数据仅统计经由该平台转发的API流量，厂商自有API、云服务、私有化部署以及面向C端的网页应用流量都没有纳入统计，不能等同于全球大模型整体市场份额。（快科技） WorkBuddy就折扣调整未及时公告致歉，将自动返还50%积分差额 11月8日晚，腾讯旗下AI工具WorkBuddy发布《关于DeepSeek-V4.1 Flash折扣活动的说明与补偿公告》，就优惠活动调整未及时公告向用户…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:75be1ac8bb2a1fc4</guid>
+      <pubDate>Tue, 10 Nov 2026 17:02:36 +0800</pubDate>
+      <category>资讯·雷锋网</category>
+    </item>
+    <item>
+      <title>VR 游戏《收获日：Aces High》登陆 Meta Quest 及 Steam VR 平台，国区首发价 81 元</title>
+      <link>https://www.ithome.com/1/024/892.htm</link>
+      <description>…IP《收获日（PAYDAY）》世界观为背景的 VR 游戏《收获日：Aces High》现已正式发售，登陆 Meta Quest 及 Steam VR 平台，目前游戏在 Steam 平台提供了忠实客户折扣，国区价格 90 元，首发 9 折后到手价 81 元，优惠至 2027 年 1 月 1 日，IT之家附游戏商品页（ https://store.steampowered.com/app/3456660…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:feb80c85f2657de8</guid>
+      <pubDate>Tue, 10 Nov 2026 17:02:36 +0800</pubDate>
+      <category>资讯·IT之家</category>
+    </item>
+    <item>
+      <title>千问办公押注 Team Agent，企业 AI 的流水线时刻真的来了</title>
+      <link>http://www.geekpark.net/news/373760</link>
+      <description>…得完整的上下文却需要企业把完整工作流迁移过来。 甚至客户沟通、部门讨论、文档修改，最好都发生在这个新产品里。 你可以把同事拉进自己的 Agent，却很难要求客户先安装一个新的 AI 产品，才能向他发送优惠券。 对于企业来说，既有 IM 也远不只是聊天工具。人员关系、权限、审批和业务习惯，都已经形成。企业愿意为新能力付费，并不意味着它可以为新产品重新组织一遍所有人的工作。 也是因此，另一条路径选择反过来，…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:9644a871df752bbe</guid>
+      <pubDate>Tue, 10 Nov 2026 17:02:36 +0800</pubDate>
+      <category>资讯·极客公园</category>
+    </item>
+    <item>
+      <title>火山方舟 模型计费说明</title>
+      <link>https://www.volcengine.com/docs/82379/1099320</link>
+      <description>…输入图单价（元/张） ​ 输出图单价（元/张） ​ 模型名称 ​ 输入图单价（元/张） ​ 输出图单价（元/张） ​ doubao-seedream-5-0-pro ​ 按生图场景区分定价 ​ 首张免费 ​ 第 2 张起：0.02 ​ 单图生成场景： ​ ≤ 261 万像素：0.30 ​ &gt; 261 万像素：0.60 ​ 图层拆分场景： ​ ≤ 261 万像素：0.15 ​ &gt; 261 万像素：0.…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:3f9515c4e7efd405</guid>
+      <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
+      <category>火山方舟·豆包</category>
+    </item>
+    <item>
+      <title>Google 母集团市值蒸发 5000 亿美元创纪录；苹果高管回应新 iPad mini 60Hz 刷新率；因电池问题，理想 MEGA 退一赔一｜极客早知道</title>
+      <link>http://www.geekpark.net/news/373154</link>
+      <description>…果会要求闪存供应商为其提供「最高优惠客户」地位，让公司能够始终拿到最低价的产品。为了确保供应商履约，苹果会持续审计供应商账目， 甚至因为审计次数实在太多 ， 成功让德勤（Deloitte）谈下批量审计折扣 。 这种频繁审计的手段，让苹果直接了解供应商业务运作和工厂产出情况，从而使苹果谈判人员准确判断厂商需要多大订单。苹果还成功利用这一条款，就美光以更低价格向其他客户出售 NAND 一事提起仲裁，然后成…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:f368eba63288acba</guid>
+      <pubDate>Fri, 30 Oct 2026 15:56:54 +0800</pubDate>
+      <category>资讯·极客公园</category>
     </item>
     <item>
       <title>BLG 不夺冠退全款：雷鸟 GT Max 智能 AR 眼镜 2288 元 10:00 蹲点抢</title>
@@ -781,30 +805,6 @@
       <description>…插拔磁吸电池更换，无线模式（IT之家注：即含电池）的质量为 49g，官方定价 890 元。 京东 11.11 大促期间，按下方步骤下单，叠加国补后仅需 664.25 元： 点击下方卡片，可领 85 元优惠券。 京东 怒喵 Infinity.100 电竞鼠标 PAW3950 三模 国补后 664.25 元 领 85 元券 京东 11.11 无门槛红包至高 26888 元，支持即领即用，下单直接当钱花： 点…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:85ccb68ac175d4a9</guid>
       <pubDate>Sat, 31 Oct 2026 23:34:14 +0800</pubDate>
-      <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>5000mAh 磁吸充电宝 11.11 再降：小米金沙江 299 → 202 元，安克 15W 213 元速度保价</title>
-      <link>https://www.ithome.com/1/020/602.htm</link>
-      <description>一周内在京东下单的小伙伴都可保价哦： 点此保价 。 新版小米金沙江充电宝 5000mAh 今日再降价，官方定价 299 元，今日京东 202 元。 iPhone 支持 7.5W 磁吸充电，支持 2026 新国标认证，重量 120g，厚度 6.75mm： PLUS 会员 1 积分兑换 111-11 元…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:9d1920b919e0708a</guid>
-      <pubDate>Sat, 31 Oct 2026 23:34:14 +0800</pubDate>
-      <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>85 英寸 10499 → 4934 元、98 英寸 13999 → 8399 元：小米电视 S Pro Mini LED 2026 再降价</title>
-      <link>https://www.ithome.com/1/020/473.htm</link>
-      <description>小米电视 S Pro Mini LED 2026 系列去年 9 月开售，今日 11.11 再次开启京东自营探底大促，各款直降至： 京东无门槛红包至高 26888 元，支持即领即用： 点此抽取 。 85 英寸 首销价 10499 元，今日国补后 5034 元。 先领电视 9.5 折加补券： 点此领券 （点击 一键领券 即可） 点击下方卡片 → 点击售价下方“ 家电家居多买多返 ”参加活动后再下单，京…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:dddba1625ec8fa4c</guid>
-      <pubDate>Sat, 31 Oct 2026 15:51:46 +0800</pubDate>
-      <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>40W 功率输出、20000 毫安时电芯，酷态科 CP24 电能块京东 69.4 元国补新低</title>
-      <link>https://www.ithome.com/1/020/484.htm</link>
-      <description>…东自营报价 113 元，叠加以下多重优惠，到手仅需 69.43 元。 单品满 1 件享 8.8 折； 京东潮流配件专区领券享 9 折（ 点此领券 ）； PLUS 专享 1 积分兑换满 111-11 元优惠券（ 点此兑换 ）； App 商品价格下方可领 10% 政府补贴，到手仅需 69.43 元。 京东 酷态科 CP24 电能块 40W 快充 20000mAh 自带线移动电源 券后 69.43 元 直达链…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:2461836a3397d8af</guid>
-      <pubDate>Sat, 31 Oct 2026 15:51:46 +0800</pubDate>
       <category>资讯·IT之家</category>
     </item>
   </channel>

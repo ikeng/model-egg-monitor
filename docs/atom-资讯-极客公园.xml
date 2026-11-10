@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://ikeng.github.io/model-egg-monitor/atom-资讯-极客公园.xml</id>
   <title>赛博鸡蛋 · 资讯·极客公园</title>
-  <updated>2026-11-10T04:20:37+08:00</updated>
+  <updated>2026-11-10T17:02:57+08:00</updated>
   <subtitle>大模型厂商活动监控</subtitle>
   <link rel="self" href="https://ikeng.github.io/model-egg-monitor/atom-资讯-极客公园.xml"/>
   <link rel="alternate" href="https://ikeng.github.io/model-egg-monitor/"/>
@@ -14,7 +14,7 @@
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:e3576583a2d513d3</id>
     <title>个人灵光 2.0 实测：个人 AI 助理的机会和门槛｜AI 上新</title>
-    <updated>2026-11-10T04:20:11+08:00</updated>
+    <updated>2026-11-10T17:02:36+08:00</updated>
     <published>2026-11-02T00:32:03+08:00</published>
     <link rel="alternate" href="http://www.geekpark.net/news/373249"/>
     <author><name>资讯·极客公园</name></author>
@@ -27,13 +27,13 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：降价&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-11-02T00:32:03+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-10T04:20:11+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-10T17:02:36+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;http://www.geekpark.net/news/373249&#34;&gt;http://www.geekpark.net/news/373249&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:e55dbcf6e9fdc20b</id>
     <title>创业者做 Personal Agent，有没有一线生机？</title>
-    <updated>2026-11-10T04:20:11+08:00</updated>
+    <updated>2026-11-10T17:02:36+08:00</updated>
     <published>2026-11-08T16:25:55+08:00</published>
     <link rel="alternate" href="http://www.geekpark.net/news/373650"/>
     <author><name>资讯·极客公园</name></author>
@@ -46,8 +46,27 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：免费额度&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-11-08T16:25:55+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-10T04:20:11+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-10T17:02:36+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;http://www.geekpark.net/news/373650&#34;&gt;http://www.geekpark.net/news/373650&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:9644a871df752bbe</id>
+    <title>千问办公押注 Team Agent，企业 AI 的流水线时刻真的来了</title>
+    <updated>2026-11-10T17:02:36+08:00</updated>
+    <published>2026-11-10T17:02:36+08:00</published>
+    <link rel="alternate" href="http://www.geekpark.net/news/373760"/>
+    <author><name>资讯·极客公园</name></author>
+    <category term="资讯·极客公园"/>
+    <summary type="text">…得完整的上下文却需要企业把完整工作流迁移过来。 甚至客户沟通、部门讨论、文档修改，最好都发生在这个新产品里。 你可以把同事拉进自己的 Agent，却很难要求客户先安装一个新的 AI 产品，才能向他发送优惠券。 对于企业来说，既有 IM 也远不只是聊天工具。人员关系、权限、审批和业务习惯，都已经形成。企业愿意为新能力付费，并不意味着它可以为新产品重新组织一遍所有人的工作。 也是因此，另一条路径选择反过来，…</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·极客公园&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：千问办公押注 Team Agent，企业 AI 的流水线时刻真的来了&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…得完整的上下文却需要企业把完整工作流迁移过来。 甚至客户沟通、部门讨论、文档修改，最好都发生在这个新产品里。 你可以把同事拉进自己的 Agent，却很难要求客户先安装一个新的 AI 产品，才能向他发送优惠券。 对于企业来说，既有 IM 也远不只是聊天工具。人员关系、权限、审批和业务习惯，都已经形成。企业愿意为新能力付费，并不意味着它可以为新产品重新组织一遍所有人的工作。 也是因此，另一条路径选择反过来，…&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：优惠券&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-11-10T17:02:36+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-10T17:02:36+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;http://www.geekpark.net/news/373760&#34;&gt;http://www.geekpark.net/news/373760&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:f368eba63288acba</id>
