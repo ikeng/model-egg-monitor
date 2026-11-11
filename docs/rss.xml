@@ -5,7 +5,7 @@
     <link>https://ikeng.github.io/model-egg-monitor/</link>
     <description>每日两次监控大模型厂商活动，提供 Atom / JSON Feed 订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 11 Nov 2026 16:42:40 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 01:37:56 +0800</lastBuildDate>
     <generator>ai-egg-monitor</generator>
     <item>
       <title>大模型 API 价格方案</title>
@@ -120,6 +120,14 @@
       <category>Cohere</category>
     </item>
     <item>
+      <title>ChatGPT Plus for veterans and servicemembers</title>
+      <link>https://openai.com/index/chatgpt-plus-for-veterans</link>
+      <description>More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:35fb57602c97775c</guid>
+      <pubDate>Wed, 11 Nov 2026 16:42:22 +0800</pubDate>
+      <category>OpenAI</category>
+    </item>
+    <item>
       <title>Google Beam expands with new regions, partners, and customers</title>
       <link>https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/</link>
       <description>Google Beam promotional animation</description>
@@ -130,7 +138,7 @@
     <item>
       <title>火山方舟 模型计费说明</title>
       <link>https://www.volcengine.com/docs/82379/1099320</link>
-      <description>…输入图单价（元/张） ​ 输出图单价（元/张） ​ 模型名称 ​ 输入图单价（元/张） ​ 输出图单价（元/张） ​ doubao-seedream-5-0-pro ​ 按生图场景区分定价 ​ 首张免费 ​ 第 2 张起：0.02 ​ 单图生成场景： ​ ≤ 261 万像素：0.30 ​ &gt; 261 万像素：0.60 ​ 图层拆分场景： ​ ≤ 261 万像素：0.15 ​ &gt; 261 万像素：0.…</description>
+      <description>…输入图单价（元/张） ​ 输出图单价（元/张） ​ 模型名称 ​ 输入图单价（元/张） ​ 输出图单价（元/张） ​ doubao-seedream-5-0-pro ​ 按生图场景区分定价 ​ 首张免费 ​ 第 2 张起：0.02 ​ 单图生成场景： ​ ≤ 2.61M 像素：0.30 ​ &gt; 2.61M 像素：0.60 ​ 图层拆分场景： ​ ≤ 2.61M 像素：0.15 ​ &gt; 2.61M 像…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:3f9515c4e7efd405</guid>
       <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
       <category>火山方舟·豆包</category>
@@ -328,6 +336,14 @@
       <category>OpenRouter</category>
     </item>
     <item>
+      <title>11月11日，全年最便宜的一天！iPhone18 Pro天猫降价2247元</title>
+      <link>https://www.leiphone.com/category/industrynews/mDFlNg5u779ud9rz.html</link>
+      <description>11月11日，全年最便宜的一天，iPhone 18 Pro 迎来降价。 记者在“天猫校园教育官方旗舰店”看到，iPhone 18 Pro 最高降价2247元，到手价仅需7752元！相当于打了7.8折，还支持12期分期免息，刷新上市以来的全网历史最低价。 经实测，上述优…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:d3f6bb3fd0a573e5</guid>
+      <pubDate>Wed, 11 Nov 2026 16:42:22 +0800</pubDate>
+      <category>资讯·雷锋网</category>
+    </item>
+    <item>
       <title>面壁智能</title>
       <link>https://modelbest.cn/</link>
       <description>…为每位开发者用户节省年费 264 美元（ElevenLabs 年费，接近 1800 元人民币）！ MiniCPM‑V 4.6 开源即爆火！登顶 Hugging Face Trending Top 2，免费 API 开放 5月11日，面壁智能联合清华大学、OpenBMB一同发布并开源了MiniCPM-V 4.6，一经开源便点燃了全球开发者的热情！开源后迅速登顶Hugging Face的趋势榜单Top 2…</description>
@@ -368,6 +384,14 @@
       <category>百度文心</category>
     </item>
     <item>
+      <title>当美国无法建设数据中心，会对 AI 产生怎样的冲击</title>
+      <link>http://www.geekpark.net/news/373816</link>
+      <description>…。 两种算法口径下，电力冻结前后的有效算力年增速（推算）｜图片来源：极客公园 这里还有一个隐患。芯片能效的红利，前提是新芯片能顺利装进机房。机房总电量锁死后，供电和散热改造的难度，可能让这 2 倍也打折扣。 即便如此，每年约 6 倍依然是可观的数字。推演下来，结论很清楚： 极端场景下， AI 会 明显减速，但不会停摆 。 不过这笔账只算了训练需要的算力部分， 把视野放到整个 AI 的运转上，电量锁死之…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:e9ab14c6db1daf54</guid>
+      <pubDate>Wed, 11 Nov 2026 16:42:22 +0800</pubDate>
+      <category>资讯·极客公园</category>
+    </item>
+    <item>
       <title>定价概览</title>
       <link>https://platform.minimaxi.com/document/price</link>
       <description>…标点等 Token与字符比（估算）：1600 中文字符约消耗 1000 tokens ​ 视频 立即充值 ​ H3 系列旗舰模型 模型 输出分辨率 输出视频 每秒 输入视频 每秒 输入图片 每张 超出免费额度后 MiniMax-H3 画质优先，适合高品质视频创作 2K ¥0.80 ¥0.20 768P ¥0.50 ¥0.20 MiniMax-H3-Highspeed 兼顾质量与速度，适合日常内容创作…</description>
@@ -384,27 +408,19 @@
       <category>Replicate</category>
     </item>
     <item>
-      <title>ChatGPT Plus for veterans and servicemembers</title>
-      <link>https://openai.com/index/chatgpt-plus-for-veterans</link>
-      <description>More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:35fb57602c97775c</guid>
-      <pubDate>Wed, 11 Nov 2026 16:42:22 +0800</pubDate>
-      <category>OpenAI</category>
+      <title>11.11 倒数 1 小时：友望 S20 洗地机 2499 → 375 元再降价，推入式基站更方便</title>
+      <link>https://www.ithome.com/1/025/813.htm</link>
+      <description>友望 S20 灵犀洗地机上市价 2499 元，官方日常大促价 699 元。 今日京东直降至 491 元（点击下方卡片，系统自动弹出 8.8 折券，需 手动领券 ），晒单返 100 元 E 卡。 售价下方可选“ 京东组合购 ”，选择任意电器一起下单（凑单品付款后可立即退款），洗地机 实付 475 元 ，返卡后折合 375 元。 京东 友望 S20 灵犀推入式洗地机 180° 躺平 毛发防缠绕系统 组…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:514a3775195f06f0</guid>
+      <pubDate>Thu, 12 Nov 2026 01:37:37 +0800</pubDate>
+      <category>资讯·IT之家</category>
     </item>
     <item>
-      <title>11月11日，全年最便宜的一天！iPhone18 Pro天猫降价2247元</title>
-      <link>https://www.leiphone.com/category/industrynews/mDFlNg5u779ud9rz.html</link>
-      <description>11月11日，全年最便宜的一天，iPhone 18 Pro 迎来降价。 记者在“天猫校园教育官方旗舰店”看到，iPhone 18 Pro 最高降价2247元，到手价仅需7752元！相当于打了7.8折，还支持12期分期免息，刷新上市以来的全网历史最低价。 经实测，上述优…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:d3f6bb3fd0a573e5</guid>
-      <pubDate>Wed, 11 Nov 2026 16:42:22 +0800</pubDate>
-      <category>资讯·雷锋网</category>
-    </item>
-    <item>
-      <title>东安动力：预计全年增程器销量占比超 30%，产能可满足车厂需求</title>
-      <link>https://www.ithome.com/1/025/585.htm</link>
-      <description>…季度营业亏损 7492.49 万元。 第三季度单季营业收入 11.72 亿元，同比下降 8.97%；归母净亏损 7494.72 万元，扣非归母净亏损 9232.62 万元。公司指出，产品结构变化及产品降价导致当季毛利率下降，对盈利形成压力。</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:8aaf853c407e555f</guid>
-      <pubDate>Wed, 11 Nov 2026 16:42:22 +0800</pubDate>
+      <title>2027 年第八届华为睿影 XMAGE 金鸡手机电影计划全球征片开启：设 7 项荣誉共 19 部荣誉作品</title>
+      <link>https://www.ithome.com/1/025/799.htm</link>
+      <description>…入围名单已于今年 10 月正式揭晓。 本届投稿作品达 6728 部，63 部作品成功突围 。本月早些时候（11 月 9 日）， 13 部荣誉作品揭晓 。 IT之家小伙伴记得用 最会买购买电影票 ，享受折扣价的同时还可以获得返利，预计每张票可以节省 5~15 元！ 延伸阅读 金鸡手机电影计划由中国金鸡百花电影节与华为手机于 2019 年共同设立，是国内手机电影的独立评选单元；2020 年起该计划逐年举办…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:7968367719982b66</guid>
+      <pubDate>Thu, 12 Nov 2026 01:37:37 +0800</pubDate>
       <category>资讯·IT之家</category>
     </item>
     <item>
@@ -412,14 +428,6 @@
       <link>https://www.ithome.com/1/025/560.htm</link>
       <description>…化营收规模约为 500 亿美元 （现汇率约合 3,343.88 亿元人民币） 。 今年，OpenAI 在部分指标上曾落后于长期竞争对手 Anthropic，但随着新一代 AI 模型竞争力提升、产品大幅降价，以及业务重心进一步转向帮助客户自动完成工作的 AI 智能体，OpenAI 重新获得增长动力。Anthropic 营收增速开始有所放缓，OpenAI 的业务增长则显现提速迹象。 即将登陆美股的 Ant…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:14fb26816976f65d</guid>
-      <pubDate>Wed, 11 Nov 2026 16:42:22 +0800</pubDate>
-      <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>苹果 AirPods 京东 11.11 补贴释放：AirPods Pro 3 国补后 1088 元 1 小时达</title>
-      <link>https://www.ithome.com/1/025/558.htm</link>
-      <description>AirPods Pro 3 定价 1899 元，京东今日再降价，PLUS 折后仅需 1279 元。 支持国补地区折后 1088 元 ，今日下单时可见预计送达时间，大多数地区 1 小时左右即可送达： 京东 11.11 苹果新品加补券： 点此领券 京东 PLUS 可…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:42cc5f6946b87e22</guid>
       <pubDate>Wed, 11 Nov 2026 16:42:22 +0800</pubDate>
       <category>资讯·IT之家</category>
     </item>
@@ -432,20 +440,28 @@
       <category>资讯·IT之家</category>
     </item>
     <item>
+      <title>苹果 AirPods 京东 11.11 补贴释放：AirPods Pro 3 国补后 1088 元 1 小时达</title>
+      <link>https://www.ithome.com/1/025/558.htm</link>
+      <description>AirPods Pro 3 定价 1899 元，京东今日再降价，PLUS 折后仅需 1279 元。 支持国补地区折后 1088 元 ，今日下单时可见预计送达时间，大多数地区 1 小时左右即可送达： 京东 11.11 苹果新品加补券： 点此领券 京东 PLUS 可…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:42cc5f6946b87e22</guid>
+      <pubDate>Wed, 11 Nov 2026 16:42:22 +0800</pubDate>
+      <category>资讯·IT之家</category>
+    </item>
+    <item>
+      <title>东安动力：预计全年增程器销量占比超 30%，产能可满足车厂需求</title>
+      <link>https://www.ithome.com/1/025/585.htm</link>
+      <description>…季度营业亏损 7492.49 万元。 第三季度单季营业收入 11.72 亿元，同比下降 8.97%；归母净亏损 7494.72 万元，扣非归母净亏损 9232.62 万元。公司指出，产品结构变化及产品降价导致当季毛利率下降，对盈利形成压力。</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:8aaf853c407e555f</guid>
+      <pubDate>Wed, 11 Nov 2026 16:42:22 +0800</pubDate>
+      <category>资讯·IT之家</category>
+    </item>
+    <item>
       <title>漫威新剧《幻视任务》今日完结：绯红女巫旺达现身片尾彩蛋，或将在《复仇者联盟 5》回归</title>
       <link>https://www.ithome.com/1/025/549.htm</link>
       <description>…，会链接 X 战警、神奇四侠等超级英雄的世界。而毁灭博士在故事里将执行他的计划 —— 多元宇宙碰撞导致了他的家庭破碎，因此他决定创造一个全新秩序的宇宙。 IT之家小伙伴记得用 最会买购买电影票 ，享受折扣价的同时还可以获得返利，预计每张票可以节省 5~15 元！</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:ac75c0511c3355eb</guid>
       <pubDate>Wed, 11 Nov 2026 16:42:22 +0800</pubDate>
       <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>当美国无法建设数据中心，会对 AI 产生怎样的冲击</title>
-      <link>http://www.geekpark.net/news/373816</link>
-      <description>…。 两种算法口径下，电力冻结前后的有效算力年增速（推算）｜图片来源：极客公园 这里还有一个隐患。芯片能效的红利，前提是新芯片能顺利装进机房。机房总电量锁死后，供电和散热改造的难度，可能让这 2 倍也打折扣。 即便如此，每年约 6 倍依然是可观的数字。推演下来，结论很清楚： 极端场景下， AI 会 明显减速，但不会停摆 。 不过这笔账只算了训练需要的算力部分， 把视野放到整个 AI 的运转上，电量锁死之…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:e9ab14c6db1daf54</guid>
-      <pubDate>Wed, 11 Nov 2026 16:42:22 +0800</pubDate>
-      <category>资讯·极客公园</category>
     </item>
     <item>
       <title>第 39 届中国电影金鸡奖全名单公布，《浪浪山小妖怪》《窗外是蓝星》《给阿嬷的情书》等获奖</title>
@@ -790,22 +806,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:53d1c538b1d197dd</guid>
       <pubDate>Wed, 04 Nov 2026 16:25:24 +0800</pubDate>
       <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>【随时结束】WPS 京东 PLUS 联合会员 177 元年内新低，单个会员 1 年仅需 44 元</title>
-      <link>https://www.ithome.com/1/022/180.htm</link>
-      <description>…，其中赠送的 12 积分有效期 30 天。 活动随时结束 WPS 超级会员 3 年日常 298 元，今日买超会 3 年送京东 PLUS 会员 1 年，首次购买用户叠加 25 元首购礼金，领取 30 元优惠券。 部分用户可叠加京东平台 46 元补贴（加入购物车后，京东 App 首页搜索“WPS 会员”直接下单即可） 实付 197 元，此项优惠 限账号 。 下单前加入店铺会员，付款后可兑换 20 元京东 E…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:d9b4b38eb2046962</guid>
-      <pubDate>Wed, 04 Nov 2026 16:25:24 +0800</pubDate>
-      <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>机器人也中暑？宇树机器人因过热退出登泰山大赛，被担架抬下山；罗技又侮辱用户像狗，「一打折就凑上来」；曝iPhone Duo国行美版存在差异</title>
-      <link>https://www.leiphone.com/category/zaobao/wXLd0iiBxf86pe0t.html</link>
-      <description>…模型？GPT-6.2 Astra曝光 今日头条 7个月内连上2次热搜！罗技广告再被指“侮辱用户像狗”，客服回应 11 月 2 日消息，今年 3 月罗技官方旗舰店在推广 GPW3 鼠标时，曾发布“当我一降价，你还不是像狗一样跑过来”的争议性宣传文案，引发大量玩家不满，官方后续致歉，运营公司也被市场监管部门罚款20万元。 不过有网友发现，“罗技 G 影音旗舰店官方号”近期的 GPW4 朱雀鼠标推广视频中又…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:18fa1d8b84f080dc</guid>
-      <pubDate>Tue, 03 Nov 2026 16:54:01 +0800</pubDate>
-      <category>资讯·雷锋网</category>
     </item>
   </channel>
 </rss>
