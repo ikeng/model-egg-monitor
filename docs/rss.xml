@@ -5,7 +5,7 @@
     <link>https://ikeng.github.io/model-egg-monitor/</link>
     <description>每日两次监控大模型厂商活动，提供 Atom / JSON Feed 订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 12 Nov 2026 01:37:56 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 01:49:56 +0800</lastBuildDate>
     <generator>ai-egg-monitor</generator>
     <item>
       <title>大模型 API 价格方案</title>
@@ -66,7 +66,7 @@
     <item>
       <title>OpenRouter FAQ</title>
       <link>https://openrouter.ai/docs/faq</link>
-      <description>…a fee of . Is there a fee for using my own provider keys (BYOK)? Yes. BYOK has a plan-dependent free allowance measured by list-price inference cost, not request count. Pay-as-you-go includes $25,000…</description>
+      <description>…a fee of 5% . Is there a fee for using my own provider keys (BYOK)? Yes. BYOK has a plan-dependent free allowance measured by list-price inference cost, not request count. Pay-as-you-go includes $25,000…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:1d3f6027b51f1841</guid>
       <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
       <category>OpenRouter</category>
@@ -138,7 +138,7 @@
     <item>
       <title>火山方舟 模型计费说明</title>
       <link>https://www.volcengine.com/docs/82379/1099320</link>
-      <description>…输入图单价（元/张） ​ 输出图单价（元/张） ​ 模型名称 ​ 输入图单价（元/张） ​ 输出图单价（元/张） ​ doubao-seedream-5-0-pro ​ 按生图场景区分定价 ​ 首张免费 ​ 第 2 张起：0.02 ​ 单图生成场景： ​ ≤ 2.61M 像素：0.30 ​ &gt; 2.61M 像素：0.60 ​ 图层拆分场景： ​ ≤ 2.61M 像素：0.15 ​ &gt; 2.61M 像…</description>
+      <description>…​ 0.05 ​ P ≤ 2.61M：0.13 ​ 2.61M &lt; P ≤ 4.63M：0.23 ​ doubao-seedream-5-0-pro ​ 按生图场景区分定价 ​ 首张免费 ​ 第 2 张起：0.02 ​ 单图生成场景： ​ P ≤ 2.61M：0.30 ​ P &gt; 2.61M：0.60 ​ 图层拆分场景： ​ P ≤ 2.61M：0.15 ​ P &gt; 2.61M：0.…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:3f9515c4e7efd405</guid>
       <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
       <category>火山方舟·豆包</category>
@@ -166,14 +166,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:50e017209458414f</guid>
       <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
       <category>RunPod</category>
-    </item>
-    <item>
-      <title>灵光接入什么值得买，AI助理开始帮用户“盯好价”</title>
-      <link>https://www.leiphone.com/category/industrynews/Z3dOHYCNYfPNwijf.html</link>
-      <description>…难题并不是下单，而是如何在海量商品、复杂促销和不断变化的价格中作出判断。以购买一台扫地机器人为例： 过去，用户通常需要在多个平台之间比较型号、配置、价格和促销活动。如果暂时不买，还需要反复查看商品是否降价、优惠如何叠加，费时费力。 现在，用户在灵光App输入“双11准备买一个扫地机器人，帮我看看哪款扫地机器人更值得买？”借助与什么值得买的服务连接，灵光会自主完成扫地机器人的优劣对比和好价监控，若用户暂…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:5608c3065837ba74</guid>
-      <pubDate>Wed, 11 Nov 2026 01:24:30 +0800</pubDate>
-      <category>资讯·雷锋网</category>
     </item>
     <item>
       <title>Pricing: Pay per second for GPUs and CPUs</title>
@@ -214,22 +206,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:74b59133ae9afdfe</guid>
       <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
       <category>硅基流动 SiliconFlow</category>
-    </item>
-    <item>
-      <title>41年爱妻人设崩塌！黄仁勋一夜损失3万亿，或被英伟达免职；曝一汽大众取消两年「年终奖」，有人称合计约20万；豆包新图像模型价格下降</title>
-      <link>https://www.leiphone.com/category/zaobao/zcxkdPkvpprE36Zv.html</link>
-      <description>…OpenRouter数据仅统计经由该平台转发的API流量，厂商自有API、云服务、私有化部署以及面向C端的网页应用流量都没有纳入统计，不能等同于全球大模型整体市场份额。（快科技） WorkBuddy就折扣调整未及时公告致歉，将自动返还50%积分差额 11月8日晚，腾讯旗下AI工具WorkBuddy发布《关于DeepSeek-V4.1 Flash折扣活动的说明与补偿公告》，就优惠活动调整未及时公告向用户…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:75be1ac8bb2a1fc4</guid>
-      <pubDate>Tue, 10 Nov 2026 17:02:36 +0800</pubDate>
-      <category>资讯·雷锋网</category>
-    </item>
-    <item>
-      <title>吉利星愿上市两年，刷新全球最快百万销量速度纪录</title>
-      <link>https://www.leiphone.com/category/transportation/B2THcx5nSUHfjI4N.html</link>
-      <description>…全新版型的同时，吉利星愿还同步发布了“百万达成宠粉权益”：百万用户都可登录吉利银河App参与抽奖，涵盖爷爷不泡茶奶茶券、吉利星愿百万销量纪念徽章、吉利星愿车载生态精品、卡皮巴拉治愈IP周边及充电服务费折扣券等。满足个性化需求，关照日常用车点滴，已成为吉利星愿与用户长久相处的方式。 值得关注的是，围绕不断变化的审美喜好与出行场景，吉利星愿STAR限定系列将持续焕新，推出更多新版型与新体验，让每一种生活方…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:7de1be5c684e1856</guid>
-      <pubDate>Wed, 11 Nov 2026 01:24:30 +0800</pubDate>
-      <category>资讯·雷锋网</category>
     </item>
     <item>
       <title>Try NVIDIA NIM APIs</title>
@@ -306,7 +282,7 @@
     <item>
       <title>Pricing</title>
       <link>https://www.together.ai/pricing</link>
-      <description>…0.20 (cached) $10.00 Qwen3.7-Plus $0.32 $1.28 GLM-5.2 $1.40 $0.26 (cached) $4.40 Ternary Bonsai 27B Free DeepSeek V4 Pro 0813 $1.32 $0.13 (cached) $3.96 Qwen3.8 Flash $0.15 $0.47 NVIDIA Nemotron 3.5 Super…</description>
+      <description>…V4.1 Flash $0.30 $0.006 (cached) $1.20 GLM-5.2 $1.40 $0.26 (cached) $4.40 Ternary Bonsai 27B Free Muse Glimmer 30B $0.35 $0.04 (cached) $1.50 gpt-oss-120B $0.15 $0.60 Qwen3.5 9B $0.17 $0.25 Kimi K3…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:b99574d412655a47</guid>
       <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
       <category>Together AI</category>
@@ -336,14 +312,6 @@
       <category>OpenRouter</category>
     </item>
     <item>
-      <title>11月11日，全年最便宜的一天！iPhone18 Pro天猫降价2247元</title>
-      <link>https://www.leiphone.com/category/industrynews/mDFlNg5u779ud9rz.html</link>
-      <description>11月11日，全年最便宜的一天，iPhone 18 Pro 迎来降价。 记者在“天猫校园教育官方旗舰店”看到，iPhone 18 Pro 最高降价2247元，到手价仅需7752元！相当于打了7.8折，还支持12期分期免息，刷新上市以来的全网历史最低价。 经实测，上述优…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:d3f6bb3fd0a573e5</guid>
-      <pubDate>Wed, 11 Nov 2026 16:42:22 +0800</pubDate>
-      <category>资讯·雷锋网</category>
-    </item>
-    <item>
       <title>面壁智能</title>
       <link>https://modelbest.cn/</link>
       <description>…为每位开发者用户节省年费 264 美元（ElevenLabs 年费，接近 1800 元人民币）！ MiniCPM‑V 4.6 开源即爆火！登顶 Hugging Face Trending Top 2，免费 API 开放 5月11日，面壁智能联合清华大学、OpenBMB一同发布并开源了MiniCPM-V 4.6，一经开源便点燃了全球开发者的热情！开源后迅速登顶Hugging Face的趋势榜单Top 2…</description>
@@ -360,28 +328,12 @@
       <category>OpenAI</category>
     </item>
     <item>
-      <title>个人灵光 2.0 实测：个人 AI 助理的机会和门槛｜AI 上新</title>
-      <link>http://www.geekpark.net/news/373249</link>
-      <description>…宝的反爬风控机制拦截在外。 米家也是类似的情况：扫码授权成功后，小米的接口连续两次触发限流，设备列表始终拉取失败。 灵光进不了淘宝的购物车，但千问却可以。 当我们把同一句指令「帮我看看淘宝购物车有什么降价幅度比较大的商品」发给千问时，两者的权限差距一目了然：千问不仅直接列出了购物车清单，甚至清楚地知道里面那把人体工学椅「已经加购快 300 天、看了几十次」。 与此同时，支付路径，阿里目前也没有向灵光…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:e3576583a2d513d3</guid>
-      <pubDate>Mon, 02 Nov 2026 00:32:03 +0800</pubDate>
-      <category>资讯·极客公园</category>
-    </item>
-    <item>
       <title>创业者做 Personal Agent，有没有一线生机？</title>
       <link>http://www.geekpark.net/news/373650</link>
       <description>…。 大厂为什么下场？创业者又在面对什么难题？ 看看各家科技巨头的打法：Anthropic 把 Claude 的订阅定价压得远低于同等额度 API 的成本，时不时还刷新一次额度。各家也在客户端里纷纷推出免费额度吸引用户，还将免费时效一延再延。马斯克都忍不住在 X 上感慨，Grok Bot 的服务成本相对于其收入而言高得不可持续。 把用户吸引到自己的应用里跑任务，可以看得到用户设置了什么任务、如何分段提问、如…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:e55dbcf6e9fdc20b</guid>
       <pubDate>Sun, 08 Nov 2026 16:25:55 +0800</pubDate>
       <category>资讯·极客公园</category>
-    </item>
-    <item>
-      <title>千帆大模型平台</title>
-      <link>https://cloud.baidu.com/product/wenxinworkshop</link>
-      <description>…28b-a3b 上下文 32K,30K+8K 输入价格 ¥0.001/ 千tokens 输出价格 ¥0.01/ 千tokens 立即体验 探索更多大模型 独家优质Skill与精选MCP服务 百度搜索 免费试用 独家 Skill MCP 百度搜索（BaiduSearch）服务基于百度搜索能力与AI技术，专为生成式AI提供全网实时信息检索服务，具备海量内容站点、高权威性，强时效性，提供全新的搜索体验。 了…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:e8a5979a892b82c1</guid>
-      <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
-      <category>百度文心</category>
     </item>
     <item>
       <title>当美国无法建设数据中心，会对 AI 产生怎样的冲击</title>
@@ -408,6 +360,46 @@
       <category>Replicate</category>
     </item>
     <item>
+      <title>消费券、平台IP...这些品牌如何在双11联动平台玩法撬动新增长？</title>
+      <link>https://www.leiphone.com/category/industrynews/FhgwAvxGA1zvxyv5.html</link>
+      <description>…短视频、图文的全域种草，联动达人带话题发布超25条种草内容引流。 此外，值得关注的是AI辅助提效方面的成果，品牌使用AIGC工具辅助素材制作，开门红期间新建素材占比达70%。叠加 平台消费券、千川智能优惠券、领航补贴等多重权益 ，获得平台“加补”标签。最终，徕芬支付GMV同比增长85%，登上抖音个护健康商品总榜TOP1。 Gauroly：自制短剧搭“龙宫开仓夜”，直播间日均GMV同比增长13 倍 当短剧…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:bdd85b3766e15f4a</guid>
+      <pubDate>Fri, 13 Nov 2026 01:49:33 +0800</pubDate>
+      <category>资讯·雷锋网</category>
+    </item>
+    <item>
+      <title>突发！黄仁勋被曝与高管有新婚外情，英伟达启动罢免，猎头已物色其接班人；百度发布文心全新开源模型；余承东官宣华为子品牌「星芒」</title>
+      <link>https://www.leiphone.com/category/zaobao/eX3oZsWdbpVbMcto.html</link>
+      <description>…至 9 月底，年化营收规模约为 500 亿美元（约合 3,343.88 亿元）。 今年，OpenAI 在部分指标上曾落后于长期竞争对手 Anthropic，但随着新一代 AI 模型竞争力提升、产品大幅降价，以及业务重心进一步转向帮助客户自动完成工作的 AI 智能体，OpenAI 重新获得增长动力。Anthropic 营收增速开始有所放缓，OpenAI 的业务增长则显现提速迹象。 即将登陆美股的 Ant…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:cf308f21a4176506</guid>
+      <pubDate>Fri, 13 Nov 2026 01:49:33 +0800</pubDate>
+      <category>资讯·雷锋网</category>
+    </item>
+    <item>
+      <title>Epic 喜加一：《斗阵骑士 Knightica》游戏免费领取</title>
+      <link>https://www.ithome.com/1/026/440.htm</link>
+      <description>IT之家 11 月 13 日消息，Epic 本周送出的游戏是《斗阵骑士 Knightica》，下周送出的游戏是《Alien: Isolation》，《Mark of the Deep》。 领取链接： 《斗阵骑士 Knightica》 IT之家附《斗阵骑士 Knightica》游戏简介： 《Knightica》是一款回合制类 Roguelike 自走棋游戏，在这里，各类身负绝技的单位将为你所用，集结…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:fb35d54454428b31</guid>
+      <pubDate>Fri, 13 Nov 2026 01:49:33 +0800</pubDate>
+      <category>资讯·IT之家</category>
+    </item>
+    <item>
+      <title>物理驱动合作生存恐怖游戏《危险等级》今日结束抢先体验：国区售价 40 元，支持简体中文</title>
+      <link>https://www.ithome.com/1/026/427.htm</link>
+      <description>…Legends 系列中的 Kitsune、Dragon、Unicorn、Minotaur、Kelpie 五款 DLC 单独售价均为 18 元，捆绑包打包价 87.3 元（Kitsune DLC 当前折扣后 15.30 元）。另有三款发行商合集包可选：Hazard Levels 豪华版捆绑包 114.57 元（含 6 个项目，立省 10%）、Wales Interactive Developer Co…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:5dbb42dffb691c95</guid>
+      <pubDate>Fri, 13 Nov 2026 01:49:33 +0800</pubDate>
+      <category>资讯·IT之家</category>
+    </item>
+    <item>
+      <title>接入多款第三方模型，豆包工作也模型自由了</title>
+      <link>http://www.geekpark.net/news/373881</link>
+      <description>…需选型完成任务。同步在模型选择页面标注各模型额度消耗倍率，倍率越低消耗越少，便于用户结合任务需求与使用成本做决策。 同时平台推出两项限时优惠：一是工作日及节假日的指定时段内，使用活动模型可享受额度消耗折扣；二是豆包 2.1 Lite、DeepSeek V4.1 Flash 两款模型限时下调额度消耗倍率，同等任务消耗额度更少。 一、补全多模型，解决「有的选」 本轮更新中，豆包工作一次性接入 Kimi 3…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:a2dbc08f09b87811</guid>
+      <pubDate>Fri, 13 Nov 2026 01:49:33 +0800</pubDate>
+      <category>资讯·极客公园</category>
+    </item>
+    <item>
       <title>11.11 倒数 1 小时：友望 S20 洗地机 2499 → 375 元再降价，推入式基站更方便</title>
       <link>https://www.ithome.com/1/025/813.htm</link>
       <description>友望 S20 灵犀洗地机上市价 2499 元，官方日常大促价 699 元。 今日京东直降至 491 元（点击下方卡片，系统自动弹出 8.8 折券，需 手动领券 ），晒单返 100 元 E 卡。 售价下方可选“ 京东组合购 ”，选择任意电器一起下单（凑单品付款后可立即退款），洗地机 实付 475 元 ，返卡后折合 375 元。 京东 友望 S20 灵犀推入式洗地机 180° 躺平 毛发防缠绕系统 组…</description>
@@ -416,12 +408,60 @@
       <category>资讯·IT之家</category>
     </item>
     <item>
+      <title>灵光接入什么值得买，AI助理开始帮用户“盯好价”</title>
+      <link>https://www.leiphone.com/category/industrynews/Z3dOHYCNYfPNwijf.html</link>
+      <description>…难题并不是下单，而是如何在海量商品、复杂促销和不断变化的价格中作出判断。以购买一台扫地机器人为例： 过去，用户通常需要在多个平台之间比较型号、配置、价格和促销活动。如果暂时不买，还需要反复查看商品是否降价、优惠如何叠加，费时费力。 现在，用户在灵光App输入“双11准备买一个扫地机器人，帮我看看哪款扫地机器人更值得买？”借助与什么值得买的服务连接，灵光会自主完成扫地机器人的优劣对比和好价监控，若用户暂…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:5608c3065837ba74</guid>
+      <pubDate>Wed, 11 Nov 2026 01:24:30 +0800</pubDate>
+      <category>资讯·雷锋网</category>
+    </item>
+    <item>
+      <title>41年爱妻人设崩塌！黄仁勋一夜损失3万亿，或被英伟达免职；曝一汽大众取消两年「年终奖」，有人称合计约20万；豆包新图像模型价格下降</title>
+      <link>https://www.leiphone.com/category/zaobao/zcxkdPkvpprE36Zv.html</link>
+      <description>…OpenRouter数据仅统计经由该平台转发的API流量，厂商自有API、云服务、私有化部署以及面向C端的网页应用流量都没有纳入统计，不能等同于全球大模型整体市场份额。（快科技） WorkBuddy就折扣调整未及时公告致歉，将自动返还50%积分差额 11月8日晚，腾讯旗下AI工具WorkBuddy发布《关于DeepSeek-V4.1 Flash折扣活动的说明与补偿公告》，就优惠活动调整未及时公告向用户…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:75be1ac8bb2a1fc4</guid>
+      <pubDate>Tue, 10 Nov 2026 17:02:36 +0800</pubDate>
+      <category>资讯·雷锋网</category>
+    </item>
+    <item>
       <title>2027 年第八届华为睿影 XMAGE 金鸡手机电影计划全球征片开启：设 7 项荣誉共 19 部荣誉作品</title>
       <link>https://www.ithome.com/1/025/799.htm</link>
       <description>…入围名单已于今年 10 月正式揭晓。 本届投稿作品达 6728 部，63 部作品成功突围 。本月早些时候（11 月 9 日）， 13 部荣誉作品揭晓 。 IT之家小伙伴记得用 最会买购买电影票 ，享受折扣价的同时还可以获得返利，预计每张票可以节省 5~15 元！ 延伸阅读 金鸡手机电影计划由中国金鸡百花电影节与华为手机于 2019 年共同设立，是国内手机电影的独立评选单元；2020 年起该计划逐年举办…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:7968367719982b66</guid>
       <pubDate>Thu, 12 Nov 2026 01:37:37 +0800</pubDate>
       <category>资讯·IT之家</category>
+    </item>
+    <item>
+      <title>吉利星愿上市两年，刷新全球最快百万销量速度纪录</title>
+      <link>https://www.leiphone.com/category/transportation/B2THcx5nSUHfjI4N.html</link>
+      <description>…全新版型的同时，吉利星愿还同步发布了“百万达成宠粉权益”：百万用户都可登录吉利银河App参与抽奖，涵盖爷爷不泡茶奶茶券、吉利星愿百万销量纪念徽章、吉利星愿车载生态精品、卡皮巴拉治愈IP周边及充电服务费折扣券等。满足个性化需求，关照日常用车点滴，已成为吉利星愿与用户长久相处的方式。 值得关注的是，围绕不断变化的审美喜好与出行场景，吉利星愿STAR限定系列将持续焕新，推出更多新版型与新体验，让每一种生活方…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:7de1be5c684e1856</guid>
+      <pubDate>Wed, 11 Nov 2026 01:24:30 +0800</pubDate>
+      <category>资讯·雷锋网</category>
+    </item>
+    <item>
+      <title>11月11日，全年最便宜的一天！iPhone18 Pro天猫降价2247元</title>
+      <link>https://www.leiphone.com/category/industrynews/mDFlNg5u779ud9rz.html</link>
+      <description>11月11日，全年最便宜的一天，iPhone 18 Pro 迎来降价。 记者在“天猫校园教育官方旗舰店”看到，iPhone 18 Pro 最高降价2247元，到手价仅需7752元！相当于打了7.8折，还支持12期分期免息，刷新上市以来的全网历史最低价。 经实测，上述优…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:d3f6bb3fd0a573e5</guid>
+      <pubDate>Wed, 11 Nov 2026 16:42:22 +0800</pubDate>
+      <category>资讯·雷锋网</category>
+    </item>
+    <item>
+      <title>个人灵光 2.0 实测：个人 AI 助理的机会和门槛｜AI 上新</title>
+      <link>http://www.geekpark.net/news/373249</link>
+      <description>…宝的反爬风控机制拦截在外。 米家也是类似的情况：扫码授权成功后，小米的接口连续两次触发限流，设备列表始终拉取失败。 灵光进不了淘宝的购物车，但千问却可以。 当我们把同一句指令「帮我看看淘宝购物车有什么降价幅度比较大的商品」发给千问时，两者的权限差距一目了然：千问不仅直接列出了购物车清单，甚至清楚地知道里面那把人体工学椅「已经加购快 300 天、看了几十次」。 与此同时，支付路径，阿里目前也没有向灵光…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:e3576583a2d513d3</guid>
+      <pubDate>Mon, 02 Nov 2026 00:32:03 +0800</pubDate>
+      <category>资讯·极客公园</category>
+    </item>
+    <item>
+      <title>千帆大模型平台</title>
+      <link>https://cloud.baidu.com/product/wenxinworkshop</link>
+      <description>…28b-a3b 上下文 32K,30K+8K 输入价格 ¥0.001/ 千tokens 输出价格 ¥0.01/ 千tokens 立即体验 探索更多大模型 独家优质Skill与精选MCP服务 百度搜索 免费试用 独家 Skill MCP 百度搜索（BaiduSearch）服务基于百度搜索能力与AI技术，专为生成式AI提供全网实时信息检索服务，具备海量内容站点、高权威性，强时效性，提供全新的搜索体验。 了…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:e8a5979a892b82c1</guid>
+      <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
+      <category>百度文心</category>
     </item>
     <item>
       <title>消息称 OpenAI 今年 Q3 营收首次达百亿美元，环比大增近 50%</title>
@@ -766,46 +806,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:7aa764b1f65d40e7</guid>
       <pubDate>Thu, 05 Nov 2026 16:50:46 +0800</pubDate>
       <category>资讯·Reddit LocalLLaMA</category>
-    </item>
-    <item>
-      <title>蔚来李斌：智能驾驶最大意义应是解放精力，不该让出租车 / 网约车司机丢工作</title>
-      <link>https://www.ithome.com/1/022/419.htm</link>
-      <description>…为下半场的核心指标之一，意味着自动驾驶的竞争正在从功能展示转向可持续的商业验证。李斌直言， 如果用户不愿意付钱，自动驾驶讲得再好，也没有真正创造用户价值 。 IT 之家小伙伴记得用 最会买打车 ，享受折扣价的同时还可以获得返利，单单都能省钱！</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:0cfc5f290acd9b3f</guid>
-      <pubDate>Thu, 05 Nov 2026 01:40:49 +0800</pubDate>
-      <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>3299 → 688 元再三降价：石头 A30 Max 智能洗地机 25000Pa 大吸力 + 180° 躺平</title>
-      <link>https://www.ithome.com/1/022/366.htm</link>
-      <description>石头 A30 Max 智能洗地机官方定价 3299 元，今日按下方步骤下单，仅需 688 元即可入手： 点击下方卡片享智能单品补贴 915 元 + 闪电加补 90 元 + 可领 97.49 元淘礼金红包（每日 10~24 点可领）； App 商品价格下方可领 15% 政府补贴； 点击下方卡片可享淘金币抵扣 142.48 元（如果淘金币不够的话在商品详情页有借币教程）； * 88VIP 加入购物车后…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:0e6b95d9fa4a33af</guid>
-      <pubDate>Thu, 05 Nov 2026 01:40:49 +0800</pubDate>
-      <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>华为小艺 Work 率先上线 openPangu</title>
-      <link>https://www.ithome.com/1/022/472.htm</link>
-      <description>…也尚无公开资料。这说明 2.1-Pro 是非常新且尚未对外公开发布的型号，目前仅在小艺 Work 中提供支持。 需要注意的是，小艺 Work 目前仍为 Beta 版，且需要付费使用（首次使用 31 天限时免费享 1000 AI 点），体验包连续包月优惠价 49 元、标准包连续包月价格 199 元，支持市场调研、文档处理、PPT 制作、数据分析、内容创作、代码开发等。</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:768a92549d9b734e</guid>
-      <pubDate>Thu, 05 Nov 2026 01:40:49 +0800</pubDate>
-      <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>中国 AI 硬件的下一个爆款，可能生在「网球场」</title>
-      <link>http://www.geekpark.net/news/372807</link>
-      <description>…从不真正回击你那颗球，但一来一回之间，回合感确实成立。 预测用户击球落点位置｜来源：AceiiLab 不过，这既考验用户的适应能力，也考验机器能否快速到位、精准发球。如果中间卡顿明显，对拉体验就会大打折扣。我们花了至少几十分钟，才慢慢适应和机器打球的节奏。 120 颗球，按正常 3.0 水平的对打节奏，大概能打 30 分钟左右。由于每一颗球都是新球，整体消耗速度也会比较快。「不管是新手还是熟手，都能获…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:e19b176216415324</guid>
-      <pubDate>Fri, 23 Oct 2026 14:49:18 +0800</pubDate>
-      <category>资讯·极客公园</category>
-    </item>
-    <item>
-      <title>香港网约车平台牌照有望本月推出：逾 1.8 万人报名驾驶资格考试，车辆数量上限目前设为 1 万辆</title>
-      <link>https://www.ithome.com/1/022/242.htm</link>
-      <description>…证。持有有效的士驾驶执照的人士则无须参加考试及课程，可直接申请。香港特区政府计划于本月公布网约车车辆许可证的分配安排， 并将网约车数量上限设为 1 万辆 。 IT 之家小伙伴记得用 最会买打车 ，享受折扣价的同时还可以获得返利，单单都能省钱！</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:53d1c538b1d197dd</guid>
-      <pubDate>Wed, 04 Nov 2026 16:25:24 +0800</pubDate>
-      <category>资讯·IT之家</category>
     </item>
   </channel>
 </rss>
