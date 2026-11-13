@@ -5,7 +5,7 @@
     <link>https://ikeng.github.io/model-egg-monitor/</link>
     <description>每日两次监控大模型厂商活动，提供 Atom / JSON Feed 订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 13 Nov 2026 16:58:25 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 01:27:29 +0800</lastBuildDate>
     <generator>ai-egg-monitor</generator>
     <item>
       <title>大模型 API 价格方案</title>
@@ -110,6 +110,14 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:2472035a4555976f</guid>
       <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
       <category>智谱 GLM</category>
+    </item>
+    <item>
+      <title>Gondola doubles revenue as its team builds more with Codex</title>
+      <link>https://openai.com/business/customer-stories/gondola</link>
+      <description>Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily w…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:2b55f6f436bc0aea</guid>
+      <pubDate>Fri, 13 Nov 2026 16:58:05 +0800</pubDate>
+      <category>OpenAI</category>
     </item>
     <item>
       <title>Different Types of API Keys and Rate Limits</title>
@@ -320,6 +328,14 @@
       <category>OpenRouter</category>
     </item>
     <item>
+      <title>llm-gemini 0.37</title>
+      <link>https://simonwillison.net/2026/Nov/12/llm-gemini/</link>
+      <description>…as the high-efficiency execution engine in multi-model workflows. Most notably, Hydrogen is the new free tier model, and is the model that will power AI features in Google Search. Tags: gemini , llm , google ,…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:d989c5e1c9dd107f</guid>
+      <pubDate>Fri, 13 Nov 2026 16:58:05 +0800</pubDate>
+      <category>资讯·Simon Willison</category>
+    </item>
+    <item>
       <title>面壁智能</title>
       <link>https://modelbest.cn/</link>
       <description>…为每位开发者用户节省年费 264 美元（ElevenLabs 年费，接近 1800 元人民币）！ MiniCPM‑V 4.6 开源即爆火！登顶 Hugging Face Trending Top 2，免费 API 开放 5月11日，面壁智能联合清华大学、OpenBMB一同发布并开源了MiniCPM-V 4.6，一经开源便点燃了全球开发者的热情！开源后迅速登顶Hugging Face的趋势榜单Top 2…</description>
@@ -354,7 +370,7 @@
     <item>
       <title>定价概览</title>
       <link>https://platform.minimaxi.com/document/price</link>
-      <description>…标点等 Token与字符比（估算）：1600 中文字符约消耗 1000 tokens ​ 视频 立即充值 ​ H3 系列旗舰模型 模型 输出分辨率 输出视频 每秒 输入视频 每秒 输入图片 每张 超出免费额度后 MiniMax-H3 画质优先，适合高品质视频创作 2K ¥0.80 ¥0.20 768P ¥0.50 ¥0.20 MiniMax-H3-Highspeed 兼顾质量与速度，适合日常内容创作…</description>
+      <description>…符数包括标点等 Token与字符比（估算）：1600 中文字符约消耗 1000 tokens 视频 立即充值 H3 系列旗舰模型 模型 输出分辨率 输出视频 每秒 输入视频 每秒 输入图片 每张 超出免费额度后 MiniMax-H3 画质优先，适合高品质视频创作 2K ¥0.80 ¥0.20 768P ¥0.50 ¥0.20 MiniMax-H3-Highspeed 兼顾质量与速度，适合日常内容创作…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:efff6cc6ac0e23bf</guid>
       <pubDate>Wed, 14 Oct 2026 22:49:18 +0800</pubDate>
       <category>MiniMax</category>
@@ -368,12 +384,12 @@
       <category>Replicate</category>
     </item>
     <item>
-      <title>Gondola doubles revenue as its team builds more with Codex</title>
-      <link>https://openai.com/business/customer-stories/gondola</link>
-      <description>Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily w…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:2b55f6f436bc0aea</guid>
-      <pubDate>Fri, 13 Nov 2026 16:58:05 +0800</pubDate>
-      <category>OpenAI</category>
+      <title>Compare AI Models: Pricing, Context &amp; Benchmarks</title>
+      <link>https://openrouter.ai/models</link>
+      <description>…images per request. by bytedance-seed Nov 12, 2026 from $0.02/image Perplexity: Decider Flash V1.3 (free) Decider Flash V1.3 (free) Free variant 3.83B tokens Decider Flash V1.3 is a decision model from Pe…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:1dc10bd1ef35e32f</guid>
+      <pubDate>Sat, 14 Nov 2026 01:27:10 +0800</pubDate>
+      <category>OpenRouter</category>
     </item>
     <item>
       <title>国产全飞秒设备进入临床试验阶段，未来近视手术有望降价</title>
@@ -382,14 +398,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:208784b0d49ca223</guid>
       <pubDate>Fri, 13 Nov 2026 16:58:05 +0800</pubDate>
       <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>llm-gemini 0.37</title>
-      <link>https://simonwillison.net/2026/Nov/12/llm-gemini/</link>
-      <description>…as the high-efficiency execution engine in multi-model workflows. Most notably, Hydrogen is the new free tier model, and is the model that will power AI features in Google Search. Tags: gemini , llm , google ,…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:d989c5e1c9dd107f</guid>
-      <pubDate>Fri, 13 Nov 2026 16:58:05 +0800</pubDate>
-      <category>资讯·Simon Willison</category>
     </item>
     <item>
       <title>物理驱动合作生存恐怖游戏《危险等级》今日结束抢先体验：国区售价 40 元，支持简体中文</title>
@@ -797,14 +805,6 @@
       <description>…uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:626181b6556ece9b</guid>
       <pubDate>Thu, 29 Oct 2026 00:23:22 +0800</pubDate>
-      <category>OpenAI</category>
-    </item>
-    <item>
-      <title>Evernote turns AI</title>
-      <link>https://openai.com/ads/customers/evernote</link>
-      <description>…ChatGPT Ads to introduce its note-taking app to people working with AI. The team tracked how often free trials led to paid subscriptions.</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:ca2ed36a104ddab0</guid>
-      <pubDate>Wed, 04 Nov 2026 16:25:24 +0800</pubDate>
       <category>OpenAI</category>
     </item>
   </channel>
