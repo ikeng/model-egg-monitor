@@ -5,7 +5,7 @@
     <link>https://ikeng.github.io/model-egg-monitor/</link>
     <description>每日两次监控大模型厂商活动，提供 Atom / JSON Feed 订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 13 Nov 2026 01:49:56 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 16:58:25 +0800</lastBuildDate>
     <generator>ai-egg-monitor</generator>
     <item>
       <title>大模型 API 价格方案</title>
@@ -154,7 +154,7 @@
     <item>
       <title>Pricing</title>
       <link>https://docs.perplexity.ai/getting-started/pricing</link>
-      <description>…Model Price ($/1M input tokens) Output tokens Per-request fee pplx-decider-v1.2 $0.02 Free None pplx-decider-flash-v1.2 $0.01 Free None Aliases: pplx-decider-latest and perplexity/pplx-decid…</description>
+      <description>…questions. Model Price ($/1M input tokens) Output tokens Per-request fee pplx-decider-v1.3 $0.02 Free None pplx-decider-flash-v1.3 $0.01 Free None pplx-decider-v1.2 $0.02 Free None pplx-decider-flash-v…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:454f941d51e15f39</guid>
       <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
       <category>Perplexity</category>
@@ -246,6 +246,14 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:a2d522c721ea08c9</guid>
       <pubDate>Thu, 08 Oct 2026 17:58:35 +0800</pubDate>
       <category>通义千问</category>
+    </item>
+    <item>
+      <title>接入多款第三方模型，豆包工作也模型自由了</title>
+      <link>http://www.geekpark.net/news/373881</link>
+      <description>…需选型完成任务。同步在模型选择页面标注各模型额度消耗倍率，倍率越低消耗越少，便于用户结合任务需求与使用成本做决策。 同时平台推出两项限时优惠：一是工作日及节假日的指定时段内，使用活动模型可享受额度消耗折扣；二是豆包 2.1 Lite、DeepSeek V4.1 Flash 两款模型限时下调额度消耗倍率，同等任务消耗额度更少。 一、补全多模型，解决「有的选」 本轮更新中，豆包工作一次性接入 Kimi 3…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:a2dbc08f09b87811</guid>
+      <pubDate>Fri, 13 Nov 2026 01:49:33 +0800</pubDate>
+      <category>资讯·极客公园</category>
     </item>
     <item>
       <title>Cerebras Inference Pricing</title>
@@ -360,6 +368,38 @@
       <category>Replicate</category>
     </item>
     <item>
+      <title>Gondola doubles revenue as its team builds more with Codex</title>
+      <link>https://openai.com/business/customer-stories/gondola</link>
+      <description>Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily w…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:2b55f6f436bc0aea</guid>
+      <pubDate>Fri, 13 Nov 2026 16:58:05 +0800</pubDate>
+      <category>OpenAI</category>
+    </item>
+    <item>
+      <title>国产全飞秒设备进入临床试验阶段，未来近视手术有望降价</title>
+      <link>https://www.ithome.com/1/026/800.htm</link>
+      <description>IT之家 11 月 13 日消息，据央视财经今日报道，长期以来，国内近视手术大多依赖进口设备，做手术的患者都要缴纳一笔“开机费”，综合治疗费用很高。 如今， 国产全飞秒设备已进入临床试验阶段 。未来，飞秒手术的价格将更亲民。 另据“仙居发布”消息，国内首款飞秒激光角膜屈光治疗机已进入临床试验阶段， 预计明年 6 月完成临床并正式上市 。 国产设备单眼激光扫描仅需 9 秒左右， 切削精度可达到国际先…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:208784b0d49ca223</guid>
+      <pubDate>Fri, 13 Nov 2026 16:58:05 +0800</pubDate>
+      <category>资讯·IT之家</category>
+    </item>
+    <item>
+      <title>llm-gemini 0.37</title>
+      <link>https://simonwillison.net/2026/Nov/12/llm-gemini/</link>
+      <description>…as the high-efficiency execution engine in multi-model workflows. Most notably, Hydrogen is the new free tier model, and is the model that will power AI features in Google Search. Tags: gemini , llm , google ,…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:d989c5e1c9dd107f</guid>
+      <pubDate>Fri, 13 Nov 2026 16:58:05 +0800</pubDate>
+      <category>资讯·Simon Willison</category>
+    </item>
+    <item>
+      <title>物理驱动合作生存恐怖游戏《危险等级》今日结束抢先体验：国区售价 40 元，支持简体中文</title>
+      <link>https://www.ithome.com/1/026/427.htm</link>
+      <description>…Legends 系列中的 Kitsune、Dragon、Unicorn、Minotaur、Kelpie 五款 DLC 单独售价均为 18 元，捆绑包打包价 87.3 元（Kitsune DLC 当前折扣后 15.30 元）。另有三款发行商合集包可选：Hazard Levels 豪华版捆绑包 114.57 元（含 6 个项目，立省 10%）、Wales Interactive Developer Co…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:5dbb42dffb691c95</guid>
+      <pubDate>Fri, 13 Nov 2026 01:49:33 +0800</pubDate>
+      <category>资讯·IT之家</category>
+    </item>
+    <item>
       <title>消费券、平台IP...这些品牌如何在双11联动平台玩法撬动新增长？</title>
       <link>https://www.leiphone.com/category/industrynews/FhgwAvxGA1zvxyv5.html</link>
       <description>…短视频、图文的全域种草，联动达人带话题发布超25条种草内容引流。 此外，值得关注的是AI辅助提效方面的成果，品牌使用AIGC工具辅助素材制作，开门红期间新建素材占比达70%。叠加 平台消费券、千川智能优惠券、领航补贴等多重权益 ，获得平台“加补”标签。最终，徕芬支付GMV同比增长85%，登上抖音个护健康商品总榜TOP1。 Gauroly：自制短剧搭“龙宫开仓夜”，直播间日均GMV同比增长13 倍 当短剧…</description>
@@ -382,22 +422,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:fb35d54454428b31</guid>
       <pubDate>Fri, 13 Nov 2026 01:49:33 +0800</pubDate>
       <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>物理驱动合作生存恐怖游戏《危险等级》今日结束抢先体验：国区售价 40 元，支持简体中文</title>
-      <link>https://www.ithome.com/1/026/427.htm</link>
-      <description>…Legends 系列中的 Kitsune、Dragon、Unicorn、Minotaur、Kelpie 五款 DLC 单独售价均为 18 元，捆绑包打包价 87.3 元（Kitsune DLC 当前折扣后 15.30 元）。另有三款发行商合集包可选：Hazard Levels 豪华版捆绑包 114.57 元（含 6 个项目，立省 10%）、Wales Interactive Developer Co…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:5dbb42dffb691c95</guid>
-      <pubDate>Fri, 13 Nov 2026 01:49:33 +0800</pubDate>
-      <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>接入多款第三方模型，豆包工作也模型自由了</title>
-      <link>http://www.geekpark.net/news/373881</link>
-      <description>…需选型完成任务。同步在模型选择页面标注各模型额度消耗倍率，倍率越低消耗越少，便于用户结合任务需求与使用成本做决策。 同时平台推出两项限时优惠：一是工作日及节假日的指定时段内，使用活动模型可享受额度消耗折扣；二是豆包 2.1 Lite、DeepSeek V4.1 Flash 两款模型限时下调额度消耗倍率，同等任务消耗额度更少。 一、补全多模型，解决「有的选」 本轮更新中，豆包工作一次性接入 Kimi 3…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:a2dbc08f09b87811</guid>
-      <pubDate>Fri, 13 Nov 2026 01:49:33 +0800</pubDate>
-      <category>资讯·极客公园</category>
     </item>
     <item>
       <title>11.11 倒数 1 小时：友望 S20 洗地机 2499 → 375 元再降价，推入式基站更方便</title>
@@ -782,30 +806,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:ca2ed36a104ddab0</guid>
       <pubDate>Wed, 04 Nov 2026 16:25:24 +0800</pubDate>
       <category>OpenAI</category>
-    </item>
-    <item>
-      <title>双十一购机观察：从参数回到场景，华为Mate 90系列重新定义旗舰体验</title>
-      <link>https://www.leiphone.com/category/industrynews/xPIqScmZequRUOUt.html</link>
-      <description>…8万台，领先目前同期已发售的国产新旗舰，并成为多数人选择的原因所在。 双十一活动期间入手华为Mate 90系列，在国补加持下最低5499元可到手，同时还可参加至高24期免息、以旧换新至高补贴800元、免费领取一年200G云空间等活动，进一步降低旗舰换机门槛。 此外，选择华为Mate 90系列的用户还可搭配选购HUAWEI Care+意外无忧服务，享受意外损坏保障与免费电池焕新，以及限时叠加保值焕新权益，后…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:ecc02ec6d957120e</guid>
-      <pubDate>Thu, 05 Nov 2026 16:50:46 +0800</pubDate>
-      <category>资讯·雷锋网</category>
-    </item>
-    <item>
-      <title>苹果发 iPhone 折叠屏官方文档，排查铰链故障；触屏 MacBook 或周三发布；《流浪地球 3》将曝光，春节上映｜极客早知道</title>
-      <link>http://www.geekpark.net/news/372863</link>
-      <description>…。 苹果未立即回应置评请求。（来源：cnBeta） 长鑫存储拒绝苹果低价采购要求，优先推进中国内存自主化布局 10 月 25 日，此前有报道称，苹果希望从长鑫获得比现有供应商更低的报价，但长鑫没有接受降价要求。最新报道提到，一家台湾服务器厂商寻求采购长鑫的 DDR5 内存，同样未能达成合作。 在消费电子行业，供应商通常愿意通过降价换取苹果长期且规模可观的订单。然而在 DRAM 领域，长鑫存储却选择了另…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:6de552bf8b0c481a</guid>
-      <pubDate>Mon, 26 Oct 2026 15:17:24 +0800</pubDate>
-      <category>资讯·极客公园</category>
-    </item>
-    <item>
-      <title>Qwen3.8 27B Q4 on my low</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xnzo38/qwen38_27b_q4_on_my_lowend_laptop_and_it_became/</link>
-      <description>…0.67 - 0.77 token per second yes, extremely slow, most of you won&#39;t even like it, or use it but free APIs these days are rare, and extremely limited usage, and my country has banned worldwide transactions…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:7aa764b1f65d40e7</guid>
-      <pubDate>Thu, 05 Nov 2026 16:50:46 +0800</pubDate>
-      <category>资讯·Reddit LocalLLaMA</category>
     </item>
   </channel>
 </rss>
