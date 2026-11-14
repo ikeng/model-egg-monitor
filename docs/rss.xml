@@ -5,7 +5,7 @@
     <link>https://ikeng.github.io/model-egg-monitor/</link>
     <description>每日两次监控大模型厂商活动，提供 Atom / JSON Feed 订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 14 Nov 2026 16:26:07 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 00:18:24 +0800</lastBuildDate>
     <generator>ai-egg-monitor</generator>
     <item>
       <title>大模型 API 价格方案</title>
@@ -74,7 +74,7 @@
     <item>
       <title>Compare AI Models: Pricing, Context &amp; Benchmarks</title>
       <link>https://openrouter.ai/models</link>
-      <description>…0 Decisions 0 Embeddings 0 Rerank 0 Transcription 0 Audio 0 More Recraft: Recraft V4.1 Flash V2 (free) Recraft V4.1 Flash V2 (free) Free variant Going away November 28, 2026 57.8M tokens Recraft V4.1 F…</description>
+      <description>…0 Decisions 0 Embeddings 0 Rerank 0 Transcription 0 Audio 0 More Recraft: Recraft V4.1 Flash V2 (free) Recraft V4.1 Flash V2 (free) Free variant Going away November 28, 2026 126M tokens Recraft V4.1 Fl…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:1dc10bd1ef35e32f</guid>
       <pubDate>Sat, 14 Nov 2026 01:27:10 +0800</pubDate>
       <category>OpenRouter</category>
