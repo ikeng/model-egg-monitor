@@ -5,7 +5,7 @@
     <link>https://ikeng.github.io/model-egg-monitor/</link>
     <description>每日两次监控大模型厂商活动，提供 Atom / JSON Feed 订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 16 Nov 2026 16:53:06 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 03:57:41 +0800</lastBuildDate>
     <generator>ai-egg-monitor</generator>
     <item>
       <title>大模型 API 价格方案</title>
@@ -74,7 +74,7 @@
     <item>
       <title>Compare AI Models: Pricing, Context &amp; Benchmarks</title>
       <link>https://openrouter.ai/models</link>
-      <description>…16, 2026 1M context $1.50 /M input tokens $4.50 /M output tokens Recraft: Recraft V4.1 Flash V2 (free) Recraft V4.1 Flash V2 (free) Free variant Going away November 28, 2026 443M tokens Recraft V4.1 Fl…</description>
+      <description>…16, 2026 1M context $1.425 /M input tokens $4.275 /M output tokens Recraft: Recraft V4.1 Flash V2 (free) Recraft V4.1 Flash V2 (free) Free variant Going away November 28, 2026 545M tokens Recraft V4.1 Fl…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:1dc10bd1ef35e32f</guid>
       <pubDate>Sat, 14 Nov 2026 01:27:10 +0800</pubDate>
       <category>OpenRouter</category>
@@ -170,7 +170,7 @@
     <item>
       <title>Pricing</title>
       <link>https://docs.perplexity.ai/getting-started/pricing</link>
-      <description>…questions. Model Price ($/1M input tokens) Output tokens Per-request fee pplx-decider-v1.3 $0.02 Free None pplx-decider-flash-v1.3 $0.01 Free None pplx-decider-v1.2 $0.02 Free None pplx-decider-flash-v…</description>
+      <description>…Search runs + counted fetched URLs from succeeded Page runs) × $0.001. Failed and skipped runs are free. A succeeded Search run is billed once, even if it performs multiple searches or returns no finding…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:454f941d51e15f39</guid>
       <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
       <category>Perplexity</category>
@@ -306,7 +306,7 @@
     <item>
       <title>Pricing</title>
       <link>https://www.together.ai/pricing</link>
-      <description>…V4.1 Flash $0.30 $0.006 (cached) $1.20 GLM-5.2 $1.40 $0.26 (cached) $4.40 Ternary Bonsai 27B Free Muse Glimmer 30B $0.35 $0.04 (cached) $1.50 gpt-oss-120B $0.15 $0.60 Qwen3.5 9B $0.17 $0.25 Kimi K3…</description>
+      <description>…$0.50 (cached) $7.50 Qwen3.7-Plus $0.32 $1.28 GLM-5.2 $1.40 $0.26 (cached) $4.40 Ternary Bonsai 27B Free Kimi K3 $3.00 $0.30 (cached) $15.00 Muse Glimmer 30B $0.35 $0.04 (cached) $1.50 DeepSeek V4.1 Flash…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:b99574d412655a47</guid>
       <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
       <category>Together AI</category>
@@ -390,6 +390,30 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:fa59899fb80cc144</guid>
       <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
       <category>Replicate</category>
+    </item>
+    <item>
+      <title>Broadening access to AI for scientists</title>
+      <link>https://openai.com/index/expanding-chatgpt-for-academic-researchers</link>
+      <description>We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:433dd6367611f15a</guid>
+      <pubDate>Tue, 17 Nov 2026 03:57:18 +0800</pubDate>
+      <category>OpenAI</category>
+    </item>
+    <item>
+      <title>黄仁勋被曝考虑重返英伟达担任CEO！其硅谷盟友正施压董事会；女子因拒绝给HR带咖啡被取消面试，BOSS直聘回应；李牧青出任AI公司联席CEO</title>
+      <link>https://www.leiphone.com/category/zaobao/QP6ok2UwM4JBsMEx.html</link>
+      <description>…百万” 6.重磅！闻泰科技发布关于荷兰企业法庭作出临时措施裁定的声明 7.比亚迪辟谣收购“某数字能源”：无任何事实依据 8.连马斯克自己都嫌贵！吐槽特斯拉Cybercab每月花2000买FSD：喊话要降价 今日头条 黄仁勋被曝考虑重返英伟达担任 CEO！其硅谷盟友正施压董事会 11月16日消息， 据英媒报道，黄仁勋正考虑重返英伟达担任首席执行官，其硅谷盟友也在向公司董事会施压，推动恢复他的职务。 据多…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:565adf67658050d1</guid>
+      <pubDate>Tue, 17 Nov 2026 03:57:18 +0800</pubDate>
+      <category>资讯·雷锋网</category>
+    </item>
+    <item>
+      <title>新任 007 演员官宣：“蝙蝠侠”罗伯特</title>
+      <link>https://www.ithome.com/1/028/010.htm</link>
+      <description>…”的经典台词贯穿全系列。 007 演员人选此前曝出参加的有杰克 · 劳登、卡勒姆 · 特纳、乔什 · 奥康纳、罗伯特 · 帕丁森、尼古拉斯 · 霍尔特。 IT之家小伙伴记得用 最会买购买电影票 ，享受折扣价的同时还可以获得返利，预计每张票可以节省 5~15 元！</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:51dd029b9d4e5ada</guid>
+      <pubDate>Tue, 17 Nov 2026 03:57:18 +0800</pubDate>
+      <category>资讯·IT之家</category>
     </item>
     <item>
       <title>《GTA 6》发售在即，《GTA 5》仍在热卖</title>
@@ -782,30 +806,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:3e182567f12e6f39</guid>
       <pubDate>Sat, 31 Oct 2026 00:25:24 +0800</pubDate>
       <category>OpenAI</category>
-    </item>
-    <item>
-      <title>2026 年中国金鸡百花电影节开幕短片《完美婚礼》首播，使用华为 Mate 90 系列拍摄</title>
-      <link>https://www.ithome.com/1/023/559.htm</link>
-      <description>…赴光影》由 Mate 80 系列拍摄。《奔赴光影》首播时，华为官方并未公布拍摄机型， 直到 Mate 80 系列官宣、预热，短片的拍摄机型才得以揭秘 。 IT之家小伙伴记得用 最会买购买电影票 ，享受折扣价的同时还可以获得返利，预计每张票可以节省 5~15 元！</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:e9d4ad456a1a917f</guid>
-      <pubDate>Sat, 07 Nov 2026 01:04:42 +0800</pubDate>
-      <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>帮用户抢 iPhone 折叠屏的 Agent，正在塑造 AI 时代电商的形状</title>
-      <link>http://www.geekpark.net/news/373002</link>
-      <description>…线 。UCP 背后的机构引用的市场预测认为，到 2030 年，Agent 购物可能占到美国电商消费的 10% 到 20%，规模在 1900 亿到 3850 亿美元之间。这个数字来自利益相关方，需要打个折扣，但方向不难判断。 问题在于，开放并不等于没有代价。 图片来源：Ignitiv 对商家来说，当 Agent 替消费者做选择，精心设计的店铺页面、多年积累的品牌心智，作用都会被削弱，商家可能从「门店」退…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:eb754ed5af39677a</guid>
-      <pubDate>Tue, 27 Oct 2026 23:40:03 +0800</pubDate>
-      <category>资讯·极客公园</category>
-    </item>
-    <item>
-      <title>清洁机器人出海患上「三高」：高库存、高税率、高门槛</title>
-      <link>https://www.leiphone.com/category/weiwu/DGcLJU9RgJPPzGhP.html</link>
-      <description>…者手里？ 一条产品链路，从工厂出货、进渠道仓库，到零售上架、消费者购买，有四段路要走，如今行业里传来传去的那些漂亮数字，大多只走了前两段。 而真正决定公司成色的，是后面两段，包括渠道库存是否上升、终端折扣是否扩大、退货率是否增加、经销商还愿不愿意补货、用户有没有复购和转介绍。 出货量说明货被卖给了渠道，动销才说明市场真正接受了产品。 在行业的深水区里，数据可以买来，信任无法买卖。 本文作者长期关注智能…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:12f9ce39ad944d3a</guid>
-      <pubDate>Thu, 05 Nov 2026 16:50:46 +0800</pubDate>
-      <category>资讯·雷锋网</category>
     </item>
   </channel>
 </rss>

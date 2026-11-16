@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://ikeng.github.io/model-egg-monitor/atom-资讯-it之家.xml</id>
   <title>赛博鸡蛋 · 资讯·IT之家</title>
-  <updated>2026-11-16T16:53:06+08:00</updated>
+  <updated>2026-11-17T03:57:41+08:00</updated>
   <subtitle>大模型厂商活动监控</subtitle>
   <link rel="self" href="https://ikeng.github.io/model-egg-monitor/atom-资讯-it之家.xml"/>
   <link rel="alternate" href="https://ikeng.github.io/model-egg-monitor/"/>
@@ -11,6 +11,25 @@
   <author>
     <name>ai-egg-monitor</name>
   </author>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:51dd029b9d4e5ada</id>
+    <title>新任 007 演员官宣：“蝙蝠侠”罗伯特</title>
+    <updated>2026-11-17T03:57:18+08:00</updated>
+    <published>2026-11-17T03:57:18+08:00</published>
+    <link rel="alternate" href="https://www.ithome.com/1/028/010.htm"/>
+    <author><name>资讯·IT之家</name></author>
+    <category term="资讯·IT之家"/>
+    <summary type="text">…”的经典台词贯穿全系列。 007 演员人选此前曝出参加的有杰克 · 劳登、卡勒姆 · 特纳、乔什 · 奥康纳、罗伯特 · 帕丁森、尼古拉斯 · 霍尔特。 IT之家小伙伴记得用 最会买购买电影票 ，享受折扣价的同时还可以获得返利，预计每张票可以节省 5~15 元！</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·IT之家&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：新任 007 演员官宣：“蝙蝠侠”罗伯特&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…”的经典台词贯穿全系列。 007 演员人选此前曝出参加的有杰克 · 劳登、卡勒姆 · 特纳、乔什 · 奥康纳、罗伯特 · 帕丁森、尼古拉斯 · 霍尔特。 IT之家小伙伴记得用 最会买购买电影票 ，享受折扣价的同时还可以获得返利，预计每张票可以节省 5~15 元！&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：折扣&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-11-17T03:57:18+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-17T03:57:18+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.ithome.com/1/028/010.htm&#34;&gt;https://www.ithome.com/1/028/010.htm&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:47819354a908a586</id>
     <title>《GTA 6》发售在即，《GTA 5》仍在热卖</title>
