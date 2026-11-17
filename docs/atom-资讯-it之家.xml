@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://ikeng.github.io/model-egg-monitor/atom-资讯-it之家.xml</id>
   <title>赛博鸡蛋 · 资讯·IT之家</title>
-  <updated>2026-11-17T17:58:53+08:00</updated>
+  <updated>2026-11-18T02:59:18+08:00</updated>
   <subtitle>大模型厂商活动监控</subtitle>
   <link rel="self" href="https://ikeng.github.io/model-egg-monitor/atom-资讯-it之家.xml"/>
   <link rel="alternate" href="https://ikeng.github.io/model-egg-monitor/"/>
@@ -11,6 +11,25 @@
   <author>
     <name>ai-egg-monitor</name>
   </author>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:b3a789fcc87e83af</id>
+    <title>Steam 新一周游戏销量榜公布：《欧卡 2》75% 折扣登顶，国区《影之刃零》连续霸榜</title>
+    <updated>2026-11-18T02:58:56+08:00</updated>
+    <published>2026-11-18T02:58:56+08:00</published>
+    <link rel="alternate" href="https://www.ithome.com/1/028/540.htm"/>
+    <author><name>资讯·IT之家</name></author>
+    <category term="资讯·IT之家"/>
+    <summary type="text">…11 月 17 日消息，Steam 平台现已公布了最新一周游戏销量排行榜（2026 年 11 月 10 日 - 2026 年 11 月 17 日，无免费游戏），《欧洲卡车模拟 2》以 75% 折扣强势登顶全球榜，其全新 DLC《欧洲卡车模拟 2 - Coaches》与《欧洲卡车模拟 2 - Iceland》双双首次进入榜单，国区方面《影之刃零》继续蝉联榜首。 全球榜单： 欧洲卡车模拟 2 使命…</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·IT之家&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：Steam 新一周游戏销量榜公布：《欧卡 2》75% 折扣登顶，国区《影之刃零》连续霸榜&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…11 月 17 日消息，Steam 平台现已公布了最新一周游戏销量排行榜（2026 年 11 月 10 日 - 2026 年 11 月 17 日，无免费游戏），《欧洲卡车模拟 2》以 75% 折扣强势登顶全球榜，其全新 DLC《欧洲卡车模拟 2 - Coaches》与《欧洲卡车模拟 2 - Iceland》双双首次进入榜单，国区方面《影之刃零》继续蝉联榜首。 全球榜单： 欧洲卡车模拟 2 使命…&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：折扣&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-11-18T02:58:56+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-18T02:58:56+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.ithome.com/1/028/540.htm&#34;&gt;https://www.ithome.com/1/028/540.htm&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:f3e49962c182a5ca</id>
     <title>消息称苹果破例与三星洽谈 DRAM 长期供货协议，已启动最后磋商</title>

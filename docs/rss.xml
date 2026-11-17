@@ -5,7 +5,7 @@
     <link>https://ikeng.github.io/model-egg-monitor/</link>
     <description>每日两次监控大模型厂商活动，提供 Atom / JSON Feed 订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 17 Nov 2026 17:58:53 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 02:59:18 +0800</lastBuildDate>
     <generator>ai-egg-monitor</generator>
     <item>
       <title>大模型 API 价格方案</title>
@@ -24,14 +24,6 @@
       <category>通义千问</category>
     </item>
     <item>
-      <title>Work at the Frontier: AI’s effect on freelance work</title>
-      <link>https://openai.com/index/ai-effect-on-freelance-work</link>
-      <description>New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:06fd976ba9f9eab9</guid>
-      <pubDate>Wed, 11 Nov 2026 01:24:30 +0800</pubDate>
-      <category>OpenAI</category>
-    </item>
-    <item>
       <title>Blog</title>
       <link>https://www.together.ai/blog</link>
       <description>…Wai Tong Chung, Dan Waters, Avner May, Ben Athiwaratkun Read More Kernels Chipmunk: Training-Free Acceleration of Diffusion Transformers with Dynamic Column-Sparse Deltas Austin Silveria, Soham Gov…</description>
@@ -46,6 +38,14 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:09cec74616d2634c</guid>
       <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
       <category>GitHub Copilot</category>
+    </item>
+    <item>
+      <title>全村希望，千问 4 Max 正式发布，2.4 万亿参数模型「进厂打工」</title>
+      <link>http://www.geekpark.net/news/374079</link>
+      <description>…被进一步放大。在国内华北 2（北京）节点，千问 4 Max 的标准按量定价为每百万 Token 输入 10 元、输出 30 元，比前代的 12 元和 36 元便宜了一截，新开通用户还直接送 100 万免费 Token；针对 Agent 反复读取背景资料的场景，它的显式和隐式缓存命中价格直接打到了每百万 Token 0.5 元（创建缓存 5 分钟为 12.5 元，1 小时为 20 元）。国际版定价也同步降至输入 1…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:0da000e81addc909</guid>
+      <pubDate>Tue, 17 Nov 2026 17:58:35 +0800</pubDate>
+      <category>资讯·极客公园</category>
     </item>
     <item>
       <title>Latest news</title>
@@ -74,7 +74,7 @@
     <item>
       <title>Compare AI Models: Pricing, Context &amp; Benchmarks</title>
       <link>https://openrouter.ai/models</link>
-      <description>…16, 2026 1M context $1.425 /M input tokens $4.275 /M output tokens Recraft: Recraft V4.1 Flash V2 (free) Recraft V4.1 Flash V2 (free) Free variant Going away November 28, 2026 667M tokens Recraft V4.1 Fl…</description>
+      <description>…16, 2026 1M context $1.425 /M input tokens $4.275 /M output tokens Recraft: Recraft V4.1 Flash V2 (free) Recraft V4.1 Flash V2 (free) Free variant Going away November 28, 2026 742M tokens Recraft V4.1 Fl…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:1dc10bd1ef35e32f</guid>
       <pubDate>Sat, 14 Nov 2026 01:27:10 +0800</pubDate>
       <category>OpenRouter</category>
@@ -144,6 +144,14 @@
       <category>OpenAI</category>
     </item>
     <item>
+      <title>AI，没有抛弃小城商家</title>
+      <link>http://www.geekpark.net/news/374101</link>
+      <description>…在是 AI 直接帮我拉数据、做分析，并给出调整建议，我也越来越懂该怎么做好这门生意了。」 从沿海旅游小城日照往北走，在内陆四线城市的内蒙古赤峰，入行接近二十年的酒店老板彭彭面临的是另一种焦虑：大家都在降价，自己要不要跟？ 他的酒店没有专职收益管理人员，房价怎么定，活动怎么做，房态怎么调，要靠自己盯。今年七八月迎来了内蒙古的旅游旺季，周边的不少酒店开始降价抢客。跟着降，担心损失收入；不降，又怕客人去了别…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:3ac0b32d689ddafa</guid>
+      <pubDate>Tue, 17 Nov 2026 17:58:35 +0800</pubDate>
+      <category>资讯·极客公园</category>
+    </item>
+    <item>
       <title>Google Beam expands with new regions, partners, and customers</title>
       <link>https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/</link>
       <description>Google Beam promotional animation</description>
@@ -192,6 +200,14 @@
       <category>RunPod</category>
     </item>
     <item>
+      <title>DeepSeek 悄悄收紧免费额度，或因算力资源紧张所致</title>
+      <link>https://www.oschina.net/news/503610</link>
+      <description>11 月 16 日，「DeepSeek 使用额度已达上限」冲上热搜。多名用户反馈，App 和网页端同时收紧了限制，而且一次收了三条。 最直接的一条：超过 7 天没交互的长对话不能再接着聊。页面上的原话是「因算力不足，不再支持 7 天不活跃的长对话」，系统给出的办法是新开一个对话，或者把历史记录导出去。 单次输入的文字上限也被...</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:5588e6b3492f62b8</guid>
+      <pubDate>Tue, 17 Nov 2026 17:58:35 +0800</pubDate>
+      <category>资讯·开源中国</category>
+    </item>
+    <item>
       <title>黄仁勋被曝考虑重返英伟达担任CEO！其硅谷盟友正施压董事会；女子因拒绝给HR带咖啡被取消面试，BOSS直聘回应；李牧青出任AI公司联席CEO</title>
       <link>https://www.leiphone.com/category/zaobao/QP6ok2UwM4JBsMEx.html</link>
       <description>…百万” 6.重磅！闻泰科技发布关于荷兰企业法庭作出临时措施裁定的声明 7.比亚迪辟谣收购“某数字能源”：无任何事实依据 8.连马斯克自己都嫌贵！吐槽特斯拉Cybercab每月花2000买FSD：喊话要降价 今日头条 黄仁勋被曝考虑重返英伟达担任 CEO！其硅谷盟友正施压董事会 11月16日消息， 据英媒报道，黄仁勋正考虑重返英伟达担任首席执行官，其硅谷盟友也在向公司董事会施压，推动恢复他的职务。 据多…</description>
@@ -202,7 +218,7 @@
     <item>
       <title>Pricing: Pay per second for GPUs and CPUs</title>
       <link>https://modal.com/pricing</link>
-      <description>…Memory $ 0.00000222 0 . 0 2 / GiB / sec Volumes $ 0.09 0 . 0 9 / GiB / mo *includes 1 TiB / mo free Network Egress $ 0.04 0 . 0 4 / GiB *See plan for included usage / mo Model APIs / 1M tokens Model…</description>
+      <description>…GiB / sec *minimum of 128 MiB per container Volumes $ 0.09 0 . 0 9 / GiB / mo *includes 1 TiB / mo free Network Egress $ 0.04 0 . 0 4 / GiB *See plan for included usage / mo Model APIs / 1M tokens Model…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:573469f2620924c1</guid>
       <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
       <category>Modal</category>
@@ -269,6 +285,14 @@
       <description>…得完整的上下文却需要企业把完整工作流迁移过来。 甚至客户沟通、部门讨论、文档修改，最好都发生在这个新产品里。 你可以把同事拉进自己的 Agent，却很难要求客户先安装一个新的 AI 产品，才能向他发送优惠券。 对于企业来说，既有 IM 也远不只是聊天工具。人员关系、权限、审批和业务习惯，都已经形成。企业愿意为新能力付费，并不意味着它可以为新产品重新组织一遍所有人的工作。 也是因此，另一条路径选择反过来，…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:9644a871df752bbe</guid>
       <pubDate>Tue, 10 Nov 2026 17:02:36 +0800</pubDate>
+      <category>资讯·极客公园</category>
+    </item>
+    <item>
+      <title>腾讯 Hy4 flash 实测：快速、实惠、聪明，国模进入过日子时代</title>
+      <link>http://www.geekpark.net/news/374083</link>
+      <description>…的库存系统。仓库里现有测试都是通过的，但线上却出了 4 个问题：预占库存后数字对不上（预占库存后，在库数量也跟着减少，取消后又恢复不了）、整单出库会报错（某件商品的库存被全部预占后，整单出库会报错）、优惠券没有按上限封顶（400 元订单使用 20% 优惠券，抵扣超过了 50 元上限；）、月末报表漏了一天（11 月报表漏掉了 11 月 30 日当天的出库）。 我让模型根据项目里的代码和问题清单，自己找到这…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:a0089fb1d8730bb5</guid>
+      <pubDate>Tue, 17 Nov 2026 17:58:35 +0800</pubDate>
       <category>资讯·极客公园</category>
     </item>
     <item>
@@ -408,44 +432,28 @@
       <category>Replicate</category>
     </item>
     <item>
+      <title>Steam 新一周游戏销量榜公布：《欧卡 2》75% 折扣登顶，国区《影之刃零》连续霸榜</title>
+      <link>https://www.ithome.com/1/028/540.htm</link>
+      <description>…11 月 17 日消息，Steam 平台现已公布了最新一周游戏销量排行榜（2026 年 11 月 10 日 - 2026 年 11 月 17 日，无免费游戏），《欧洲卡车模拟 2》以 75% 折扣强势登顶全球榜，其全新 DLC《欧洲卡车模拟 2 - Coaches》与《欧洲卡车模拟 2 - Iceland》双双首次进入榜单，国区方面《影之刃零》继续蝉联榜首。 全球榜单： 欧洲卡车模拟 2 使命…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:b3a789fcc87e83af</guid>
+      <pubDate>Wed, 18 Nov 2026 02:58:56 +0800</pubDate>
+      <category>资讯·IT之家</category>
+    </item>
+    <item>
+      <title>Work at the Frontier: AI’s effect on freelance work</title>
+      <link>https://openai.com/index/ai-effect-on-freelance-work</link>
+      <description>New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:06fd976ba9f9eab9</guid>
+      <pubDate>Wed, 11 Nov 2026 01:24:30 +0800</pubDate>
+      <category>OpenAI</category>
+    </item>
+    <item>
       <title>消息称苹果破例与三星洽谈 DRAM 长期供货协议，已启动最后磋商</title>
       <link>https://www.ithome.com/1/028/325.htm</link>
       <description>…从 明年上半年开始供货 。协议将规定 DRAM 最低供货量，具体价格则根据未来市场行情确定。 苹果向来以采购条件苛刻著称，凭借强势买方地位尽可能压低供应商的利润。苹果通常只签短期合同，每次续约还会要求降价。一名半导体行业人士称：“以苹果过去的采购作风来看，这次与三星签订长期供货协议，是 以往很难想象的破例之举 。” 业界认为， 存储芯片供应日趋紧张 ，是苹果改变采购策略的重要原因。为了保证 iPhon…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:f3e49962c182a5ca</guid>
       <pubDate>Tue, 17 Nov 2026 17:58:35 +0800</pubDate>
       <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>AI，没有抛弃小城商家</title>
-      <link>http://www.geekpark.net/news/374101</link>
-      <description>…在是 AI 直接帮我拉数据、做分析，并给出调整建议，我也越来越懂该怎么做好这门生意了。」 从沿海旅游小城日照往北走，在内陆四线城市的内蒙古赤峰，入行接近二十年的酒店老板彭彭面临的是另一种焦虑：大家都在降价，自己要不要跟？ 他的酒店没有专职收益管理人员，房价怎么定，活动怎么做，房态怎么调，要靠自己盯。今年七八月迎来了内蒙古的旅游旺季，周边的不少酒店开始降价抢客。跟着降，担心损失收入；不降，又怕客人去了别…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:3ac0b32d689ddafa</guid>
-      <pubDate>Tue, 17 Nov 2026 17:58:35 +0800</pubDate>
-      <category>资讯·极客公园</category>
-    </item>
-    <item>
-      <title>腾讯 Hy4 flash 实测：快速、实惠、聪明，国模进入过日子时代</title>
-      <link>http://www.geekpark.net/news/374083</link>
-      <description>…的库存系统。仓库里现有测试都是通过的，但线上却出了 4 个问题：预占库存后数字对不上（预占库存后，在库数量也跟着减少，取消后又恢复不了）、整单出库会报错（某件商品的库存被全部预占后，整单出库会报错）、优惠券没有按上限封顶（400 元订单使用 20% 优惠券，抵扣超过了 50 元上限；）、月末报表漏了一天（11 月报表漏掉了 11 月 30 日当天的出库）。 我让模型根据项目里的代码和问题清单，自己找到这…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:a0089fb1d8730bb5</guid>
-      <pubDate>Tue, 17 Nov 2026 17:58:35 +0800</pubDate>
-      <category>资讯·极客公园</category>
-    </item>
-    <item>
-      <title>全村希望，千问 4 Max 正式发布，2.4 万亿参数模型「进厂打工」</title>
-      <link>http://www.geekpark.net/news/374079</link>
-      <description>…被进一步放大。在国内华北 2（北京）节点，千问 4 Max 的标准按量定价为每百万 Token 输入 10 元、输出 30 元，比前代的 12 元和 36 元便宜了一截，新开通用户还直接送 100 万免费 Token；针对 Agent 反复读取背景资料的场景，它的显式和隐式缓存命中价格直接打到了每百万 Token 0.5 元（创建缓存 5 分钟为 12.5 元，1 小时为 20 元）。国际版定价也同步降至输入 1…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:0da000e81addc909</guid>
-      <pubDate>Tue, 17 Nov 2026 17:58:35 +0800</pubDate>
-      <category>资讯·极客公园</category>
-    </item>
-    <item>
-      <title>DeepSeek 悄悄收紧免费额度，或因算力资源紧张所致</title>
-      <link>https://www.oschina.net/news/503610</link>
-      <description>11 月 16 日，「DeepSeek 使用额度已达上限」冲上热搜。多名用户反馈，App 和网页端同时收紧了限制，而且一次收了三条。 最直接的一条：超过 7 天没交互的长对话不能再接着聊。页面上的原话是「因算力不足，不再支持 7 天不活跃的长对话」，系统给出的办法是新开一个对话，或者把历史记录导出去。 单次输入的文字上限也被...</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:5588e6b3492f62b8</guid>
-      <pubDate>Tue, 17 Nov 2026 17:58:35 +0800</pubDate>
-      <category>资讯·开源中国</category>
     </item>
     <item>
       <title>新任 007 演员官宣：“蝙蝠侠”罗伯特</title>
@@ -796,14 +804,6 @@
       <link>https://www.ithome.com/1/023/979.htm</link>
       <description>苹果 8 月 25 日发布全新 Mac mini 便携式主机 ，搭载全新 M6 芯片与此前已经推出的 M5 Pro 芯片，6999 元起售。 今日叠加国补后（M6 版国补限地区），京东自营仅需 4799 元起（教育优惠版 4777 元），较上市初期直降千元，再破五千大关： PLUS 会员 20:00 2 积分抢 800-80 元： 点此兑券 京东 苹果 Mac mini M6 还有教育优惠版可选 …</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:c95b6dd02ddfe30b</guid>
-      <pubDate>Mon, 09 Nov 2026 00:28:29 +0800</pubDate>
-      <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>Epic 喜加一：游戏《GMH</title>
-      <link>https://www.ithome.com/1/023/990.htm</link>
-      <description>…Studio 开发的复古风格竞速动作游戏《GMH - Good Morning Human》目前正在 Epic 游戏商品开启限时免费“喜加一”活动，玩家可以在北京时间 11 月 9 日 7:00 前免费领取。 需要注意的是，本次限免并非 Epic 官方活动，而是由开发团队自行发起的特别促销，IT之家附游戏商品页（ https://store.epicgames.com/p/good-morning-hu…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:e3965566da7403a6</guid>
       <pubDate>Mon, 09 Nov 2026 00:28:29 +0800</pubDate>
       <category>资讯·IT之家</category>
     </item>
