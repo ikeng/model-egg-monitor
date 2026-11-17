@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://ikeng.github.io/model-egg-monitor/atom-资讯-极客公园.xml</id>
   <title>赛博鸡蛋 · 资讯·极客公园</title>
-  <updated>2026-11-17T03:57:41+08:00</updated>
+  <updated>2026-11-17T17:58:53+08:00</updated>
   <subtitle>大模型厂商活动监控</subtitle>
   <link rel="self" href="https://ikeng.github.io/model-egg-monitor/atom-资讯-极客公园.xml"/>
   <link rel="alternate" href="https://ikeng.github.io/model-egg-monitor/"/>
@@ -14,7 +14,7 @@
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:9644a871df752bbe</id>
     <title>千问办公押注 Team Agent，企业 AI 的流水线时刻真的来了</title>
-    <updated>2026-11-17T03:57:18+08:00</updated>
+    <updated>2026-11-17T17:58:35+08:00</updated>
     <published>2026-11-10T17:02:36+08:00</published>
     <link rel="alternate" href="http://www.geekpark.net/news/373760"/>
     <author><name>资讯·极客公园</name></author>
@@ -27,13 +27,13 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：优惠券&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-11-10T17:02:36+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-17T03:57:18+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-17T17:58:35+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;http://www.geekpark.net/news/373760&#34;&gt;http://www.geekpark.net/news/373760&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:a2dbc08f09b87811</id>
     <title>接入多款第三方模型，豆包工作也模型自由了</title>
-    <updated>2026-11-17T03:57:18+08:00</updated>
+    <updated>2026-11-17T17:58:35+08:00</updated>
     <published>2026-11-13T01:49:33+08:00</published>
     <link rel="alternate" href="http://www.geekpark.net/news/373881"/>
     <author><name>资讯·极客公园</name></author>
@@ -46,13 +46,13 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：折扣&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-11-13T01:49:33+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-17T03:57:18+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-17T17:58:35+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;http://www.geekpark.net/news/373881&#34;&gt;http://www.geekpark.net/news/373881&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:e55dbcf6e9fdc20b</id>
     <title>创业者做 Personal Agent，有没有一线生机？</title>
-    <updated>2026-11-17T03:57:18+08:00</updated>
+    <updated>2026-11-17T17:58:35+08:00</updated>
     <published>2026-11-08T16:25:55+08:00</published>
     <link rel="alternate" href="http://www.geekpark.net/news/373650"/>
     <author><name>资讯·极客公园</name></author>
@@ -65,13 +65,13 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：免费额度&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-11-08T16:25:55+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-17T03:57:18+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-17T17:58:35+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;http://www.geekpark.net/news/373650&#34;&gt;http://www.geekpark.net/news/373650&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:e9ab14c6db1daf54</id>
     <title>当美国无法建设数据中心，会对 AI 产生怎样的冲击</title>
-    <updated>2026-11-17T03:57:18+08:00</updated>
+    <updated>2026-11-17T17:58:35+08:00</updated>
     <published>2026-11-11T16:42:22+08:00</published>
     <link rel="alternate" href="http://www.geekpark.net/news/373816"/>
     <author><name>资讯·极客公园</name></author>
@@ -84,8 +84,65 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：折扣&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-11-11T16:42:22+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-17T03:57:18+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-17T17:58:35+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;http://www.geekpark.net/news/373816&#34;&gt;http://www.geekpark.net/news/373816&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:3ac0b32d689ddafa</id>
+    <title>AI，没有抛弃小城商家</title>
+    <updated>2026-11-17T17:58:35+08:00</updated>
+    <published>2026-11-17T17:58:35+08:00</published>
+    <link rel="alternate" href="http://www.geekpark.net/news/374101"/>
+    <author><name>资讯·极客公园</name></author>
+    <category term="资讯·极客公园"/>
+    <summary type="text">…在是 AI 直接帮我拉数据、做分析，并给出调整建议，我也越来越懂该怎么做好这门生意了。」 从沿海旅游小城日照往北走，在内陆四线城市的内蒙古赤峰，入行接近二十年的酒店老板彭彭面临的是另一种焦虑：大家都在降价，自己要不要跟？ 他的酒店没有专职收益管理人员，房价怎么定，活动怎么做，房态怎么调，要靠自己盯。今年七八月迎来了内蒙古的旅游旺季，周边的不少酒店开始降价抢客。跟着降，担心损失收入；不降，又怕客人去了别…</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·极客公园&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：AI，没有抛弃小城商家&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…在是 AI 直接帮我拉数据、做分析，并给出调整建议，我也越来越懂该怎么做好这门生意了。」 从沿海旅游小城日照往北走，在内陆四线城市的内蒙古赤峰，入行接近二十年的酒店老板彭彭面临的是另一种焦虑：大家都在降价，自己要不要跟？ 他的酒店没有专职收益管理人员，房价怎么定，活动怎么做，房态怎么调，要靠自己盯。今年七八月迎来了内蒙古的旅游旺季，周边的不少酒店开始降价抢客。跟着降，担心损失收入；不降，又怕客人去了别…&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：降价&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-11-17T17:58:35+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-17T17:58:35+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;http://www.geekpark.net/news/374101&#34;&gt;http://www.geekpark.net/news/374101&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:a0089fb1d8730bb5</id>
+    <title>腾讯 Hy4 flash 实测：快速、实惠、聪明，国模进入过日子时代</title>
+    <updated>2026-11-17T17:58:35+08:00</updated>
+    <published>2026-11-17T17:58:35+08:00</published>
+    <link rel="alternate" href="http://www.geekpark.net/news/374083"/>
+    <author><name>资讯·极客公园</name></author>
+    <category term="资讯·极客公园"/>
+    <summary type="text">…的库存系统。仓库里现有测试都是通过的，但线上却出了 4 个问题：预占库存后数字对不上（预占库存后，在库数量也跟着减少，取消后又恢复不了）、整单出库会报错（某件商品的库存被全部预占后，整单出库会报错）、优惠券没有按上限封顶（400 元订单使用 20% 优惠券，抵扣超过了 50 元上限；）、月末报表漏了一天（11 月报表漏掉了 11 月 30 日当天的出库）。 我让模型根据项目里的代码和问题清单，自己找到这…</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·极客公园&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：腾讯 Hy4 flash 实测：快速、实惠、聪明，国模进入过日子时代&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…的库存系统。仓库里现有测试都是通过的，但线上却出了 4 个问题：预占库存后数字对不上（预占库存后，在库数量也跟着减少，取消后又恢复不了）、整单出库会报错（某件商品的库存被全部预占后，整单出库会报错）、优惠券没有按上限封顶（400 元订单使用 20% 优惠券，抵扣超过了 50 元上限；）、月末报表漏了一天（11 月报表漏掉了 11 月 30 日当天的出库）。 我让模型根据项目里的代码和问题清单，自己找到这…&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：优惠券&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-11-17T17:58:35+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-17T17:58:35+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;http://www.geekpark.net/news/374083&#34;&gt;http://www.geekpark.net/news/374083&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:0da000e81addc909</id>
+    <title>全村希望，千问 4 Max 正式发布，2.4 万亿参数模型「进厂打工」</title>
+    <updated>2026-11-17T17:58:35+08:00</updated>
+    <published>2026-11-17T17:58:35+08:00</published>
+    <link rel="alternate" href="http://www.geekpark.net/news/374079"/>
+    <author><name>资讯·极客公园</name></author>
+    <category term="资讯·极客公园"/>
+    <summary type="text">…被进一步放大。在国内华北 2（北京）节点，千问 4 Max 的标准按量定价为每百万 Token 输入 10 元、输出 30 元，比前代的 12 元和 36 元便宜了一截，新开通用户还直接送 100 万免费 Token；针对 Agent 反复读取背景资料的场景，它的显式和隐式缓存命中价格直接打到了每百万 Token 0.5 元（创建缓存 5 分钟为 12.5 元，1 小时为 20 元）。国际版定价也同步降至输入 1…</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·极客公园&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：全村希望，千问 4 Max 正式发布，2.4 万亿参数模型「进厂打工」&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…被进一步放大。在国内华北 2（北京）节点，千问 4 Max 的标准按量定价为每百万 Token 输入 10 元、输出 30 元，比前代的 12 元和 36 元便宜了一截，新开通用户还直接送 100 万免费 Token；针对 Agent 反复读取背景资料的场景，它的显式和隐式缓存命中价格直接打到了每百万 Token 0.5 元（创建缓存 5 分钟为 12.5 元，1 小时为 20 元）。国际版定价也同步降至输入 1…&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：免费 token&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-11-17T17:58:35+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-17T17:58:35+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;http://www.geekpark.net/news/374079&#34;&gt;http://www.geekpark.net/news/374079&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:e3576583a2d513d3</id>

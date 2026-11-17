@@ -5,7 +5,7 @@
     <link>https://ikeng.github.io/model-egg-monitor/</link>
     <description>每日两次监控大模型厂商活动，提供 Atom / JSON Feed 订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 17 Nov 2026 03:57:41 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 17:58:53 +0800</lastBuildDate>
     <generator>ai-egg-monitor</generator>
     <item>
       <title>大模型 API 价格方案</title>
@@ -74,7 +74,7 @@
     <item>
       <title>Compare AI Models: Pricing, Context &amp; Benchmarks</title>
       <link>https://openrouter.ai/models</link>
-      <description>…16, 2026 1M context $1.425 /M input tokens $4.275 /M output tokens Recraft: Recraft V4.1 Flash V2 (free) Recraft V4.1 Flash V2 (free) Free variant Going away November 28, 2026 545M tokens Recraft V4.1 Fl…</description>
+      <description>…16, 2026 1M context $1.425 /M input tokens $4.275 /M output tokens Recraft: Recraft V4.1 Flash V2 (free) Recraft V4.1 Flash V2 (free) Free variant Going away November 28, 2026 667M tokens Recraft V4.1 Fl…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:1dc10bd1ef35e32f</guid>
       <pubDate>Sat, 14 Nov 2026 01:27:10 +0800</pubDate>
       <category>OpenRouter</category>
@@ -114,7 +114,7 @@
     <item>
       <title>模型概览</title>
       <link>https://docs.bigmodel.cn/cn/guide/start/model-overview</link>
-      <description>…复杂的查询 为处理超长文本和记忆型任务设计 1M 4K GLM-4-FlashX-250414 Flash 增强高速版本 推理速度快，适合高并发调用场景 128K 16K GLM-4.7-Flash 免费文本模型 延续 GLM-4.7 基座的通用能力 200K 128K GLM-4.5-Flash 免费文本模型 支持最长 128K 的上下文处理 128K 96K GLM-4-Flash-250414…</description>
+      <description>…复杂的查询 为处理超长文本和记忆型任务设计 1M 4K GLM-4-FlashX-250414 Flash 增强高速版本 推理速度快，适合高并发调用场景 128K 16K GLM-4.7-Flash 免费文本模型 延续 GLM-4.7 基座的通用能力 200K 128K GLM-4.6V-Flash 免费模型，支持视觉推理 128K 32K GLM-4.5-Flash 免费文本模型 支持最长 128K…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:2472035a4555976f</guid>
       <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
       <category>智谱 GLM</category>
@@ -168,6 +168,14 @@
       <category>Fireworks AI</category>
     </item>
     <item>
+      <title>Broadening access to AI for scientists</title>
+      <link>https://openai.com/index/expanding-chatgpt-for-academic-researchers</link>
+      <description>We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:433dd6367611f15a</guid>
+      <pubDate>Tue, 17 Nov 2026 03:57:18 +0800</pubDate>
+      <category>OpenAI</category>
+    </item>
+    <item>
       <title>Pricing</title>
       <link>https://docs.perplexity.ai/getting-started/pricing</link>
       <description>…Search runs + counted fetched URLs from succeeded Page runs) × $0.001. Failed and skipped runs are free. A succeeded Search run is billed once, even if it performs multiple searches or returns no finding…</description>
@@ -182,6 +190,14 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:50e017209458414f</guid>
       <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
       <category>RunPod</category>
+    </item>
+    <item>
+      <title>黄仁勋被曝考虑重返英伟达担任CEO！其硅谷盟友正施压董事会；女子因拒绝给HR带咖啡被取消面试，BOSS直聘回应；李牧青出任AI公司联席CEO</title>
+      <link>https://www.leiphone.com/category/zaobao/QP6ok2UwM4JBsMEx.html</link>
+      <description>…百万” 6.重磅！闻泰科技发布关于荷兰企业法庭作出临时措施裁定的声明 7.比亚迪辟谣收购“某数字能源”：无任何事实依据 8.连马斯克自己都嫌贵！吐槽特斯拉Cybercab每月花2000买FSD：喊话要降价 今日头条 黄仁勋被曝考虑重返英伟达担任 CEO！其硅谷盟友正施压董事会 11月16日消息， 据英媒报道，黄仁勋正考虑重返英伟达担任首席执行官，其硅谷盟友也在向公司董事会施压，推动恢复他的职务。 据多…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:565adf67658050d1</guid>
+      <pubDate>Tue, 17 Nov 2026 03:57:18 +0800</pubDate>
+      <category>资讯·雷锋网</category>
     </item>
     <item>
       <title>Pricing: Pay per second for GPUs and CPUs</title>
@@ -392,20 +408,44 @@
       <category>Replicate</category>
     </item>
     <item>
-      <title>Broadening access to AI for scientists</title>
-      <link>https://openai.com/index/expanding-chatgpt-for-academic-researchers</link>
-      <description>We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:433dd6367611f15a</guid>
-      <pubDate>Tue, 17 Nov 2026 03:57:18 +0800</pubDate>
-      <category>OpenAI</category>
+      <title>消息称苹果破例与三星洽谈 DRAM 长期供货协议，已启动最后磋商</title>
+      <link>https://www.ithome.com/1/028/325.htm</link>
+      <description>…从 明年上半年开始供货 。协议将规定 DRAM 最低供货量，具体价格则根据未来市场行情确定。 苹果向来以采购条件苛刻著称，凭借强势买方地位尽可能压低供应商的利润。苹果通常只签短期合同，每次续约还会要求降价。一名半导体行业人士称：“以苹果过去的采购作风来看，这次与三星签订长期供货协议，是 以往很难想象的破例之举 。” 业界认为， 存储芯片供应日趋紧张 ，是苹果改变采购策略的重要原因。为了保证 iPhon…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:f3e49962c182a5ca</guid>
+      <pubDate>Tue, 17 Nov 2026 17:58:35 +0800</pubDate>
+      <category>资讯·IT之家</category>
     </item>
     <item>
-      <title>黄仁勋被曝考虑重返英伟达担任CEO！其硅谷盟友正施压董事会；女子因拒绝给HR带咖啡被取消面试，BOSS直聘回应；李牧青出任AI公司联席CEO</title>
-      <link>https://www.leiphone.com/category/zaobao/QP6ok2UwM4JBsMEx.html</link>
-      <description>…百万” 6.重磅！闻泰科技发布关于荷兰企业法庭作出临时措施裁定的声明 7.比亚迪辟谣收购“某数字能源”：无任何事实依据 8.连马斯克自己都嫌贵！吐槽特斯拉Cybercab每月花2000买FSD：喊话要降价 今日头条 黄仁勋被曝考虑重返英伟达担任 CEO！其硅谷盟友正施压董事会 11月16日消息， 据英媒报道，黄仁勋正考虑重返英伟达担任首席执行官，其硅谷盟友也在向公司董事会施压，推动恢复他的职务。 据多…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:565adf67658050d1</guid>
-      <pubDate>Tue, 17 Nov 2026 03:57:18 +0800</pubDate>
-      <category>资讯·雷锋网</category>
+      <title>AI，没有抛弃小城商家</title>
+      <link>http://www.geekpark.net/news/374101</link>
+      <description>…在是 AI 直接帮我拉数据、做分析，并给出调整建议，我也越来越懂该怎么做好这门生意了。」 从沿海旅游小城日照往北走，在内陆四线城市的内蒙古赤峰，入行接近二十年的酒店老板彭彭面临的是另一种焦虑：大家都在降价，自己要不要跟？ 他的酒店没有专职收益管理人员，房价怎么定，活动怎么做，房态怎么调，要靠自己盯。今年七八月迎来了内蒙古的旅游旺季，周边的不少酒店开始降价抢客。跟着降，担心损失收入；不降，又怕客人去了别…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:3ac0b32d689ddafa</guid>
+      <pubDate>Tue, 17 Nov 2026 17:58:35 +0800</pubDate>
+      <category>资讯·极客公园</category>
+    </item>
+    <item>
+      <title>腾讯 Hy4 flash 实测：快速、实惠、聪明，国模进入过日子时代</title>
+      <link>http://www.geekpark.net/news/374083</link>
+      <description>…的库存系统。仓库里现有测试都是通过的，但线上却出了 4 个问题：预占库存后数字对不上（预占库存后，在库数量也跟着减少，取消后又恢复不了）、整单出库会报错（某件商品的库存被全部预占后，整单出库会报错）、优惠券没有按上限封顶（400 元订单使用 20% 优惠券，抵扣超过了 50 元上限；）、月末报表漏了一天（11 月报表漏掉了 11 月 30 日当天的出库）。 我让模型根据项目里的代码和问题清单，自己找到这…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:a0089fb1d8730bb5</guid>
+      <pubDate>Tue, 17 Nov 2026 17:58:35 +0800</pubDate>
+      <category>资讯·极客公园</category>
+    </item>
+    <item>
+      <title>全村希望，千问 4 Max 正式发布，2.4 万亿参数模型「进厂打工」</title>
+      <link>http://www.geekpark.net/news/374079</link>
+      <description>…被进一步放大。在国内华北 2（北京）节点，千问 4 Max 的标准按量定价为每百万 Token 输入 10 元、输出 30 元，比前代的 12 元和 36 元便宜了一截，新开通用户还直接送 100 万免费 Token；针对 Agent 反复读取背景资料的场景，它的显式和隐式缓存命中价格直接打到了每百万 Token 0.5 元（创建缓存 5 分钟为 12.5 元，1 小时为 20 元）。国际版定价也同步降至输入 1…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:0da000e81addc909</guid>
+      <pubDate>Tue, 17 Nov 2026 17:58:35 +0800</pubDate>
+      <category>资讯·极客公园</category>
+    </item>
+    <item>
+      <title>DeepSeek 悄悄收紧免费额度，或因算力资源紧张所致</title>
+      <link>https://www.oschina.net/news/503610</link>
+      <description>11 月 16 日，「DeepSeek 使用额度已达上限」冲上热搜。多名用户反馈，App 和网页端同时收紧了限制，而且一次收了三条。 最直接的一条：超过 7 天没交互的长对话不能再接着聊。页面上的原话是「因算力不足，不再支持 7 天不活跃的长对话」，系统给出的办法是新开一个对话，或者把历史记录导出去。 单次输入的文字上限也被...</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:5588e6b3492f62b8</guid>
+      <pubDate>Tue, 17 Nov 2026 17:58:35 +0800</pubDate>
+      <category>资讯·开源中国</category>
     </item>
     <item>
       <title>新任 007 演员官宣：“蝙蝠侠”罗伯特</title>
@@ -766,46 +806,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:e3965566da7403a6</guid>
       <pubDate>Mon, 09 Nov 2026 00:28:29 +0800</pubDate>
       <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>Epic 公布《堡垒之夜》游戏海盗代币掉落概率，此前曾有玩家试图向美国 FTC 举报</title>
-      <link>https://www.ithome.com/1/023/909.htm</link>
-      <description>…员会（IT之家注：FTC）举报 Epic 。 据报道，Epic 上周末推出“寻宝猎人”迷你赛季，彻底改变了游戏道具商店的运营方式。在本赛季，海盗代币极其稀有，玩家获得后可以进入海盗商店，在 14 天内免费领取商店几乎所有物品。 由于这种代币价值非凡，玩家们争相竞逐。为了找到代币，他们不断在游戏里开宝箱。不过有玩家发现，Epic 并没有公布宝箱的掉落率信息。 数千名玩家投入大量时间寻找海盗代币，却始终不知道…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:4a6422ebc10d72f8</guid>
-      <pubDate>Sun, 08 Nov 2026 16:25:55 +0800</pubDate>
-      <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>京东物流“京碳惠”亮相进博会，快递减碳可以当钱花</title>
-      <link>https://www.ithome.com/1/023/899.htm</link>
-      <description>…糊账。如今，“京碳惠”将每一笔京东快递订单的减碳量算清楚、算准确，并记入京东消费者碳账户。消费者在京东 App 购买带有“减碳”标识的商品，绿色运输环节产生的减碳量即可记入个人碳账户， 消费者还可兑换优惠券、实物礼品及数字人民币等权益 。 IT之家注意到，目前，京东消费者碳账户已在上海和北京开通， 覆盖所有京东自营商品 。对消费者而言，日常绿色消费行为有了记录，可以兑换激励；对企业而言，供应链脱碳也有了…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:4ae409a105ae1d22</guid>
-      <pubDate>Sun, 08 Nov 2026 16:25:55 +0800</pubDate>
-      <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>苹果史上最好财报，却被内存拖住了后腿</title>
-      <link>https://www.tmtpost.com/8197412.html</link>
-      <description>如果连苹果都开始为内存成本发愁，你的下一部手机，还能期待它降价吗？</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:7b2488100b518620</guid>
-      <pubDate>Sun, 08 Nov 2026 16:25:55 +0800</pubDate>
-      <category>资讯·钛媒体</category>
-    </item>
-    <item>
-      <title>2598 元 → 1598 元直降千元：大疆 Osmo Action 5 Pro 运动相机破冰新低</title>
-      <link>https://www.ithome.com/1/023/686.htm</link>
-      <description>…活动可能随时变更，需以实付款为准】 大疆 Osmo Action 5 Pro 运动相机发布于 2024 年 9 月 19 日，标准套装售价 2598 元。 京东 11.11 大促期间，领取 100 元优惠券，叠加 15% 国补后仅需 1598 元 xixnd ： 京东 大疆 Osmo Action 5 Pro 标准套装 国补后 1598 元 领 100 元券 京东 11.11 红包至高 26888 元无…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:0e65c3be0f6902ac</guid>
-      <pubDate>Sat, 07 Nov 2026 16:06:49 +0800</pubDate>
-      <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot</title>
-      <link>https://openai.com/index/credit-saison</link>
-      <description>Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:3e182567f12e6f39</guid>
-      <pubDate>Sat, 31 Oct 2026 00:25:24 +0800</pubDate>
-      <category>OpenAI</category>
     </item>
   </channel>
 </rss>
