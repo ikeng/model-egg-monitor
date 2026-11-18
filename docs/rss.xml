@@ -5,7 +5,7 @@
     <link>https://ikeng.github.io/model-egg-monitor/</link>
     <description>每日两次监控大模型厂商活动，提供 Atom / JSON Feed 订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 18 Nov 2026 17:36:29 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 02:34:16 +0800</lastBuildDate>
     <generator>ai-egg-monitor</generator>
     <item>
       <title>大模型 API 价格方案</title>
@@ -74,7 +74,7 @@
     <item>
       <title>Compare AI Models: Pricing, Context &amp; Benchmarks</title>
       <link>https://openrouter.ai/models</link>
-      <description>…16, 2026 1M context $1.425 /M input tokens $4.275 /M output tokens Recraft: Recraft V4.1 Flash V2 (free) Recraft V4.1 Flash V2 (free) Free variant Going away November 28, 2026 859M tokens Recraft V4.1 Fl…</description>
+      <description>…16, 2026 1M context $1.425 /M input tokens $4.275 /M output tokens Recraft: Recraft V4.1 Flash V2 (free) Recraft V4.1 Flash V2 (free) Free variant Going away November 28, 2026 934M tokens Recraft V4.1 Fl…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:1dc10bd1ef35e32f</guid>
       <pubDate>Sat, 14 Nov 2026 01:27:10 +0800</pubDate>
       <category>OpenRouter</category>
@@ -86,14 +86,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:1ed4c18cc5928e80</guid>
       <pubDate>Fri, 30 Oct 2026 15:56:54 +0800</pubDate>
       <category>Anthropic</category>
-    </item>
-    <item>
-      <title>Helping caregivers use AI in everyday life</title>
-      <link>https://openai.com/index/helping-caregivers-use-ai-in-everyday-life</link>
-      <description>OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skil…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:220d70cfa2090633</guid>
-      <pubDate>Wed, 11 Nov 2026 01:24:30 +0800</pubDate>
-      <category>OpenAI</category>
     </item>
     <item>
       <title>Pricing</title>
@@ -208,14 +200,6 @@
       <category>资讯·开源中国</category>
     </item>
     <item>
-      <title>黄仁勋被曝考虑重返英伟达担任CEO！其硅谷盟友正施压董事会；女子因拒绝给HR带咖啡被取消面试，BOSS直聘回应；李牧青出任AI公司联席CEO</title>
-      <link>https://www.leiphone.com/category/zaobao/QP6ok2UwM4JBsMEx.html</link>
-      <description>…百万” 6.重磅！闻泰科技发布关于荷兰企业法庭作出临时措施裁定的声明 7.比亚迪辟谣收购“某数字能源”：无任何事实依据 8.连马斯克自己都嫌贵！吐槽特斯拉Cybercab每月花2000买FSD：喊话要降价 今日头条 黄仁勋被曝考虑重返英伟达担任 CEO！其硅谷盟友正施压董事会 11月16日消息， 据英媒报道，黄仁勋正考虑重返英伟达担任首席执行官，其硅谷盟友也在向公司董事会施压，推动恢复他的职务。 据多…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:565adf67658050d1</guid>
-      <pubDate>Tue, 17 Nov 2026 03:57:18 +0800</pubDate>
-      <category>资讯·雷锋网</category>
-    </item>
-    <item>
       <title>Pricing: Pay per second for GPUs and CPUs</title>
       <link>https://modal.com/pricing</link>
       <description>…GiB / sec *minimum of 128 MiB per container Volumes $ 0.09 0 . 0 9 / GiB / mo *includes 1 TiB / mo free Network Egress $ 0.04 0 . 0 4 / GiB *See plan for included usage / mo Model APIs / 1M tokens Model…</description>
@@ -242,7 +226,7 @@
     <item>
       <title>Plans and Pricing | Devin</title>
       <link>https://windsurf.com/pricing</link>
-      <description>…the perfect plan for your journey SWE-2, our latest model, is now available → INDIVIDUAL PLANS Free $0 Download Light quota to code with agents Limited model availability Unlimited inline edits Unlim…</description>
+      <description>…Teams Access to Devin Bots Share and collaborate with multiplayer sessions 2 concurrent sessions in Free mode per user SAML/OIDC SSO Cost controls with 3 usage tiers Centralized billing Slack channel supp…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:747206776c9a56c4</guid>
       <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
       <category>Windsurf</category>
@@ -286,6 +270,14 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:9644a871df752bbe</guid>
       <pubDate>Tue, 10 Nov 2026 17:02:36 +0800</pubDate>
       <category>资讯·极客公园</category>
+    </item>
+    <item>
+      <title>继YouTube后，速卖通与全球头部联盟营销平台CJ达成战略合作</title>
+      <link>https://www.leiphone.com/category/industrynews/dDQc2ToCG7vy6d8x.html</link>
+      <description>…双方将以欧洲为起点，聚焦西班牙、德国、英国、波兰等重点国家推动规模化投放，依托CJ超100万个创作者生态，速卖通平台上的品牌与商家将获得包括内容媒体、优惠券平台、比价网站、创作者等多元渠道的即时触达能力。CJ的百万发布者生态与速卖通的本地履约能力叠加，为中国品牌构建“曝光—转化—履约”的完整闭环。 “此次合作是我们对‘全渠道商业’未来共同愿景迈出的重要一…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:9b913a71822b9e88</guid>
+      <pubDate>Wed, 18 Nov 2026 17:35:55 +0800</pubDate>
+      <category>资讯·雷锋网</category>
     </item>
     <item>
       <title>腾讯 Hy4 flash 实测：快速、实惠、聪明，国模进入过日子时代</title>
@@ -432,11 +424,27 @@
       <category>Replicate</category>
     </item>
     <item>
-      <title>继YouTube后，速卖通与全球头部联盟营销平台CJ达成战略合作</title>
-      <link>https://www.leiphone.com/category/industrynews/dDQc2ToCG7vy6d8x.html</link>
-      <description>…双方将以欧洲为起点，聚焦西班牙、德国、英国、波兰等重点国家推动规模化投放，依托CJ超100万个创作者生态，速卖通平台上的品牌与商家将获得包括内容媒体、优惠券平台、比价网站、创作者等多元渠道的即时触达能力。CJ的百万发布者生态与速卖通的本地履约能力叠加，为中国品牌构建“曝光—转化—履约”的完整闭环。 “此次合作是我们对‘全渠道商业’未来共同愿景迈出的重要一…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:9b913a71822b9e88</guid>
-      <pubDate>Wed, 18 Nov 2026 17:35:55 +0800</pubDate>
+      <title>腾讯：WorkBuddy 最近七天收入按年化折算超 5 亿美元，三季度收入是第二季度的 5 倍以上</title>
+      <link>https://www.ithome.com/1/029/110.htm</link>
+      <description>…中国大语言模型日均 Token 用量最高 AI 产品 》 《 腾讯：受芯片限制影响，训练下一代模型将需要更长时间 》 《 腾讯高管：预计 2028 年 AI 投入产出效率改善，得益于基础设施复用、硬件降价与算力效率提升 》</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:da80b2ec8cb10702</guid>
+      <pubDate>Thu, 19 Nov 2026 02:33:57 +0800</pubDate>
+      <category>资讯·IT之家</category>
+    </item>
+    <item>
+      <title>Helping caregivers use AI in everyday life</title>
+      <link>https://openai.com/index/helping-caregivers-use-ai-in-everyday-life</link>
+      <description>OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skil…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:220d70cfa2090633</guid>
+      <pubDate>Wed, 11 Nov 2026 01:24:30 +0800</pubDate>
+      <category>OpenAI</category>
+    </item>
+    <item>
+      <title>黄仁勋被曝考虑重返英伟达担任CEO！其硅谷盟友正施压董事会；女子因拒绝给HR带咖啡被取消面试，BOSS直聘回应；李牧青出任AI公司联席CEO</title>
+      <link>https://www.leiphone.com/category/zaobao/QP6ok2UwM4JBsMEx.html</link>
+      <description>…百万” 6.重磅！闻泰科技发布关于荷兰企业法庭作出临时措施裁定的声明 7.比亚迪辟谣收购“某数字能源”：无任何事实依据 8.连马斯克自己都嫌贵！吐槽特斯拉Cybercab每月花2000买FSD：喊话要降价 今日头条 黄仁勋被曝考虑重返英伟达担任 CEO！其硅谷盟友正施压董事会 11月16日消息， 据英媒报道，黄仁勋正考虑重返英伟达担任首席执行官，其硅谷盟友也在向公司董事会施压，推动恢复他的职务。 据多…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:565adf67658050d1</guid>
+      <pubDate>Tue, 17 Nov 2026 03:57:18 +0800</pubDate>
       <category>资讯·雷锋网</category>
     </item>
     <item>
@@ -798,14 +806,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:a5b665c444899ec4</guid>
       <pubDate>Mon, 09 Nov 2026 00:28:29 +0800</pubDate>
       <category>资讯·雷锋网</category>
-    </item>
-    <item>
-      <title>「推翻」乔布斯的触屏 MacBook 来了，22999 元起</title>
-      <link>http://www.geekpark.net/news/373084</link>
-      <description>…让它成为聚焦搜索、实时活动和 Siri AI 的新位置，来电、隔空投送请求、正在播放的音乐都在这里，手指点一下就能接电话。 隔空投送请求出现在灵动岛里，点一下就能接收｜图片来源：Apple 国行要打个折扣。苹果的脚注写明，聚焦搜索只有在 Siri AI 可用并打开时才会搬进灵动岛；Siri AI 测试版目前只支持英、法、日、韩、葡、西六种语言，而国行页面上 Apple 智能的写法是「推出时间依监管部门…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:8bc3904f96ea0d35</guid>
-      <pubDate>Thu, 29 Oct 2026 15:54:02 +0800</pubDate>
-      <category>资讯·极客公园</category>
     </item>
   </channel>
 </rss>
