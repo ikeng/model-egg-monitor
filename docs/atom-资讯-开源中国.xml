@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://ikeng.github.io/model-egg-monitor/atom-资讯-开源中国.xml</id>
   <title>赛博鸡蛋 · 资讯·开源中国</title>
-  <updated>2026-11-19T17:43:52+08:00</updated>
+  <updated>2026-11-20T02:45:55+08:00</updated>
   <subtitle>大模型厂商活动监控</subtitle>
   <link rel="self" href="https://ikeng.github.io/model-egg-monitor/atom-资讯-开源中国.xml"/>
   <link rel="alternate" href="https://ikeng.github.io/model-egg-monitor/"/>
@@ -14,7 +14,7 @@
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:26bf35d5cbf2e270</id>
     <title>Gemini 4 Neon 发布：Google 在最强和最便宜之间，塞进了一个中间档</title>
-    <updated>2026-11-19T17:43:34+08:00</updated>
+    <updated>2026-11-20T02:45:37+08:00</updated>
     <published>2026-11-19T17:43:34+08:00</published>
     <link rel="alternate" href="https://www.oschina.net/news/503675/google-gemini-4-neon"/>
     <author><name>资讯·开源中国</name></author>
@@ -27,7 +27,7 @@
 &lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：折扣&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-11-19T17:43:34+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-19T17:43:34+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-20T02:45:37+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.oschina.net/news/503675/google-gemini-4-neon&#34;&gt;https://www.oschina.net/news/503675/google-gemini-4-neon&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
