@@ -5,7 +5,7 @@
     <link>https://ikeng.github.io/model-egg-monitor/</link>
     <description>每日两次监控大模型厂商活动，提供 Atom / JSON Feed 订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 19 Nov 2026 02:34:16 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 17:43:52 +0800</lastBuildDate>
     <generator>ai-egg-monitor</generator>
     <item>
       <title>大模型 API 价格方案</title>
@@ -72,14 +72,6 @@
       <category>OpenRouter</category>
     </item>
     <item>
-      <title>Compare AI Models: Pricing, Context &amp; Benchmarks</title>
-      <link>https://openrouter.ai/models</link>
-      <description>…16, 2026 1M context $1.425 /M input tokens $4.275 /M output tokens Recraft: Recraft V4.1 Flash V2 (free) Recraft V4.1 Flash V2 (free) Free variant Going away November 28, 2026 934M tokens Recraft V4.1 Fl…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:1dc10bd1ef35e32f</guid>
-      <pubDate>Sat, 14 Nov 2026 01:27:10 +0800</pubDate>
-      <category>OpenRouter</category>
-    </item>
-    <item>
       <title>Claude Code by Anthropic</title>
       <link>https://www.anthropic.com/claude-code</link>
       <description>…Export to various formats (PNG, SVG, JSON) - Customizable drawing tools (rectangle, circle, arrows, freehand) - Dark mode support - Localization - Library of shapes and components - Arrow bindings and lab…</description>
@@ -126,14 +118,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:325373ce89188f63</guid>
       <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
       <category>Cohere</category>
-    </item>
-    <item>
-      <title>ChatGPT Plus for veterans and servicemembers</title>
-      <link>https://openai.com/index/chatgpt-plus-for-veterans</link>
-      <description>More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:35fb57602c97775c</guid>
-      <pubDate>Wed, 11 Nov 2026 16:42:22 +0800</pubDate>
-      <category>OpenAI</category>
     </item>
     <item>
       <title>AI，没有抛弃小城商家</title>
@@ -192,14 +176,6 @@
       <category>RunPod</category>
     </item>
     <item>
-      <title>DeepSeek 悄悄收紧免费额度，或因算力资源紧张所致</title>
-      <link>https://www.oschina.net/news/503610</link>
-      <description>11 月 16 日，「DeepSeek 使用额度已达上限」冲上热搜。多名用户反馈，App 和网页端同时收紧了限制，而且一次收了三条。 最直接的一条：超过 7 天没交互的长对话不能再接着聊。页面上的原话是「因算力不足，不再支持 7 天不活跃的长对话」，系统给出的办法是新开一个对话，或者把历史记录导出去。 单次输入的文字上限也被...</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:5588e6b3492f62b8</guid>
-      <pubDate>Tue, 17 Nov 2026 17:58:35 +0800</pubDate>
-      <category>资讯·开源中国</category>
-    </item>
-    <item>
       <title>Pricing: Pay per second for GPUs and CPUs</title>
       <link>https://modal.com/pricing</link>
       <description>…GiB / sec *minimum of 128 MiB per container Volumes $ 0.09 0 . 0 9 / GiB / mo *includes 1 TiB / mo free Network Egress $ 0.04 0 . 0 4 / GiB *See plan for included usage / mo Model APIs / 1M tokens Model…</description>
@@ -226,7 +202,7 @@
     <item>
       <title>Plans and Pricing | Devin</title>
       <link>https://windsurf.com/pricing</link>
-      <description>…Teams Access to Devin Bots Share and collaborate with multiplayer sessions 2 concurrent sessions in Free mode per user SAML/OIDC SSO Cost controls with 3 usage tiers Centralized billing Slack channel supp…</description>
+      <description>…the perfect plan for your journey SWE-2, our latest model, is now available → INDIVIDUAL PLANS Free $0 Download Light quota to code with agents Limited model availability Unlimited inline edits Unlim…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:747206776c9a56c4</guid>
       <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
       <category>Windsurf</category>
@@ -422,6 +398,54 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:fa59899fb80cc144</guid>
       <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
       <category>Replicate</category>
+    </item>
+    <item>
+      <title>联力宣布限量活动：Edge V2 电源用户可免费领取短款主板、12V-2×6 供电线</title>
+      <link>https://www.ithome.com/1/029/521.htm</link>
+      <description>IT之家 11 月 19 日消息，联力 (LIAN LI) 昨日宣布一项限量活动：购买了其近期推出的 Edge 刃界 Gold / Platinum 电源的用户可 免费申请领取短款的主板和 12V-2×6 供电线 。 截至本文发稿时，本活动还剩余 773 个参与名额。 IT之家了解到，Edge V2 系列电源均配备标准长度的主板和 12V-2×6 供电线，同时 铂金效率的 1350W 款式还额外随…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:ea4c29b396ea2217</guid>
+      <pubDate>Thu, 19 Nov 2026 17:43:34 +0800</pubDate>
+      <category>资讯·IT之家</category>
+    </item>
+    <item>
+      <title>「北美大豆包」谷歌，终于杀回 AI 牌桌中央</title>
+      <link>http://www.geekpark.net/news/374196</link>
+      <description>…曲，是 11 月底前短暂出现的「价格倒挂」 。 Neon 的 API 直接按输入 3 美元、输出 15 美元（每百万 tokens，缓存命中享 95% 折扣至 0.15 美元）的正式价上线，也没有提供免费额度；而旗舰 Carbon 和 Argon 在 11 月 30 日前恰好还处在 2 美元和 10 美元的首发优惠期，要到 12 月 1 日才恢复 4 美元和 20 美元的原价。这意味着在 11 月剩下的十…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:c8f6dc691d8d69d0</guid>
+      <pubDate>Thu, 19 Nov 2026 17:43:34 +0800</pubDate>
+      <category>资讯·极客公园</category>
+    </item>
+    <item>
+      <title>Gemini 4 Neon 发布：Google 在最强和最便宜之间，塞进了一个中间档</title>
+      <link>https://www.oschina.net/news/503675/google-gemini-4-neon</link>
+      <description>…长周期项目，Hydrogen 负责日常快速执行，新来的 Neon 卡在中间——按 Google 自己的说法，是「平衡深度与效率」。 输入每百万 token 3 美元，缓存输入 0.15 美元（95% 折扣），输出每百万 token 15 美元，上下文窗口 100 万 token。 这个定价放在前沿模型里不算激进，但...</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:26bf35d5cbf2e270</guid>
+      <pubDate>Thu, 19 Nov 2026 17:43:34 +0800</pubDate>
+      <category>资讯·开源中国</category>
+    </item>
+    <item>
+      <title>Compare AI Models: Pricing, Context &amp; Benchmarks</title>
+      <link>https://openrouter.ai/models</link>
+      <description>…16, 2026 1M context $1.425 /M input tokens $4.275 /M output tokens Recraft: Recraft V4.1 Flash V2 (free) Recraft V4.1 Flash V2 (free) Free variant Going away November 28, 2026 934M tokens Recraft V4.1 Fl…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:1dc10bd1ef35e32f</guid>
+      <pubDate>Sat, 14 Nov 2026 01:27:10 +0800</pubDate>
+      <category>OpenRouter</category>
+    </item>
+    <item>
+      <title>ChatGPT Plus for veterans and servicemembers</title>
+      <link>https://openai.com/index/chatgpt-plus-for-veterans</link>
+      <description>More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:35fb57602c97775c</guid>
+      <pubDate>Wed, 11 Nov 2026 16:42:22 +0800</pubDate>
+      <category>OpenAI</category>
+    </item>
+    <item>
+      <title>DeepSeek 悄悄收紧免费额度，或因算力资源紧张所致</title>
+      <link>https://www.oschina.net/news/503610</link>
+      <description>11 月 16 日，「DeepSeek 使用额度已达上限」冲上热搜。多名用户反馈，App 和网页端同时收紧了限制，而且一次收了三条。 最直接的一条：超过 7 天没交互的长对话不能再接着聊。页面上的原话是「因算力不足，不再支持 7 天不活跃的长对话」，系统给出的办法是新开一个对话，或者把历史记录导出去。 单次输入的文字上限也被...</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:5588e6b3492f62b8</guid>
+      <pubDate>Tue, 17 Nov 2026 17:58:35 +0800</pubDate>
+      <category>资讯·开源中国</category>
     </item>
     <item>
       <title>腾讯：WorkBuddy 最近七天收入按年化折算超 5 亿美元，三季度收入是第二季度的 5 倍以上</title>
@@ -782,30 +806,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:14b5dcae5670dbb0</guid>
       <pubDate>Mon, 09 Nov 2026 16:56:02 +0800</pubDate>
       <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>赠复古掌机保护壳：小米 17 Pro 手机 16+512G 版国补后 5599 → 4173 元</title>
-      <link>https://www.ithome.com/1/024/363.htm</link>
-      <description>…17 Pro 手机 2025 年 9 月 25 日发布，16+512G 定价 5599 元。 京东 11.11 大促期间，活动价 5199 元； PLUS 会员下单立减 25.99 元； 领取 9 折优惠券： 点此领取 ； 国家补贴立减 500 元； 商品详情页右上角直播间可领 200 元优惠券： 到手价为 4173.01 元： 京东 小米 17 Pro 手机 16GB+512GB 4173.01 元…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:8a3789887754f416</guid>
-      <pubDate>Mon, 09 Nov 2026 16:56:02 +0800</pubDate>
-      <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>李佳琦卖出万份Token，天猫的AI生意才刚开场</title>
-      <link>https://www.leiphone.com/category/industrynews/h454rlPtg41JIuFd.html</link>
-      <description>…电商平台流量与大模型Token捆绑销售：商家不买Token，就不优先推荐商品。 这个做法在内部引发过争议，有人担心商家会转投其他平台，但决策层认为，这是当时风险最低、见效最快的变现路径。 等到一个月后免费额度用尽，调用量和收入双双下跌，内部才意识到，高用量不等于真实需求。 这套做法未必能代表电商平台的普遍策略，却说明了平台的一种想法：AI可以成为经营商家、提高流量变现效率的新工具。 一位大厂的电商从业者谈…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:901a0238012a2303</guid>
-      <pubDate>Sat, 07 Nov 2026 01:04:42 +0800</pubDate>
-      <category>资讯·雷锋网</category>
-    </item>
-    <item>
-      <title>腾讯的 Agent 布局，不止 WorkBuddy</title>
-      <link>https://www.leiphone.com/category/industrynews/oxR5pn9S7tI1IfF5.html</link>
-      <description>…，AWS 和 dbt Labs 分享了一个案例：他们让一个 AI Agent 自行写 SQL 查营收，实际是 1136 万美元，结果Agent多算了 350 万，而后他们排查才发现原因，Agent用了折扣和退款前的金额，没有关联退款表，已取消和待处理的订单也算进去了，内部测试账号也没排除。 Agent答错， 问题 常 出现 在数据 层 而不在模型。 所以要想 Agent 能准确回答企业问题，数据地基一…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:a5b665c444899ec4</guid>
-      <pubDate>Mon, 09 Nov 2026 00:28:29 +0800</pubDate>
-      <category>资讯·雷锋网</category>
     </item>
   </channel>
 </rss>
