@@ -5,7 +5,7 @@
     <link>https://ikeng.github.io/model-egg-monitor/</link>
     <description>每日两次监控大模型厂商活动，提供 Atom / JSON Feed 订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 20 Nov 2026 02:45:55 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 17:32:09 +0800</lastBuildDate>
     <generator>ai-egg-monitor</generator>
     <item>
       <title>大模型 API 价格方案</title>
@@ -112,14 +112,6 @@
       <category>资讯·开源中国</category>
     </item>
     <item>
-      <title>Gondola doubles revenue as its team builds more with Codex</title>
-      <link>https://openai.com/business/customer-stories/gondola</link>
-      <description>Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily w…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:2b55f6f436bc0aea</guid>
-      <pubDate>Fri, 13 Nov 2026 16:58:05 +0800</pubDate>
-      <category>OpenAI</category>
-    </item>
-    <item>
       <title>Different Types of API Keys and Rate Limits</title>
       <link>https://docs.cohere.com/docs/rate-limits</link>
       <description>…- v1 API: https://docs.cohere.com/v1/llms.txt Cohere offers two kinds of API keys: evaluation keys (free but limited in usage), and production keys (paid and much less limited in usage). You can create a…</description>
@@ -194,7 +186,7 @@
     <item>
       <title>Plans and Pricing | Devin</title>
       <link>https://windsurf.com/pricing</link>
-      <description>…the perfect plan for your journey SWE-2, our latest model, is now available → INDIVIDUAL PLANS Free $0 Download Light quota to code with agents Limited model availability Unlimited inline edits Unlim…</description>
+      <description>…Teams Access to Devin Bots Share and collaborate with multiplayer sessions 2 concurrent sessions in Free mode per user SAML/OIDC SSO Cost controls with 3 usage tiers Centralized billing Slack channel supp…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:747206776c9a56c4</guid>
       <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
       <category>Windsurf</category>
@@ -330,7 +322,7 @@
     <item>
       <title>OpenRouter Models</title>
       <link>https://openrouter.ai/docs/overview/models</link>
-      <description>…and returns its data. Variant suffixes are also supported. A catalog variant such as :free returns that variant’s own entry. A routing variant such as :nitro returns the base model’s entry,…</description>
+      <description>…. Close () fmt . Println ( string ( body )) } Output {&#34;data&#34;:[{&#34;id&#34;:&#34;baidu/ernie-5.5-flash-preview:free&#34;,&#34;canonical_slug&#34;:&#34;baidu/ernie-5.5-flash-preview-20261110&#34;,&#34;hugging_face_id&#34;:&#34;baidu/ERNIE-5.5-Flash…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:d270ab6a09f967b5</guid>
       <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
       <category>OpenRouter</category>
@@ -360,20 +352,20 @@
       <category>OpenAI</category>
     </item>
     <item>
-      <title>创业者做 Personal Agent，有没有一线生机？</title>
-      <link>http://www.geekpark.net/news/373650</link>
-      <description>…。 大厂为什么下场？创业者又在面对什么难题？ 看看各家科技巨头的打法：Anthropic 把 Claude 的订阅定价压得远低于同等额度 API 的成本，时不时还刷新一次额度。各家也在客户端里纷纷推出免费额度吸引用户，还将免费时效一延再延。马斯克都忍不住在 X 上感慨，Grok Bot 的服务成本相对于其收入而言高得不可持续。 把用户吸引到自己的应用里跑任务，可以看得到用户设置了什么任务、如何分段提问、如…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:e55dbcf6e9fdc20b</guid>
-      <pubDate>Sun, 08 Nov 2026 16:25:55 +0800</pubDate>
-      <category>资讯·极客公园</category>
-    </item>
-    <item>
       <title>当美国无法建设数据中心，会对 AI 产生怎样的冲击</title>
       <link>http://www.geekpark.net/news/373816</link>
       <description>…。 两种算法口径下，电力冻结前后的有效算力年增速（推算）｜图片来源：极客公园 这里还有一个隐患。芯片能效的红利，前提是新芯片能顺利装进机房。机房总电量锁死后，供电和散热改造的难度，可能让这 2 倍也打折扣。 即便如此，每年约 6 倍依然是可观的数字。推演下来，结论很清楚： 极端场景下， AI 会 明显减速，但不会停摆 。 不过这笔账只算了训练需要的算力部分， 把视野放到整个 AI 的运转上，电量锁死之…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:e9ab14c6db1daf54</guid>
       <pubDate>Wed, 11 Nov 2026 16:42:22 +0800</pubDate>
       <category>资讯·极客公园</category>
+    </item>
+    <item>
+      <title>How partners use Genie&#39;s free tier on Azure Databricks</title>
+      <link>https://www.databricks.com/blog/how-partners-use-genies-free-tier-azure-databricks</link>
+      <description>Every Azure Databricks user gets $10 of free Genie usage each month, usage that many...</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:ebec4bdbaa916073</guid>
+      <pubDate>Fri, 20 Nov 2026 02:45:37 +0800</pubDate>
+      <category>Databricks</category>
     </item>
     <item>
       <title>定价概览</title>
@@ -392,12 +384,36 @@
       <category>Replicate</category>
     </item>
     <item>
-      <title>How partners use Genie&#39;s free tier on Azure Databricks</title>
-      <link>https://www.databricks.com/blog/how-partners-use-genies-free-tier-azure-databricks</link>
-      <description>Every Azure Databricks user gets $10 of free Genie usage each month, usage that many...</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:ebec4bdbaa916073</guid>
-      <pubDate>Fri, 20 Nov 2026 02:45:37 +0800</pubDate>
-      <category>Databricks</category>
+      <title>Introducing Together Storage Accelerator: fast, free data caching for your GPU cluster</title>
+      <link>https://www.together.ai/blog/introducing-together-storage-accelerator</link>
+      <description>…20x faster warm reads, one origin fetch per cluster, no application changes, and it&#39;s included free.</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:a1e58ab50093411f</guid>
+      <pubDate>Fri, 20 Nov 2026 17:30:30 +0800</pubDate>
+      <category>Together AI</category>
+    </item>
+    <item>
+      <title>Token fraud is here and it’s BAD (YouTube)</title>
+      <link>https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/</link>
+      <description>…post ) Claire describes the flood of token fraud she has seen from groups abusing the product&#39;s free trial, sometimes just to get free AI usage but often to resell tokens or run other commercial enterprises…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:2539a41342689930</guid>
+      <pubDate>Fri, 20 Nov 2026 17:30:30 +0800</pubDate>
+      <category>资讯·Simon Willison</category>
+    </item>
+    <item>
+      <title>Gondola doubles revenue as its team builds more with Codex</title>
+      <link>https://openai.com/business/customer-stories/gondola</link>
+      <description>Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily w…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:2b55f6f436bc0aea</guid>
+      <pubDate>Fri, 13 Nov 2026 16:58:05 +0800</pubDate>
+      <category>OpenAI</category>
+    </item>
+    <item>
+      <title>创业者做 Personal Agent，有没有一线生机？</title>
+      <link>http://www.geekpark.net/news/373650</link>
+      <description>…。 大厂为什么下场？创业者又在面对什么难题？ 看看各家科技巨头的打法：Anthropic 把 Claude 的订阅定价压得远低于同等额度 API 的成本，时不时还刷新一次额度。各家也在客户端里纷纷推出免费额度吸引用户，还将免费时效一延再延。马斯克都忍不住在 X 上感慨，Grok Bot 的服务成本相对于其收入而言高得不可持续。 把用户吸引到自己的应用里跑任务，可以看得到用户设置了什么任务、如何分段提问、如…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:e55dbcf6e9fdc20b</guid>
+      <pubDate>Sun, 08 Nov 2026 16:25:55 +0800</pubDate>
+      <category>资讯·极客公园</category>
     </item>
     <item>
       <title>Epic 喜加一：《深渊之印》免费领取</title>
@@ -790,22 +806,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:ba1d5ad8322797a4</guid>
       <pubDate>Mon, 09 Nov 2026 00:28:29 +0800</pubDate>
       <category>资讯·Solidot</category>
-    </item>
-    <item>
-      <title>从一笔投资到一个生态：浦东创投把AI创业者带进了“朋友圈”</title>
-      <link>https://www.leiphone.com/category/industrynews/sGptXfOtHwkxuGrm.html</link>
-      <description>…华院计算、七牛云、硅基流动等企业。对创业团队而言，走进产业现场，意味着有机会更直接地理解真实需求，了解基础设施能力，也为后续合作打开窗口。 张江人工智能创新小镇则提供了更贴近日常创业的低租金空间，以及算力券、模型券、语料券等组合安排要素支持，帮助团队降低起步成本、提高要素可得性。浦东创投此前对外提出，愿向入营团队开放“产业朋友圈”，协助对接潜在客户与合作伙伴。结营公开日上，百余位投资机构和龙头企业代表到…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:c5761f228e00a5bd</guid>
-      <pubDate>Mon, 09 Nov 2026 16:56:02 +0800</pubDate>
-      <category>资讯·雷锋网</category>
-    </item>
-    <item>
-      <title>VR 游戏《收获日：Aces High》登陆 Meta Quest 及 Steam VR 平台，国区首发价 81 元</title>
-      <link>https://www.ithome.com/1/024/892.htm</link>
-      <description>…IP《收获日（PAYDAY）》世界观为背景的 VR 游戏《收获日：Aces High》现已正式发售，登陆 Meta Quest 及 Steam VR 平台，目前游戏在 Steam 平台提供了忠实客户折扣，国区价格 90 元，首发 9 折后到手价 81 元，优惠至 2027 年 1 月 1 日，IT之家附游戏商品页（ https://store.steampowered.com/app/3456660…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:feb80c85f2657de8</guid>
-      <pubDate>Tue, 10 Nov 2026 17:02:36 +0800</pubDate>
-      <category>资讯·IT之家</category>
     </item>
   </channel>
 </rss>
