@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://ikeng.github.io/model-egg-monitor/atom-资讯-雷锋网.xml</id>
   <title>赛博鸡蛋 · 资讯·雷锋网</title>
-  <updated>2026-11-20T17:32:09+08:00</updated>
+  <updated>2026-11-21T02:12:47+08:00</updated>
   <subtitle>大模型厂商活动监控</subtitle>
   <link rel="self" href="https://ikeng.github.io/model-egg-monitor/atom-资讯-雷锋网.xml"/>
   <link rel="alternate" href="https://ikeng.github.io/model-egg-monitor/"/>
@@ -11,6 +11,25 @@
   <author>
     <name>ai-egg-monitor</name>
   </author>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:8220ebebc82acb52</id>
+    <title>Lazada双11：品牌商城贡献近八成成交，天猫一键轻出海增长超200%</title>
+    <updated>2026-11-21T02:12:27+08:00</updated>
+    <published>2026-11-21T02:12:27+08:00</published>
+    <link rel="alternate" href="https://www.leiphone.com/category/industrynews/eimD3gxofdJcSrVY.html"/>
+    <author><name>资讯·雷锋网</name></author>
+    <category term="资讯·雷锋网"/>
+    <summary type="text">…种草和达人直播推广街头运动风格女装品牌FPA、Crying Center，两者成交增长显著。在菲律宾，Lazada则为各个运动鞋品牌搭建起面向当地球鞋爱好者的推广渠道，通过球鞋社群种草、买手博主推荐和折扣信息分享，让品牌商品精准触达当地运动消费人群。 好商品也要被看见。Cube Asia报告显示，超过八成的消费者经常在电商平台之外发现商品，社交媒体和内容推荐已成为重要的购物入口。顺应这一趋势，Laza…</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·雷锋网&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：Lazada双11：品牌商城贡献近八成成交，天猫一键轻出海增长超200%&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…种草和达人直播推广街头运动风格女装品牌FPA、Crying Center，两者成交增长显著。在菲律宾，Lazada则为各个运动鞋品牌搭建起面向当地球鞋爱好者的推广渠道，通过球鞋社群种草、买手博主推荐和折扣信息分享，让品牌商品精准触达当地运动消费人群。 好商品也要被看见。Cube Asia报告显示，超过八成的消费者经常在电商平台之外发现商品，社交媒体和内容推荐已成为重要的购物入口。顺应这一趋势，Laza…&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：折扣&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-11-21T02:12:27+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-21T02:12:27+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.leiphone.com/category/industrynews/eimD3gxofdJcSrVY.html&#34;&gt;https://www.leiphone.com/category/industrynews/eimD3gxofdJcSrVY.html&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:9b913a71822b9e88</id>
     <title>继YouTube后，速卖通与全球头部联盟营销平台CJ达成战略合作</title>
