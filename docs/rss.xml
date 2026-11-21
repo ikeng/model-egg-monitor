@@ -5,7 +5,7 @@
     <link>https://ikeng.github.io/model-egg-monitor/</link>
     <description>每日两次监控大模型厂商活动，提供 Atom / JSON Feed 订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 21 Nov 2026 17:02:19 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 01:02:31 +0800</lastBuildDate>
     <generator>ai-egg-monitor</generator>
     <item>
       <title>大模型 API 价格方案</title>
@@ -336,6 +336,14 @@
       <category>Cursor</category>
     </item>
     <item>
+      <title>享界V8上市即开启全国大规模交付，以为家而生的100个设计锁定爆款</title>
+      <link>https://www.leiphone.com/category/industrynews/cjpukqhxIgaEYhyQ.html</link>
+      <description>…要当下良好的竞技状态，还要预留足够余量，应对赛道上所有不可预判的变数。放到家庭用车场景，这份“余量”，就是整车安全。 MPV第三排座位，曾因为“应急座位”饱受诟病。安全配置、乘坐舒适性对比前排，都大打折扣。而这，正是享界V8为家而生的100个设计的重点之一。即，三排安全无差别对待。 依靠13横11纵玄武车身架构，享界V8超高强钢与铝合金占比达到79.35%，16处区域搭载2.0GPa热成型超强钢，A柱…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:cb0011ccc2f0ef65</guid>
+      <pubDate>Sat, 21 Nov 2026 17:02:01 +0800</pubDate>
+      <category>资讯·雷锋网</category>
+    </item>
+    <item>
       <title>阿里云百炼模型价格</title>
       <link>https://help.aliyun.com/zh/model-studio/billing-for-model-studio</link>
       <description>…Batch 调用 ，其输入和输出 Token 单价均按实时推理价格的 50%计费；若模型支持 上下文缓存 ，仅输入 Token 享有折扣。两者不能同时生效。 说明 以下模型仅在华北 2（北京）地域下有免费额度，其他地域均无免费额度。 华北 2（北京） 模型 ID（Model ID） 模式 单次请求的输入 Token 数 输入单价（每百万 Token） 输出单价（每百万 Token） 思维链+回答 免费…</description>
@@ -406,14 +414,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:fa59899fb80cc144</guid>
       <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
       <category>Replicate</category>
-    </item>
-    <item>
-      <title>享界V8上市即开启全国大规模交付，以为家而生的100个设计锁定爆款</title>
-      <link>https://www.leiphone.com/category/industrynews/cjpukqhxIgaEYhyQ.html</link>
-      <description>…要当下良好的竞技状态，还要预留足够余量，应对赛道上所有不可预判的变数。放到家庭用车场景，这份“余量”，就是整车安全。 MPV第三排座位，曾因为“应急座位”饱受诟病。安全配置、乘坐舒适性对比前排，都大打折扣。而这，正是享界V8为家而生的100个设计的重点之一。即，三排安全无差别对待。 依靠13横11纵玄武车身架构，享界V8超高强钢与铝合金占比达到79.35%，16处区域搭载2.0GPa热成型超强钢，A柱…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:cb0011ccc2f0ef65</guid>
-      <pubDate>Sat, 21 Nov 2026 17:02:01 +0800</pubDate>
-      <category>资讯·雷锋网</category>
     </item>
     <item>
       <title>火山方舟 模型计费说明</title>
