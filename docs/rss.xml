@@ -5,7 +5,7 @@
     <link>https://ikeng.github.io/model-egg-monitor/</link>
     <description>每日两次监控大模型厂商活动，提供 Atom / JSON Feed 订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 21 Nov 2026 02:12:47 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 17:02:19 +0800</lastBuildDate>
     <generator>ai-egg-monitor</generator>
     <item>
       <title>大模型 API 价格方案</title>
@@ -136,14 +136,6 @@
       <category>资讯·极客公园</category>
     </item>
     <item>
-      <title>火山方舟 模型计费说明</title>
-      <link>https://www.volcengine.com/docs/82379/1099320</link>
-      <description>…​ 0.05 ​ P ≤ 2.61M：0.13 ​ 2.61M &lt; P ≤ 4.63M：0.23 ​ doubao-seedream-5-0-pro ​ 按生图场景区分定价 ​ 首张免费 ​ 第 2 张起：0.02 ​ 单图生成场景： ​ P ≤ 2.61M：0.30 ​ P &gt; 2.61M：0.60 ​ 图层拆分场景： ​ P ≤ 2.61M：0.15 ​ P &gt; 2.61M：0.…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:3f9515c4e7efd405</guid>
-      <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
-      <category>火山方舟·豆包</category>
-    </item>
-    <item>
       <title>Pricing</title>
       <link>https://fireworks.ai/pricing</link>
       <description>…See our inference rates or talk to us about a custom deployment. Muse Glimmer 30B SFT is free through November 30 In the UI and the Serverless Training API. No credit card required. Start a job…</description>
@@ -202,7 +194,7 @@
     <item>
       <title>Plans and Pricing | Devin</title>
       <link>https://windsurf.com/pricing</link>
-      <description>…the perfect plan for your journey SWE-2, our latest model, is now available → INDIVIDUAL PLANS Free $0 Download Light quota to code with agents Limited model availability Unlimited inline edits Unlim…</description>
+      <description>…Teams Access to Devin Bots Share and collaborate with multiplayer sessions 2 concurrent sessions in Free mode per user SAML/OIDC SSO Cost controls with 3 usage tiers Centralized billing Slack channel supp…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:747206776c9a56c4</guid>
       <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
       <category>Windsurf</category>
@@ -214,6 +206,14 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:74b59133ae9afdfe</guid>
       <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
       <category>硅基流动 SiliconFlow</category>
+    </item>
+    <item>
+      <title>Lazada双11：品牌商城贡献近八成成交，天猫一键轻出海增长超200%</title>
+      <link>https://www.leiphone.com/category/industrynews/eimD3gxofdJcSrVY.html</link>
+      <description>…种草和达人直播推广街头运动风格女装品牌FPA、Crying Center，两者成交增长显著。在菲律宾，Lazada则为各个运动鞋品牌搭建起面向当地球鞋爱好者的推广渠道，通过球鞋社群种草、买手博主推荐和折扣信息分享，让品牌商品精准触达当地运动消费人群。 好商品也要被看见。Cube Asia报告显示，超过八成的消费者经常在电商平台之外发现商品，社交媒体和内容推荐已成为重要的购物入口。顺应这一趋势，Laza…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:8220ebebc82acb52</guid>
+      <pubDate>Sat, 21 Nov 2026 02:12:27 +0800</pubDate>
+      <category>资讯·雷锋网</category>
     </item>
     <item>
       <title>Try NVIDIA NIM APIs</title>
@@ -408,12 +408,20 @@
       <category>Replicate</category>
     </item>
     <item>
-      <title>Lazada双11：品牌商城贡献近八成成交，天猫一键轻出海增长超200%</title>
-      <link>https://www.leiphone.com/category/industrynews/eimD3gxofdJcSrVY.html</link>
-      <description>…种草和达人直播推广街头运动风格女装品牌FPA、Crying Center，两者成交增长显著。在菲律宾，Lazada则为各个运动鞋品牌搭建起面向当地球鞋爱好者的推广渠道，通过球鞋社群种草、买手博主推荐和折扣信息分享，让品牌商品精准触达当地运动消费人群。 好商品也要被看见。Cube Asia报告显示，超过八成的消费者经常在电商平台之外发现商品，社交媒体和内容推荐已成为重要的购物入口。顺应这一趋势，Laza…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:8220ebebc82acb52</guid>
-      <pubDate>Sat, 21 Nov 2026 02:12:27 +0800</pubDate>
+      <title>享界V8上市即开启全国大规模交付，以为家而生的100个设计锁定爆款</title>
+      <link>https://www.leiphone.com/category/industrynews/cjpukqhxIgaEYhyQ.html</link>
+      <description>…要当下良好的竞技状态，还要预留足够余量，应对赛道上所有不可预判的变数。放到家庭用车场景，这份“余量”，就是整车安全。 MPV第三排座位，曾因为“应急座位”饱受诟病。安全配置、乘坐舒适性对比前排，都大打折扣。而这，正是享界V8为家而生的100个设计的重点之一。即，三排安全无差别对待。 依靠13横11纵玄武车身架构，享界V8超高强钢与铝合金占比达到79.35%，16处区域搭载2.0GPa热成型超强钢，A柱…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:cb0011ccc2f0ef65</guid>
+      <pubDate>Sat, 21 Nov 2026 17:02:01 +0800</pubDate>
       <category>资讯·雷锋网</category>
+    </item>
+    <item>
+      <title>火山方舟 模型计费说明</title>
+      <link>https://www.volcengine.com/docs/82379/1099320</link>
+      <description>…​ 0.05 ​ P ≤ 2.61M：0.13 ​ 2.61M &lt; P ≤ 4.63M：0.23 ​ doubao-seedream-5-0-pro ​ 按生图场景区分定价 ​ 首张免费 ​ 第 2 张起：0.02 ​ 单图生成场景： ​ P ≤ 2.61M：0.30 ​ P &gt; 2.61M：0.60 ​ 图层拆分场景： ​ P ≤ 2.61M：0.15 ​ P &gt; 2.61M：0.…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:3f9515c4e7efd405</guid>
+      <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
+      <category>火山方舟·豆包</category>
     </item>
     <item>
       <title>Gondola doubles revenue as its team builds more with Codex</title>
@@ -798,14 +806,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:d219dd371699edcf</guid>
       <pubDate>Wed, 11 Nov 2026 01:24:30 +0800</pubDate>
       <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>猪肉不停降价，给了“云南猪王”更多磨练二代的机会</title>
-      <link>https://www.tmtpost.com/8198696.html</link>
-      <description>二代接班会不会提速?</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:dffb738525caaa2e</guid>
-      <pubDate>Wed, 11 Nov 2026 01:24:30 +0800</pubDate>
-      <category>资讯·钛媒体</category>
     </item>
   </channel>
 </rss>
