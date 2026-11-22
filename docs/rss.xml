@@ -5,7 +5,7 @@
     <link>https://ikeng.github.io/model-egg-monitor/</link>
     <description>每日两次监控大模型厂商活动，提供 Atom / JSON Feed 订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 22 Nov 2026 17:11:46 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 01:32:51 +0800</lastBuildDate>
     <generator>ai-egg-monitor</generator>
     <item>
       <title>大模型 API 价格方案</title>
@@ -86,14 +86,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:222146e80f0b2614</guid>
       <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
       <category>Hugging Face</category>
-    </item>
-    <item>
-      <title>Pricing</title>
-      <link>https://mistral.ai/pricing</link>
-      <description>…Luxembourg Malta Netherlands Poland Portugal Romania Slovakia Slovenia Spain Sweden United Kingdom Free Your personal AI agent for everyday tasks. Test out Vibe’s capabilities. Access on web and mobile.…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:232ffcd8a4c48761</guid>
-      <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
-      <category>Mistral</category>
     </item>
     <item>
       <title>模型概览</title>
@@ -194,7 +186,7 @@
     <item>
       <title>Plans and Pricing | Devin</title>
       <link>https://windsurf.com/pricing</link>
-      <description>…Teams Access to Devin Bots Share and collaborate with multiplayer sessions 2 concurrent sessions in Free mode per user SAML/OIDC SSO Cost controls with 3 usage tiers Centralized billing Slack channel supp…</description>
+      <description>…the perfect plan for your journey SWE-2, our latest model, is now available → INDIVIDUAL PLANS Free $0 Download Light quota to code with agents Limited model availability Unlimited inline edits Unlim…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:747206776c9a56c4</guid>
       <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
       <category>Windsurf</category>
@@ -414,6 +406,22 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:fa59899fb80cc144</guid>
       <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
       <category>Replicate</category>
+    </item>
+    <item>
+      <title>Mistral Pricing</title>
+      <link>https://mistral.ai/pricing</link>
+      <description>…Luxembourg Malta Netherlands Poland Portugal Romania Slovakia Slovenia Spain Sweden United Kingdom Free Your personal AI agent for everyday tasks. Test out Vibe’s capabilities. Access on web and mobile.…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:8918d8d9b695fc5d</guid>
+      <pubDate>Mon, 23 Nov 2026 01:32:33 +0800</pubDate>
+      <category>Mistral</category>
+    </item>
+    <item>
+      <title>Pricing</title>
+      <link>https://mistral.ai/pricing</link>
+      <description>…Luxembourg Malta Netherlands Poland Portugal Romania Slovakia Slovenia Spain Sweden United Kingdom Free Your personal AI agent for everyday tasks. Test out Vibe’s capabilities. Access on web and mobile.…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:232ffcd8a4c48761</guid>
+      <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
+      <category>Mistral</category>
     </item>
     <item>
       <title>火山方舟 模型计费说明</title>
@@ -796,14 +804,6 @@
       <link>https://www.ithome.com/1/025/194.htm</link>
       <description>…/store.steampowered.com/app/4530370/ 足球经理 27/?l=schinese&amp;cc=cn ）。 据介绍，本作国区标准版定价 268 元，预购期间曾提供 10% 首发折扣（折后 241.2 元），该促销已于发售日截止。游戏首发同步登陆 PC Game Pass 及 Xbox Game Pass Ultimate 订阅库，订阅用户可直接游玩。在语言支持方面，《FM27》…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:b7d1538f8bf91b7f</guid>
-      <pubDate>Wed, 11 Nov 2026 01:24:30 +0800</pubDate>
-      <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>任天堂古川俊太郎：Switch 2 售价暂不调整，若成本实在扛不住就得涨价</title>
-      <link>https://www.ithome.com/1/025/183.htm</link>
-      <description>…和索尼 PS5。 从投资者角度来看，提高 Switch 2 售价或许有助于改善利润表现，但任天堂还必须考虑消费者的购买意愿。过高的入手门槛可能让原本打算立即购买主机的消费者转而选择观望，等待未来降价。至于这个等待期究竟有多长，目前还很难说。 前 PlayStation 高管肖恩 · 莱登（Shawn Layden）此前也曾表示，游戏行业当下真正的创新，应该是把游戏主机价格降下来，而不是一味追求更…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:d219dd371699edcf</guid>
       <pubDate>Wed, 11 Nov 2026 01:24:30 +0800</pubDate>
       <category>资讯·IT之家</category>
     </item>
