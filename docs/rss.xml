@@ -5,7 +5,7 @@
     <link>https://ikeng.github.io/model-egg-monitor/</link>
     <description>每日两次监控大模型厂商活动，提供 Atom / JSON Feed 订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 23 Nov 2026 01:32:51 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 18:06:32 +0800</lastBuildDate>
     <generator>ai-egg-monitor</generator>
     <item>
       <title>大模型 API 价格方案</title>
@@ -104,14 +104,6 @@
       <category>资讯·Simon Willison</category>
     </item>
     <item>
-      <title>Gemini 4 Neon 发布：Google 在最强和最便宜之间，塞进了一个中间档</title>
-      <link>https://www.oschina.net/news/503675/google-gemini-4-neon</link>
-      <description>…长周期项目，Hydrogen 负责日常快速执行，新来的 Neon 卡在中间——按 Google 自己的说法，是「平衡深度与效率」。 输入每百万 token 3 美元，缓存输入 0.15 美元（95% 折扣），输出每百万 token 15 美元，上下文窗口 100 万 token。 这个定价放在前沿模型里不算激进，但...</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:26bf35d5cbf2e270</guid>
-      <pubDate>Thu, 19 Nov 2026 17:43:34 +0800</pubDate>
-      <category>资讯·开源中国</category>
-    </item>
-    <item>
       <title>Different Types of API Keys and Rate Limits</title>
       <link>https://docs.cohere.com/docs/rate-limits</link>
       <description>…- v1 API: https://docs.cohere.com/v1/llms.txt Cohere offers two kinds of API keys: evaluation keys (free but limited in usage), and production keys (paid and much less limited in usage). You can create a…</description>
@@ -186,7 +178,7 @@
     <item>
       <title>Plans and Pricing | Devin</title>
       <link>https://windsurf.com/pricing</link>
-      <description>…the perfect plan for your journey SWE-2, our latest model, is now available → INDIVIDUAL PLANS Free $0 Download Light quota to code with agents Limited model availability Unlimited inline edits Unlim…</description>
+      <description>…Teams Access to Devin Bots Share and collaborate with multiplayer sessions 2 concurrent sessions in Free mode per user SAML/OIDC SSO Cost controls with 3 usage tiers Centralized billing Slack channel supp…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:747206776c9a56c4</guid>
       <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
       <category>Windsurf</category>
@@ -200,12 +192,12 @@
       <category>硅基流动 SiliconFlow</category>
     </item>
     <item>
-      <title>Lazada双11：品牌商城贡献近八成成交，天猫一键轻出海增长超200%</title>
-      <link>https://www.leiphone.com/category/industrynews/eimD3gxofdJcSrVY.html</link>
-      <description>…种草和达人直播推广街头运动风格女装品牌FPA、Crying Center，两者成交增长显著。在菲律宾，Lazada则为各个运动鞋品牌搭建起面向当地球鞋爱好者的推广渠道，通过球鞋社群种草、买手博主推荐和折扣信息分享，让品牌商品精准触达当地运动消费人群。 好商品也要被看见。Cube Asia报告显示，超过八成的消费者经常在电商平台之外发现商品，社交媒体和内容推荐已成为重要的购物入口。顺应这一趋势，Laza…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:8220ebebc82acb52</guid>
-      <pubDate>Sat, 21 Nov 2026 02:12:27 +0800</pubDate>
-      <category>资讯·雷锋网</category>
+      <title>Mistral Pricing</title>
+      <link>https://mistral.ai/pricing</link>
+      <description>…Luxembourg Malta Netherlands Poland Portugal Romania Slovakia Slovenia Spain Sweden United Kingdom Free Your personal AI agent for everyday tasks. Test out Vibe’s capabilities. Access on web and mobile.…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:8918d8d9b695fc5d</guid>
+      <pubDate>Mon, 23 Nov 2026 01:32:33 +0800</pubDate>
+      <category>Mistral</category>
     </item>
     <item>
       <title>Try NVIDIA NIM APIs</title>
@@ -230,14 +222,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:95b83aca5ff8baff</guid>
       <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
       <category>Cerebras</category>
-    </item>
-    <item>
-      <title>千问办公押注 Team Agent，企业 AI 的流水线时刻真的来了</title>
-      <link>http://www.geekpark.net/news/373760</link>
-      <description>…得完整的上下文却需要企业把完整工作流迁移过来。 甚至客户沟通、部门讨论、文档修改，最好都发生在这个新产品里。 你可以把同事拉进自己的 Agent，却很难要求客户先安装一个新的 AI 产品，才能向他发送优惠券。 对于企业来说，既有 IM 也远不只是聊天工具。人员关系、权限、审批和业务习惯，都已经形成。企业愿意为新能力付费，并不意味着它可以为新产品重新组织一遍所有人的工作。 也是因此，另一条路径选择反过来，…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:9644a871df752bbe</guid>
-      <pubDate>Tue, 10 Nov 2026 17:02:36 +0800</pubDate>
-      <category>资讯·极客公园</category>
     </item>
     <item>
       <title>腾讯 Hy4 flash 实测：快速、实惠、聪明，国模进入过日子时代</title>
@@ -408,12 +392,44 @@
       <category>Replicate</category>
     </item>
     <item>
-      <title>Mistral Pricing</title>
-      <link>https://mistral.ai/pricing</link>
-      <description>…Luxembourg Malta Netherlands Poland Portugal Romania Slovakia Slovenia Spain Sweden United Kingdom Free Your personal AI agent for everyday tasks. Test out Vibe’s capabilities. Access on web and mobile.…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:8918d8d9b695fc5d</guid>
-      <pubDate>Mon, 23 Nov 2026 01:32:33 +0800</pubDate>
-      <category>Mistral</category>
+      <title>模型价格</title>
+      <link>https://www.volcengine.com/docs/82379/1099320</link>
+      <description>…​ 0.05 ​ P ≤ 2.61M：0.13 ​ 2.61M &lt; P ≤ 4.63M：0.23 ​ doubao-seedream-5-0-pro ​ 按生图场景区分定价 ​ 首张免费 ​ 第 2 张起：0.02 ​ 单图生成场景： ​ P ≤ 2.61M：0.30 ​ P &gt; 2.61M：0.60 ​ 图层拆分场景： ​ P ≤ 2.61M：0.15 ​ P &gt; 2.61M：0.…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:5a3bf1dbeef1091c</guid>
+      <pubDate>Mon, 23 Nov 2026 18:06:12 +0800</pubDate>
+      <category>火山方舟·豆包</category>
+    </item>
+    <item>
+      <title>国内首个！蚂蚁阿福医生版上线“循证金标准”UpToDate ，打造全场景医生AI工作台</title>
+      <link>https://www.leiphone.com/category/industrynews/Ljtu9TVFrPPeiBsX.html</link>
+      <description>…发布PC工作台（电脑端）版本，同时接入威科集团循证医学临床决策支持解决方案UpToDate，成为国内首个接入该专业功能的AI平台。 即日起，全国医生、护士及药师等卫生专业技术人员都可通过阿福医生版限时免费试用UpToDate。 此次升级， 阿福医生版实现了手机App加PC工作台的双端布局， 医生既可以便捷地在手机上借助阿福在线接诊、管理和沟通患者，也能在电脑上借助阿福的AI工具完成整理病历、分析数据、生成…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:260a3bd32b2a7fa0</guid>
+      <pubDate>Mon, 23 Nov 2026 18:06:12 +0800</pubDate>
+      <category>资讯·雷锋网</category>
+    </item>
+    <item>
+      <title>Gemini 4 Neon 发布：Google 在最强和最便宜之间，塞进了一个中间档</title>
+      <link>https://www.oschina.net/news/503675/google-gemini-4-neon</link>
+      <description>…长周期项目，Hydrogen 负责日常快速执行，新来的 Neon 卡在中间——按 Google 自己的说法，是「平衡深度与效率」。 输入每百万 token 3 美元，缓存输入 0.15 美元（95% 折扣），输出每百万 token 15 美元，上下文窗口 100 万 token。 这个定价放在前沿模型里不算激进，但...</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:26bf35d5cbf2e270</guid>
+      <pubDate>Thu, 19 Nov 2026 17:43:34 +0800</pubDate>
+      <category>资讯·开源中国</category>
+    </item>
+    <item>
+      <title>Lazada双11：品牌商城贡献近八成成交，天猫一键轻出海增长超200%</title>
+      <link>https://www.leiphone.com/category/industrynews/eimD3gxofdJcSrVY.html</link>
+      <description>…种草和达人直播推广街头运动风格女装品牌FPA、Crying Center，两者成交增长显著。在菲律宾，Lazada则为各个运动鞋品牌搭建起面向当地球鞋爱好者的推广渠道，通过球鞋社群种草、买手博主推荐和折扣信息分享，让品牌商品精准触达当地运动消费人群。 好商品也要被看见。Cube Asia报告显示，超过八成的消费者经常在电商平台之外发现商品，社交媒体和内容推荐已成为重要的购物入口。顺应这一趋势，Laza…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:8220ebebc82acb52</guid>
+      <pubDate>Sat, 21 Nov 2026 02:12:27 +0800</pubDate>
+      <category>资讯·雷锋网</category>
+    </item>
+    <item>
+      <title>千问办公押注 Team Agent，企业 AI 的流水线时刻真的来了</title>
+      <link>http://www.geekpark.net/news/373760</link>
+      <description>…得完整的上下文却需要企业把完整工作流迁移过来。 甚至客户沟通、部门讨论、文档修改，最好都发生在这个新产品里。 你可以把同事拉进自己的 Agent，却很难要求客户先安装一个新的 AI 产品，才能向他发送优惠券。 对于企业来说，既有 IM 也远不只是聊天工具。人员关系、权限、审批和业务习惯，都已经形成。企业愿意为新能力付费，并不意味着它可以为新产品重新组织一遍所有人的工作。 也是因此，另一条路径选择反过来，…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:9644a871df752bbe</guid>
+      <pubDate>Tue, 10 Nov 2026 17:02:36 +0800</pubDate>
+      <category>资讯·极客公园</category>
     </item>
     <item>
       <title>Pricing</title>
@@ -788,22 +804,6 @@
       <link>https://www.ithome.com/1/025/164.htm</link>
       <description>…苹果官方自营店 · 天猫 Apple Store 今日开启 iPhone 18 Pro / Max 11.11 狂促活动，下单立减 300 元。 官方渠道支持 7 天无理由退货（激活后也支持）服务， 免费试用 7 天哦 。 今日下单时选择“以旧换新”选择 任意 旧物，可享政府补贴 500 元，合计立减 800 元。 旧物估值如果超过旧机超过 1000 元，补贴 500 元红包，合计立减 1300 元。 售…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:b0f93c291045c15e</guid>
-      <pubDate>Wed, 11 Nov 2026 01:24:30 +0800</pubDate>
-      <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>中国首部 8K 拍摄太空电影《窗外是蓝星》获第 39 届中国电影金鸡奖最佳纪录 / 科教片奖</title>
-      <link>https://www.ithome.com/1/025/172.htm</link>
-      <description>…存储等一系列挑战。 该电影同步制作 CINITY 巨幕 4K50 帧版、CINITY LED 版、IMAX、CGS 中国巨幕、4DX 等多格式制式版本。 IT之家小伙伴记得用 最会买购买电影票 ，享受折扣价的同时还可以获得返利，预计每张票可以节省 5~15 元！</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:b3d5dcfeb8cbf635</guid>
-      <pubDate>Wed, 11 Nov 2026 01:24:30 +0800</pubDate>
-      <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>《足球经理 27》今日发售：国区售价 268 元，首发加入 PC Game Pass</title>
-      <link>https://www.ithome.com/1/025/194.htm</link>
-      <description>…/store.steampowered.com/app/4530370/ 足球经理 27/?l=schinese&amp;cc=cn ）。 据介绍，本作国区标准版定价 268 元，预购期间曾提供 10% 首发折扣（折后 241.2 元），该促销已于发售日截止。游戏首发同步登陆 PC Game Pass 及 Xbox Game Pass Ultimate 订阅库，订阅用户可直接游玩。在语言支持方面，《FM27》…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:b7d1538f8bf91b7f</guid>
       <pubDate>Wed, 11 Nov 2026 01:24:30 +0800</pubDate>
       <category>资讯·IT之家</category>
     </item>
