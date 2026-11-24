@@ -5,7 +5,7 @@
     <link>https://ikeng.github.io/model-egg-monitor/</link>
     <description>每日两次监控大模型厂商活动，提供 Atom / JSON Feed 订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 23 Nov 2026 18:06:32 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 19:53:50 +0800</lastBuildDate>
     <generator>ai-egg-monitor</generator>
     <item>
       <title>大模型 API 价格方案</title>
@@ -138,7 +138,7 @@
     <item>
       <title>Pricing</title>
       <link>https://docs.perplexity.ai/getting-started/pricing</link>
-      <description>…Search runs + counted fetched URLs from succeeded Page runs) × $0.001. Failed and skipped runs are free. A succeeded Search run is billed once, even if it performs multiple searches or returns no finding…</description>
+      <description>…fetched URLs from succeeded Page runs) × $0.001. Failed and skipped Search and Page runs are free. A succeeded Search run is billed once, even if it performs multiple searches or returns no finding…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:454f941d51e15f39</guid>
       <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
       <category>Perplexity</category>
@@ -160,6 +160,14 @@
       <category>Modal</category>
     </item>
     <item>
+      <title>模型价格</title>
+      <link>https://www.volcengine.com/docs/82379/1099320</link>
+      <description>…​ 0.05 ​ P ≤ 2.61M：0.13 ​ 2.61M &lt; P ≤ 4.63M：0.23 ​ doubao-seedream-5-0-pro ​ 按生图场景区分定价 ​ 首张免费 ​ 第 2 张起：0.02 ​ 单图生成场景： ​ P ≤ 2.61M：0.30 ​ P &gt; 2.61M：0.60 ​ 图层拆分场景： ​ P ≤ 2.61M：0.15 ​ P &gt; 2.61M：0.…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:5a3bf1dbeef1091c</guid>
+      <pubDate>Mon, 23 Nov 2026 18:06:12 +0800</pubDate>
+      <category>火山方舟·豆包</category>
+    </item>
+    <item>
       <title>Plans &amp; pricing</title>
       <link>https://www.anthropic.com/pricing</link>
       <description>Pricing Individual Team &amp; Enterprise API Free Try Claude $0 Free for everyone Try Claude Limited usage every 5 hours and every week * Chat on web…</description>
@@ -178,7 +186,7 @@
     <item>
       <title>Plans and Pricing | Devin</title>
       <link>https://windsurf.com/pricing</link>
-      <description>…Teams Access to Devin Bots Share and collaborate with multiplayer sessions 2 concurrent sessions in Free mode per user SAML/OIDC SSO Cost controls with 3 usage tiers Centralized billing Slack channel supp…</description>
+      <description>…the perfect plan for your journey SWE-2, our latest model, is now available → INDIVIDUAL PLANS Free $0 Download Light quota to code with agents Limited model availability Unlimited inline edits Unlim…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:747206776c9a56c4</guid>
       <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
       <category>Windsurf</category>
@@ -248,14 +256,6 @@
       <category>通义千问</category>
     </item>
     <item>
-      <title>接入多款第三方模型，豆包工作也模型自由了</title>
-      <link>http://www.geekpark.net/news/373881</link>
-      <description>…需选型完成任务。同步在模型选择页面标注各模型额度消耗倍率，倍率越低消耗越少，便于用户结合任务需求与使用成本做决策。 同时平台推出两项限时优惠：一是工作日及节假日的指定时段内，使用活动模型可享受额度消耗折扣；二是豆包 2.1 Lite、DeepSeek V4.1 Flash 两款模型限时下调额度消耗倍率，同等任务消耗额度更少。 一、补全多模型，解决「有的选」 本轮更新中，豆包工作一次性接入 Kimi 3…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:a2dbc08f09b87811</guid>
-      <pubDate>Fri, 13 Nov 2026 01:49:33 +0800</pubDate>
-      <category>资讯·极客公园</category>
-    </item>
-    <item>
       <title>Cerebras Inference Pricing</title>
       <link>https://www.cerebras.ai/pricing</link>
       <description>…use. ** Available by agreement. *** Add a valid payment method to receive a one-time $5 promotional credit. The credit expires 30 days after activation. You will not be charged or automatically enrolled in…</description>
@@ -312,14 +312,6 @@
       <category>Cursor</category>
     </item>
     <item>
-      <title>享界V8上市即开启全国大规模交付，以为家而生的100个设计锁定爆款</title>
-      <link>https://www.leiphone.com/category/industrynews/cjpukqhxIgaEYhyQ.html</link>
-      <description>…要当下良好的竞技状态，还要预留足够余量，应对赛道上所有不可预判的变数。放到家庭用车场景，这份“余量”，就是整车安全。 MPV第三排座位，曾因为“应急座位”饱受诟病。安全配置、乘坐舒适性对比前排，都大打折扣。而这，正是享界V8为家而生的100个设计的重点之一。即，三排安全无差别对待。 依靠13横11纵玄武车身架构，享界V8超高强钢与铝合金占比达到79.35%，16处区域搭载2.0GPa热成型超强钢，A柱…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:cb0011ccc2f0ef65</guid>
-      <pubDate>Sat, 21 Nov 2026 17:02:01 +0800</pubDate>
-      <category>资讯·雷锋网</category>
-    </item>
-    <item>
       <title>阿里云百炼模型价格</title>
       <link>https://help.aliyun.com/zh/model-studio/billing-for-model-studio</link>
       <description>…Batch 调用 ，其输入和输出 Token 单价均按实时推理价格的 50%计费；若模型支持 上下文缓存 ，仅输入 Token 享有折扣。两者不能同时生效。 说明 以下模型仅在华北 2（北京）地域下有免费额度，其他地域均无免费额度。 华北 2（北京） 模型 ID（Model ID） 模式 单次请求的输入 Token 数 输入单价（每百万 Token） 输出单价（每百万 Token） 思维链+回答 免费…</description>
@@ -336,14 +328,6 @@
       <category>OpenRouter</category>
     </item>
     <item>
-      <title>llm-gemini 0.37</title>
-      <link>https://simonwillison.net/2026/Nov/12/llm-gemini/</link>
-      <description>…as the high-efficiency execution engine in multi-model workflows. Most notably, Hydrogen is the new free tier model, and is the model that will power AI features in Google Search. Tags: gemini , llm , google ,…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:d989c5e1c9dd107f</guid>
-      <pubDate>Fri, 13 Nov 2026 16:58:05 +0800</pubDate>
-      <category>资讯·Simon Willison</category>
-    </item>
-    <item>
       <title>面壁智能</title>
       <link>https://modelbest.cn/</link>
       <description>…为每位开发者用户节省年费 264 美元（ElevenLabs 年费，接近 1800 元人民币）！ MiniCPM‑V 4.6 开源即爆火！登顶 Hugging Face Trending Top 2，免费 API 开放 5月11日，面壁智能联合清华大学、OpenBMB一同发布并开源了MiniCPM-V 4.6，一经开源便点燃了全球开发者的热情！开源后迅速登顶Hugging Face的趋势榜单Top 2…</description>
@@ -358,14 +342,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:de76b49c9d692247</guid>
       <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
       <category>OpenAI</category>
-    </item>
-    <item>
-      <title>当美国无法建设数据中心，会对 AI 产生怎样的冲击</title>
-      <link>http://www.geekpark.net/news/373816</link>
-      <description>…。 两种算法口径下，电力冻结前后的有效算力年增速（推算）｜图片来源：极客公园 这里还有一个隐患。芯片能效的红利，前提是新芯片能顺利装进机房。机房总电量锁死后，供电和散热改造的难度，可能让这 2 倍也打折扣。 即便如此，每年约 6 倍依然是可观的数字。推演下来，结论很清楚： 极端场景下， AI 会 明显减速，但不会停摆 。 不过这笔账只算了训练需要的算力部分， 把视野放到整个 AI 的运转上，电量锁死之…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:e9ab14c6db1daf54</guid>
-      <pubDate>Wed, 11 Nov 2026 16:42:22 +0800</pubDate>
-      <category>资讯·极客公园</category>
     </item>
     <item>
       <title>How partners use Genie&#39;s free tier on Azure Databricks</title>
@@ -392,12 +368,28 @@
       <category>Replicate</category>
     </item>
     <item>
-      <title>模型价格</title>
-      <link>https://www.volcengine.com/docs/82379/1099320</link>
-      <description>…​ 0.05 ​ P ≤ 2.61M：0.13 ​ 2.61M &lt; P ≤ 4.63M：0.23 ​ doubao-seedream-5-0-pro ​ 按生图场景区分定价 ​ 首张免费 ​ 第 2 张起：0.02 ​ 单图生成场景： ​ P ≤ 2.61M：0.30 ​ P &gt; 2.61M：0.60 ​ 图层拆分场景： ​ P ≤ 2.61M：0.15 ​ P &gt; 2.61M：0.…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:5a3bf1dbeef1091c</guid>
-      <pubDate>Mon, 23 Nov 2026 18:06:12 +0800</pubDate>
-      <category>火山方舟·豆包</category>
+      <title>英伟达恢复黄仁勋CEO职务！黄仁勋重返公司总部，受到数百名员工迎接；DeepSeek最新估值或达6078亿元；蚂蚁开源医疗AI模型家族丨雷峰早报</title>
+      <link>https://www.leiphone.com/category/zaobao/Ao31dQuXPBTU7qpK.html</link>
+      <description>…）将于 12 月 29 日至 12 月 30 日，在北京中关村国际创新中心举办。本次大会将带来摩尔线程 MUSA 平台的最新进展。（IT之家） 华为云：DeepSeek-V4.1-Flash-1017降价 11月23日消息，华为云MaaS模型即服务于2026年11月23日00:00（北京时间）起下调贵阳一region的DeepSeek-V4.1-Flash-1017模型服务的价格：缓存命中输入价格调整…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:72eb1a299650e818</guid>
+      <pubDate>Tue, 24 Nov 2026 19:53:30 +0800</pubDate>
+      <category>资讯·雷锋网</category>
+    </item>
+    <item>
+      <title>独家解读丨苦战三个月，AI办公经得起财报检验吗？</title>
+      <link>https://www.leiphone.com/category/industrynews/A2PIgIjrlQx63RSp.html</link>
+      <description>…产品自身的盈利情况等 ，腾讯均未对外披露。但对一款尚在投入期的产品，这并不意外。 因此，也有分析师保持审慎态度： “AI办公目前给大厂带来的消耗还是高于收入。” 从短期来看，To C用户容易受到补贴和免费额度影响，业内担心一旦停止送积分，用户量就会下滑；To B商业化周期更长，尤其是企业AI落地，FDE本身就是一项交付较重的工作，距离真正规模化还需要一段时间。（AI办公究竟该是门To C生意还是To B生…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:7f684d69823686c4</guid>
+      <pubDate>Tue, 24 Nov 2026 19:53:30 +0800</pubDate>
+      <category>资讯·雷锋网</category>
+    </item>
+    <item>
+      <title>大促过后继续低过 5000 元：iPhone 17 手机国补后 4970 元近期好价</title>
+      <link>https://www.ithome.com/1/031/713.htm</link>
+      <description>iPhone 17 手机 256G 版官网售价 6799 元，今日联通京东自营旗舰店补贴价 5699 元； 下单领取 200 元优惠券； 国补立减 500 元； PLUS 会员立减 28.49 元； 到手价为 4970.51 元： 京东 苹果 iPhone 17 256GB 白色 券后 4970.51 元 领 200 元券 所有颜色…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:bc657af7d28a2260</guid>
+      <pubDate>Tue, 24 Nov 2026 19:53:30 +0800</pubDate>
+      <category>资讯·IT之家</category>
     </item>
     <item>
       <title>国内首个！蚂蚁阿福医生版上线“循证金标准”UpToDate ，打造全场景医生AI工作台</title>
@@ -406,6 +398,38 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:260a3bd32b2a7fa0</guid>
       <pubDate>Mon, 23 Nov 2026 18:06:12 +0800</pubDate>
       <category>资讯·雷锋网</category>
+    </item>
+    <item>
+      <title>接入多款第三方模型，豆包工作也模型自由了</title>
+      <link>http://www.geekpark.net/news/373881</link>
+      <description>…需选型完成任务。同步在模型选择页面标注各模型额度消耗倍率，倍率越低消耗越少，便于用户结合任务需求与使用成本做决策。 同时平台推出两项限时优惠：一是工作日及节假日的指定时段内，使用活动模型可享受额度消耗折扣；二是豆包 2.1 Lite、DeepSeek V4.1 Flash 两款模型限时下调额度消耗倍率，同等任务消耗额度更少。 一、补全多模型，解决「有的选」 本轮更新中，豆包工作一次性接入 Kimi 3…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:a2dbc08f09b87811</guid>
+      <pubDate>Fri, 13 Nov 2026 01:49:33 +0800</pubDate>
+      <category>资讯·极客公园</category>
+    </item>
+    <item>
+      <title>享界V8上市即开启全国大规模交付，以为家而生的100个设计锁定爆款</title>
+      <link>https://www.leiphone.com/category/industrynews/cjpukqhxIgaEYhyQ.html</link>
+      <description>…要当下良好的竞技状态，还要预留足够余量，应对赛道上所有不可预判的变数。放到家庭用车场景，这份“余量”，就是整车安全。 MPV第三排座位，曾因为“应急座位”饱受诟病。安全配置、乘坐舒适性对比前排，都大打折扣。而这，正是享界V8为家而生的100个设计的重点之一。即，三排安全无差别对待。 依靠13横11纵玄武车身架构，享界V8超高强钢与铝合金占比达到79.35%，16处区域搭载2.0GPa热成型超强钢，A柱…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:cb0011ccc2f0ef65</guid>
+      <pubDate>Sat, 21 Nov 2026 17:02:01 +0800</pubDate>
+      <category>资讯·雷锋网</category>
+    </item>
+    <item>
+      <title>llm-gemini 0.37</title>
+      <link>https://simonwillison.net/2026/Nov/12/llm-gemini/</link>
+      <description>…as the high-efficiency execution engine in multi-model workflows. Most notably, Hydrogen is the new free tier model, and is the model that will power AI features in Google Search. Tags: gemini , llm , google ,…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:d989c5e1c9dd107f</guid>
+      <pubDate>Fri, 13 Nov 2026 16:58:05 +0800</pubDate>
+      <category>资讯·Simon Willison</category>
+    </item>
+    <item>
+      <title>当美国无法建设数据中心，会对 AI 产生怎样的冲击</title>
+      <link>http://www.geekpark.net/news/373816</link>
+      <description>…。 两种算法口径下，电力冻结前后的有效算力年增速（推算）｜图片来源：极客公园 这里还有一个隐患。芯片能效的红利，前提是新芯片能顺利装进机房。机房总电量锁死后，供电和散热改造的难度，可能让这 2 倍也打折扣。 即便如此，每年约 6 倍依然是可观的数字。推演下来，结论很清楚： 极端场景下， AI 会 明显减速，但不会停摆 。 不过这笔账只算了训练需要的算力部分， 把视野放到整个 AI 的运转上，电量锁死之…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:e9ab14c6db1daf54</guid>
+      <pubDate>Wed, 11 Nov 2026 16:42:22 +0800</pubDate>
+      <category>资讯·极客公园</category>
     </item>
     <item>
       <title>Gemini 4 Neon 发布：Google 在最强和最便宜之间，塞进了一个中间档</title>
@@ -780,30 +804,6 @@
       <link>https://www.ithome.com/1/025/178.htm</link>
       <description>…》在去年暑期档电影中成功破圈。 该片票房已突破 17.19 亿元 ，成为中国影史二维动画电影票房冠军。截至IT之家发文，该影片的豆瓣评分为 8.5 分。 IT之家小伙伴记得用 最会买购买电影票 ，享受折扣价的同时还可以获得返利，预计每张票可以节省 5~15 元！ 延伸阅读 第 39 届中国电影金鸡奖颁奖典礼于 2026 年 11 月 10 日在福建省厦门市举行，2026 年中国金鸡百花电影节于 11…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:4dd3090d78a363f0</guid>
-      <pubDate>Wed, 11 Nov 2026 01:24:30 +0800</pubDate>
-      <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>撤档三个月后重映：国产动画电影《三国第一部：争洛阳》密钥延期至 2026 年 12 月 16 日</title>
-      <link>https://www.ithome.com/1/025/181.htm</link>
-      <description>…汉末年，危机四伏，宦官掌权，百姓困苦。黄巾军起，曹操、袁绍、袁术、吕布、孙坚、刘备等乱世英雄初露头角。各方势力争斗洛阳，惊涛骇浪中，曹操、袁绍如何应对？ IT之家小伙伴记得用 最会买购买电影票 ，享受折扣价的同时还可以获得返利，预计每张票可以节省 5~15 元！</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:70720c9137a32f98</guid>
-      <pubDate>Wed, 11 Nov 2026 01:24:30 +0800</pubDate>
-      <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>2499 → 449 元：格兰仕 DR 空气炸微波炉国补新低再降价</title>
-      <link>https://www.ithome.com/1/025/169.htm</link>
-      <description>格兰仕 DR 空气炸变频微波炉上市售价 2499 元，今日京东自营直降至 449 元。 先领 8 折券： 点此领券 点击下方卡片 → 点击宝贝右上方“ 直播浮窗 ”→ 进入直播间下单 下单时选择“ 以旧换新 ” → 个护健康 → 电动牙刷（不回收）实付 549 元 直播间下单返 30 元 E 卡 + 晒单返 50 元 E 卡 + 小红书种草返 20 元 E 卡（详询客服），合计返 100 元 E …</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:7db69821557470cc</guid>
-      <pubDate>Wed, 11 Nov 2026 01:24:30 +0800</pubDate>
-      <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>11.11 就看这波：全网巅峰狂促 24 小时，iPhone 17 京东 5068 元，18 Pro/ Max 官方焕新立减 1300 元</title>
-      <link>https://www.ithome.com/1/025/164.htm</link>
-      <description>…苹果官方自营店 · 天猫 Apple Store 今日开启 iPhone 18 Pro / Max 11.11 狂促活动，下单立减 300 元。 官方渠道支持 7 天无理由退货（激活后也支持）服务， 免费试用 7 天哦 。 今日下单时选择“以旧换新”选择 任意 旧物，可享政府补贴 500 元，合计立减 800 元。 旧物估值如果超过旧机超过 1000 元，补贴 500 元红包，合计立减 1300 元。 售…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:b0f93c291045c15e</guid>
       <pubDate>Wed, 11 Nov 2026 01:24:30 +0800</pubDate>
       <category>资讯·IT之家</category>
     </item>
