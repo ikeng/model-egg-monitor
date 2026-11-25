@@ -5,7 +5,7 @@
     <link>https://ikeng.github.io/model-egg-monitor/</link>
     <description>每日两次监控大模型厂商活动，提供 Atom / JSON Feed 订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 24 Nov 2026 19:53:50 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 18:45:40 +0800</lastBuildDate>
     <generator>ai-egg-monitor</generator>
     <item>
       <title>大模型 API 价格方案</title>
@@ -186,7 +186,7 @@
     <item>
       <title>Plans and Pricing | Devin</title>
       <link>https://windsurf.com/pricing</link>
-      <description>…the perfect plan for your journey SWE-2, our latest model, is now available → INDIVIDUAL PLANS Free $0 Download Light quota to code with agents Limited model availability Unlimited inline edits Unlim…</description>
+      <description>…Teams Access to Devin Bots Share and collaborate with multiplayer sessions 2 concurrent sessions in Free mode per user SAML/OIDC SSO Cost controls with 3 usage tiers Centralized billing Slack channel supp…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:747206776c9a56c4</guid>
       <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
       <category>Windsurf</category>
@@ -262,14 +262,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:a3169b683b57358b</guid>
       <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
       <category>Cerebras</category>
-    </item>
-    <item>
-      <title>From prompt to app: Build with Google Maps in AI Studio</title>
-      <link>https://developers.googleblog.com/from-prompt-to-app-build-with-google-maps-in-ai-studio/</link>
-      <description>…providing one-click demo keys that generate instantly without requiring Cloud Console redirects or credit cards. This setup grants developers immediate access to core APIs—including Maps, Places, and Route…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:b15b0d7e8447f82d</guid>
-      <pubDate>Tue, 10 Nov 2026 04:20:11 +0800</pubDate>
-      <category>Google Gemini</category>
     </item>
     <item>
       <title>Newsroom \ Anthropic</title>
@@ -368,6 +360,30 @@
       <category>Replicate</category>
     </item>
     <item>
+      <title>《复仇者联盟 5》必过剧情：B站官宣 12 月 6 日播出漫威网剧《洛基第一季》</title>
+      <link>https://www.ithome.com/1/032/375.htm</link>
+      <description>…过剧情之一。 根据规划， 《复仇者联盟 5：毁灭之日》内地已定档 12 月 16 日领先全球上映 。而在漫威官方最新海报中，执掌时间之力的洛基也有现身。 IT之家小伙伴记得用 最会买购买电影票 ，享受折扣价的同时还可以获得返利，预计每张票可以节省 5~15 元！</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:e0cf5ae513da2fcb</guid>
+      <pubDate>Wed, 25 Nov 2026 18:45:21 +0800</pubDate>
+      <category>资讯·IT之家</category>
+    </item>
+    <item>
+      <title>豆包个人 AI 助理「小豆」开启公测；存储承压，小米三季度经调整净利润下滑近六成；红果短剧上线时间管理功能 | 极客早知道</title>
+      <link>http://www.geekpark.net/news/374438</link>
+      <description>豆包旗下 AI 个人助理「小豆」开启公测，能够帮你处理日常事务 11 月 24 日消息，豆包官方今天宣布「小豆」正式开启公测，采用邀请制开放。用户凭邀请码即可开启体验，并获赠一定量免费额度。 小豆是豆包旗下的 AI 个人助理产品，采用对话式交互方式，在用户明确指令与授权范围内，协助你高效处理日常事务。官方宣称它是「一个懂你，还能主动帮你办事的豆包」。未来，小豆上的能力与体验也将逐步在豆…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:440d8ae825c16871</guid>
+      <pubDate>Wed, 25 Nov 2026 18:45:21 +0800</pubDate>
+      <category>资讯·极客公园</category>
+    </item>
+    <item>
+      <title>Kagi 推出邮件服务</title>
+      <link>https://www.solidot.org/story?sid=85984</link>
+      <description>付费搜索引擎（有免费试用）Kagi 推出了其邮件服务 Kagi Mail 的公开 beta 版本。Kagi 承诺该服务无监控、无广告、支持开放标准，不会锁定。Kagi 表示：“这个世界还需要另一个电子邮件服务吗？我们不止一次…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:57d9a48aad2d5a8b</guid>
+      <pubDate>Wed, 25 Nov 2026 18:45:21 +0800</pubDate>
+      <category>资讯·Solidot</category>
+    </item>
+    <item>
       <title>英伟达恢复黄仁勋CEO职务！黄仁勋重返公司总部，受到数百名员工迎接；DeepSeek最新估值或达6078亿元；蚂蚁开源医疗AI模型家族丨雷峰早报</title>
       <link>https://www.leiphone.com/category/zaobao/Ao31dQuXPBTU7qpK.html</link>
       <description>…）将于 12 月 29 日至 12 月 30 日，在北京中关村国际创新中心举办。本次大会将带来摩尔线程 MUSA 平台的最新进展。（IT之家） 华为云：DeepSeek-V4.1-Flash-1017降价 11月23日消息，华为云MaaS模型即服务于2026年11月23日00:00（北京时间）起下调贵阳一region的DeepSeek-V4.1-Flash-1017模型服务的价格：缓存命中输入价格调整…</description>
@@ -382,6 +398,14 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:7f684d69823686c4</guid>
       <pubDate>Tue, 24 Nov 2026 19:53:30 +0800</pubDate>
       <category>资讯·雷锋网</category>
+    </item>
+    <item>
+      <title>From prompt to app: Build with Google Maps in AI Studio</title>
+      <link>https://developers.googleblog.com/from-prompt-to-app-build-with-google-maps-in-ai-studio/</link>
+      <description>…providing one-click demo keys that generate instantly without requiring Cloud Console redirects or credit cards. This setup grants developers immediate access to core APIs—including Maps, Places, and Route…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:b15b0d7e8447f82d</guid>
+      <pubDate>Tue, 10 Nov 2026 04:20:11 +0800</pubDate>
+      <category>Google Gemini</category>
     </item>
     <item>
       <title>大促过后继续低过 5000 元：iPhone 17 手机国补后 4970 元近期好价</title>
@@ -781,30 +805,6 @@
       <description>…季度营业亏损 7492.49 万元。 第三季度单季营业收入 11.72 亿元，同比下降 8.97%；归母净亏损 7494.72 万元，扣非归母净亏损 9232.62 万元。公司指出，产品结构变化及产品降价导致当季毛利率下降，对盈利形成压力。</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:8aaf853c407e555f</guid>
       <pubDate>Wed, 11 Nov 2026 16:42:22 +0800</pubDate>
-      <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>漫威新剧《幻视任务》今日完结：绯红女巫旺达现身片尾彩蛋，或将在《复仇者联盟 5》回归</title>
-      <link>https://www.ithome.com/1/025/549.htm</link>
-      <description>…，会链接 X 战警、神奇四侠等超级英雄的世界。而毁灭博士在故事里将执行他的计划 —— 多元宇宙碰撞导致了他的家庭破碎，因此他决定创造一个全新秩序的宇宙。 IT之家小伙伴记得用 最会买购买电影票 ，享受折扣价的同时还可以获得返利，预计每张票可以节省 5~15 元！</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:ac75c0511c3355eb</guid>
-      <pubDate>Wed, 11 Nov 2026 16:42:22 +0800</pubDate>
-      <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>第 39 届中国电影金鸡奖全名单公布，《浪浪山小妖怪》《窗外是蓝星》《给阿嬷的情书》等获奖</title>
-      <link>https://www.ithome.com/1/025/189.htm</link>
-      <description>…妖怪〉获第 39 届中国电影金鸡奖最佳动画片奖 》 《 中国首部 8K 拍摄太空电影〈窗外是蓝星〉获第 39 届中国电影金鸡奖最佳纪录 / 科教片奖 》 IT之家小伙伴记得用 最会买购买电影票 ，享受折扣价的同时还可以获得返利，预计每张票可以节省 5~15 元！</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:36518c1754d9fea1</guid>
-      <pubDate>Wed, 11 Nov 2026 01:24:30 +0800</pubDate>
-      <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>国漫《浪浪山小妖怪》获第 39 届中国电影金鸡奖最佳动画片奖</title>
-      <link>https://www.ithome.com/1/025/178.htm</link>
-      <description>…》在去年暑期档电影中成功破圈。 该片票房已突破 17.19 亿元 ，成为中国影史二维动画电影票房冠军。截至IT之家发文，该影片的豆瓣评分为 8.5 分。 IT之家小伙伴记得用 最会买购买电影票 ，享受折扣价的同时还可以获得返利，预计每张票可以节省 5~15 元！ 延伸阅读 第 39 届中国电影金鸡奖颁奖典礼于 2026 年 11 月 10 日在福建省厦门市举行，2026 年中国金鸡百花电影节于 11…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:4dd3090d78a363f0</guid>
-      <pubDate>Wed, 11 Nov 2026 01:24:30 +0800</pubDate>
       <category>资讯·IT之家</category>
     </item>
   </channel>
