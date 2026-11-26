@@ -5,7 +5,7 @@
     <link>https://ikeng.github.io/model-egg-monitor/</link>
     <description>每日两次监控大模型厂商活动，提供 Atom / JSON Feed 订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 25 Nov 2026 18:45:40 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 18:18:13 +0800</lastBuildDate>
     <generator>ai-egg-monitor</generator>
     <item>
       <title>大模型 API 价格方案</title>
@@ -38,14 +38,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:09cec74616d2634c</guid>
       <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
       <category>GitHub Copilot</category>
-    </item>
-    <item>
-      <title>全村希望，千问 4 Max 正式发布，2.4 万亿参数模型「进厂打工」</title>
-      <link>http://www.geekpark.net/news/374079</link>
-      <description>…被进一步放大。在国内华北 2（北京）节点，千问 4 Max 的标准按量定价为每百万 Token 输入 10 元、输出 30 元，比前代的 12 元和 36 元便宜了一截，新开通用户还直接送 100 万免费 Token；针对 Agent 反复读取背景资料的场景，它的显式和隐式缓存命中价格直接打到了每百万 Token 0.5 元（创建缓存 5 分钟为 12.5 元，1 小时为 20 元）。国际版定价也同步降至输入 1…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:0da000e81addc909</guid>
-      <pubDate>Tue, 17 Nov 2026 17:58:35 +0800</pubDate>
-      <category>资讯·极客公园</category>
     </item>
     <item>
       <title>Latest news</title>
@@ -136,6 +128,14 @@
       <category>OpenAI</category>
     </item>
     <item>
+      <title>豆包个人 AI 助理「小豆」开启公测；存储承压，小米三季度经调整净利润下滑近六成；红果短剧上线时间管理功能 | 极客早知道</title>
+      <link>http://www.geekpark.net/news/374438</link>
+      <description>豆包旗下 AI 个人助理「小豆」开启公测，能够帮你处理日常事务 11 月 24 日消息，豆包官方今天宣布「小豆」正式开启公测，采用邀请制开放。用户凭邀请码即可开启体验，并获赠一定量免费额度。 小豆是豆包旗下的 AI 个人助理产品，采用对话式交互方式，在用户明确指令与授权范围内，协助你高效处理日常事务。官方宣称它是「一个懂你，还能主动帮你办事的豆包」。未来，小豆上的能力与体验也将逐步在豆…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:440d8ae825c16871</guid>
+      <pubDate>Wed, 25 Nov 2026 18:45:21 +0800</pubDate>
+      <category>资讯·极客公园</category>
+    </item>
+    <item>
       <title>Pricing</title>
       <link>https://docs.perplexity.ai/getting-started/pricing</link>
       <description>…fetched URLs from succeeded Page runs) × $0.001. Failed and skipped Search and Page runs are free. A succeeded Search run is billed once, even if it performs multiple searches or returns no finding…</description>
@@ -160,12 +160,12 @@
       <category>Modal</category>
     </item>
     <item>
-      <title>模型价格</title>
-      <link>https://www.volcengine.com/docs/82379/1099320</link>
-      <description>…​ 0.05 ​ P ≤ 2.61M：0.13 ​ 2.61M &lt; P ≤ 4.63M：0.23 ​ doubao-seedream-5-0-pro ​ 按生图场景区分定价 ​ 首张免费 ​ 第 2 张起：0.02 ​ 单图生成场景： ​ P ≤ 2.61M：0.30 ​ P &gt; 2.61M：0.60 ​ 图层拆分场景： ​ P ≤ 2.61M：0.15 ​ P &gt; 2.61M：0.…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:5a3bf1dbeef1091c</guid>
-      <pubDate>Mon, 23 Nov 2026 18:06:12 +0800</pubDate>
-      <category>火山方舟·豆包</category>
+      <title>Kagi 推出邮件服务</title>
+      <link>https://www.solidot.org/story?sid=85984</link>
+      <description>付费搜索引擎（有免费试用）Kagi 推出了其邮件服务 Kagi Mail 的公开 beta 版本。Kagi 承诺该服务无监控、无广告、支持开放标准，不会锁定。Kagi 表示：“这个世界还需要另一个电子邮件服务吗？我们不止一次…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:57d9a48aad2d5a8b</guid>
+      <pubDate>Wed, 25 Nov 2026 18:45:21 +0800</pubDate>
+      <category>资讯·Solidot</category>
     </item>
     <item>
       <title>Plans &amp; pricing</title>
@@ -186,7 +186,7 @@
     <item>
       <title>Plans and Pricing | Devin</title>
       <link>https://windsurf.com/pricing</link>
-      <description>…Teams Access to Devin Bots Share and collaborate with multiplayer sessions 2 concurrent sessions in Free mode per user SAML/OIDC SSO Cost controls with 3 usage tiers Centralized billing Slack channel supp…</description>
+      <description>…the perfect plan for your journey SWE-2, our latest model, is now available → INDIVIDUAL PLANS Free $0 Download Light quota to code with agents Limited model availability Unlimited inline edits Unlim…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:747206776c9a56c4</guid>
       <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
       <category>Windsurf</category>
@@ -360,28 +360,52 @@
       <category>Replicate</category>
     </item>
     <item>
+      <title>从婴儿睡袋到时尚孕产服饰，Nest Designs在 Shopee 找到了新机会</title>
+      <link>https://www.leiphone.com/category/industrynews/3zKYASqpb5PEKGwC.html</link>
+      <description>…平台相对灵活的活动机制也是吸引品牌的重要原因。 对于同时经营线上和线下渠道的 Nest Designs 而言，保持价格体系的一致性尤为重要。品牌不希望依靠不断压低售价争取订单，而 Shopee 提供的优惠券、活动资源及多样化营销机制，让其有了更多选择。 2026 年 4 月至 5 月，Nest Designs 正式启动 Shopee 项目，从最初沟通到店铺上线仅用了几周。虽然团队此前已有跨境电商运营经验…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:c917bb0f75fe143e</guid>
+      <pubDate>Thu, 26 Nov 2026 18:17:55 +0800</pubDate>
+      <category>资讯·雷锋网</category>
+    </item>
+    <item>
+      <title>阿维塔06T Max先锋版上新，限时权益后19.99万元</title>
+      <link>https://www.leiphone.com/category/industrynews/u4v3A1QiYM6qUcP1.html</link>
+      <description>…优惠、10000元购置税补贴、价值23920元5年0息限时金融政策、10000元阿维塔车主增换购补贴、首任车主终身三电质保、价值21000元ADS Max高阶功能包等额抵扣券、价值3000元外饰色限时折扣、价值10000元副驾零重力座椅免费升级。 自上市以来，阿维塔06T收获了用户的广泛认可：从容的智能辅助驾驶、可靠的全维安全保障，出色的酣畅灵动驾控，让用户的每一次出发都尽兴而归。调研显示，阿维塔06…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:6452e648981a3274</guid>
+      <pubDate>Thu, 26 Nov 2026 18:17:55 +0800</pubDate>
+      <category>资讯·雷锋网</category>
+    </item>
+    <item>
+      <title>好消息，AI 可以替你打客服电话了；坏消息，电话那头也是 AI</title>
+      <link>http://www.geekpark.net/news/374536</link>
+      <description>…相关条款和问题经过，企业客服也没有必要再花五分钟问一遍「请问您今天遇到了什么问题」。 只不过，眼下的现实还没有这么先进。 孙雨润观察到，不少企业的 AI 客服仍然停留在初步问答和信息收集阶段。真正涉及降价、退款、处理争议时，往往还需要转给真人或更高权限的部门。 「相当于 AI 客服只是 Tier 1。」 AI 已经可以替企业接电话，却未必有权替企业作决定。 所以，双方 Agent 未来的核心问题，可能…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:73a7ff76da7bc514</guid>
+      <pubDate>Thu, 26 Nov 2026 18:17:55 +0800</pubDate>
+      <category>资讯·极客公园</category>
+    </item>
+    <item>
+      <title>全村希望，千问 4 Max 正式发布，2.4 万亿参数模型「进厂打工」</title>
+      <link>http://www.geekpark.net/news/374079</link>
+      <description>…被进一步放大。在国内华北 2（北京）节点，千问 4 Max 的标准按量定价为每百万 Token 输入 10 元、输出 30 元，比前代的 12 元和 36 元便宜了一截，新开通用户还直接送 100 万免费 Token；针对 Agent 反复读取背景资料的场景，它的显式和隐式缓存命中价格直接打到了每百万 Token 0.5 元（创建缓存 5 分钟为 12.5 元，1 小时为 20 元）。国际版定价也同步降至输入 1…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:0da000e81addc909</guid>
+      <pubDate>Tue, 17 Nov 2026 17:58:35 +0800</pubDate>
+      <category>资讯·极客公园</category>
+    </item>
+    <item>
+      <title>模型价格</title>
+      <link>https://www.volcengine.com/docs/82379/1099320</link>
+      <description>…​ 0.05 ​ P ≤ 2.61M：0.13 ​ 2.61M &lt; P ≤ 4.63M：0.23 ​ doubao-seedream-5-0-pro ​ 按生图场景区分定价 ​ 首张免费 ​ 第 2 张起：0.02 ​ 单图生成场景： ​ P ≤ 2.61M：0.30 ​ P &gt; 2.61M：0.60 ​ 图层拆分场景： ​ P ≤ 2.61M：0.15 ​ P &gt; 2.61M：0.…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:5a3bf1dbeef1091c</guid>
+      <pubDate>Mon, 23 Nov 2026 18:06:12 +0800</pubDate>
+      <category>火山方舟·豆包</category>
+    </item>
+    <item>
       <title>《复仇者联盟 5》必过剧情：B站官宣 12 月 6 日播出漫威网剧《洛基第一季》</title>
       <link>https://www.ithome.com/1/032/375.htm</link>
       <description>…过剧情之一。 根据规划， 《复仇者联盟 5：毁灭之日》内地已定档 12 月 16 日领先全球上映 。而在漫威官方最新海报中，执掌时间之力的洛基也有现身。 IT之家小伙伴记得用 最会买购买电影票 ，享受折扣价的同时还可以获得返利，预计每张票可以节省 5~15 元！</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:e0cf5ae513da2fcb</guid>
       <pubDate>Wed, 25 Nov 2026 18:45:21 +0800</pubDate>
       <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>豆包个人 AI 助理「小豆」开启公测；存储承压，小米三季度经调整净利润下滑近六成；红果短剧上线时间管理功能 | 极客早知道</title>
-      <link>http://www.geekpark.net/news/374438</link>
-      <description>豆包旗下 AI 个人助理「小豆」开启公测，能够帮你处理日常事务 11 月 24 日消息，豆包官方今天宣布「小豆」正式开启公测，采用邀请制开放。用户凭邀请码即可开启体验，并获赠一定量免费额度。 小豆是豆包旗下的 AI 个人助理产品，采用对话式交互方式，在用户明确指令与授权范围内，协助你高效处理日常事务。官方宣称它是「一个懂你，还能主动帮你办事的豆包」。未来，小豆上的能力与体验也将逐步在豆…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:440d8ae825c16871</guid>
-      <pubDate>Wed, 25 Nov 2026 18:45:21 +0800</pubDate>
-      <category>资讯·极客公园</category>
-    </item>
-    <item>
-      <title>Kagi 推出邮件服务</title>
-      <link>https://www.solidot.org/story?sid=85984</link>
-      <description>付费搜索引擎（有免费试用）Kagi 推出了其邮件服务 Kagi Mail 的公开 beta 版本。Kagi 承诺该服务无监控、无广告、支持开放标准，不会锁定。Kagi 表示：“这个世界还需要另一个电子邮件服务吗？我们不止一次…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:57d9a48aad2d5a8b</guid>
-      <pubDate>Wed, 25 Nov 2026 18:45:21 +0800</pubDate>
-      <category>资讯·Solidot</category>
     </item>
     <item>
       <title>英伟达恢复黄仁勋CEO职务！黄仁勋重返公司总部，受到数百名员工迎接；DeepSeek最新估值或达6078亿元；蚂蚁开源医疗AI模型家族丨雷峰早报</title>
@@ -780,30 +804,6 @@
       <link>https://www.ithome.com/1/025/560.htm</link>
       <description>…化营收规模约为 500 亿美元 （现汇率约合 3,343.88 亿元人民币） 。 今年，OpenAI 在部分指标上曾落后于长期竞争对手 Anthropic，但随着新一代 AI 模型竞争力提升、产品大幅降价，以及业务重心进一步转向帮助客户自动完成工作的 AI 智能体，OpenAI 重新获得增长动力。Anthropic 营收增速开始有所放缓，OpenAI 的业务增长则显现提速迹象。 即将登陆美股的 Ant…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:14fb26816976f65d</guid>
-      <pubDate>Wed, 11 Nov 2026 16:42:22 +0800</pubDate>
-      <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>3499 → 1699 元：大疆 Osmo Pocket 3 云台相机京东自营再降价</title>
-      <link>https://www.ithome.com/1/025/552.htm</link>
-      <description>大疆 Osmo Pocket 3 云台相机上市定价 3499 元，今日京东相机直播间直降至 1699 元。 京东相机直播间： 点此查看 （右下角购物袋搜索“大疆”即可） 京东 大疆 Osmo Pocket 3 标准版 一英寸口袋云台相机 直播间 1699 元 领 50 元券 京东 11.11 红包至高 26888 元无门槛可用，每天可抽一次： 点此抽取 。 官方对比如下 Pocket 1 于 20…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:2f385aac1e525caf</guid>
-      <pubDate>Wed, 11 Nov 2026 16:42:22 +0800</pubDate>
-      <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>苹果 AirPods 京东 11.11 补贴释放：AirPods Pro 3 国补后 1088 元 1 小时达</title>
-      <link>https://www.ithome.com/1/025/558.htm</link>
-      <description>AirPods Pro 3 定价 1899 元，京东今日再降价，PLUS 折后仅需 1279 元。 支持国补地区折后 1088 元 ，今日下单时可见预计送达时间，大多数地区 1 小时左右即可送达： 京东 11.11 苹果新品加补券： 点此领券 京东 PLUS 可…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:42cc5f6946b87e22</guid>
-      <pubDate>Wed, 11 Nov 2026 16:42:22 +0800</pubDate>
-      <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>东安动力：预计全年增程器销量占比超 30%，产能可满足车厂需求</title>
-      <link>https://www.ithome.com/1/025/585.htm</link>
-      <description>…季度营业亏损 7492.49 万元。 第三季度单季营业收入 11.72 亿元，同比下降 8.97%；归母净亏损 7494.72 万元，扣非归母净亏损 9232.62 万元。公司指出，产品结构变化及产品降价导致当季毛利率下降，对盈利形成压力。</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:8aaf853c407e555f</guid>
       <pubDate>Wed, 11 Nov 2026 16:42:22 +0800</pubDate>
       <category>资讯·IT之家</category>
     </item>
