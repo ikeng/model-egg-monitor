@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://ikeng.github.io/model-egg-monitor/atom-资讯-极客公园.xml</id>
   <title>赛博鸡蛋 · 资讯·极客公园</title>
-  <updated>2026-11-26T18:18:13+08:00</updated>
+  <updated>2026-11-27T18:24:09+08:00</updated>
   <subtitle>大模型厂商活动监控</subtitle>
   <link rel="self" href="https://ikeng.github.io/model-egg-monitor/atom-资讯-极客公园.xml"/>
   <link rel="alternate" href="https://ikeng.github.io/model-egg-monitor/"/>
@@ -11,6 +11,82 @@
   <author>
     <name>ai-egg-monitor</name>
   </author>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:440d8ae825c16871</id>
+    <title>豆包个人 AI 助理「小豆」开启公测；存储承压，小米三季度经调整净利润下滑近六成；红果短剧上线时间管理功能 | 极客早知道</title>
+    <updated>2026-11-27T18:23:47+08:00</updated>
+    <published>2026-11-25T18:45:21+08:00</published>
+    <link rel="alternate" href="http://www.geekpark.net/news/374438"/>
+    <author><name>资讯·极客公园</name></author>
+    <category term="资讯·极客公园"/>
+    <summary type="text">豆包旗下 AI 个人助理「小豆」开启公测，能够帮你处理日常事务 11 月 24 日消息，豆包官方今天宣布「小豆」正式开启公测，采用邀请制开放。用户凭邀请码即可开启体验，并获赠一定量免费额度。 小豆是豆包旗下的 AI 个人助理产品，采用对话式交互方式，在用户明确指令与授权范围内，协助你高效处理日常事务。官方宣称它是「一个懂你，还能主动帮你办事的豆包」。未来，小豆上的能力与体验也将逐步在豆…</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·极客公园&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：豆包个人 AI 助理「小豆」开启公测；存储承压，小米三季度经调整净利润下滑近六成；红果短剧上线时间管理功能 | 极客早知道&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：豆包旗下 AI 个人助理「小豆」开启公测，能够帮你处理日常事务 11 月 24 日消息，豆包官方今天宣布「小豆」正式开启公测，采用邀请制开放。用户凭邀请码即可开启体验，并获赠一定量免费额度。 小豆是豆包旗下的 AI 个人助理产品，采用对话式交互方式，在用户明确指令与授权范围内，协助你高效处理日常事务。官方宣称它是「一个懂你，还能主动帮你办事的豆包」。未来，小豆上的能力与体验也将逐步在豆…&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：免费额度&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-11-25T18:45:21+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-27T18:23:47+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;http://www.geekpark.net/news/374438&#34;&gt;http://www.geekpark.net/news/374438&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:73a7ff76da7bc514</id>
+    <title>好消息，AI 可以替你打客服电话了；坏消息，电话那头也是 AI</title>
+    <updated>2026-11-27T18:23:47+08:00</updated>
+    <published>2026-11-26T18:17:55+08:00</published>
+    <link rel="alternate" href="http://www.geekpark.net/news/374536"/>
+    <author><name>资讯·极客公园</name></author>
+    <category term="资讯·极客公园"/>
+    <summary type="text">…相关条款和问题经过，企业客服也没有必要再花五分钟问一遍「请问您今天遇到了什么问题」。 只不过，眼下的现实还没有这么先进。 孙雨润观察到，不少企业的 AI 客服仍然停留在初步问答和信息收集阶段。真正涉及降价、退款、处理争议时，往往还需要转给真人或更高权限的部门。 「相当于 AI 客服只是 Tier 1。」 AI 已经可以替企业接电话，却未必有权替企业作决定。 所以，双方 Agent 未来的核心问题，可能…</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·极客公园&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：好消息，AI 可以替你打客服电话了；坏消息，电话那头也是 AI&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…相关条款和问题经过，企业客服也没有必要再花五分钟问一遍「请问您今天遇到了什么问题」。 只不过，眼下的现实还没有这么先进。 孙雨润观察到，不少企业的 AI 客服仍然停留在初步问答和信息收集阶段。真正涉及降价、退款、处理争议时，往往还需要转给真人或更高权限的部门。 「相当于 AI 客服只是 Tier 1。」 AI 已经可以替企业接电话，却未必有权替企业作决定。 所以，双方 Agent 未来的核心问题，可能…&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：降价&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-11-26T18:17:55+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-27T18:23:47+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;http://www.geekpark.net/news/374536&#34;&gt;http://www.geekpark.net/news/374536&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:c8f6dc691d8d69d0</id>
+    <title>「北美大豆包」谷歌，终于杀回 AI 牌桌中央</title>
+    <updated>2026-11-27T18:23:47+08:00</updated>
+    <published>2026-11-19T17:43:34+08:00</published>
+    <link rel="alternate" href="http://www.geekpark.net/news/374196"/>
+    <author><name>资讯·极客公园</name></author>
+    <category term="资讯·极客公园"/>
+    <summary type="text">…曲，是 11 月底前短暂出现的「价格倒挂」 。 Neon 的 API 直接按输入 3 美元、输出 15 美元（每百万 tokens，缓存命中享 95% 折扣至 0.15 美元）的正式价上线，也没有提供免费额度；而旗舰 Carbon 和 Argon 在 11 月 30 日前恰好还处在 2 美元和 10 美元的首发优惠期，要到 12 月 1 日才恢复 4 美元和 20 美元的原价。这意味着在 11 月剩下的十…</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·极客公园&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：「北美大豆包」谷歌，终于杀回 AI 牌桌中央&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…曲，是 11 月底前短暂出现的「价格倒挂」 。 Neon 的 API 直接按输入 3 美元、输出 15 美元（每百万 tokens，缓存命中享 95% 折扣至 0.15 美元）的正式价上线，也没有提供免费额度；而旗舰 Carbon 和 Argon 在 11 月 30 日前恰好还处在 2 美元和 10 美元的首发优惠期，要到 12 月 1 日才恢复 4 美元和 20 美元的原价。这意味着在 11 月剩下的十…&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：免费额度&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-11-19T17:43:34+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-27T18:23:47+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;http://www.geekpark.net/news/374196&#34;&gt;http://www.geekpark.net/news/374196&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:f6d34beaec90b605</id>
+    <title>智谱辟谣 GLM</title>
+    <updated>2026-11-27T18:23:47+08:00</updated>
+    <published>2026-11-27T18:23:47+08:00</published>
+    <link rel="alternate" href="http://www.geekpark.net/news/374546"/>
+    <author><name>资讯·极客公园</name></author>
+    <category term="资讯·极客公园"/>
+    <summary type="text">…加快 25% 11 月 27 日消息，OpenAI 已紧急修复 GPT-6.2 上线初期的一项计费错误——此前该问题导致大多数用户使用 GPT-6.2 Astra 和 Sol 时，消耗的套餐额度按折扣价进行了计算。 OpenAI Codex 与 ChatGPT 负责人 Thibault Sottiaux（Tibo）表示，修复后，用户完成相同工作量时将消耗更多额度：与上周相比，Astra 用户触及使…</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·极客公园&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：智谱辟谣 GLM&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…加快 25% 11 月 27 日消息，OpenAI 已紧急修复 GPT-6.2 上线初期的一项计费错误——此前该问题导致大多数用户使用 GPT-6.2 Astra 和 Sol 时，消耗的套餐额度按折扣价进行了计算。 OpenAI Codex 与 ChatGPT 负责人 Thibault Sottiaux（Tibo）表示，修复后，用户完成相同工作量时将消耗更多额度：与上周相比，Astra 用户触及使…&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：折扣&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-11-27T18:23:47+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-27T18:23:47+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;http://www.geekpark.net/news/374546&#34;&gt;http://www.geekpark.net/news/374546&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:3ac0b32d689ddafa</id>
     <title>AI，没有抛弃小城商家</title>
@@ -31,25 +107,6 @@
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;http://www.geekpark.net/news/374101&#34;&gt;http://www.geekpark.net/news/374101&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
-    <id>tag:ai-egg-monitor,2026:activity:440d8ae825c16871</id>
-    <title>豆包个人 AI 助理「小豆」开启公测；存储承压，小米三季度经调整净利润下滑近六成；红果短剧上线时间管理功能 | 极客早知道</title>
-    <updated>2026-11-26T18:17:55+08:00</updated>
-    <published>2026-11-25T18:45:21+08:00</published>
-    <link rel="alternate" href="http://www.geekpark.net/news/374438"/>
-    <author><name>资讯·极客公园</name></author>
-    <category term="资讯·极客公园"/>
-    <summary type="text">豆包旗下 AI 个人助理「小豆」开启公测，能够帮你处理日常事务 11 月 24 日消息，豆包官方今天宣布「小豆」正式开启公测，采用邀请制开放。用户凭邀请码即可开启体验，并获赠一定量免费额度。 小豆是豆包旗下的 AI 个人助理产品，采用对话式交互方式，在用户明确指令与授权范围内，协助你高效处理日常事务。官方宣称它是「一个懂你，还能主动帮你办事的豆包」。未来，小豆上的能力与体验也将逐步在豆…</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·极客公园&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：豆包个人 AI 助理「小豆」开启公测；存储承压，小米三季度经调整净利润下滑近六成；红果短剧上线时间管理功能 | 极客早知道&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：豆包旗下 AI 个人助理「小豆」开启公测，能够帮你处理日常事务 11 月 24 日消息，豆包官方今天宣布「小豆」正式开启公测，采用邀请制开放。用户凭邀请码即可开启体验，并获赠一定量免费额度。 小豆是豆包旗下的 AI 个人助理产品，采用对话式交互方式，在用户明确指令与授权范围内，协助你高效处理日常事务。官方宣称它是「一个懂你，还能主动帮你办事的豆包」。未来，小豆上的能力与体验也将逐步在豆…&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：免费额度&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-11-25T18:45:21+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-26T18:17:55+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;http://www.geekpark.net/news/374438&#34;&gt;http://www.geekpark.net/news/374438&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
     <id>tag:ai-egg-monitor,2026:activity:a0089fb1d8730bb5</id>
     <title>腾讯 Hy4 flash 实测：快速、实惠、聪明，国模进入过日子时代</title>
     <updated>2026-11-26T18:17:55+08:00</updated>
@@ -67,44 +124,6 @@
 &lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-11-17T17:58:35+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-26T18:17:55+08:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;http://www.geekpark.net/news/374083&#34;&gt;http://www.geekpark.net/news/374083&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:ai-egg-monitor,2026:activity:c8f6dc691d8d69d0</id>
-    <title>「北美大豆包」谷歌，终于杀回 AI 牌桌中央</title>
-    <updated>2026-11-26T18:17:55+08:00</updated>
-    <published>2026-11-19T17:43:34+08:00</published>
-    <link rel="alternate" href="http://www.geekpark.net/news/374196"/>
-    <author><name>资讯·极客公园</name></author>
-    <category term="资讯·极客公园"/>
-    <summary type="text">…曲，是 11 月底前短暂出现的「价格倒挂」 。 Neon 的 API 直接按输入 3 美元、输出 15 美元（每百万 tokens，缓存命中享 95% 折扣至 0.15 美元）的正式价上线，也没有提供免费额度；而旗舰 Carbon 和 Argon 在 11 月 30 日前恰好还处在 2 美元和 10 美元的首发优惠期，要到 12 月 1 日才恢复 4 美元和 20 美元的原价。这意味着在 11 月剩下的十…</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·极客公园&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：「北美大豆包」谷歌，终于杀回 AI 牌桌中央&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…曲，是 11 月底前短暂出现的「价格倒挂」 。 Neon 的 API 直接按输入 3 美元、输出 15 美元（每百万 tokens，缓存命中享 95% 折扣至 0.15 美元）的正式价上线，也没有提供免费额度；而旗舰 Carbon 和 Argon 在 11 月 30 日前恰好还处在 2 美元和 10 美元的首发优惠期，要到 12 月 1 日才恢复 4 美元和 20 美元的原价。这意味着在 11 月剩下的十…&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：免费额度&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-11-19T17:43:34+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-26T18:17:55+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;http://www.geekpark.net/news/374196&#34;&gt;http://www.geekpark.net/news/374196&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:ai-egg-monitor,2026:activity:73a7ff76da7bc514</id>
-    <title>好消息，AI 可以替你打客服电话了；坏消息，电话那头也是 AI</title>
-    <updated>2026-11-26T18:17:55+08:00</updated>
-    <published>2026-11-26T18:17:55+08:00</published>
-    <link rel="alternate" href="http://www.geekpark.net/news/374536"/>
-    <author><name>资讯·极客公园</name></author>
-    <category term="资讯·极客公园"/>
-    <summary type="text">…相关条款和问题经过，企业客服也没有必要再花五分钟问一遍「请问您今天遇到了什么问题」。 只不过，眼下的现实还没有这么先进。 孙雨润观察到，不少企业的 AI 客服仍然停留在初步问答和信息收集阶段。真正涉及降价、退款、处理争议时，往往还需要转给真人或更高权限的部门。 「相当于 AI 客服只是 Tier 1。」 AI 已经可以替企业接电话，却未必有权替企业作决定。 所以，双方 Agent 未来的核心问题，可能…</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·极客公园&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：好消息，AI 可以替你打客服电话了；坏消息，电话那头也是 AI&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：…相关条款和问题经过，企业客服也没有必要再花五分钟问一遍「请问您今天遇到了什么问题」。 只不过，眼下的现实还没有这么先进。 孙雨润观察到，不少企业的 AI 客服仍然停留在初步问答和信息收集阶段。真正涉及降价、退款、处理争议时，往往还需要转给真人或更高权限的部门。 「相当于 AI 客服只是 Tier 1。」 AI 已经可以替企业接电话，却未必有权替企业作决定。 所以，双方 Agent 未来的核心问题，可能…&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：降价&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-11-26T18:17:55+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-26T18:17:55+08:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;http://www.geekpark.net/news/374536&#34;&gt;http://www.geekpark.net/news/374536&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:0da000e81addc909</id>

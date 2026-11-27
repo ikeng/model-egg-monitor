@@ -5,12 +5,12 @@
     <link>https://ikeng.github.io/model-egg-monitor/</link>
     <description>每日两次监控大模型厂商活动，提供 Atom / JSON Feed 订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 26 Nov 2026 18:18:13 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 18:24:09 +0800</lastBuildDate>
     <generator>ai-egg-monitor</generator>
     <item>
       <title>大模型 API 价格方案</title>
       <link>https://siliconflow.cn/pricing</link>
-      <description>…00 ¥ 6.00 - GLM-4-32B-0414 THUDM/GLM-4-32B-0414 ¥ 1.89 ¥ 1.89 - GLM-Z1-9B-0414 THUDM/GLM-Z1-9B-0414 免费 - 展开更多 1 个模型 hunyuan Hy4 preview tencent/Hy4-preview ¥ 6.00 ¥ 18.00 ¥ 0.30 Hunyuan-MT-7B tencent/Hu…</description>
+      <description>…00 ¥ 6.00 - GLM-4-32B-0414 THUDM/GLM-4-32B-0414 ¥ 1.89 ¥ 1.89 - GLM-Z1-9B-0414 THUDM/GLM-Z1-9B-0414 免费 - 展开更多 1 个模型 Kimi Kimi-K2.7-Code moonshotai/Kimi-K2.7-Code ¥ 6.50 ¥ 27.00 ¥ 1.30 Kimi-K2.6 (Pro) Pr…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:00165271027eb922</guid>
       <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
       <category>硅基流动 SiliconFlow</category>
@@ -64,6 +64,14 @@
       <category>OpenRouter</category>
     </item>
     <item>
+      <title>Compare AI Models: Pricing, Context &amp; Benchmarks</title>
+      <link>https://openrouter.ai/models</link>
+      <description>…0 Embeddings 0 Rerank 0 Transcription 0 Audio 0 More Ant Digital: LingDT Decision Fast 1.0 (free) LingDT Decision Fast 1.0 (free) Free variant 34M tokens LingDT Decision Fast 1.0 is a Ling-based d…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:1dc10bd1ef35e32f</guid>
+      <pubDate>Sat, 14 Nov 2026 01:27:10 +0800</pubDate>
+      <category>OpenRouter</category>
+    </item>
+    <item>
       <title>Claude Code by Anthropic</title>
       <link>https://www.anthropic.com/claude-code</link>
       <description>…Export to various formats (PNG, SVG, JSON) - Customizable drawing tools (rectangle, circle, arrows, freehand) - Dark mode support - Localization - Library of shapes and components - Arrow bindings and lab…</description>
@@ -102,14 +110,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:325373ce89188f63</guid>
       <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
       <category>Cohere</category>
-    </item>
-    <item>
-      <title>AI，没有抛弃小城商家</title>
-      <link>http://www.geekpark.net/news/374101</link>
-      <description>…在是 AI 直接帮我拉数据、做分析，并给出调整建议，我也越来越懂该怎么做好这门生意了。」 从沿海旅游小城日照往北走，在内陆四线城市的内蒙古赤峰，入行接近二十年的酒店老板彭彭面临的是另一种焦虑：大家都在降价，自己要不要跟？ 他的酒店没有专职收益管理人员，房价怎么定，活动怎么做，房态怎么调，要靠自己盯。今年七八月迎来了内蒙古的旅游旺季，周边的不少酒店开始降价抢客。跟着降，担心损失收入；不降，又怕客人去了别…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:3ac0b32d689ddafa</guid>
-      <pubDate>Tue, 17 Nov 2026 17:58:35 +0800</pubDate>
-      <category>资讯·极客公园</category>
     </item>
     <item>
       <title>Pricing</title>
@@ -160,12 +160,12 @@
       <category>Modal</category>
     </item>
     <item>
-      <title>Kagi 推出邮件服务</title>
-      <link>https://www.solidot.org/story?sid=85984</link>
-      <description>付费搜索引擎（有免费试用）Kagi 推出了其邮件服务 Kagi Mail 的公开 beta 版本。Kagi 承诺该服务无监控、无广告、支持开放标准，不会锁定。Kagi 表示：“这个世界还需要另一个电子邮件服务吗？我们不止一次…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:57d9a48aad2d5a8b</guid>
-      <pubDate>Wed, 25 Nov 2026 18:45:21 +0800</pubDate>
-      <category>资讯·Solidot</category>
+      <title>模型价格</title>
+      <link>https://www.volcengine.com/docs/82379/1099320</link>
+      <description>…​ 2.61M &lt; P ≤ 4.63M：0.23 ​ 4.63M &lt; P ≤ 8.30M：0.52 ​ doubao-seedream-5-0-pro ​ 按生图场景区分定价 ​ 首张免费 ​ 第 2 张起：0.02 ​ 单图生成场景： ​ P ≤ 2.61M：0.30 ​ P &gt; 2.61M：0.60 ​ 图层拆分场景： ​ P ≤ 2.61M：0.15 ​ P &gt; 2.61M：0.…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:5a3bf1dbeef1091c</guid>
+      <pubDate>Mon, 23 Nov 2026 18:06:12 +0800</pubDate>
+      <category>火山方舟·豆包</category>
     </item>
     <item>
       <title>Plans &amp; pricing</title>
@@ -182,6 +182,14 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:6036ae7091e69ce3</guid>
       <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
       <category>Ollama</category>
+    </item>
+    <item>
+      <title>好消息，AI 可以替你打客服电话了；坏消息，电话那头也是 AI</title>
+      <link>http://www.geekpark.net/news/374536</link>
+      <description>…相关条款和问题经过，企业客服也没有必要再花五分钟问一遍「请问您今天遇到了什么问题」。 只不过，眼下的现实还没有这么先进。 孙雨润观察到，不少企业的 AI 客服仍然停留在初步问答和信息收集阶段。真正涉及降价、退款、处理争议时，往往还需要转给真人或更高权限的部门。 「相当于 AI 客服只是 Tier 1。」 AI 已经可以替企业接电话，却未必有权替企业作决定。 所以，双方 Agent 未来的核心问题，可能…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:73a7ff76da7bc514</guid>
+      <pubDate>Thu, 26 Nov 2026 18:17:55 +0800</pubDate>
+      <category>资讯·极客公园</category>
     </item>
     <item>
       <title>Plans and Pricing | Devin</title>
@@ -218,7 +226,7 @@
     <item>
       <title>API Pricing</title>
       <link>https://docs.x.ai/docs/pricing</link>
-      <description>…and is billed through your plan there. It is not available on the public xAI API, and Grok Build&#39;s free tier does not include it. Prompt tokens Input Cached input Output Below 200k $4.00 / 1M $1.00 / 1M…</description>
+      <description>…and is billed through your plan there. It is not available on the public xAI API, and Grok Build&#39;s free tier does not include it. Prompt tokens Input Cached input Output &lt; 200k $4.00 / 1M $1.00 / 1M $12.…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:8fd93e908672e965</guid>
       <pubDate>Sun, 11 Oct 2026 16:06:47 +0800</pubDate>
       <category>xAI Grok</category>
@@ -230,14 +238,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:95b83aca5ff8baff</guid>
       <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
       <category>Cerebras</category>
-    </item>
-    <item>
-      <title>腾讯 Hy4 flash 实测：快速、实惠、聪明，国模进入过日子时代</title>
-      <link>http://www.geekpark.net/news/374083</link>
-      <description>…的库存系统。仓库里现有测试都是通过的，但线上却出了 4 个问题：预占库存后数字对不上（预占库存后，在库数量也跟着减少，取消后又恢复不了）、整单出库会报错（某件商品的库存被全部预占后，整单出库会报错）、优惠券没有按上限封顶（400 元订单使用 20% 优惠券，抵扣超过了 50 元上限；）、月末报表漏了一天（11 月报表漏掉了 11 月 30 日当天的出库）。 我让模型根据项目里的代码和问题清单，自己找到这…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:a0089fb1d8730bb5</guid>
-      <pubDate>Tue, 17 Nov 2026 17:58:35 +0800</pubDate>
-      <category>资讯·极客公园</category>
     </item>
     <item>
       <title>Introducing Together Storage Accelerator: fast, free data caching for your GPU cluster</title>
@@ -282,7 +282,7 @@
     <item>
       <title>Pricing</title>
       <link>https://www.together.ai/pricing</link>
-      <description>…$7.50 Qwen3.7-Plus $0.32 (cached) $1.28 GLM-5.2 $1.40 $0.26 (cached) $4.40 Ternary Bonsai 27B Free (cached) Free Kimi K3 $3.00 $0.30 (cached) $15.00 Muse Glimmer 30B $0.35 $0.04 (cached) $1.50 DeepS…</description>
+      <description>…$0.50 (cached) $7.50 Qwen3.7-Plus $0.32 $1.28 GLM-5.2 $1.40 $0.26 (cached) $4.40 Ternary Bonsai 27B Free Kimi K3 $3.00 $0.30 (cached) $15.00 Muse Glimmer 30B $0.35 $0.04 (cached) $1.50 DeepSeek V4.1 Flash…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:b99574d412655a47</guid>
       <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
       <category>Together AI</category>
@@ -336,14 +336,6 @@
       <category>OpenAI</category>
     </item>
     <item>
-      <title>How partners use Genie&#39;s free tier on Azure Databricks</title>
-      <link>https://www.databricks.com/blog/how-partners-use-genies-free-tier-azure-databricks</link>
-      <description>Every Azure Databricks user gets $10 of free Genie usage each month, usage that many...</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:ebec4bdbaa916073</guid>
-      <pubDate>Fri, 20 Nov 2026 02:45:37 +0800</pubDate>
-      <category>Databricks</category>
-    </item>
-    <item>
       <title>定价概览</title>
       <link>https://platform.minimaxi.com/document/price</link>
       <description>…符数包括标点等 Token与字符比（估算）：1600 中文字符约消耗 1000 tokens 视频 立即充值 H3 系列旗舰模型 模型 输出分辨率 输出视频 每秒 输入视频 每秒 输入图片 每张 超出免费额度后 MiniMax-H3 画质优先，适合高品质视频创作 2K ¥0.80 ¥0.20 768P ¥0.50 ¥0.20 MiniMax-H3-Highspeed 兼顾质量与速度，适合日常内容创作…</description>
@@ -360,12 +352,60 @@
       <category>Replicate</category>
     </item>
     <item>
-      <title>从婴儿睡袋到时尚孕产服饰，Nest Designs在 Shopee 找到了新机会</title>
-      <link>https://www.leiphone.com/category/industrynews/3zKYASqpb5PEKGwC.html</link>
-      <description>…平台相对灵活的活动机制也是吸引品牌的重要原因。 对于同时经营线上和线下渠道的 Nest Designs 而言，保持价格体系的一致性尤为重要。品牌不希望依靠不断压低售价争取订单，而 Shopee 提供的优惠券、活动资源及多样化营销机制，让其有了更多选择。 2026 年 4 月至 5 月，Nest Designs 正式启动 Shopee 项目，从最初沟通到店铺上线仅用了几周。虽然团队此前已有跨境电商运营经验…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:c917bb0f75fe143e</guid>
-      <pubDate>Thu, 26 Nov 2026 18:17:55 +0800</pubDate>
+      <title>魏建军称车企竞争激烈，董明珠：有些产业害虫该灭就灭；英伟达暂停向东南亚四国出货服务器；腾讯、小红书都在招人加码个人智能体</title>
+      <link>https://www.leiphone.com/category/zaobao/VrpGC0c4wtt3NcEi.html</link>
+      <description>…绿控工厂。在现场，两人见面后握手问好，魏建军还亲切称呼董明珠“大姐”。 在直播中，两人谈及新能源汽车竞争激烈。魏建军表示汽车本是家庭大件财产，但是如今贬值速度已到了离谱的程度，不少车企缺现金流，只能靠降价、压榨供应商硬撑，陷入恶性循环。 董明珠称汽车绝对不能是快消品，年轻人容易被舆论忽悠，作为制造者，必须清楚生命才是第一位，“有些产业害虫该灭就灭”。关于现在国内汽车竞争激烈的现状，董明珠直言有的是“瞎…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:3184b57e4341dd62</guid>
+      <pubDate>Fri, 27 Nov 2026 18:23:47 +0800</pubDate>
       <category>资讯·雷锋网</category>
+    </item>
+    <item>
+      <title>美团：预计到今年年底，妙手酒店版·既白将覆盖近40万商家</title>
+      <link>https://www.leiphone.com/category/industrynews/V8W9L3t0BkCtFZPu.html</link>
+      <description>…酒店数据显示，国庆后，既白价格建议周查询量环比增长30%，经营诊断周查询量增长40%，市场热点信息周查询量增长53%。 对于酒店经营者来说，淡季的难点不只是订单减少，更在于判断变化背后的原因：周边酒店降价，是市场需求普遍走弱，还是个别门店促销？自家订单减少，是价格不合适，还是消费者浏览后没有下单？经营后台并不缺少数据，难的是将门店表现与周边市场结合起来，找到下一步调整方向。 内蒙古格雅酒店高铁站店负责…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:b573be5465312faa</guid>
+      <pubDate>Fri, 27 Nov 2026 18:23:47 +0800</pubDate>
+      <category>资讯·雷锋网</category>
+    </item>
+    <item>
+      <title>支付宝车载助手 3.0 与 80 多家车企达成定点合作，含比亚迪、理想、奇瑞等</title>
+      <link>https://www.ithome.com/1/033/625.htm</link>
+      <description>…官方举例称，车辆发现油量不足时会主动推荐附近加油站并联动导航；加完油后，车辆识别油枪订单，车主全程不用下车，说句话即可完成支付。想喝咖啡时，车机可结合用户偏好主动询问“还是大杯加冰拿铁吗”，下单时用上优惠券，到达目的地时外卖已送达。 安全方面，车载助手 3.0 上线 声纹核身支付 ，用户授权后，语音即可完成身份核验与支付确认。官方称，蚂蚁集团 APASS 可信授权能力会对服务账号和授权凭证进行独立加密保…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:c09c64e865894c92</guid>
+      <pubDate>Fri, 27 Nov 2026 18:23:47 +0800</pubDate>
+      <category>资讯·IT之家</category>
+    </item>
+    <item>
+      <title>电商 Temu 承诺遵守欧盟消费者保护规则：彻底移除强制客户玩游戏要求</title>
+      <link>https://www.ithome.com/1/033/610.htm</link>
+      <description>…昨日公告，电商平台 Temu 承诺遵守欧盟消费者保护规则，不再实施一系列误导消费者或不当影响消费者购买决策的商业行为。 IT之家注意到，除相对常规的强化客服支持、便利支付处理器、保障评价可靠、显示实际折扣外，Temu 还已从其所有欧盟和欧洲经济区版本的网站、应用程序和广告中 彻底移除强制游戏化功能 ，这意味着 不会再出现消费者必须先游玩转盘等游戏才能访问市场的情况 。 此外，Temu 的环境捐赠计划中…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:d6629d37786c9d9b</guid>
+      <pubDate>Fri, 27 Nov 2026 18:23:47 +0800</pubDate>
+      <category>资讯·IT之家</category>
+    </item>
+    <item>
+      <title>智谱辟谣 GLM</title>
+      <link>http://www.geekpark.net/news/374546</link>
+      <description>…加快 25% 11 月 27 日消息，OpenAI 已紧急修复 GPT-6.2 上线初期的一项计费错误——此前该问题导致大多数用户使用 GPT-6.2 Astra 和 Sol 时，消耗的套餐额度按折扣价进行了计算。 OpenAI Codex 与 ChatGPT 负责人 Thibault Sottiaux（Tibo）表示，修复后，用户完成相同工作量时将消耗更多额度：与上周相比，Astra 用户触及使…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:f6d34beaec90b605</guid>
+      <pubDate>Fri, 27 Nov 2026 18:23:47 +0800</pubDate>
+      <category>资讯·极客公园</category>
+    </item>
+    <item>
+      <title>AI，没有抛弃小城商家</title>
+      <link>http://www.geekpark.net/news/374101</link>
+      <description>…在是 AI 直接帮我拉数据、做分析，并给出调整建议，我也越来越懂该怎么做好这门生意了。」 从沿海旅游小城日照往北走，在内陆四线城市的内蒙古赤峰，入行接近二十年的酒店老板彭彭面临的是另一种焦虑：大家都在降价，自己要不要跟？ 他的酒店没有专职收益管理人员，房价怎么定，活动怎么做，房态怎么调，要靠自己盯。今年七八月迎来了内蒙古的旅游旺季，周边的不少酒店开始降价抢客。跟着降，担心损失收入；不降，又怕客人去了别…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:3ac0b32d689ddafa</guid>
+      <pubDate>Tue, 17 Nov 2026 17:58:35 +0800</pubDate>
+      <category>资讯·极客公园</category>
+    </item>
+    <item>
+      <title>Kagi 推出邮件服务</title>
+      <link>https://www.solidot.org/story?sid=85984</link>
+      <description>付费搜索引擎（有免费试用）Kagi 推出了其邮件服务 Kagi Mail 的公开 beta 版本。Kagi 承诺该服务无监控、无广告、支持开放标准，不会锁定。Kagi 表示：“这个世界还需要另一个电子邮件服务吗？我们不止一次…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:57d9a48aad2d5a8b</guid>
+      <pubDate>Wed, 25 Nov 2026 18:45:21 +0800</pubDate>
+      <category>资讯·Solidot</category>
     </item>
     <item>
       <title>阿维塔06T Max先锋版上新，限时权益后19.99万元</title>
@@ -376,12 +416,28 @@
       <category>资讯·雷锋网</category>
     </item>
     <item>
-      <title>好消息，AI 可以替你打客服电话了；坏消息，电话那头也是 AI</title>
-      <link>http://www.geekpark.net/news/374536</link>
-      <description>…相关条款和问题经过，企业客服也没有必要再花五分钟问一遍「请问您今天遇到了什么问题」。 只不过，眼下的现实还没有这么先进。 孙雨润观察到，不少企业的 AI 客服仍然停留在初步问答和信息收集阶段。真正涉及降价、退款、处理争议时，往往还需要转给真人或更高权限的部门。 「相当于 AI 客服只是 Tier 1。」 AI 已经可以替企业接电话，却未必有权替企业作决定。 所以，双方 Agent 未来的核心问题，可能…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:73a7ff76da7bc514</guid>
-      <pubDate>Thu, 26 Nov 2026 18:17:55 +0800</pubDate>
+      <title>腾讯 Hy4 flash 实测：快速、实惠、聪明，国模进入过日子时代</title>
+      <link>http://www.geekpark.net/news/374083</link>
+      <description>…的库存系统。仓库里现有测试都是通过的，但线上却出了 4 个问题：预占库存后数字对不上（预占库存后，在库数量也跟着减少，取消后又恢复不了）、整单出库会报错（某件商品的库存被全部预占后，整单出库会报错）、优惠券没有按上限封顶（400 元订单使用 20% 优惠券，抵扣超过了 50 元上限；）、月末报表漏了一天（11 月报表漏掉了 11 月 30 日当天的出库）。 我让模型根据项目里的代码和问题清单，自己找到这…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:a0089fb1d8730bb5</guid>
+      <pubDate>Tue, 17 Nov 2026 17:58:35 +0800</pubDate>
       <category>资讯·极客公园</category>
+    </item>
+    <item>
+      <title>从婴儿睡袋到时尚孕产服饰，Nest Designs在 Shopee 找到了新机会</title>
+      <link>https://www.leiphone.com/category/industrynews/3zKYASqpb5PEKGwC.html</link>
+      <description>…平台相对灵活的活动机制也是吸引品牌的重要原因。 对于同时经营线上和线下渠道的 Nest Designs 而言，保持价格体系的一致性尤为重要。品牌不希望依靠不断压低售价争取订单，而 Shopee 提供的优惠券、活动资源及多样化营销机制，让其有了更多选择。 2026 年 4 月至 5 月，Nest Designs 正式启动 Shopee 项目，从最初沟通到店铺上线仅用了几周。虽然团队此前已有跨境电商运营经验…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:c917bb0f75fe143e</guid>
+      <pubDate>Thu, 26 Nov 2026 18:17:55 +0800</pubDate>
+      <category>资讯·雷锋网</category>
+    </item>
+    <item>
+      <title>How partners use Genie&#39;s free tier on Azure Databricks</title>
+      <link>https://www.databricks.com/blog/how-partners-use-genies-free-tier-azure-databricks</link>
+      <description>Every Azure Databricks user gets $10 of free Genie usage each month, usage that many...</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:ebec4bdbaa916073</guid>
+      <pubDate>Fri, 20 Nov 2026 02:45:37 +0800</pubDate>
+      <category>Databricks</category>
     </item>
     <item>
       <title>全村希望，千问 4 Max 正式发布，2.4 万亿参数模型「进厂打工」</title>
@@ -390,14 +446,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:0da000e81addc909</guid>
       <pubDate>Tue, 17 Nov 2026 17:58:35 +0800</pubDate>
       <category>资讯·极客公园</category>
-    </item>
-    <item>
-      <title>模型价格</title>
-      <link>https://www.volcengine.com/docs/82379/1099320</link>
-      <description>…​ 0.05 ​ P ≤ 2.61M：0.13 ​ 2.61M &lt; P ≤ 4.63M：0.23 ​ doubao-seedream-5-0-pro ​ 按生图场景区分定价 ​ 首张免费 ​ 第 2 张起：0.02 ​ 单图生成场景： ​ P ≤ 2.61M：0.30 ​ P &gt; 2.61M：0.60 ​ 图层拆分场景： ​ P ≤ 2.61M：0.15 ​ P &gt; 2.61M：0.…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:5a3bf1dbeef1091c</guid>
-      <pubDate>Mon, 23 Nov 2026 18:06:12 +0800</pubDate>
-      <category>火山方舟·豆包</category>
     </item>
     <item>
       <title>《复仇者联盟 5》必过剧情：B站官宣 12 月 6 日播出漫威网剧《洛基第一季》</title>
@@ -566,14 +614,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:ea4c29b396ea2217</guid>
       <pubDate>Thu, 19 Nov 2026 17:43:34 +0800</pubDate>
       <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>Compare AI Models: Pricing, Context &amp; Benchmarks</title>
-      <link>https://openrouter.ai/models</link>
-      <description>…16, 2026 1M context $1.425 /M input tokens $4.275 /M output tokens Recraft: Recraft V4.1 Flash V2 (free) Recraft V4.1 Flash V2 (free) Free variant Going away November 28, 2026 934M tokens Recraft V4.1 Fl…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:1dc10bd1ef35e32f</guid>
-      <pubDate>Sat, 14 Nov 2026 01:27:10 +0800</pubDate>
-      <category>OpenRouter</category>
     </item>
     <item>
       <title>ChatGPT Plus for veterans and servicemembers</title>
@@ -765,46 +805,6 @@
       <description>…入围名单已于今年 10 月正式揭晓。 本届投稿作品达 6728 部，63 部作品成功突围 。本月早些时候（11 月 9 日）， 13 部荣誉作品揭晓 。 IT之家小伙伴记得用 最会买购买电影票 ，享受折扣价的同时还可以获得返利，预计每张票可以节省 5~15 元！ 延伸阅读 金鸡手机电影计划由中国金鸡百花电影节与华为手机于 2019 年共同设立，是国内手机电影的独立评选单元；2020 年起该计划逐年举办…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:7968367719982b66</guid>
       <pubDate>Thu, 12 Nov 2026 01:37:37 +0800</pubDate>
-      <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>吉利星愿上市两年，刷新全球最快百万销量速度纪录</title>
-      <link>https://www.leiphone.com/category/transportation/B2THcx5nSUHfjI4N.html</link>
-      <description>…全新版型的同时，吉利星愿还同步发布了“百万达成宠粉权益”：百万用户都可登录吉利银河App参与抽奖，涵盖爷爷不泡茶奶茶券、吉利星愿百万销量纪念徽章、吉利星愿车载生态精品、卡皮巴拉治愈IP周边及充电服务费折扣券等。满足个性化需求，关照日常用车点滴，已成为吉利星愿与用户长久相处的方式。 值得关注的是，围绕不断变化的审美喜好与出行场景，吉利星愿STAR限定系列将持续焕新，推出更多新版型与新体验，让每一种生活方…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:7de1be5c684e1856</guid>
-      <pubDate>Wed, 11 Nov 2026 01:24:30 +0800</pubDate>
-      <category>资讯·雷锋网</category>
-    </item>
-    <item>
-      <title>11月11日，全年最便宜的一天！iPhone18 Pro天猫降价2247元</title>
-      <link>https://www.leiphone.com/category/industrynews/mDFlNg5u779ud9rz.html</link>
-      <description>11月11日，全年最便宜的一天，iPhone 18 Pro 迎来降价。 记者在“天猫校园教育官方旗舰店”看到，iPhone 18 Pro 最高降价2247元，到手价仅需7752元！相当于打了7.8折，还支持12期分期免息，刷新上市以来的全网历史最低价。 经实测，上述优…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:d3f6bb3fd0a573e5</guid>
-      <pubDate>Wed, 11 Nov 2026 16:42:22 +0800</pubDate>
-      <category>资讯·雷锋网</category>
-    </item>
-    <item>
-      <title>个人灵光 2.0 实测：个人 AI 助理的机会和门槛｜AI 上新</title>
-      <link>http://www.geekpark.net/news/373249</link>
-      <description>…宝的反爬风控机制拦截在外。 米家也是类似的情况：扫码授权成功后，小米的接口连续两次触发限流，设备列表始终拉取失败。 灵光进不了淘宝的购物车，但千问却可以。 当我们把同一句指令「帮我看看淘宝购物车有什么降价幅度比较大的商品」发给千问时，两者的权限差距一目了然：千问不仅直接列出了购物车清单，甚至清楚地知道里面那把人体工学椅「已经加购快 300 天、看了几十次」。 与此同时，支付路径，阿里目前也没有向灵光…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:e3576583a2d513d3</guid>
-      <pubDate>Mon, 02 Nov 2026 00:32:03 +0800</pubDate>
-      <category>资讯·极客公园</category>
-    </item>
-    <item>
-      <title>千帆大模型平台</title>
-      <link>https://cloud.baidu.com/product/wenxinworkshop</link>
-      <description>…28b-a3b 上下文 32K,30K+8K 输入价格 ¥0.001/ 千tokens 输出价格 ¥0.01/ 千tokens 立即体验 探索更多大模型 独家优质Skill与精选MCP服务 百度搜索 免费试用 独家 Skill MCP 百度搜索（BaiduSearch）服务基于百度搜索能力与AI技术，专为生成式AI提供全网实时信息检索服务，具备海量内容站点、高权威性，强时效性，提供全新的搜索体验。 了…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:e8a5979a892b82c1</guid>
-      <pubDate>Thu, 08 Oct 2026 18:27:38 +0800</pubDate>
-      <category>百度文心</category>
-    </item>
-    <item>
-      <title>消息称 OpenAI 今年 Q3 营收首次达百亿美元，环比大增近 50%</title>
-      <link>https://www.ithome.com/1/025/560.htm</link>
-      <description>…化营收规模约为 500 亿美元 （现汇率约合 3,343.88 亿元人民币） 。 今年，OpenAI 在部分指标上曾落后于长期竞争对手 Anthropic，但随着新一代 AI 模型竞争力提升、产品大幅降价，以及业务重心进一步转向帮助客户自动完成工作的 AI 智能体，OpenAI 重新获得增长动力。Anthropic 营收增速开始有所放缓，OpenAI 的业务增长则显现提速迹象。 即将登陆美股的 Ant…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:14fb26816976f65d</guid>
-      <pubDate>Wed, 11 Nov 2026 16:42:22 +0800</pubDate>
       <category>资讯·IT之家</category>
     </item>
   </channel>
