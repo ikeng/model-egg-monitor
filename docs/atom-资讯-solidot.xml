@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://ikeng.github.io/model-egg-monitor/atom-资讯-solidot.xml</id>
   <title>赛博鸡蛋 · 资讯·Solidot</title>
-  <updated>2026-11-27T18:24:09+08:00</updated>
+  <updated>2026-11-28T17:40:59+08:00</updated>
   <subtitle>大模型厂商活动监控</subtitle>
   <link rel="self" href="https://ikeng.github.io/model-egg-monitor/atom-资讯-solidot.xml"/>
   <link rel="alternate" href="https://ikeng.github.io/model-egg-monitor/"/>
@@ -11,6 +11,25 @@
   <author>
     <name>ai-egg-monitor</name>
   </author>
+  <entry>
+    <id>tag:ai-egg-monitor,2026:activity:77b2ae8f7f924710</id>
+    <title>Kimi 向科学家提供最高 2 万美元 API 免费额度</title>
+    <updated>2026-11-28T17:40:28+08:00</updated>
+    <published>2026-11-28T17:40:28+08:00</published>
+    <link rel="alternate" href="https://www.solidot.org/story?sid=86015"/>
+    <author><name>资讯·Solidot</name></author>
+    <category term="资讯·Solidot"/>
+    <summary type="text">Kimi 大模型开发商月之暗面宣布了 Kimi for Science 项目，欢迎自然科学、工程学及相关交叉学科领域的研究人员加入。月之暗面表示，“科学始终源于人类的好奇心、严谨的探索精神，以及对未知世界的不懈追求。一个有价值的科学假设，往往需要经过大量的文献调研、数据分析和反复验证。而一次意料之外的发现，也可能成为下一项重大突破的起点。然而受限于时间、算力与人力资源，许多值得深入探索的想法，始终…</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;厂商&lt;/strong&gt;：资讯·Solidot&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;标题&lt;/strong&gt;：Kimi 向科学家提供最高 2 万美元 API 免费额度&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;福利摘要&lt;/strong&gt;：Kimi 大模型开发商月之暗面宣布了 Kimi for Science 项目，欢迎自然科学、工程学及相关交叉学科领域的研究人员加入。月之暗面表示，“科学始终源于人类的好奇心、严谨的探索精神，以及对未知世界的不懈追求。一个有价值的科学假设，往往需要经过大量的文献调研、数据分析和反复验证。而一次意料之外的发现，也可能成为下一项重大突破的起点。然而受限于时间、算力与人力资源，许多值得深入探索的想法，始终…&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;需登录&lt;/strong&gt;：否&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;来源类型&lt;/strong&gt;：rss&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;命中关键词&lt;/strong&gt;：免费额度&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首次发现&lt;/strong&gt;：2026-11-28T17:40:28+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后更新&lt;/strong&gt;：2026-11-28T17:40:28+08:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原始链接&lt;/strong&gt;：&lt;a href=&#34;https://www.solidot.org/story?sid=86015&#34;&gt;https://www.solidot.org/story?sid=86015&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <id>tag:ai-egg-monitor,2026:activity:57d9a48aad2d5a8b</id>
     <title>Kagi 推出邮件服务</title>

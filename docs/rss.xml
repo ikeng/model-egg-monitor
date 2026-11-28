@@ -5,7 +5,7 @@
     <link>https://ikeng.github.io/model-egg-monitor/</link>
     <description>每日两次监控大模型厂商活动，提供 Atom / JSON Feed 订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 27 Nov 2026 18:24:09 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 17:40:59 +0800</lastBuildDate>
     <generator>ai-egg-monitor</generator>
     <item>
       <title>大模型 API 价格方案</title>
@@ -66,7 +66,7 @@
     <item>
       <title>Compare AI Models: Pricing, Context &amp; Benchmarks</title>
       <link>https://openrouter.ai/models</link>
-      <description>…0 Embeddings 0 Rerank 0 Transcription 0 Audio 0 More Ant Digital: LingDT Decision Fast 1.0 (free) LingDT Decision Fast 1.0 (free) Free variant 34M tokens LingDT Decision Fast 1.0 is a Ling-based d…</description>
+      <description>…0 Embeddings 0 Rerank 0 Transcription 0 Audio 0 More Ant Digital: LingDT Decision Fast 1.0 (free) LingDT Decision Fast 1.0 (free) Free variant 59.6M tokens LingDT Decision Fast 1.0 is a Ling-based…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:1dc10bd1ef35e32f</guid>
       <pubDate>Sat, 14 Nov 2026 01:27:10 +0800</pubDate>
       <category>OpenRouter</category>
@@ -102,6 +102,14 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:2539a41342689930</guid>
       <pubDate>Fri, 20 Nov 2026 17:30:30 +0800</pubDate>
       <category>资讯·Simon Willison</category>
+    </item>
+    <item>
+      <title>魏建军称车企竞争激烈，董明珠：有些产业害虫该灭就灭；英伟达暂停向东南亚四国出货服务器；腾讯、小红书都在招人加码个人智能体</title>
+      <link>https://www.leiphone.com/category/zaobao/VrpGC0c4wtt3NcEi.html</link>
+      <description>…绿控工厂。在现场，两人见面后握手问好，魏建军还亲切称呼董明珠“大姐”。 在直播中，两人谈及新能源汽车竞争激烈。魏建军表示汽车本是家庭大件财产，但是如今贬值速度已到了离谱的程度，不少车企缺现金流，只能靠降价、压榨供应商硬撑，陷入恶性循环。 董明珠称汽车绝对不能是快消品，年轻人容易被舆论忽悠，作为制造者，必须清楚生命才是第一位，“有些产业害虫该灭就灭”。关于现在国内汽车竞争激烈的现状，董明珠直言有的是“瞎…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:3184b57e4341dd62</guid>
+      <pubDate>Fri, 27 Nov 2026 18:23:47 +0800</pubDate>
+      <category>资讯·雷锋网</category>
     </item>
     <item>
       <title>Different Types of API Keys and Rate Limits</title>
@@ -194,7 +202,7 @@
     <item>
       <title>Plans and Pricing | Devin</title>
       <link>https://windsurf.com/pricing</link>
-      <description>…the perfect plan for your journey SWE-2, our latest model, is now available → INDIVIDUAL PLANS Free $0 Download Light quota to code with agents Limited model availability Unlimited inline edits Unlim…</description>
+      <description>…Teams Access to Devin Bots Share and collaborate with multiplayer sessions 2 concurrent sessions in Free mode per user SAML/OIDC SSO Cost controls with 3 usage tiers Centralized billing Slack channel supp…</description>
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:747206776c9a56c4</guid>
       <pubDate>Thu, 08 Oct 2026 18:11:17 +0800</pubDate>
       <category>Windsurf</category>
@@ -344,6 +352,14 @@
       <category>MiniMax</category>
     </item>
     <item>
+      <title>智谱辟谣 GLM</title>
+      <link>http://www.geekpark.net/news/374546</link>
+      <description>…加快 25% 11 月 27 日消息，OpenAI 已紧急修复 GPT-6.2 上线初期的一项计费错误——此前该问题导致大多数用户使用 GPT-6.2 Astra 和 Sol 时，消耗的套餐额度按折扣价进行了计算。 OpenAI Codex 与 ChatGPT 负责人 Thibault Sottiaux（Tibo）表示，修复后，用户完成相同工作量时将消耗更多额度：与上周相比，Astra 用户触及使…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:f6d34beaec90b605</guid>
+      <pubDate>Fri, 27 Nov 2026 18:23:47 +0800</pubDate>
+      <category>资讯·极客公园</category>
+    </item>
+    <item>
       <title>Pricing</title>
       <link>https://replicate.com/pricing</link>
       <description>…are 50% until end of year Replicate glyph Explore Pricing Enterprise Docs Blog Sign in Try for free Menu Explore Pricing Enterprise Docs Blog Sign in Try for free Compare models in the Playground Pri…</description>
@@ -352,12 +368,20 @@
       <category>Replicate</category>
     </item>
     <item>
-      <title>魏建军称车企竞争激烈，董明珠：有些产业害虫该灭就灭；英伟达暂停向东南亚四国出货服务器；腾讯、小红书都在招人加码个人智能体</title>
-      <link>https://www.leiphone.com/category/zaobao/VrpGC0c4wtt3NcEi.html</link>
-      <description>…绿控工厂。在现场，两人见面后握手问好，魏建军还亲切称呼董明珠“大姐”。 在直播中，两人谈及新能源汽车竞争激烈。魏建军表示汽车本是家庭大件财产，但是如今贬值速度已到了离谱的程度，不少车企缺现金流，只能靠降价、压榨供应商硬撑，陷入恶性循环。 董明珠称汽车绝对不能是快消品，年轻人容易被舆论忽悠，作为制造者，必须清楚生命才是第一位，“有些产业害虫该灭就灭”。关于现在国内汽车竞争激烈的现状，董明珠直言有的是“瞎…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:3184b57e4341dd62</guid>
-      <pubDate>Fri, 27 Nov 2026 18:23:47 +0800</pubDate>
-      <category>资讯·雷锋网</category>
+      <title>1696 元：马歇尔 STANMORE III 蓝牙音箱京东亚马逊再降价</title>
+      <link>https://www.ithome.com/1/033/887.htm</link>
+      <description>亚马逊美国海外官方旗舰店今日继续黑五狂促，马歇尔 STANMORE III 蓝牙音箱目前直降至 1696 元。 京东 马歇尔 STANMORE III 无线蓝牙音响 券后 1695.86 元 领 100 元券 据介绍，这款蓝牙音箱号称拥有比上一代更宽广的声场，能够“传递出萦绕全场的 Marshall 标志性音效”。 配备具有向外倾斜的高音单元与新版导波管，同时搭载双向驱动单元系统，音箱内置的动态响…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:2b7b151d7558841a</guid>
+      <pubDate>Sat, 28 Nov 2026 17:40:28 +0800</pubDate>
+      <category>资讯·IT之家</category>
+    </item>
+    <item>
+      <title>Kimi 向科学家提供最高 2 万美元 API 免费额度</title>
+      <link>https://www.solidot.org/story?sid=86015</link>
+      <description>Kimi 大模型开发商月之暗面宣布了 Kimi for Science 项目，欢迎自然科学、工程学及相关交叉学科领域的研究人员加入。月之暗面表示，“科学始终源于人类的好奇心、严谨的探索精神，以及对未知世界的不懈追求。一个有价值的科学假设，往往需要经过大量的文献调研、数据分析和反复验证。而一次意料之外的发现，也可能成为下一项重大突破的起点。然而受限于时间、算力与人力资源，许多值得深入探索的想法，始终…</description>
+      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:77b2ae8f7f924710</guid>
+      <pubDate>Sat, 28 Nov 2026 17:40:28 +0800</pubDate>
+      <category>资讯·Solidot</category>
     </item>
     <item>
       <title>美团：预计到今年年底，妙手酒店版·既白将覆盖近40万商家</title>
@@ -382,14 +406,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:d6629d37786c9d9b</guid>
       <pubDate>Fri, 27 Nov 2026 18:23:47 +0800</pubDate>
       <category>资讯·IT之家</category>
-    </item>
-    <item>
-      <title>智谱辟谣 GLM</title>
-      <link>http://www.geekpark.net/news/374546</link>
-      <description>…加快 25% 11 月 27 日消息，OpenAI 已紧急修复 GPT-6.2 上线初期的一项计费错误——此前该问题导致大多数用户使用 GPT-6.2 Astra 和 Sol 时，消耗的套餐额度按折扣价进行了计算。 OpenAI Codex 与 ChatGPT 负责人 Thibault Sottiaux（Tibo）表示，修复后，用户完成相同工作量时将消耗更多额度：与上周相比，Astra 用户触及使…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:f6d34beaec90b605</guid>
-      <pubDate>Fri, 27 Nov 2026 18:23:47 +0800</pubDate>
-      <category>资讯·极客公园</category>
     </item>
     <item>
       <title>AI，没有抛弃小城商家</title>
@@ -790,22 +806,6 @@
       <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:5608c3065837ba74</guid>
       <pubDate>Wed, 11 Nov 2026 01:24:30 +0800</pubDate>
       <category>资讯·雷锋网</category>
-    </item>
-    <item>
-      <title>41年爱妻人设崩塌！黄仁勋一夜损失3万亿，或被英伟达免职；曝一汽大众取消两年「年终奖」，有人称合计约20万；豆包新图像模型价格下降</title>
-      <link>https://www.leiphone.com/category/zaobao/zcxkdPkvpprE36Zv.html</link>
-      <description>…OpenRouter数据仅统计经由该平台转发的API流量，厂商自有API、云服务、私有化部署以及面向C端的网页应用流量都没有纳入统计，不能等同于全球大模型整体市场份额。（快科技） WorkBuddy就折扣调整未及时公告致歉，将自动返还50%积分差额 11月8日晚，腾讯旗下AI工具WorkBuddy发布《关于DeepSeek-V4.1 Flash折扣活动的说明与补偿公告》，就优惠活动调整未及时公告向用户…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:75be1ac8bb2a1fc4</guid>
-      <pubDate>Tue, 10 Nov 2026 17:02:36 +0800</pubDate>
-      <category>资讯·雷锋网</category>
-    </item>
-    <item>
-      <title>2027 年第八届华为睿影 XMAGE 金鸡手机电影计划全球征片开启：设 7 项荣誉共 19 部荣誉作品</title>
-      <link>https://www.ithome.com/1/025/799.htm</link>
-      <description>…入围名单已于今年 10 月正式揭晓。 本届投稿作品达 6728 部，63 部作品成功突围 。本月早些时候（11 月 9 日）， 13 部荣誉作品揭晓 。 IT之家小伙伴记得用 最会买购买电影票 ，享受折扣价的同时还可以获得返利，预计每张票可以节省 5~15 元！ 延伸阅读 金鸡手机电影计划由中国金鸡百花电影节与华为手机于 2019 年共同设立，是国内手机电影的独立评选单元；2020 年起该计划逐年举办…</description>
-      <guid isPermaLink="false">tag:ai-egg-monitor,2026:activity:7968367719982b66</guid>
-      <pubDate>Thu, 12 Nov 2026 01:37:37 +0800</pubDate>
-      <category>资讯·IT之家</category>
     </item>
   </channel>
 </rss>
